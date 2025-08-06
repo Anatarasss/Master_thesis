@@ -1,0 +1,38 @@
+{
+  "title": "",
+  "published_date": null,
+  "url": "https://elaph.com/Web/NewsPapers/2024/09/1548678.html",
+  "original_language": "ar",
+  "cleaned_sentences": [
+    "> Three critical articles in three main Canadian newspapers have appeared in the past few days praising the movie \"Russia at War\", the movie that created a great confusion at the Toronto Festival, which ended six days ago.",
+    "* These monetary articles were one of the two main reasons that prompted the festival administration to display the film after it was withdrawn on the intervention of Prime Minister Cristia Frieland and the protests by the Ukrainian community and its sympathizers.",
+    "> The show was made after the festival ended and was attended by its general manager Cameron Bailey, who revealed that some protests contained death and rape threats if this film was shown at the festival.",
+    "> The show was held last Tuesday, that is, two days after the forty -ninth festival session ended on the fifteenth of this month.",
+    "And the viewers went out in agreement with the position of the festival against the government's opinion, with a complete understanding of the festival to withdraw the film from its shows that were programmed during the session.",
+    "> What happened confirms that Western festivals have become a siege from the owners of the campaigns with different directions.",
+    "Berlin, at the beginning of this year, was criticized by the government, as it allowed a number of winners of his awards to express his rejection of what is happening in Gaza.",
+    "> Venice witnessed a protest for the presentation of Israeli films, and before that to show Woody Allen, Roman Polanski and Luk Piso.",
+    "> The cinema is a Panorama revealing the individual and society, and in the world, and in order to play its full role in this regard, it must remain independent and free from the political system of it."
+  ],
+  "topics": {
+    "Conflict": 0.7926474213600159,
+    "Culture": 0.7579176425933838,
+    "Politics": 0.6586501002311707,
+    "Crime": 0.48563480377197266,
+    "Economy": 0.41688603162765503,
+    "Diplomacy": 0.4066205620765686,
+    "Energy": 0.37357068061828613,
+    "Environment": 0.358193039894104,
+    "Military": 0.3303448557853699,
+    "Transport": 0.32762932777404785,
+    "Technology": 0.320488840341568,
+    "Health": 0.26019051671028137,
+    "Education": 0.19369059801101685,
+    "Elections": 0.1295442432165146
+  },
+  "sentiment": {
+    "positive": 0.222,
+    "negative": 0.778,
+    "neutral": 0.0
+  }
+}

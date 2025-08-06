@@ -1,0 +1,38 @@
+{
+  "title": "Défense : l'Inde inaugure sa dernière frégate \"Made In Russia\"",
+  "published_date": null,
+  "url": "https://www.boursorama.com/actualite-economique/actualites/defense-l-inde-inaugure-sa-derniere-fregate-made-in-russia-280a9c142bc47e50a196c887b9a0c692",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "According to New Delhi, the \"Tashil\" is equipped with an \"impressive mixture of Russian and Indian advanced technologies\".",
+    "The \"tashil\" was inspected by the Indian authorities, in the port of Kaliningrad, before its commissioning (India's Minister of Defense / -) The Indian Minister of Defense attended on Monday, December 9, in the commissioning of the last warship in his country, in a Russian shipyard, welcoming an \"important stage\" in links with a long -standing ally in matters of defense.",
+    "The ceremony for commissioning the last stealth multi -stew frigate with guided missiles in the country, Ins Tashil, was held in the Russian port of Kaliningrad, on the Baltic Sea.",
+    "\"The ship is a proud testimony of the growing maritime power of India and an important milestone in longtime bilateral relations with Russia,\" said Indian Minister of Defense Rajnath Singh on X. Tashil (\"shield\") weighs 3,900 tonnes and transports \"an impressive mixture of Russian and Indian cutting -edge technologies,\" the Ministry of Defense had last week in New Delhi.",
+    "He also indicated that the ship would arrive in India in a \"state close to combat preparation\", all the Russian equipment on board having already been successfully tested.",
+    "Balancingist Since the beginning of the Ukrainian conflict in February 2022, India has avoided taking too openly, providing humanitarian support to kyiv, while avoiding explicitly condemning the offensive of Russia.",
+    "In October, at the BRICS summit in Kazan, Indian Prime Minister Narendra Modi reiterated his calls to a rapid cessation of the fighting during a meeting with President Vladimir Putin.",
+    "Mr. Putin praised what he called the \"privileged strategic partnership\" between Russia and India and is committed to strengthening links.",
+    "Narendra Modi went to kyiv in August and Moscow in July to encourage talks, India presenting himself as a potential mediator in the conflict."
+  ],
+  "topics": {
+    "Politics": 0.9661039113998413,
+    "Conflict": 0.9326386451721191,
+    "Diplomacy": 0.9172152876853943,
+    "Military": 0.8337467312812805,
+    "Technology": 0.659842312335968,
+    "Transport": 0.17798015475273132,
+    "Culture": 0.12549206614494324,
+    "Economy": 0.08442429453134537,
+    "Elections": 0.07177086919546127,
+    "Energy": 0.059637878090143204,
+    "Environment": 0.048252951353788376,
+    "Health": 0.04754410311579704,
+    "Crime": 0.0474729984998703,
+    "Education": 0.016903389245271683
+  },
+  "sentiment": {
+    "positive": 0.889,
+    "negative": 0.111,
+    "neutral": 0.0
+  }
+}

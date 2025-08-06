@@ -1,0 +1,47 @@
+{
+  "title": "Putin-Netzwerk sendet Propaganda aus Dubai",
+  "published_date": null,
+  "url": "https://www.merkur.de/politik/desinformation-im-ukraine-krieg-putin-netzwerk-sendet-propaganda-aus-dubai-zr-93706605.html",
+  "original_language": "de",
+  "cleaned_sentences": [
+    "Putin uses Dubai to spread pro-Russian 'disinformation' about the Ukraine conflict Despite the global bans, Russia Today continues the spread of false information.",
+    "Dubai - Since the beginning of the Ukraine War, the EU, the United States and Great Britain have banished the broadcaster Russia Today (RT) from its media landscapes.",
+    "In the EU, RT was officially classified as an element of the Russian \"hybrid warfare\" and banned by the governments.",
+    "In Great Britain, the supervisory authority withdrew the broadcasting license of the station by declaring the parent company as \"unsuitable\" for the British market.",
+    "Drastic measures were also taken in the United States: RT cable providers removed from their programs, social media blocked the broadcaster's accounts Ukraine war and media control: Putin's Russia today defies the prohibitions But as a current research by the Russian newspaper Novaya Gazeta Europe shows, Vladimir Putin and Kremlin have long been running from the background.",
+    "For this purpose, Russia cleverly uses Dubai as a new hub for his international propaganda.",
+    "Putin's disinformation war: Russia Today lives on in Dubai and sends Prorussiche propaganda in the Ukraine War According to the research, former Russia Today employees such as the British moderator Afshin Rattansi send Rattansi there again.",
+    "For example, via the Ghaf TV channel, which among other things revived his former RT show Going underground.",
+    "According to Novaya Gazeta Europe, the project is supported by previous RT colleagues and dubious flows from companies such as Sonorous Technologies, which are specifically placed on Western platforms such as Tiklok, YouTube and X (formerly Twitter) via the Emirate.",
+    "Ukraine War: Putin sends propaganda messages via ceasefire Instead of open victory rhetoric for Russia, another propaganda narrative is spread: the war must be \"ended immediately\".",
+    "In many clips on social media platforms, there is talk of an alleged wish for a \"ceasefire in Ukraine\".",
+    "Russia is increasingly moving its strategies of influence to digital space.",
+    "Moscow not only relies on classic media manipulation, but increasingly on new technologies.",
+    "Putin's propaganda: Russia mainly uses AI for disinformation campaigns A recent study by the US media analysis company Newsguard shows how far-reaching Russian disinformation campaigns have now entered the digital information rooms.",
+    "The focus is on a network called \"Pravda\", which consists of over 150 supposed news portals.",
+    "These websites are spreading specific narrative-often under the guise of independent reporting.",
+    "According to NewsGuard, this network increasingly succeeds in manipulating AI-based chatbots such as Chatgpt-4.0 or Microsoft Copilot.",
+    "In 33.5 percent of the cases tested, the systems took over false information from the \"Pravda\" network unchecked."
+  ],
+  "topics": {
+    "Technology": 0.8191953897476196,
+    "Conflict": 0.481848806142807,
+    "Politics": 0.1746964007616043,
+    "Culture": 0.1682073324918747,
+    "Military": 0.14536285400390625,
+    "Economy": 0.13323768973350525,
+    "Energy": 0.1164231225848198,
+    "Diplomacy": 0.0840970128774643,
+    "Transport": 0.07816343754529953,
+    "Health": 0.0752401128411293,
+    "Crime": 0.06674235314130783,
+    "Elections": 0.0491621308028698,
+    "Environment": 0.04901435226202011,
+    "Education": 0.03230796381831169
+  },
+  "sentiment": {
+    "positive": 0.222,
+    "negative": 0.778,
+    "neutral": 0.0
+  }
+}

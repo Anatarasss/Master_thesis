@@ -1,0 +1,44 @@
+{
+  "title": "\"Serve unità e sanzioni più dure per fermare la Russia\"",
+  "published_date": null,
+  "url": "https://www.tio.ch/dal-mondo/cronaca/1838416/serve-unita-e-sanzioni-piu-dure-per-fermare-la-russia",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Zelensky discusses with western leaders in a summit in Tirana the need to maintain unity and pressure on Moscow for real peace.",
+    "TIRANA - The Ukrainian President Volodymyr Zelensky had a telephone interview with the US president Donald Trump together with the head of the Elysée Emmanuel Macron, the German Chancellor Friedrich Merz, the British Prime Minister Keir Starmer and the Polish Premier Donald Tusk.",
+    "«We discussed the meeting of Istanbul.",
+    "Ukraine is ready to take the fastest possible steps to achieve true peace, and it is important that the world maintains a strong position, \"said Zelensky.",
+    "«Our position: if the Russians refuse a complete and unconditional fire and the end of the killings, they must follow severe penalties.",
+    "The pressure on Russia must be maintained until Russia is ready to end the war.",
+    "Thanks to all those who are helping in the world, \"he added.",
+    "\"Moscow is not constructive\" «The Russian part has not shown goodwill and has placed unacceptable conditions.",
+    "We will continue to work together.",
+    "The main task is to maintain the unity of European and American partners around the Ukrainian question ».",
+    "Instead, he said the Polish Premier Donald Tusk in a joint statement with Emmanuel Macron, Keir Starmer, Friedrich Merz and Volodymyr Zelensky after connection with Donald Trump.",
+    "\"The Russian position - he added - cannot be defined in any constructive way\".",
+    "\"The Ukrainian people and so many people in the world have paid a price for the aggression of (Vladimir) Putin to Ukraine, now he must be to pay the price of the refusal of peace,\" says British premier Keir Starmer on his X profile on the sidelines of today's meeting in Tirana with Zelensky, Macron, Merz and Tusk.",
+    "\"I do not accept that Russia postponed the ceased to the Greek calends,\" adds Starmer.",
+    "\"The United Kingdom is alongside Ukraine, always,\" he concludes by addressing Zelensky."
+  ],
+  "topics": {
+    "Conflict": 0.9299424290657043,
+    "Politics": 0.9286026358604431,
+    "Diplomacy": 0.8269611597061157,
+    "Culture": 0.6787459850311279,
+    "Military": 0.5296356678009033,
+    "Economy": 0.45772916078567505,
+    "Transport": 0.42858198285102844,
+    "Health": 0.40439873933792114,
+    "Technology": 0.3560842275619507,
+    "Environment": 0.3433314859867096,
+    "Elections": 0.33245667815208435,
+    "Energy": 0.320523738861084,
+    "Education": 0.283285915851593,
+    "Crime": 0.2695252299308777
+  },
+  "sentiment": {
+    "positive": 0.467,
+    "negative": 0.533,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "La Russia rifiuta ultimatum sul cessate il fuoco in Ucraina",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1836971/russia-peskov-cessate-fuoco-ultimatum-ucraina",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Peskov reiterates the commitment to a peaceful solution and direct negotiations with Kiev Russia rejects every \"ultimatum\" on a ceasefire in Ukraine.",
+    "This was stated by the spokesman for the Kremlin Dmitry Peskov quoted by the Ria Novosti agency.",
+    "\"The language of the ultimatums is not acceptable for Russia, it is not appropriate, we cannot speak to Russia in this way,\" said Peskov, referring to the declarations of the leaders of the willing countries who on Saturday from Kiev have threatened new heavy penalties against Moscow if the 30 -day fire will not accept a fire.",
+    "The spokesman for the Kremlin, Dmitry Peskov, reiterated today the words of President Vladimir Putin when he presented the proposal of direct negotiations between Moscow and Kiev, according to which Russia aims to achieve \"a long -term peaceful solution\".",
+    "\"In general, we are engaged in serious ways of the ways to reach a long -term peaceful solution,\" said the spokesperson, mentioned by the Ria Novosti agency.",
+    "The proposal of the Russian president Vladimir Putin for direct Russian-Ukrainian negotiations has \"the support of the leaders of many countries\" including those of Brics, which includes China, said Peskov.",
+    "The spokesman, mentioned by the Ria Novosti agency, underlined that the US president Donald Trump also asked Ukraine to participate in direct interviews without conditions as proposed by Moscow."
+  ],
+  "topics": {
+    "Conflict": 0.8872430920600891,
+    "Politics": 0.8403388857841492,
+    "Diplomacy": 0.8291546702384949,
+    "Culture": 0.7373529076576233,
+    "Technology": 0.4954928457736969,
+    "Economy": 0.4736577570438385,
+    "Military": 0.4731707274913788,
+    "Transport": 0.38652127981185913,
+    "Health": 0.31881844997406006,
+    "Energy": 0.3095087707042694,
+    "Environment": 0.2507215142250061,
+    "Crime": 0.21859171986579895,
+    "Education": 0.2135634422302246,
+    "Elections": 0.1491868793964386
+  },
+  "sentiment": {
+    "positive": 0.571,
+    "negative": 0.429,
+    "neutral": 0.0
+  }
+}

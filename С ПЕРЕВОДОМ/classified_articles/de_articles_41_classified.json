@@ -1,0 +1,53 @@
+{
+  "title": "Diese Russin ist Putins wichtige Helferin: „Goebbels im Rock“",
+  "published_date": null,
+  "url": "https://www.derwesten.de/politik/wadimir-putin-russland-news-ukraine-russia-today-id300697920.html",
+  "original_language": "de",
+  "cleaned_sentences": [
+    "Russia's President Vladimir Putin enjoys great power in his country.",
+    "But that is no coincidence.",
+    "His henchmen help him stay in power.",
+    "One of them is Margarita Simonjan.",
+    "She is the head of \"Russia Today\" and helps Putin to diligently spread his fairy tales in her broadcaster.",
+    "Putin's helper: \"Goebbels in skirt\" There are many helpers behind the mighty Kremlin ruler.",
+    "Margarita Simonjan is one of them.",
+    "With her television station \"Russia Today\" (RT), she hurls Putin's propaganda into the outside world.",
+    "Since her reports on the Chechen War at the end of the nineties, she has become an integral part of Russia's TV landscape.",
+    "In 2005 she became editor-in-chief of the Russian President of the Russian broadcaster.",
+    "++ Also interesting: Putin: Heart attack by Russian President?",
+    "Now even the Kremlin has to intervene ++ In contrast to her male colleagues, the journalist is calm on television as calm and entangled arms in the talk shows.",
+    "But there are dark intentions behind the stitch.",
+    "\"It always looks very human, although she says abysmal, terrible things,\" said journalist Michael Thumann in the \"Terra X\" documentary \"Putin's helper-accomplices of the Kremlin\".",
+    "In some programs and conferences \"Nazis\" or \"human -eater\" she called the people in Ukraine.",
+    "At an honor, she thanked Putin that he \"kills the cannibals\" in Ukraine.",
+    "Dangerous propaganda channels Simonjan's broadcaster \"Russia Today\" describes itself as a \"alternative perspective on important global events\".",
+    "But there is a perfidious Kremlin propaganda: Again and again Putin's reports or reports are fake to mislead the Russian population.",
+    "The broadcaster also wants to get an effect abroad.",
+    "In 2022, 19 percent of the thesis in Germany alone agreed that NATO had provoked the Kremlin so long that Russia had to move into the Ukraine war.",
+    "More news: As part of the sanctions against Russia, the EU banned the Russian broadcaster.",
+    "Cable and satellite operators are no longer allowed to radiate RT programs in the EU, internet providers must block access to the website.",
+    "The German branch \"RT German\" should also be shut down.",
+    "But Simonjan always found digital loopholes to successfully bring pro-Russian content to the European audience."
+  ],
+  "topics": {
+    "Politics": 0.6960389018058777,
+    "Culture": 0.6547972559928894,
+    "Health": 0.6440843343734741,
+    "Conflict": 0.608758270740509,
+    "Technology": 0.4808797240257263,
+    "Military": 0.46382492780685425,
+    "Economy": 0.45458588004112244,
+    "Elections": 0.4147169291973114,
+    "Energy": 0.4122561812400818,
+    "Transport": 0.4082651734352112,
+    "Diplomacy": 0.3632204532623291,
+    "Crime": 0.36134299635887146,
+    "Environment": 0.2990555167198181,
+    "Education": 0.2902529239654541
+  },
+  "sentiment": {
+    "positive": 0.583,
+    "negative": 0.417,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "La Russia sta ritardando il memorandum sulla fine della guerra? Il Cremlino nega",
+  "published_date": null,
+  "url": "https://www.tio.ch/dal-mondo/attualita/1839590/ucraina-soluzione-russia-guerra-memorandum-cremlino",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Moscow \"welcomes the availability and efforts of all those countries that wish to contribute to a rapid solution\" of the conflict Moscow - The spokesman for the Kremlin Dmitry Peskov said that Russia is not delaying the process for the preparation of a memorandum with Ukraine for the solution of the conflict in Ukraine.",
+    "\"Nobody is interested in delaying the process, everyone is working dynamically, we will keep you informed,\" he told journalists.",
+    "\"Of course, much of this work is done in a discreet way and should not be made public,\" added Peskov.",
+    "According to the latter, Russia has not yet received any proposal from the Vatican for a possible mediation on the conflict in Ukraine, but \"welcomes the availability and efforts of all those countries that wish to contribute to a rapid solution\".",
+    "\"So far no decision has been made on the headquarters of further negotiations,\" added the spokesperson, cited by the Interfax agency.",
+    "Meanwhile, reports the \"New York Times\", the American president Donald Trump would have told Ukrainian President Volodymyr Zelensky and other European leaders that Russia and Ukraine will have to find a solution to war, only a few days after supporting that only he and Russian president Vladimir Putin had the power to arrive at an agreement.",
+    "Trump, therefore, would have already decided.",
+    "The American leader, writes the newspaper that cites six officials aware of the talks, spoke with Zelensky and the other leaders after his telephone conversation had with Putin on Monday.",
+    "\"The deepest question - comments the\" New York Times \" - is whether (the president) is also abandoning the project that America has been carrying out for three years to support Ukraine, a nascent democracy that he himself has often accused for being illegally invaded\"."
+  ],
+  "topics": {
+    "Conflict": 0.9867936372756958,
+    "Politics": 0.9256638288497925,
+    "Diplomacy": 0.7697799801826477,
+    "Culture": 0.7661452293395996,
+    "Military": 0.5804725289344788,
+    "Economy": 0.5504069924354553,
+    "Technology": 0.4317184388637543,
+    "Health": 0.3905510902404785,
+    "Crime": 0.3500092327594757,
+    "Elections": 0.31993791460990906,
+    "Energy": 0.3171483278274536,
+    "Transport": 0.3014603853225708,
+    "Education": 0.2626856565475464,
+    "Environment": 0.23319442570209503
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

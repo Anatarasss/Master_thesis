@@ -1,0 +1,53 @@
+{
+  "title": "Tensioni crescenti tra Russia e Ucraina in vista dei negoziati a Istanbul",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1837518/cremlino-presidente-negoziati-putin-russia-russi-ucraina-istanbul-zelensky",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Zelensky ready to meet Putin while the West urges caution.",
+    "Optimistic Trump on the results An escalation of crossed verbal attacks that does not seem the most suitable to encourage dialogue accompanies the approach to the first direct negotiations between Russia and Ukrainian on Thursday in Istanbul.",
+    "And while the Ukrainian President Volodymyr Zelensky says he is ready to do \"everything\" to meet face to face Russian President Vladimir Putin, from Moscow they make it known that a decision has not yet been taken, even if in Russian environments it is considered unlikely that the leader of the Kremlin will go to Türkiye.",
+    "The US president Donald Trump, however, says to expect \"good results\", and aside Ukrainian and European there is no longer talking about prolonged fire as a condition to start negotiations.",
+    "\"The West does not let himself be dragged into an infinite war in Europe\", was the exhortation of the US president.",
+    "The interviews in Türkiye will be present the secretary of state Marco Rubio, Trump said, without hypothesizing his personal participation, as he had done the day before.",
+    "After on Monday the Kremlin said that \"the language of the ultimatums is not acceptable for Russia\", the German chancellor Friedrich Merz has returned to say that Europe is ready to exacerbate sanctions if Moscow did not take a step towards peace by this week.",
+    "With Zelensky who invoked \"the strongest penalties\" ever adopted by the West, stating that an absence of Putin in Türkiye would be \"a clear signal\" that Russia \"does not want to stop and will not stop war\".",
+    "Keystone Volodymyr Zelensky Putin replied that those who plan new penalties do \"to them to the detriment\" because they are \"moron\".",
+    "\"So - added the head of the Kremlin - obviously we must keep it in mind, that they could do what they speak publicly, and of course, we must minimize the negative effects on us\".",
+    "Russian observers and analysts seem almost agreed in the forecast that the head of the Kremlin will be absent in Istanbul.",
+    "Russia, said the spokesman Dmitry Peskov, continues to \"prepare\" for the appointment, but will announce who will be part of his delegation when the president will decide, who had proposed the direct negotiations on Sunday indicating date and place.",
+    "According to some media, the most papabile to lead Russian negotiators would be Foreign Minister Serghei Lavrov and the presidential councilor Yuri Ushakov.",
+    "Kaja Kallas, a high representative for the EU's foreign policy, said she believed that the Russian president \"will not dare\" to meet the Ukrainian one.",
+    "But the Kremlin flags indifference to what Europe thinks, which accuses of being \"entirely on the side of Ukraine\" and of aiming only to \"continue the war\", in \"clear contrast with what is shown, for example, in Moscow or Washington\".",
+    "Not in place, therefore, to exercise any mediation work.",
+    "As for the content of the negotiations, the Russian deputy Foreign Minister Serghei Ryabkov reiterated one of the most expensive themes in Moscow.",
+    "That is' \"The entry into the Russian Federation\" of the \"new territories\".",
+    "That is to say of the Ukrainian regions that are currently partially occupied by Russian forces.",
+    "For Ryabkov it is a question of \"guaranteeing the recognition of the realities that have been created in recent times\".",
+    "The special American correspondent Steve Witkoff, who in recent months has had four long meetings with Putin at the Kremlin, said for his part that the thorniest point is precisely that of the territories, together with the management of the atomic center of Zaporizhzia - currently under Russian control - and Ukrainian access to the Dnipro and Black Sea river.",
+    "\"We are having talks informally with both parties,\" An interview with Breitbart News.",
+    "The US correspondent reported that he had \"spoken with all the national security councilors involved in this, from Great Britain, from France, from Germany, from Italy\".",
+    "\"I think we did a lot to fill the distances,\" he assured, but \"the solutions work when there are direct interviews\" and therefore now we have to \"sit Ukrainian and Russian at the same table\"."
+  ],
+  "topics": {
+    "Environment": 0.9402334690093994,
+    "Politics": 0.919542670249939,
+    "Conflict": 0.9122692346572876,
+    "Health": 0.8708092570304871,
+    "Diplomacy": 0.8567933440208435,
+    "Technology": 0.8469329476356506,
+    "Culture": 0.8392381072044373,
+    "Economy": 0.8092244267463684,
+    "Transport": 0.7953675985336304,
+    "Education": 0.7192903757095337,
+    "Elections": 0.7187963724136353,
+    "Energy": 0.6375072002410889,
+    "Military": 0.4625857174396515,
+    "Crime": 0.4213196635246277
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

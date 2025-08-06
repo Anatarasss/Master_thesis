@@ -1,0 +1,35 @@
+{
+  "title": "Erdogan pronto a ospitare nuovi negoziati di pace tra Russia e Ucraina",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1836698/negoziati-presidente-istanbul-erdogan-pace-ucraina-russia",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The Turkish President offers Istanbul as a venue to resume the interrupted interviews in 2022 Turkish President Recep Tayyip Erdogan had a telephone interview with Russian President Vladimir Putin by saying ready to host peace negotiations in Ukraine.",
+    "According to a declaration of the Turkish presidency, Erdogan told Putin that \"the peace interviews between Russia and Ukraine will continue in Istanbul from where they interrupted (in 2022, editor's note) and that Turkey is ready to host negotiations that would lead to a permanent solution\" to the conflict.",
+    "In a night declaration to the journalists taken by Ria Novosti, Vladimir Putin had announced that he would ask the Turkish President Recep Tayyip Erdogan to organize on May 15th to Istanbul direct negotiations between Moscow and Kiev, not excluding that this can bring the extended fire to a cease.",
+    "Thanking the American administration of Donald Trump for the mediation efforts, the Russian president accused Kiev of having rejected various proposals of ceased the fire, including the last of three days, expired last midnight.",
+    "\"Despite everything - added Putin - we propose to the Kiev authorities to resume the negotiations that they interrupted in 2022, resume direct negotiations, and without pre -contracts.",
+    "We propose to start without delay next Thursday, May 15, in Istanbul, where they were previously kept and where they had been interrupted\"."
+  ],
+  "topics": {
+    "Conflict": 0.9793023467063904,
+    "Politics": 0.9157276749610901,
+    "Diplomacy": 0.8863730430603027,
+    "Culture": 0.6538939476013184,
+    "Economy": 0.5300931930541992,
+    "Technology": 0.4861655831336975,
+    "Military": 0.4541707932949066,
+    "Health": 0.38764122128486633,
+    "Transport": 0.3358024060726166,
+    "Environment": 0.2814347445964813,
+    "Energy": 0.2697300910949707,
+    "Crime": 0.23829984664916992,
+    "Education": 0.18569819629192352,
+    "Elections": 0.10642572492361069
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

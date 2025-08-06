@@ -1,0 +1,40 @@
+{
+  "title": "\"Putin vuole prendere tempo per continuare la guerra\"",
+  "published_date": null,
+  "url": "https://www.tio.ch/dal-mondo/cronaca/1839229/zelensky-ucraina-presidente-guerra-russia",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Zelensky reiterates the need for more incisive penalties against Russia and underlines the importance of concrete diplomacy to end the war.",
+    "KIEV - \"It is obvious that Russia is trying to take time to continue the war and employment.",
+    "We are working with our partners to put pressure on the Russians so that they behave differently.",
+    "The penalties are important and I am grateful to anyone who makes them more tangible for the managers of the war\": the Ukrainian president Volodymy Zelensky writes it on Telegram in the aftermath of the Vladimir Putin and American Donald Trump.",
+    "Zelensky reports that he has spoken to the Finn President Alexander Stubb, with whom he also \"discussed the details of yesterday's conversation with the President of the United States Donald Trump\".",
+    "\"The important thing is that the diplomacy for peace is coordinated and oriented towards concrete results,\" underlined the Ukrainian leader.",
+    "\"We have no doubts that the war should end at the negotiation table.",
+    "There should be clear and realistic proposals on the table.",
+    "Ukraine is ready for any productive negotiation format.",
+    "And if Russia continues to propose unrealistic conditions and to compromise the possible results, the consequences will certainly be hard - he concluded -.",
+    "Today there are also talks with our other partners\"."
+  ],
+  "topics": {
+    "Diplomacy": 0.9651883840560913,
+    "Conflict": 0.8939422369003296,
+    "Politics": 0.8491420149803162,
+    "Culture": 0.7181488871574402,
+    "Economy": 0.4974956214427948,
+    "Technology": 0.4608418941497803,
+    "Military": 0.437485009431839,
+    "Environment": 0.42284882068634033,
+    "Health": 0.3656119406223297,
+    "Energy": 0.3614584803581238,
+    "Transport": 0.323811411857605,
+    "Crime": 0.28703105449676514,
+    "Education": 0.2419971525669098,
+    "Elections": 0.24089227616786957
+  },
+  "sentiment": {
+    "positive": 0.727,
+    "negative": 0.273,
+    "neutral": 0.0
+  }
+}

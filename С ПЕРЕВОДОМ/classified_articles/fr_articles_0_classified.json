@@ -1,0 +1,38 @@
+{
+  "title": "Andrea Orcel dit que la percée ukrainienne pourrait débloquer la vente de l'unité russe d'Unicredit - FT",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/action/UNICREDIT-S-P-A-33364083/actualite/Andrea-Orcel-dit-que-la-percee-ukrainienne-pourrait-debloquer-la-vente-de-l-unite-russe-d-Unicred-49107173/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Mr. Andrea Orcel is Chief Executive Officer of UBS AG (London branch) and UBS Ltd. and president of the UBS Group AG investment bank.",
+    "He is a member of the board of directors of UBS Ltd. and UBS America Holding LLC.",
+    "He became a member of the Management Board of the UBS Group in July 2012 and was co-PDG of Investment Bank from July to November 2012.",
+    "In January 2016, he was appointed senior Outside of Australia for UBS Australia Branch, and since December 2014, he also occupies the post of Chief Executive for UBS Limited and UBS AG London Branch.",
+    "He joined UBS after having worked for Bank of America Merrill Lynch, where he had been executive president of the investment bank since 2009, president of the emerging markets (outside Asia) since 2010 and CEO of European card services since 2011.",
+    "Before the acquisition of Merrill Lynch by Bank of America, Mr. Ocel was a member of the World Management Committee of Merrill Lynch and manager of Global Origintion, Market capital.",
+    "He held several other management positions, notably that of President of Global Markets & Investment Banking for Europe, the Middle East and Africa (EMEA) and head of Emea Origintion from 2004.",
+    "Between 2003 and 2007, he directed the Global Financial Institutions Group, which he had been since his entry to Merrill Lynch in 1992.",
+    "Mr. ORCEL holds an MBA of INSEAD and a license in economics and trade, with very well mention, from the University of Rome."
+  ],
+  "topics": {
+    "Economy": 0.5873111486434937,
+    "Conflict": 0.5832506418228149,
+    "Culture": 0.5561835169792175,
+    "Politics": 0.44512277841567993,
+    "Education": 0.37395575642585754,
+    "Technology": 0.21361228823661804,
+    "Diplomacy": 0.18317048251628876,
+    "Environment": 0.17618432641029358,
+    "Elections": 0.1174461767077446,
+    "Energy": 0.11710400879383087,
+    "Transport": 0.10667696595191956,
+    "Health": 0.06136050820350647,
+    "Crime": 0.059661947190761566,
+    "Military": 0.022095516324043274
+  },
+  "sentiment": {
+    "positive": 1.0,
+    "negative": 0.0,
+    "neutral": 0.0
+  }
+}

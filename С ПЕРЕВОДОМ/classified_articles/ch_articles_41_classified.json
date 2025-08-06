@@ -1,0 +1,51 @@
+{
+  "title": "Meloni sollecita una risposta chiara dalla Russia per il cessate il fuoco in Ucraina",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1837088/meloni-ucraina-sostegno-premier-zelensky-kiev-pace-russia-risposta-fuoco",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The Italian premier reiterates support for Kiev and invites Moscow to respond to Zelensky's peace proposal On the one hand there is the Russian \"propaganda\", on the other the will of Kiev to close the conflict.",
+    "The Italian premier Giorgia Meloni proposes a clear distinction between the two parts, a \"manager of the war\" and the other \"certainly in favor of peace\", as \"demonstrates\" the fact that Volodymir Zelensky is ready to meet in Istanbul Vladimir Putin.",
+    "A scenario in front of which the premier solicits \"a clear answer\" of Moscow to the proposal of ceased the fire, and guarantees support for Ukraine \"until the end\".",
+    "On the moves of the Russian president, however, there is skepticism, in Rome as in the capital of the Weimar+ format that met in London at the level of foreign ministers.",
+    "The widespread opinion, in the meeting attended by Antonio Tajani and the approval of GB, Germany, France, Poland, Spain and the EU, is that the opening of Putin to negotiations directed with Zelensky is a tactical move in the face of the greatest attention shown by Washington on the points of view of the European allies and Zelensky.",
+    "In this perspective, Meloni urged Russia to \"a clear response\", taking advantage of the statements to the press at the end of the Italy-Greek intergovernmental summit, together with Kyriakos Mitsotakis.",
+    "An appointment in which Memorandum and declarations were signed, 14 in all: from the railway networks (760 million investments on the Greek network with the agreement between FS and the Government of Athens) to the electrical interconnections (Terna will create a new interconnection with the Greek, an agreement of about 2 billion), from the fight against drugs to the Civil Protection.",
+    "Among the ads of the speaker and the handshakes, the ceremony lasted about ten minutes, at the end of which the Italian premier, between a grimace of impatience and a smile, has expanded his arms, as if to say \"now enough\".",
+    "Then he took the floor to indicate the various themes shared between the governments of \"two nations without which the very idea of ​​the West that we know would not exist\".",
+    "Starting from support for Ukraine.",
+    "In the same hours, French president Emmanuel Macron announced new interviews \"with Zelensky and my European colleagues\".",
+    "It is not clear whether it was a call or just a series of two calls.",
+    "However, none of this should have entered the Meloni agenda, which on Saturday on the occasion of the application of the willing to Kiev only participated in video call.",
+    "On the negotiations between Ukraine and Russia \"Europe must speak with one voice\", it is the line expressed by Tajani, who after London flew to Verona for the fourth preparatory event of the Conference on the reconstruction of Ukraine, scheduled in Rome on 10-11 July.",
+    "In the government they hope that in the coming weeks the conditions to speak concretely of peace on that occasion are created.",
+    "\"Italy - added Meloni - reiterates the support for efforts for a just and lasting peace, which cannot be separated from effective security guarantees for Kiev\".",
+    "A goal that still does not appear at hand.",
+    "To put it with the Foreign Minister, \"all responsibility today is in the hands of Putin\".",
+    "The Ukrainian crisis could also end up at the center of the first meeting between Meloni and the new German chancellor Friedrich Merz, among the leaders expected on the weekend in Rome for the pope's intonation.",
+    "Gaza should instead be at the center of some of the questions of the oppositions to which the Prime Minister will have to respond on Wednesday to the Chamber for the Premier Question Time (rearmament, health and referendum among other expected themes).",
+    "Meanwhile, after the summit with Greece at Villa Pamphilj, Meloni reiterated the support for the mediation of the Arab countries and defining \"Trump's mission in the region very important.",
+    "I think that a decisive impulse can arrive from the United States\"."
+  ],
+  "topics": {
+    "Conflict": 0.9530476331710815,
+    "Politics": 0.8841416239738464,
+    "Diplomacy": 0.8237914443016052,
+    "Health": 0.6493630409240723,
+    "Technology": 0.6276794075965881,
+    "Transport": 0.6273877620697021,
+    "Military": 0.5928657054901123,
+    "Economy": 0.5729884505271912,
+    "Energy": 0.44434043765068054,
+    "Culture": 0.3690026104450226,
+    "Environment": 0.35968729853630066,
+    "Education": 0.3122910261154175,
+    "Elections": 0.2988635301589966,
+    "Crime": 0.25260141491889954
+  },
+  "sentiment": {
+    "positive": 0.727,
+    "negative": 0.273,
+    "neutral": 0.0
+  }
+}

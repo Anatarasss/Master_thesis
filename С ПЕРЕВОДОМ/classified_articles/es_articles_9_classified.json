@@ -1,0 +1,42 @@
+{
+  "title": "La Unión Europea suspende las emisiones de Sputnik y Russia Today por ser \"instrumentos de desinformación\"",
+  "published_date": null,
+  "url": "https://www.abc.es/play/television/noticias/abci-union-europea-suspende-emisiones-sputnik-y-russia-today-instrumentos-desinformacion-202203021440_noticia.html",
+  "original_language": "es",
+  "cleaned_sentences": [
+    "Operators suspend the issuance of Russia Today and Sputnik by order of the European Union Brussels considers the Russian agency and the television channel \"misinformation instruments.\"",
+    "The high representative for foreign policy, Josep Borrell, has affirmed that it is \"an important step against the Putin manipulation operation\" The Cathedral of Santa Sofía, the kyiv pearl that is in danger of Russia's bombings Follow the last hour of the war in Ukraine live The countries of the European Union have approved on Wednesday the suspension of broadcasts in Europe of the Russian agency Sputnik and the Russia Today television channel, claiming that they are instruments of misinformation of the Russian president, Vladimir Putin, in full Russian invasion of Ukraine.",
+    "\"We take an important step against the Putin manipulation operation and closed the tap to the media in the EU controlled by the Russian State,\" argued the high representative for foreign policy, Josep Borrell, who considers a \"logical\" movement that the EU cuts her activity after the director of RT, Margarita Simonyan The unprecedented measure will affect the activities in Europe of Sputnik and RT, including its subsidiaries in English, German and Spanish until the Russian aggression against Ukraine ceases, the EU council has reported.",
+    "In full context of war, the twenty -seven consider that these media are instruments that Kremlin uses to collect social support to their military aggression against Ukraine and are also used to destabilize neighboring countries.",
+    "«The systematic manipulation of information by the Kremlin is applied as another instrument in the assault to Ukraine.",
+    "It is a direct threat to public order and the security of the Union, ”said Borrell, emphasizing that these means are under\" permanent direct or indirect control of the Russian authorities. \"",
+    "As Brussels has completed, the restrictions on Sputnik and RT are already in force and affect all means of transmission and distribution, this is so much cable television, satellite and television online and social networks, websites and applications.",
+    "«All licenses, authorizations and distribution agreements are suspended.",
+    "These measures cover all EU members and are immediately applied, ”said the community executive, who has asked for collaboration with European audiovisual regulators to implement these measures\" necessary and consistent with fundamental freedoms and rights. \"",
+    "According to community sources, it is now the economic operators that will take \"the necessary measures\" to guarantee in practical terms the cessation of the activity.",
+    "To guarantee the application of the measure there were conversations last weekend between the vice president of Securities, Vera Jourova, and large platforms such as YouTube, the sources consulted have reported.",
+    "The meeting put on the table the background problem of misinformation and future actions to tackle this trend in the war context.",
+    "Related news This functionality is only for subscribers Subscribe"
+  ],
+  "topics": {
+    "Conflict": 0.9425382614135742,
+    "Economy": 0.9323674440383911,
+    "Military": 0.8520971536636353,
+    "Technology": 0.8034515976905823,
+    "Politics": 0.7824918627738953,
+    "Culture": 0.7677235007286072,
+    "Diplomacy": 0.6367436647415161,
+    "Health": 0.6194811463356018,
+    "Environment": 0.5696830153465271,
+    "Energy": 0.5652399063110352,
+    "Transport": 0.5497441291809082,
+    "Education": 0.4832306504249573,
+    "Crime": 0.4515502452850342,
+    "Elections": 0.2835243344306946
+  },
+  "sentiment": {
+    "positive": 0.154,
+    "negative": 0.846,
+    "neutral": 0.0
+  }
+}

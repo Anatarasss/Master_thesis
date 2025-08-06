@@ -1,0 +1,52 @@
+{
+  "title": "Las operadoras, a la espera de que el Gobierno ordene cortar la señal de Russia Today",
+  "published_date": null,
+  "url": "https://www.abc.es/play/television/noticias/abci-operadoras-espera-gobierno-orden-cortar-senal-russia-today-202203012056_noticia.html",
+  "original_language": "es",
+  "cleaned_sentences": [
+    "Operators suspend the issuance of Russia Today and Sputnik by order of the European Union Brussels considers the Russian agency and the television channel \"misinformation instruments.\"",
+    "The high representative for foreign policy, Josep Borrell, has affirmed that it is \"an important step against the Putin manipulation operation\" The European Union suspends Sputnik and Russia Today's emissions for being \"disinformation instruments\" The countries of the European Union have approved on Wednesday the suspension of broadcasts in Europe of the Russian agency Sputnik and the Russia Today television channel claiming that they are disinformation instruments of the Russian president, Vladimir Putin, in full Russian invasion of Ukraine.",
+    "\"We take an important step against the Putin manipulation operation and closed the tap to the media in the EU controlled by the Russian State,\" argued the high representative for foreign policy, Josep Borrell, who considers a \"logical\" movement that the EU cuts his activity after the director of RT, Margarita Simonyan, already sanctioned.",
+    "The unprecedented measure will affect the activities in Europe of Sputnik and RT, including its subsidiaries in English, German and Spanish until the Russian aggression against Ukraine ceases, the EU council has reported.",
+    "In Spain This Tuesday, television operators were waiting for the Government to give them the order to cut the Russia Today television chain signal.",
+    "Given the imminent of the situation, in Movistar, Vodafone, Orange, Virgin Telco, Euskaltel, Telecable, R and Tivify were already prepared to bring the channel black, considered an organ of propaganda and misinformation of the Russian government.",
+    "The YouTube video platform was the only one that had already decided to prevent the diffusion of the live broadcast of Russia Today.",
+    "The spectators not paid to any platform could still follow it on the chain website, however.",
+    "In Spain, the chain has hardly any audience and most of the customers of these operators do not even know that they have it, but it is available in most of them without any premium.",
+    "Ursula von der Leyen, president of the European Commission, wants to prohibit the channel throughout Europe, to prevent Kremlin from still spreading \"toxic information.\"",
+    "«They will not be able to spread their lies about the cause of Putin.",
+    "We will prohibit its misinformation in Europe, ”he explained.",
+    "In full context of war, the twenty -seven consider that these media are instruments that Kremlin uses to collect social support to their military aggression against Ukraine and are also used to destabilize neighboring countries.",
+    "«The systematic manipulation of information by the Kremlin is applied as another instrument in the assault to Ukraine.",
+    "It is a direct threat to public order and the security of the Union, ”said Borrell, emphasizing that these means are under\" permanent direct or indirect control of the Russian authorities. \"",
+    "As Brussels has completed, the restrictions on Sputnik and RT are already in force and affect all means of transmission and distribution, this is so much cable television, satellite and television online and social networks, websites and applications.",
+    "«All licenses, authorizations and distribution agreements are suspended.",
+    "These measures cover all EU members and are immediately applied, ”said the community executive, who has asked for collaboration with European audiovisual regulators to implement these measures\" necessary and consistent with fundamental freedoms and rights. \"",
+    "According to community sources, it is now the economic operators that will take \"the necessary measures\" to guarantee in practical terms the cessation of the activity.",
+    "Systematic misinformation As an example of the type of information made by Russia Today, on its website the opening news speaks of the \"Russian Special Operation in Ukraine\" and the blockade in European countries to the Russian media.",
+    "A paragraph is enough to see the tone of the information offered: «The Russian Defense Ministry said that the most important objective of the special operation 'is to protect the Russian Federation from the military threat created by the countries of the West trying to use the Ukrainian people' in this fight.",
+    "Also, from this portfolio they emphasized that 'Russian troops do not occupy the Ukrainian territory' and that 'do everything possible to save lives and guarantee the safety of civilians' ».",
+    "Related news This functionality is only for subscribers Subscribe"
+  ],
+  "topics": {
+    "Conflict": 0.652595579624176,
+    "Military": 0.5016295313835144,
+    "Economy": 0.4694291353225708,
+    "Technology": 0.20825603604316711,
+    "Diplomacy": 0.207599937915802,
+    "Politics": 0.20427802205085754,
+    "Environment": 0.12693627178668976,
+    "Transport": 0.0921664908528328,
+    "Culture": 0.09164422005414963,
+    "Energy": 0.08722236007452011,
+    "Crime": 0.06531856954097748,
+    "Elections": 0.04952448233962059,
+    "Health": 0.04839445650577545,
+    "Education": 0.039574187248945236
+  },
+  "sentiment": {
+    "positive": 0.217,
+    "negative": 0.783,
+    "neutral": 0.0
+  }
+}

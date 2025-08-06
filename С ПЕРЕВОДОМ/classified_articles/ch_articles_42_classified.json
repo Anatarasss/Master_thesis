@@ -1,0 +1,36 @@
+{
+  "title": "Lula da Silva ribadisce la sovranità del Brasile in risposta agli Stati Uniti",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1837031/brasile-paese-stati-lula-silva",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The Brazilian president underlines the independence of the country during a press conference after travel to China and Russia \"For a long time many have thought that Brazil was the courtyard of the United States home, but Brazil is not a courtyard, it is a free and sovereign country, with sovereign interests of its people\".",
+    "So the Brazilian president Luiz Inacio Lula da Silva commented, during a press conference on the sidelines of the trip to China and Russia, the will expressed by Washington that he wanted to resume control of the destinies of Latin America.",
+    "\"Brazil does not want to be better than anyone else, but does not accept being worse than anyone else,\" he added.",
+    "\"We want to treat the United States with great respect and be treated with a lot of respect.",
+    "We are a very large country, with 213 million inhabitants who love their country.",
+    "For this reason, Brazil will not be anyone's courtyard.",
+    "Brazil will be the courtyard of Brazil's home, a free and sovereign country,\" he concluded."
+  ],
+  "topics": {
+    "Politics": 0.9169533252716064,
+    "Diplomacy": 0.8576604723930359,
+    "Culture": 0.8361254334449768,
+    "Conflict": 0.8342092633247375,
+    "Economy": 0.6126203536987305,
+    "Energy": 0.49632054567337036,
+    "Health": 0.45412445068359375,
+    "Environment": 0.4192007780075073,
+    "Transport": 0.38880226016044617,
+    "Technology": 0.3619619905948639,
+    "Education": 0.3385823369026184,
+    "Military": 0.2904442846775055,
+    "Elections": 0.23448550701141357,
+    "Crime": 0.17710699141025543
+  },
+  "sentiment": {
+    "positive": 0.857,
+    "negative": 0.143,
+    "neutral": 0.0
+  }
+}

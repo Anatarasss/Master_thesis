@@ -1,0 +1,36 @@
+{
+  "title": "L'aereo della Malaysia Airlines abbattuto e le accuse alla Russia: \"L'ONU è di parte\"",
+  "published_date": null,
+  "url": "https://www.tio.ch/dal-mondo/attualita/1837341/russia-malaysia-airlines-onu-abbattuto-aereo",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The Kremlin does not accept the conclusions to the United Nations (ICAO) civil aviation agency and attacks the United Nations organization Moscow - The Kremlin said not to accept and defined as \"partisan\" the conclusions of the United Nations (ICAO) civil aviation agency, which declared Russia responsible for the demolition of the MH17 flight on 17 July 2014 in Ukraine, in which 298 people died.",
+    "The Interfax agency reports.",
+    "\"Our position is well known: Russia is not a country that has taken part in the investigation into this accident, so we do not accept part conclusions,\" said the spokesman for the Russian president, Dmitry Peskov, in response to the request to comment on the ICAO decision.",
+    "The Boeing of Malaysian Airlines (flight MH17) was traveling from Amsterdam to Kuala Lumpur and it is believed that he was shot down in Ukraine by a Russian missile at the beginning of the conflict between the Ukrainian troops and the separatist militiamen of the Donbass supported by Moscow.",
+    "The joint investigative group of Australia, Belgium, Malaysia, the Netherlands and Ukraine, concluded that the plane has been shot down using a Russian-manufacturing Earth-Air Buk Missilistic System brought by Russia in the Ukrainian territory controlled by the separatists.",
+    "298 people died, including 80 children.",
+    "In November 2022, a Dutch court sentenced the Russian citizen Igor Girkin to the prison for life for the prison for life (also known as Igor \"Stalkov\"), one of the former leaders of Philorussian separatists, and two other defendants."
+  ],
+  "topics": {
+    "Conflict": 0.9325388073921204,
+    "Military": 0.7248332500457764,
+    "Crime": 0.724747359752655,
+    "Politics": 0.5865031480789185,
+    "Culture": 0.49877867102622986,
+    "Transport": 0.4896533787250519,
+    "Economy": 0.3469848036766052,
+    "Technology": 0.3274674415588379,
+    "Diplomacy": 0.20959952473640442,
+    "Health": 0.12003979831933975,
+    "Environment": 0.06715824455022812,
+    "Energy": 0.05743808671832085,
+    "Elections": 0.03648213669657707,
+    "Education": 0.03184439614415169
+  },
+  "sentiment": {
+    "positive": 0.286,
+    "negative": 0.714,
+    "neutral": 0.0
+  }
+}

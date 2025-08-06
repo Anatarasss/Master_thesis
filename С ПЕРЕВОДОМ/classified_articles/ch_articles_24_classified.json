@@ -1,0 +1,39 @@
+{
+  "title": "La Borsa svizzera apre in rialzo con l'indice SMI in crescita dello 0,33%",
+  "published_date": null,
+  "url": "https://www.laregione.ch/economia/economia/1838261/indice-smi-rialzo-svizzera-borsa",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Investors attentive to US duties, monetary policy of the Fed and Russia-Ukraine interviews Positive opening this morning for the Swiss stock exchange.",
+    "Shortly after 9.00 the SMI Guide Pitting Index marked a progression of 0.33% to 12'267.79 points.",
+    "On the markets, investors look at the developments of American commercial policy, in particular the duties in China and Europe.",
+    "In the spotlight also the moves of the Fed on the monetary policy front, as well as the talks between Russia and Ukraine to end the conflict.",
+    "Day of technical deadlines in Europe and USA where future are contrasted.",
+    "The other main European squares have also opened up: Paris gains 0.27%, Frankfurt 0.34%, London 0.40%and Milan 0.30%.",
+    "Tokyo concluded the unchanged session, with the Nikkei index at 37'753 points.",
+    "The contrasted closure of Wall Street and the data of the Japanese GDP is weighed, who in the first quarter contracted for the first time in a year, more than the expectations, due to the drop in exports.",
+    "Yesterday Wall Street closed contrasted.",
+    "The Dow Jones gained 0.65% to 42'322.75 points, the Nasdaq lost 0.18% to 19'112.32 points, while the S&P 500 advanced by 0.42% to 5'916.93 points."
+  ],
+  "topics": {
+    "Economy": 0.9696871638298035,
+    "Conflict": 0.8804076313972473,
+    "Politics": 0.5893317461013794,
+    "Diplomacy": 0.5464475154876709,
+    "Transport": 0.44800323247909546,
+    "Environment": 0.42179569602012634,
+    "Health": 0.38625064492225647,
+    "Culture": 0.3765367269515991,
+    "Energy": 0.2509702742099762,
+    "Technology": 0.21672122180461884,
+    "Military": 0.18349383771419525,
+    "Crime": 0.1595040112733841,
+    "Education": 0.12166751176118851,
+    "Elections": 0.031115181744098663
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

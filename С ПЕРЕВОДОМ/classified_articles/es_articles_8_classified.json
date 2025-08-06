@@ -1,0 +1,49 @@
+{
+  "title": "Reino Unido y Alemania suspenden definitivamente la señal de Russia Today",
+  "published_date": null,
+  "url": "https://www.abc.es/play/television/noticias/abci-reino-unido-y-alemania-suspenden-definitivamente-senal-russia-today-202203201649_noticia.html",
+  "original_language": "es",
+  "cleaned_sentences": [
+    "United Kingdom and Germany definitely suspend the Russia Today signal The Russian propaganda chain had already been sanctioned for poisoning the informative environment on the coronavirus The media regulatory agency in the United Kingdom (OFCOM) has removed permits for the Russia Today (RT) chain, which had already been separated from antenna, for being considered an instrument at the service of the propaganda of the Government of Russia, especially after the invasion of Ukraine that began on February 24.",
+    "Ofcom explained in a statement that he no longer considers the license granted to RT \"suitable and appropriate\", after almost thirty investigations have been opened against the chain for their bias in favor of the Kremlin.",
+    "Given the volume and nature of these complaints, \"potentially serious\", which have arrived in a short period of time, the regulator has made the decision to definitively revoke the license, reports Europa Press.",
+    "In this regard, he recalled that Moscow has tightened censorship about the media that come out of official discourse.",
+    "Very high bar The head of the regulator, Melanie Dawes, has defended this process, taking into account that \"freedom of expression is something that is strictly monitored\" in the United Kingdom.",
+    "The bar to take measurements of this caliber, he added, is \"very high.\"",
+    "RT appears on the list of sanctions of the European Union, which also pointed to Sputnik shortly after the Russian president, Vladimir Putin, gave order to invade Ukraine.",
+    "Moscow responded by threatening the Western media, much of which Russia abandoned in fear that they could be charged with sentences that can reach 15 years of jail for critical coverage with Putin.",
+    "The deputy director of RT, Anna Belkina, has criticized a decision that considers \"political\", and pointed out that the British authorities were preparing a closure and now they have found \"the formal reason\" to justify it, according to the Interfax news agency.",
+    "Belkina has returned criticism to the United Kingdom and the West in general, since it considers that it is in these countries where a different media point of view is not allowed.",
+    "Thus, he has questioned the equally \"unilateral\" coverage that make the conflict in Ukraine the British media.",
+    "Germany On the other hand, the Berlin Administrative Court on Friday ratified the suspension of the emissions of the Russia Today chain, financed by the Russian State, throughout the country, as it was announced for the first time on February 2.",
+    "This opinion is due to a case disconnected in principle of the European community response to the Russian media for the invasion of Ukraine.",
+    "Before the Russian incursion, Russia Today had been accused by Germany of poisoning the informative environment on the Coronavirus, which is why it had already been first withdrawn from antenna in December last year.",
+    "According to the opinion of the Berlin Court, \"after an urgency decision of the Administrative Court of Berlin, the RT channel may not operate at the moment,\" according to the document collected in the official portal of the German capital, in response to the A Peling presented by the chain on March 8.",
+    "The Court is protected by the State Treaty for the modernization of the media by Germany, whereby private broadcasters of the country, as it is understood that the RT subsidiary operates in the country, they need an issue license, \"of which the applicant lacks\", since it was withdrawn at the beginning of last month.",
+    "The Court has also rejected the argument presented by RT of, which has been presented as a mere service provider.",
+    "\"The facts that assume the final responsibility of its programs and are responsible for its dissemination,\" the court replies, \"are fundamental aspects for its status as information organizing.\"",
+    "RT of has not exhausted its legal routes because it can still present a new appeal against the decision before the Superior Administrative Court of Berlin-Brandeburg.",
+    "This functionality is only for subscribers Subscribe"
+  ],
+  "topics": {
+    "Conflict": 0.9307274222373962,
+    "Culture": 0.7560052275657654,
+    "Economy": 0.750709056854248,
+    "Environment": 0.7103836536407471,
+    "Politics": 0.6966133713722229,
+    "Technology": 0.5221197009086609,
+    "Energy": 0.5095483660697937,
+    "Transport": 0.4259938895702362,
+    "Diplomacy": 0.4091086685657501,
+    "Crime": 0.39048075675964355,
+    "Health": 0.3873039782047272,
+    "Education": 0.2806304693222046,
+    "Elections": 0.2597009241580963,
+    "Military": 0.248739093542099
+  },
+  "sentiment": {
+    "positive": 0.2,
+    "negative": 0.8,
+    "neutral": 0.0
+  }
+}

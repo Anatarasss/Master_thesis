@@ -1,0 +1,36 @@
+{
+  "title": "ENR Russia sera décoté au 20 janvier",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/indice/SMI-7508/actualite/ENR-Russia-sera-decote-au-20-janvier-48723298/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Geneva (AWP) - The participation company ENR Russia announced on Friday the validation of its request for decline by six Exchange Regulation.",
+    "The last day of actions trading is set for January 17 and the cancellation on January 20, a statement said.",
+    "The company located in Geneva had requested the radiation of all the actions to the carrier listed on the Swiss stock exchange with a nominal value of 12.40 Swiss francs each.",
+    "During an extraordinary general assembly in December, the shareholders had given their green light for the garment.",
+    "At the end of 2024, ENR Russia was taken over by the Valartis financial group which held, after its buyout offer, 99.76% of the company's shares.",
+    "As part of the operation, Valartis gives up his minority participation in Athris Holding by Georg von Opel and receives in return 892,703 actions ENR Russia and a cash payment.",
+    "Athris Holding, listed on the Bern BX Stock Exchange, held a participation of a good third party in ENR Russia, according to previous data."
+  ],
+  "topics": {
+    "Economy": 0.5856955647468567,
+    "Conflict": 0.5262148976325989,
+    "Politics": 0.4782325327396393,
+    "Energy": 0.47260943055152893,
+    "Culture": 0.4380025863647461,
+    "Technology": 0.3909946382045746,
+    "Transport": 0.3412100374698639,
+    "Elections": 0.2932227849960327,
+    "Environment": 0.2876102328300476,
+    "Diplomacy": 0.26983657479286194,
+    "Health": 0.22490574419498444,
+    "Military": 0.12713558971881866,
+    "Crime": 0.12078070640563965,
+    "Education": 0.07933081686496735
+  },
+  "sentiment": {
+    "positive": 0.286,
+    "negative": 0.714,
+    "neutral": 0.0
+  }
+}

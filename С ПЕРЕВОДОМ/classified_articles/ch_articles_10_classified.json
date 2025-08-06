@@ -1,0 +1,44 @@
+{
+  "title": "L'UE e il Regno Unito intensificano le sanzioni contro la Russia con nuovi pacchetti",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1839253/sanzioni-russia-ue-flotta-misure",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The measures aim to hit the Russian shadow fleet and key sectors such as military industry and energy \"The EU has approved its 17th package of penalties against Russia, which aims almost 200 ships of the shadow fleet.",
+    "The new measures also concern hybrid threats and human rights.",
+    "Further penalties against Russia are in preparation.",
+    "The longer the war will continue, the longer our response will be\".",
+    "This was announced by the high EU representative for foreign policy Kaja Kallas.",
+    "The British government of Keir Starmer has also announced yet another pack of sanctions against Russia in response to the latest raids of Moscow drones on Ukraine, the Foreign Office is known.",
+    "The initiative is in coordination with the parallel penalties of the EU allies.",
+    "The measures concern over a hundred other entities and individuals and aim to hit the sectors of the military industry, energy and finance, as well as \"the war of information against Ukraine\" attributed to the Kremlin, reads the press release released today by the British Foreign Ministry.",
+    "It is in particular an answer to the \"273 drones launched against Ukrainian cities\" by Moscow forces since last Saturday and the attack against a minibus that has \"killed 9 civilians in Sumy\".",
+    "In the press release it is also stated that President Vladimir Putin \"has not so far joined the ceased and unconditional fire asked by President Donald Trump\" and already \"accepted two months ago by President Volodymyr Zelensky\".",
+    "The new penalties of London, \"coordinated with the 17th package\" approved today by the EU, aim to weaken, among other things, \"the supply chain\" for the production of Russian weapons including \"Iskander missiles\" and are having a heavy impact \"on the economy\" of Moscow and its GDP, says the Starmer government.",
+    "They then target the 14 members of the Social Design Agency (SDA), put as propagators of \"disinformation\" Russian aimed at \"undermining democracy in Ukraine and other countries in the world\".",
+    "As well as 46 financial subjects who would \"help\" Russia in the \"attempts to circumvent\" previous penalties against the Saint Petersburg stock exchange and other Russian financial institutions.",
+    "John Michael Omerood, a businessman with British passport accused of having found on behalf of Moscow some ships of the so -called \"ghost fleet\" of oil tanker and cargo to escape the western penalties.",
+    "Finally, London undertakes to work with the allies to try to further lower the roof of the international oil price, under 60 dollars, in order to damage the Russian economy."
+  ],
+  "topics": {
+    "Conflict": 0.871950089931488,
+    "Economy": 0.7631860971450806,
+    "Military": 0.6381695866584778,
+    "Politics": 0.5788360834121704,
+    "Energy": 0.4380764961242676,
+    "Technology": 0.38394659757614136,
+    "Culture": 0.2736523747444153,
+    "Diplomacy": 0.2627381384372711,
+    "Transport": 0.2028423249721527,
+    "Environment": 0.10078661888837814,
+    "Health": 0.06170138716697693,
+    "Crime": 0.060237955302000046,
+    "Elections": 0.05114699527621269,
+    "Education": 0.019355958327651024
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

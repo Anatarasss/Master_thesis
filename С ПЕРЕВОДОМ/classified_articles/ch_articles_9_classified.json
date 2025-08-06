@@ -1,0 +1,46 @@
+{
+  "title": "Quegli pneumatici per Boeing intercettati al confine erano per la Russia?",
+  "published_date": null,
+  "url": "https://www.cdt.ch/news/mondo/quegli-pneumatici-per-boeing-intercettati-al-confine-erano-per-la-russia-394733",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Were those boeing tires intercepted on the border for Russia?",
+    "Russia, we know, for some time now must make virtue of necessity: international measures, pronounced following the large -scale invasion of Ukraine by the Moscow army, have crossed the sector, forced for over three years to cannibate planes to obtain spare parts or, again, to smuggle components.",
+    "One of the last episodes, in this sense, concerns Poland.",
+    "Let's rewind the tape: yesterday, Monday, the National Revenue Administration (KAS) seized 5 metric tons of tires for Boeing civil planes.",
+    "The material should have passed through Belarus and Russia.",
+    "Transit, however, forbidden and subject to penalties pursuant to Regulation no.",
+    "833/2014 of the European Council.",
+    "The goods were intercepted during an inspection of a truck in Koroszczyn, on the border with Belarus.",
+    "From the declaration, delivered by the driver to customs officials, it appeared that the load was made up of tires for cars and buses.",
+    "In fact, there were boeing tires in the trailer.",
+    "Justyna Pasieczyńska, spokesman for the National Administration of Revenue, in reporting the incident recalled precisely that the transit of planes components through the territories of Belarus and Russia is subject to penalties.",
+    "The strong suspicion is that the transit, indeed, was the final destination.",
+    "Or, better, that that goods should not really be delivered to Azerbaijan, as it appeared from the bubble, but served in particular to Russian companies.",
+    "To organize the load, we read, was a Spanish company.",
+    "\"In relation to customs fraud, a tax criminal procedure was started,\" added Pasieczyńska.",
+    "«The goods covered by penalties have been seized.",
+    "The investigation into the violation of the sanctions regulations is conducted by the Customs and Tax Office of Lublin \"."
+  ],
+  "topics": {
+    "Politics": 0.8750237822532654,
+    "Transport": 0.8562137484550476,
+    "Conflict": 0.8323878049850464,
+    "Economy": 0.741360604763031,
+    "Crime": 0.6763526797294617,
+    "Technology": 0.48280343413352966,
+    "Culture": 0.4205402731895447,
+    "Diplomacy": 0.2911117970943451,
+    "Military": 0.23562319576740265,
+    "Environment": 0.1391381174325943,
+    "Energy": 0.11319445818662643,
+    "Elections": 0.053659968078136444,
+    "Health": 0.03246203064918518,
+    "Education": 0.012158164754509926
+  },
+  "sentiment": {
+    "positive": 0.118,
+    "negative": 0.882,
+    "neutral": 0.0
+  }
+}

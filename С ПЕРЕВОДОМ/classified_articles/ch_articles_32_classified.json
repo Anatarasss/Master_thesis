@@ -1,0 +1,35 @@
+{
+  "title": "Zelensky accetta di partecipare ai colloqui in Turchia dopo pressioni internazionali",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1837832/russia-colloqui-zelensky-turchia-funzionari",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "American and European officials convince Ukrainian President to send a delegation for negotiations with Russia American and European officials convinced Volodymyr Zelensky to go to the talks in Türkiye after Tuesday evening the president had said he was frustrated and hinted that he would not go or send his collaborators.",
+    "Two diplomats were said to be aware of the issue at the Washington Post.",
+    "The officials underlined the importance of sending at least one delegation of high -level collaborators, including his head of cabinet, Andriy Yermak, and the foreign minister Andrii Sybiha, but met repeated resistance by the Ukrainian leader.",
+    "\"Zelensky did not see the reason at all,\" said one of the diplomats.",
+    "The special correspondent for Donald Trump, Steve Witkoff, in particular made Ukrainians understand that presenting himself at direct interviews with Russia would have been an advantageous move for everyone: if they had presented themselves and Russia no, Moscow would have made a bad impression and would have paid the consequences.",
+    "If, on the other hand, Ukrainian and Russia had presented themselves, the two sides could have approached a ceased and at the end of the war."
+  ],
+  "topics": {
+    "Diplomacy": 0.9481096267700195,
+    "Politics": 0.9057449102401733,
+    "Conflict": 0.8910898566246033,
+    "Culture": 0.703967809677124,
+    "Military": 0.5212753415107727,
+    "Technology": 0.45371440052986145,
+    "Economy": 0.4169180989265442,
+    "Health": 0.41337111592292786,
+    "Energy": 0.38741010427474976,
+    "Transport": 0.3100576400756836,
+    "Environment": 0.25790560245513916,
+    "Education": 0.21563436090946198,
+    "Elections": 0.1618506759405136,
+    "Crime": 0.16175101697444916
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

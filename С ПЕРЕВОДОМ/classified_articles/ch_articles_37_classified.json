@@ -1,0 +1,53 @@
+{
+  "title": "La risposta di Mosca: \"Sulla tragedia del volo MH17 ci sono ancora molte cose poco chiare\"",
+  "published_date": null,
+  "url": "https://www.cdt.ch/news/mondo/la-risposta-di-mosca-sulla-tragedia-del-volo-mh17-ci-sono-ancora-molte-cose-poco-chiare-393925",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Moscow's answer: \"On the tragedy of the MH17 flight there are still many unclear things\" \"Russia is responsible for the demolition of the MH17 flight of 17 July 2014\".",
+    "This is the hard - and direct - conclusion of the Agency for the civil aviation of the United Nations (ICAO), communicated in the past few hours.",
+    "The Board of Directors of the organization, based in Montreal, said that the appeals presented by Australia and the Netherlands for the accident of the Aereo della Malaysia Airlines - in which 298 people among passengers and crew members lost their lives - are \"founded and by law\".",
+    "\"The Russian Federation has not respected its obligations pursuant to international air law following the reduction of Malaysia Airlines MH17 flight in 2014,\" reads a press release released by the agency.",
+    "For the first time, ICAO expressed itself on a dispute between the Member States.",
+    "And he pointed his finger at Moscow, guilty of having fallen the plane from a Russian-made Earth-air buk missile, while he was above the Donetsk region, Ukraine.",
+    "Area where the pro-Russian separatist rebels were fighting against Ukrainian forces.",
+    "On board the plane, which started from Amsterdam and headed to Kuala Lumpur, 196 citizens of the Netherlands were present.",
+    "Among the passengers there were also 38 Australians, 10 British and some citizens from Belgium and Malaysia.",
+    "Taking note of the ICAO declaration, the Dutch foreign minister, Caspar Veldkamp, ​​underlined how \"an important step was to ascertain the truth, the achievement of justice and the assumption of responsibilities.",
+    "For all the victims and their loved ones ».",
+    "Already in 2022, a Dutch court had established that the plane had been shot down by a group controlled by Moscow.",
+    "Two Russian citizens and a pro-Russian Ukrainian citizen had been sentenced to life imprisonment for murder.",
+    "The Kremlin, however, having always denied any involvement in the tragedy, has refused to extradite them.",
+    "Australian Foreign Minister Penny Wong also expressed himself on the issue, commenting on the decision of ICAO inviting Russia \"to finally take responsibility for this horrible act of violence\", repairing the damage \"for its atrocious conduct\".",
+    "These statements reached the Moscow ears, but who have not aroused the reactions hoped for.",
+    "The Kremlin wasted no time.",
+    "In a few hours, he denied the accusations of the UN, declaring not to accept the conclusion of the ICAO, called \"partisan\".",
+    "\"Our position is well known: Russia is not a country that has taken part in the investigation into this accident, so we do not accept part conclusions,\" said Russian President Putin, Dmitry Peskov's spokesman, answering questions about the agency's decision, underlining how there are still \"many few things clear and many contradictions\" on what happened at the MH17.",
+    "\"There is nothing to accept or deny, because they are preliminary results.",
+    "We know that the devil is inside these details, and unfortunately many are still missing, \"added Peskov.",
+    "Nonetheless, the governments of Australia and low passes have declared that in the coming weeks the UN civil aviation agency will evaluate which \"form of repair\" is most appropriate.",
+    "In the past, both countries had asked for compensation and excuses from Moscow.",
+    "But none of this, so far, has still occurred."
+  ],
+  "topics": {
+    "Conflict": 0.9579483270645142,
+    "Culture": 0.9260613918304443,
+    "Politics": 0.9249219298362732,
+    "Technology": 0.8780296444892883,
+    "Transport": 0.8568430542945862,
+    "Diplomacy": 0.8468301892280579,
+    "Military": 0.838646650314331,
+    "Economy": 0.8026903867721558,
+    "Energy": 0.7952300310134888,
+    "Crime": 0.7494024038314819,
+    "Health": 0.7184273600578308,
+    "Environment": 0.7163688540458679,
+    "Elections": 0.4698067903518677,
+    "Education": 0.4697963297367096
+  },
+  "sentiment": {
+    "positive": 0.417,
+    "negative": 0.583,
+    "neutral": 0.0
+  }
+}

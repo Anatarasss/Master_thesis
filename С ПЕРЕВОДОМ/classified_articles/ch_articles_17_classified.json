@@ -1,0 +1,37 @@
+{
+  "title": "Italia protagonista nel trilaterale tra Meloni, Vance e von der Leyen",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1838804/meloni-italia-cirielli-protagonista-der-leyen-vance-von",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Cirielli underlines Italy's central role in negotiations on duties and Ukraine-Russia \"The great success of today's Trilateral between the Prime Minister, Giorgia Meloni, the Vice President of the USA, Vance, and the president of the European Commission, von der Leyen, certifies the role of Italy as a country bridge between Europe and the USA\".",
+    "Edmondo Cirielli, deputy minister of foreign affairs and international cooperation.",
+    "\"It is clear that the central role of Italy will allow our country to face the different dossiers on the field as protagonist, first of all that on the current negotiations for the American duties policy and that on Ukrainian/Russia negotiations in which the only credible item can only be that of united Europe,\" added Cirielli.",
+    "\"We can undoubtedly argue that today is the\" practice of sea \"of President Meloni.",
+    "In practice of sea, Berlusconi obtained a great result: bringing the enemy of all time closer, Russia, natural heir of the former Soviet Union, to NATO and the G7.",
+    "Today Prime Minister Meloni tries, managing to be, not to move Europe away from the US.",
+    "Berlusconi sealing the diplomatic triumphal with the ex enemy who became an enemy.",
+    "Partner; today President Meloni avoids the breakdown with the United States, allies of all time, \"concluded Cirielli."
+  ],
+  "topics": {
+    "Politics": 0.9881126284599304,
+    "Diplomacy": 0.9782071709632874,
+    "Conflict": 0.7797423005104065,
+    "Culture": 0.20515987277030945,
+    "Military": 0.14523056149482727,
+    "Crime": 0.11693075299263,
+    "Transport": 0.08335426449775696,
+    "Economy": 0.05563632771372795,
+    "Energy": 0.05126231536269188,
+    "Environment": 0.04505589231848717,
+    "Health": 0.043710850179195404,
+    "Technology": 0.04227428883314133,
+    "Education": 0.025120215490460396,
+    "Elections": 0.01601308397948742
+  },
+  "sentiment": {
+    "positive": 0.75,
+    "negative": 0.25,
+    "neutral": 0.0
+  }
+}

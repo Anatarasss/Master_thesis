@@ -1,0 +1,39 @@
+{
+  "title": "Zelensky annuncia nuove decisioni a sostegno dell'Ucraina",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1836793/presidente-leader-zelensky-cessate-sostegno-ucraina-decisioni",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The Ukrainian president thanks European leaders for the support and hopes for a ceasefire with Russia \"We are preparing good decisions in support of Ukraine and her people\".",
+    "This was stated in his usual evening video video message, the Ukrainian president, Volodymyr Zelensky, writes Ukrinform.",
+    "\"Today I spoke to the French president Emmanuel Macron.",
+    "Emmanuel, thanks for his support.",
+    "I also spoke to the Finn President Stubb - Alexander, thank you!",
+    "\", Zelensky observed.",
+    "\"I also want to thank all the leaders - the British Prime Minister Starmer, the German Chancellor Merz and the Polish Prime Minister Tusk - who yesterday were in Kiev together with Emmanuel, as well as all those who joined us online.",
+    "We had a very productive meeting.",
+    "I am also grateful to all the leaders and the countries with which we spoke of security, diplomacy and ceased the fire - 30 countries, continued.",
+    "Zelensky has hoped that Russia mitigates the fire, so it will personally await the leader of the Kremlin Vladimir Putin in Türkiye on May 15th."
+  ],
+  "topics": {
+    "Diplomacy": 0.9432423114776611,
+    "Politics": 0.9160146117210388,
+    "Conflict": 0.8959200382232666,
+    "Culture": 0.7618546485900879,
+    "Economy": 0.593284547328949,
+    "Military": 0.5279284119606018,
+    "Technology": 0.5035566091537476,
+    "Health": 0.500435471534729,
+    "Energy": 0.4544207453727722,
+    "Environment": 0.4374733567237854,
+    "Elections": 0.38456714153289795,
+    "Transport": 0.3811883330345154,
+    "Education": 0.30387404561042786,
+    "Crime": 0.29731491208076477
+  },
+  "sentiment": {
+    "positive": 0.9,
+    "negative": 0.1,
+    "neutral": 0.0
+  }
+}

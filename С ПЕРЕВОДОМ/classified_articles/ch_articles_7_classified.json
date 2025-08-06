@@ -1,0 +1,46 @@
+{
+  "title": "L'Europa intensifica le sanzioni contro la Russia per promuovere la pace",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1839411/sanzioni-ue-misure-russi-pace-europa-russia",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "New measures involve EU, Great Britain and USA with restrictions on energy and finance The watchword in Europe now: it is hardest penalties to push Vladimir Putin to peace.",
+    "With a renewed emphasis on the coordination.",
+    "That's why contacts on the Brussels-Londra-Washington route flock, then expanding the field to the G7.",
+    "Here's what it boils at the moment in the pot.",
+    "European Union: the 27 gave the green light today to the 17th sanctions package.",
+    "The measures include the addition to the black list of the EU of an additional 189 ships of the shadow fleet, entity of United Arab Emirates, Turkey and Hong Kong complicit in the raw sea transport and Russian oil products as well as of Surgutneftegaz, a large Russian oil company that guarantees substantial revenues to the Russian government.",
+    "Furthermore, other measures have been approved to limit the transfer of dual use goods to Moscow.",
+    "But that's not enough.",
+    "The EU is already working on the 18th package, \"with further incisive sanctions\" (according to President Ursula von der Leyen).",
+    "The EU could soon include restrictive measures on North Stream 1 and 2 gas pipelines, the addition of further ships of the Russian shadow fleet to the black list, a lowering of the maximum roof of the oil price (the goal is to go below 60 dollars) and penalties on the Russian financial sector.",
+    "But there are also those who ask for a blown version of Lindsay Graham's bill, thus obtaining a European bazooka.",
+    "Great Britain: the government of Keir Starmer has approved sanctions against over a hundred new entities and individuals and aim to hit the sectors of the military industry, energy and finance as well as \"the war of information against Ukraine\" attributed to the Kremlin.",
+    "The actions announced by London aim to weaken, among other things, \"the chain of supplies\" for the production of Russian weapons including \"I Iskander missiles\" and - supports the Foreign Ministry - are having a heavy impact \"on the economy\" of Moscow and its GDP.",
+    "United States: Washington Final Force but has the Graham package in the barrel.",
+    "The hardest part provides for \"the prohibition of investments in the Russian energy sector; sanctions to those who support Russian oil production, uranium or gas; the total ban on the import of uranium from Russia (the US still acquire it); the increase in duties to 500% on Russian goods and services (including oil and gas); duty of 500% also on the countries that acquire oil, Uranium or Russian products\".",
+    "To close, the blocking of transactions and freezing of goods \"of Russian financial institutions\" (for example Russian Central Bank, Sberbank, VTB Bank) and \"penalties for suppliers of global financial services\" (such as Swift) that collaborate with sanctioned Russian institutions.",
+    "\"He was signed by almost 80 senators,\" said the Polish Foreign Minister Radosław Sikorski, arriving at the Defense-Exterior Council in Brussels."
+  ],
+  "topics": {
+    "Energy": 0.9735978841781616,
+    "Economy": 0.9557151794433594,
+    "Military": 0.8825206160545349,
+    "Politics": 0.8397234678268433,
+    "Conflict": 0.806829571723938,
+    "Diplomacy": 0.7371108531951904,
+    "Environment": 0.6868768334388733,
+    "Culture": 0.6803264021873474,
+    "Transport": 0.6139422655105591,
+    "Technology": 0.5631572604179382,
+    "Crime": 0.41975897550582886,
+    "Health": 0.2987861633300781,
+    "Education": 0.2629762291908264,
+    "Elections": 0.12223466485738754
+  },
+  "sentiment": {
+    "positive": 0.471,
+    "negative": 0.529,
+    "neutral": 0.0
+  }
+}

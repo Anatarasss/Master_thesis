@@ -1,0 +1,47 @@
+{
+  "title": "Sanzioni alla Russia: Europa, Stati Uniti e Gran Bretagna sono pronti",
+  "published_date": null,
+  "url": "https://www.tio.ch/dal-mondo/cronaca/1839414/sanzioni-alla-russia-europa-stati-uniti-e-gran-bretagna-sono-pronti",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "\"Let's see how Putin behaves,\" said Trump.",
+    "In case of lack of progress towards peace, multiple packages of measures could be triggered Brussels/London/Washington - All against Russia.",
+    "Europe, Great Britain and the United States launch a clear message: either Putin stops the war or there will be further penalties.",
+    "For example, today Donald Trump, 24 hours after the call with Russian president, did not exclude him, saying: \"Let's see how he behaves\".",
+    "And the EU seems to have yet another package ready, the 18th.",
+    "Today, in fact, the 27 gave the green light to the 17th penalty package but already design the next.",
+    "The measures introduced include the addition to the black list of the EU of an additional 189 ships of the shadow fleet, the entities of the United Arab Emirates, Turkey and Hong Kong complicit in the transport of the raw sea and Russian oil products, as well as the Surgutneftegaz, a large Russian oil company that guarantees consistent revenues of the Russian government.",
+    "Furthermore, other measures have been approved to limit the transfer of dual use goods to Moscow.",
+    "Looking further, the EU is already working on the 18th package, \"with further incisive sanctions\" (according to President Ursula von der Leyen).",
+    "The EU could soon include restrictive measures on North Stream 1 and 2 gas pipelines, the addition of further ships of the Russian shadow fleet to the black list, a lowering of the maximum roof of the oil price (the goal is to go below 60 dollars) and penalties on the Russian financial sector.",
+    "But there are also those who ask for an armored version of Lindsay Graham's bill, thus obtaining a European bazooka.",
+    "In Great Britain, the government of Keir Starmer approved sanctions against over a hundred new entities and individuals and aim to hit the sectors of the military industry, energy and finance, as well as \"the war of information against Ukraine\" attributed to the Kremlin.",
+    "The actions announced by London aim to weaken, among other things, \"the chain of supplies\" for the production of Russian weapons, including Iskander missiles and - says the Foreign Ministry - are having a heavy impact on the Moscow economy and its GDP.",
+    "In Washington, even if apparently it is finalized, the Graham package could be activated.",
+    "The hardest part provides \"the prohibition of investments in the Russian energy sector; penalties to those who support Russian oil, uranium or gas production; the total ban on the import of Uranium from Russia (the US still acquires); the increase in duties to 500% on Russian goods and services (including oil and gas); 500% duties also on the countries that buy oil, uranium or Russian products ».",
+    "To close, the blocking of transactions and the freezing of assets \"of Russian financial institutions\" (for example Russian Central Bank, Sberbank, VTB Bank) and \"sanctions to global financial services providers\" \"(as Swift) that collaborate with sanctioned Russian institutions.",
+    "\"He was signed by almost 80 senators.\"",
+    "The Polish Foreign Minister Radosław Sikorski recalled, arriving at the Defense-Esteri Council in Brussels."
+  ],
+  "topics": {
+    "Conflict": 0.9586747884750366,
+    "Energy": 0.8712513446807861,
+    "Military": 0.8551934361457825,
+    "Economy": 0.8381162285804749,
+    "Politics": 0.824079692363739,
+    "Environment": 0.6745527982711792,
+    "Diplomacy": 0.5457912087440491,
+    "Transport": 0.44300901889801025,
+    "Crime": 0.43524566292762756,
+    "Technology": 0.43370869755744934,
+    "Culture": 0.2364528328180313,
+    "Health": 0.1888289600610733,
+    "Education": 0.08988390862941742,
+    "Elections": 0.06253337115049362
+  },
+  "sentiment": {
+    "positive": 0.222,
+    "negative": 0.778,
+    "neutral": 0.0
+  }
+}

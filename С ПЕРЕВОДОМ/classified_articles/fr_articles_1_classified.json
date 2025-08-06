@@ -1,0 +1,37 @@
+{
+  "title": "Un tribunal russe remet à l'État russe les actifs d'un entrepôt appartenant aux Émirats arabes unis, selon l'entreprise",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/actualite-bourse/Un-tribunal-russe-remet-a-l-Etat-russe-les-actifs-d-un-entrepot-appartenant-aux-Emirats-arabes-u-48938564/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Since the promulgation of a decree of April 2023, Russia has placed several assets belonging to foreigners under the management of Rosimushhetvo, the Russian Federal Agency for the Management of Real Estate, and has sometimes made forced sales of assets to handpicked buyers.",
+    "Raven Russia is mainly owned by the company of the United Arab Emirates Lorenia Holdings Limited, as shown by the Russian tax registers.",
+    "Raven Property Group, founded in 2005 in Guernsey, a dependence on the British crown, said that they have sold its Russian activities to members of its Russian management team in July 2022, but to have retained an investment in preferential actions without the right to vote.",
+    "\"Sixteen warehouse complexes, built and acquired by Raven Russia since 2005, have been recognized as transport terminals operating in natural monopoly conditions and having to be transferred to Rosimushhetvo,\" Raven Russia said in a statement published on Sunday.",
+    "The legal proceedings were closed to journalists, but documents show that the case was filed by the Prosecutor General of Russia and that a call was set for March 11.",
+    "The Attorney General did not immediately respond to a comment request.",
+    "\"The company considers that the hearings took place with numerous procedural violations,\" said Raven Russia.",
+    "Raven Russia said that his arguments on the substance of the dispute had been ignored and described as \"unreasonable\" the decision to close the procedure to the press."
+  ],
+  "topics": {
+    "Transport": 0.877058207988739,
+    "Conflict": 0.8600031137466431,
+    "Economy": 0.6383082270622253,
+    "Politics": 0.49927428364753723,
+    "Culture": 0.3894753158092499,
+    "Energy": 0.27094244956970215,
+    "Environment": 0.26324042677879333,
+    "Technology": 0.25149619579315186,
+    "Military": 0.211605966091156,
+    "Diplomacy": 0.2054659128189087,
+    "Health": 0.16518110036849976,
+    "Crime": 0.14908510446548462,
+    "Education": 0.07081004232168198,
+    "Elections": 0.0189003124833107
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

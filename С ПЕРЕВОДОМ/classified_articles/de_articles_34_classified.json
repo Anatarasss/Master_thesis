@@ -1,0 +1,37 @@
+{
+  "title": "„Der Konflikt wird sich dauerhaft etablieren“",
+  "published_date": null,
+  "url": "https://www.berliner-zeitung.de/politik-gesellschaft/russlandexperte-alexander-gabujew-der-konflikt-wird-sich-dauerhaft-etablieren-li.2170738",
+  "original_language": "de",
+  "cleaned_sentences": [
+    "In April one of the most internationally renowned factories on Russia opened its new headquarters in April: Carnegie Russia Eurasia Center.",
+    "The center under the roof of the American Carnegie Foundation for International Peace was originally native to Moscow and was closed by the Russian government in 2022.",
+    "Carnegie Moscow had been closely accompanied by the various phases of the post -communist Russia since it was founded in 1994.",
+    "The focus was always on explaining Russia of the non-Russian world-and vice versa.",
+    "The Moscow center pursued a policy of consistent localization; No foreigners have been working there since 2010.",
+    "The head of the center residing on Pariser Platz is Alexander Gabujew, born in 1985.",
+    "In conversation with the Berliner Zeitung, he gives an insight into the challenges of the new situation.",
+    "Read with a subscription - Access to all B+ content - Read instead of € 9.99 for € 2.00 per month - can be canceled at any time"
+  ],
+  "topics": {
+    "Conflict": 0.7887293696403503,
+    "Politics": 0.6728523373603821,
+    "Culture": 0.5059267282485962,
+    "Economy": 0.4904726445674896,
+    "Environment": 0.4176802635192871,
+    "Energy": 0.2891557812690735,
+    "Education": 0.26096048951148987,
+    "Diplomacy": 0.2596721947193146,
+    "Health": 0.2574388086795807,
+    "Elections": 0.25417354702949524,
+    "Crime": 0.24937370419502258,
+    "Technology": 0.21190567314624786,
+    "Military": 0.20785386860370636,
+    "Transport": 0.17071056365966797
+  },
+  "sentiment": {
+    "positive": 0.75,
+    "negative": 0.25,
+    "neutral": 0.0
+  }
+}

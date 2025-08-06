@@ -1,0 +1,34 @@
+{
+  "title": "ارتفاع مؤشر مديري المشتريات في روسيا",
+  "published_date": null,
+  "url": "https://www.elwatannews.com/news/details/6460298",
+  "original_language": "ar",
+  "cleaned_sentences": [
+    "High Procurement Manager Index in Russia High Procurement Manager Index in Russia - Russia - The cost of production Customers Economic conditions Ukraine - Russia - The cost of production Customers Economic conditions Ukraine The S& P Global Russia Services Index increased to 53.1 in February 2023 from 48.7 in the previous month, and the reading referred to the first expansion in the sector since September last year, where the expansion rate was the second fastest rate since July 2021, amid the largest rise in new requests since August 2022, however, new export requests decreased more, due to the impact of sanctions A greater competition for customers, and in the meantime, employment has expanded for the first time since last July, although only at a partial pace.",
+    "The enlargement of the cost of inputs has declined to the lowest frequency since August 2021 On the level of pricing, according to the same source, the enlargement of the cost of inputs has declined to the lowest frequency since August 2021, amid high prices of suppliers, increased wage bills, and unfavorable exchange rate movements.",
+    "Meanwhile, the cost of production enlarged amid efforts to pass the costs of the high inputs of customers, and finally, morale improved to its highest level in seven months, amid hopes for increasing customer demand and introducing new service lines.",
+    "Reduce retail sales in Russia to the lowest level in 10 months Retail sales in Russia decreased by 6.6% than the previous year in January 2023, less than the market expectations, a decrease of 8.6%, and the recent reading indicated the slowest rate of decrease in the current shrinkage sequence for the tenth month.",
+    "On a monthly basis, retail sales decreased by 20.2% in January, which is the largest decrease in a year, after they jumped by 17.1% in the previous month, and in 2022, retail sales decreased by 6.7%, which is the largest rate since 2015, reflecting the deterioration of economic conditions in the country due to the crisis in Ukraine and continuous international sanctions."
+  ],
+  "topics": {
+    "Economy": 0.8722884654998779,
+    "Conflict": 0.5661562085151672,
+    "Culture": 0.3649829924106598,
+    "Environment": 0.34753942489624023,
+    "Politics": 0.2222500443458557,
+    "Energy": 0.19588935375213623,
+    "Technology": 0.18244217336177826,
+    "Transport": 0.1808847188949585,
+    "Crime": 0.17368288338184357,
+    "Diplomacy": 0.16584520041942596,
+    "Military": 0.15232980251312256,
+    "Health": 0.09940174967050552,
+    "Elections": 0.09248823672533035,
+    "Education": 0.0787888690829277
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Zelensky accusa la Russia di temporeggiare per prolungare la guerra",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1839233/presidente-guerra-russia-zelensky-diplomazia",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The Ukrainian president underlines the importance of penalties and diplomacy for peace \"It is obvious that Russia is trying to take time to continue the war and employment.",
+    "We are working with our partners to put pressure on the Russians so that they behave differently.",
+    "The penalties are important and I am grateful to anyone who makes them more tangible for the managers of the war\": the Ukrainian president Volodymy Zelensky writes it on Telegram in the aftermath of the call between the Russian presidents Vladimir and American Donald Trump.",
+    "Zelensky reports that he has spoken to the Finn President Alexander Stubb, with whom he also \"discussed the details of yesterday's conversation with the President of the United States Donald Trump\".",
+    "\"The important thing is that the diplomacy for peace is coordinated and oriented towards concrete results,\" underlined the Ukrainian leader.",
+    "\"We have no doubts that the war should end at the negotiation table.",
+    "There should be clear and realistic proposals on the table.",
+    "Ukraine is ready for any productive negotiation format.",
+    "And if Russia continues to propose unrealistic conditions and to compromise the possible results, the consequences will certainly be hard - he concluded -.",
+    "Today there are also talks with our other partners\"."
+  ],
+  "topics": {
+    "Diplomacy": 0.9714325070381165,
+    "Conflict": 0.8970874547958374,
+    "Politics": 0.8802052736282349,
+    "Culture": 0.7263941168785095,
+    "Economy": 0.4683867394924164,
+    "Technology": 0.45985203981399536,
+    "Military": 0.4476986825466156,
+    "Environment": 0.38558775186538696,
+    "Energy": 0.3712767958641052,
+    "Transport": 0.33312472701072693,
+    "Health": 0.32985812425613403,
+    "Crime": 0.29875892400741577,
+    "Elections": 0.20701520144939423,
+    "Education": 0.20696815848350525
+  },
+  "sentiment": {
+    "positive": 0.7,
+    "negative": 0.3,
+    "neutral": 0.0
+  }
+}

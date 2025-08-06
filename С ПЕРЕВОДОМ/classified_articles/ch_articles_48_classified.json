@@ -1,0 +1,44 @@
+{
+  "title": "\"Potenzialmente un giorno grandioso per Russia e Ucraina!\"",
+  "published_date": null,
+  "url": "https://www.tio.ch/dal-mondo/attualita/1836640/potenzialmente-un-giorno-grandioso-per-russia-e-ucraina",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Putin offers direct negotiations between Moscow and Kiev.",
+    "Macron: \"A first step, but not enough\" WASHINGTON - Donald Trump reiterated his intention of \"continuing to work with both sides\" this morning to end the conflict in Ukraine.",
+    "\"Potentially a grandiose day for Russia and Ukraine!\"",
+    "Wrote the president of the United States on his social account, after the proposal of the Russian president Vladimir Putin of \"direct\" negotiations between Kiev and Moscow and the request of the West of a ceased the fire since Monday.",
+    "\"Think of the hundreds of thousands of lives that will be saved with the end, hopefully, of this infinite 'blood bath' ...",
+    "I will continue to work with both sides to ensure that this happens,\" he added.",
+    "The truce ended - in the meantime, the ceasers of 72 hours in Ukrainian, which Kiev said to have been violated hundreds of times from Moscow, ended at midnight on Saturday (11 pm in Switzerland).",
+    "President Vladimir Putin had announced the ceasefire in conjunction with the great military parade of Moscow on May 9 to celebrate the 80 years from the victory in the Second World War.",
+    "Ukraine has never accepted this truce, defining it as a theatrical maneuver and instead asking for a ceased for 30 days.",
+    "PUTIN's proposal - Russian proposal to resume direct negotiations with Kiev from May 15th in Istanbul has been communicated to those who \"in the West\" is interested in ending the conflict in Ukraine.",
+    "President Vladimir Putin said this, mentioned by the Ria Novosti agency, in his night declaration to journalists.",
+    "\"We have transmitted this to those of our colleagues in the West that in my opinion, it seems to me, they are sincerely trying to resolve the situation,\" Putin underlined, without specifying what or which countries these \"colleagues\" belong.",
+    "\"A first step, but not sufficient\" - The proposal of the Russian president Vladimir Putin of direct negotiations between Russia and Ukraine is \"a first step, but not sufficient\": the French president Emmanuel Macron said today.",
+    "\"A ceased the unconditional fire is not preceded by negotiations,\" Macron said to journalists, descending from a train in the Polish city of Przemysl, returning from his visit to yesterday's Ukrainian.",
+    "Putin is \"looking for a way out, but still wants to earn time,\" he added."
+  ],
+  "topics": {
+    "Conflict": 0.9841504096984863,
+    "Politics": 0.9590979218482971,
+    "Diplomacy": 0.9176485538482666,
+    "Military": 0.8520053029060364,
+    "Transport": 0.8450503945350647,
+    "Economy": 0.7782083749771118,
+    "Health": 0.7544912695884705,
+    "Culture": 0.7483352422714233,
+    "Energy": 0.6670323610305786,
+    "Crime": 0.6372900605201721,
+    "Technology": 0.6039690375328064,
+    "Environment": 0.5636109113693237,
+    "Education": 0.31847894191741943,
+    "Elections": 0.3100024461746216
+  },
+  "sentiment": {
+    "positive": 0.533,
+    "negative": 0.467,
+    "neutral": 0.0
+  }
+}

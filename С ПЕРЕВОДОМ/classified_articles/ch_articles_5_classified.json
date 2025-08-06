@@ -1,0 +1,47 @@
+{
+  "title": "Colloqui di pace in Vaticano dopo la telefonata tra Meloni e Papa Leone XIV",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1839418/meloni-presidente-premier-negoziati-pace-telefonata-leone-vaticano-papa-xiv",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The Holy See ready to host negotiations for a ceased between Russia and Ukraine In the last call with Donald Trump, after the interview between the American president and Vladimir Putin, Meloni, together with Merz, had underlined the need for Europe and the United States to play a role of mediators between Moscow and Kiev.",
+    "Because the idea of ​​letting the negotiations continue only at a bilateral level between Russia and Ukraine does not convince the premier, who would have underlined how \"someone should act as a judge\".",
+    "On that occasion, explains Palazzo Chigi, \"he was asked\" the Prime Minister \"to verify the availability of the Holy See to host the negotiations\".",
+    "And the phone call with Leone XIV went according to the best auspices.",
+    "Meloni found \"confirmation\" of the availability of the Pontiff \"to welcome the next interviews between the parties\" in the Vatican and \"expressed profound gratitude for the opening of Pope Leo XIV and for his incessant commitment to peace\".",
+    "This evolution goes in the direction to which the premier points, which for a few days has been set the goal of remaining firmly at the tables of the Ukrainian crisis, after tensions, especially with France, on the meetings of the willing and on its reference to the sending of troops, rejected by Emmanuel Macron as \"fake news\".",
+    "Bruno Vespa, the television journalist who has often collected the revelations of the political leaders in his programs and books, hosting Elly Schlein a 'Porta a Porta' told this version of the clash of last Friday in Tirana: \"There the protagonism of Macron happened.",
+    "A bilateral Zelensky-Meloni was expected.",
+    "They agreed to go together with the meeting with the others.",
+    "Hence the wrath of the premier towards the French president.",
+    "Those who would have tried to include it in the meeting would have been Merz.",
+    "Then the Americans hoped that it was included in the call on the eve of the Trump-Putin phone call.",
+    "So it was then in the next one.",
+    "And so it is destined to be also in the next meetings format.",
+    "Also because, he stands out in European community environments, excluding Meloni risks feeding a sovereign and pro -Russian wind.",
+    "While the London Times on the front page headlines 'Pazzi per Meloni', with a color article dedicated to multiplying photos and images in which many international leaders are happy to be portrayed with the Prime Minister in friendly attitudes, between smiles and gallant gestures, the one with Macron is not the only open front.",
+    "The relationships between Meloni and the Polish Premier Donald Tusk are also not very cold.",
+    "And after the meeting between the Premier and George Simion close to the second round of the presidential elections in Romania, according to what European sources tell, a Moral Suasion has started to avoid an endorsement for Karol Nawrocki, the candidate (supported by the president of Ecr Mateusz Morawiecki) to the ballot to the presidential elections in Poland."
+  ],
+  "topics": {
+    "Politics": 0.8604190349578857,
+    "Elections": 0.7943469882011414,
+    "Diplomacy": 0.6264168620109558,
+    "Conflict": 0.5120463967323303,
+    "Culture": 0.39241355657577515,
+    "Environment": 0.273629367351532,
+    "Economy": 0.20632505416870117,
+    "Technology": 0.1980244219303131,
+    "Health": 0.18382808566093445,
+    "Military": 0.1586759090423584,
+    "Crime": 0.12894591689109802,
+    "Transport": 0.11674676090478897,
+    "Energy": 0.08024144172668457,
+    "Education": 0.055890362709760666
+  },
+  "sentiment": {
+    "positive": 0.444,
+    "negative": 0.556,
+    "neutral": 0.0
+  }
+}

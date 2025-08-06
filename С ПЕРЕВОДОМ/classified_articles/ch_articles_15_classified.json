@@ -1,0 +1,45 @@
+{
+  "title": "\"Putin, incontriamoci faccia a faccia\"",
+  "published_date": null,
+  "url": "https://www.tio.ch/dal-mondo/cronaca/1839057/putin-incontriamoci-faccia-a-faccia",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Zelensky reiterates the desire to negotiate with Russia.",
+    "\"In Istanbul rejected all their threat attempts\" KIEV - Volodymyr Zelensky tries again and invites us again Vladimir Putin to direct negotiations, after the meeting between the delegations in Istanbul last week, to which neither of the two presidents was present.",
+    "\"Ukraine insists on the need for a complete and unconditional fire\" which \"should have a sufficient duration and predict the possibility of extension.",
+    "Our offer, agreed with the partners, is 30 days.",
+    "We are ready for this.",
+    "We are also ready to meet at the level of leader to resolve key issues.",
+    "Ukraine is not afraid of direct negotiations with Russia, and it is important that Russian leadership does not extend the war, \"he reported on Telegram, recalcrating the position maintained by the delegation during the meetings of last week.",
+    "They \"have shown our willingness to get closer to peace and, consequently, the need to put pressure on Russia to end the war.",
+    "In fact, the most important result of the meeting was the agreement on the exchange of prisoners 1,000 against 1,000.",
+    "Our team is currently developing the details of the exchange, \"he explained.",
+    "Meanwhile, he spoke of a \"meeting on our diplomatic work to end the war and establish a true and lasting peace\" with high Ukrainian officials including the Minister of Defense, Rustmus Umerov, who led the Kiev delegation at the Istanbul meetings of 15 and 16 May.",
+    "Umerov, added Zelensky, \"reported the specific details of the interviews with the Russians.",
+    "The Ukrainian delegation managed to maintain the conversation within a dignified picture.",
+    "All attempts to threat to Russia were rejected ».",
+    "In addition, Ukrainian Foreign Minister Andriy Sybiha and the head of the presidential office Andriy Yermak \"reported meetings and contacts with the representatives of the United States and European partners: France, the United Kingdom, Germany, Italy, Poland and Turkey\", with which \"we coordinate almost daily.",
+    "Thanks for the support, \"concluded the Ukrainian president."
+  ],
+  "topics": {
+    "Politics": 0.8817094564437866,
+    "Conflict": 0.8615674376487732,
+    "Diplomacy": 0.8391493558883667,
+    "Military": 0.7175289392471313,
+    "Culture": 0.6334152817726135,
+    "Technology": 0.4221285283565521,
+    "Health": 0.34921491146087646,
+    "Environment": 0.3273984491825104,
+    "Energy": 0.297350138425827,
+    "Transport": 0.28780901432037354,
+    "Crime": 0.2758585810661316,
+    "Elections": 0.18443264067173004,
+    "Education": 0.1791597604751587,
+    "Economy": 0.16028530895709991
+  },
+  "sentiment": {
+    "positive": 0.688,
+    "negative": 0.312,
+    "neutral": 0.0
+  }
+}

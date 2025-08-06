@@ -1,0 +1,48 @@
+{
+  "title": "Zelensky invia delegazione a Istanbul per colloqui di pace con la Russia",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1838071/zelensky-delegazione-presidente-cessate-russia-fuoco-istanbul-colloqui-russi-pace",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Ukrainian delegation led by Umerov, focus on the ceasefire The Ukrainian President Volodymyr Zelensky has announced that he will not take part in the Istanbul interviews, instead sending a delegation led by the Minister of Defense Rustam Umerov to meet the Russian representatives.",
+    "The talks, according to Zelensky, could take place tonight or tomorrow.",
+    "During a press conference in Ankara, after a meeting with the Turkish president Recep Tayyip Erdogan, Zelensky clarified that neither the head of the Ukrainian security service (SBU), Vasyl Malleuk, nor the Chief of Staff of the Armed Forces, Andriy Hnatov, will participate in the negotiations, which will see the mediation of the United States and Turkey.",
+    "Zelensky stressed that Russian President Vladimir Putin should \"demonstrate his leadership\" meeting him personally.",
+    "His absence in Istanbul is seen as \"a lack of personal respect, not only towards Ukraine, but also towards the presidents of the United States and Turkey\".",
+    "Quoted by Ukrainska Pravda, Zelensky said: \"He (Putin) is not here and is not in Istanbul.",
+    "But we cannot travel the world in search of a person\".",
+    "\"Who are the parts in war?",
+    "The American state secretary Rubio yes, the Turkish foreign minister, the Ukrainian Foreign Minister yes.",
+    "And where is the corresponding person of the Russian Federation?",
+    "This is a lack of respect not only for Ukrainian, but for everyone, especially for Turkey, since the meeting takes place here,\" said Zelensky.",
+    "Despite the rather low level of the Russian delegation, Zelensky has decided to send the Ukrainian delegation to Istanbul for respect for President Trump, the high level of the Turkish delegation and the President Erdogan, and with the intention of taking the first steps towards the de-Escalation and the end of the war, even if not in complete.",
+    "Speaking of the requests that the delegation will present to the Russians, Zelensky has declared that \"the ceasefire is the first element on the agenda\".",
+    "He added that if the fire is not discussed in the talks, the war will not be able to end.",
+    "\"Russia does not believe that she had to end (to war), which means that there is no sufficient political, economic and other pressure on the Russian Federation,\" said Zelensky.",
+    "\"And therefore, if there is not a ceasefire and if there are no serious decisions, we ask for appropriate sanctions.\"",
+    "Zelensky has excluded territorial concessions in favor of Russia, stating that \"our position is in the constitution of Ukraine, Crimea is part of Ukraine, Fortunately Turkey supports this position\".",
+    "He reiterated that \"we cannot speak of territorial issues that would violate our Constitution\" and that \"we will not recognize the territories occupied by Russia\".",
+    "A right peace \"must foresee the territorial integrity of Ukraine\", underlined the Ukrainian president."
+  ],
+  "topics": {
+    "Conflict": 0.9941189885139465,
+    "Politics": 0.9736213088035583,
+    "Military": 0.9690139889717102,
+    "Diplomacy": 0.946198046207428,
+    "Culture": 0.92401522397995,
+    "Economy": 0.810611367225647,
+    "Crime": 0.7812781929969788,
+    "Energy": 0.7684123516082764,
+    "Technology": 0.7487745881080627,
+    "Environment": 0.6621547937393188,
+    "Health": 0.6324414014816284,
+    "Transport": 0.5868785977363586,
+    "Elections": 0.45873957872390747,
+    "Education": 0.37465012073516846
+  },
+  "sentiment": {
+    "positive": 0.316,
+    "negative": 0.684,
+    "neutral": 0.0
+  }
+}

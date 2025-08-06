@@ -1,0 +1,38 @@
+{
+  "title": "\"Ci sfidano? La Nato è pronta a difendere ogni suo centimetro\"",
+  "published_date": null,
+  "url": "https://www.tio.ch/dal-mondo/politica/1839928/nato-ogni-centimetro-merz-cancelliere",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "German Chancellor Friedrich Merz: \"We will not allow Russia to create a split inside\" Berlin - \"Anyone who challenges NATO must know that we are ready, anyone who threatens an ally must know that the entire alliance will defend every centimeter of the NATO territory\": the German chancellor Friedrich Merz said it in his official speech to the presentation of the German brigade in Lithuania.",
+    "Merz also stressed: «A little over 70 years ago, on May 6, 1955, the Federal Republic of Germany became part of NATO.",
+    "Since then, the solidarity of the North Atlantic Treaty, in particular article 5, has been the immovable foundation of our German security and our common transatlantic safety in the years of the Cold War.",
+    "Today Germany is ready to support Lithuania, not only in words, but with soldiers, with great military equipment, with infrastructure: we must be willing to do everything to defend ourselves to avoid being forced to defend ourselves.",
+    "This is the principle that guides our actions, a credible deterrence, which this brigade represents ».",
+    "«We will not allow Russia to create a rift inside.",
+    "We Europeans firmly support Ukraine and we are united.",
+    "And, as far as possible, we will continue to form a compact team with the United States, \"Merz then said on the sidelines of the bilateral with the Lithuanian president, Gitanas Nickea.",
+    "\"Our goal is clear: we reward the fire in Ukraine for a cease, as requested by the President of the United States\"; The German Chancellor said, underlining that Russia represents the main danger for peace in Europe today."
+  ],
+  "topics": {
+    "Military": 0.8487675189971924,
+    "Politics": 0.8428259491920471,
+    "Conflict": 0.8191700577735901,
+    "Culture": 0.5426109433174133,
+    "Diplomacy": 0.5039958953857422,
+    "Economy": 0.47674331068992615,
+    "Technology": 0.2925167977809906,
+    "Elections": 0.2829476594924927,
+    "Transport": 0.24460341036319733,
+    "Energy": 0.22209426760673523,
+    "Health": 0.20660929381847382,
+    "Environment": 0.12999440729618073,
+    "Crime": 0.10089396685361862,
+    "Education": 0.083281010389328
+  },
+  "sentiment": {
+    "positive": 0.778,
+    "negative": 0.222,
+    "neutral": 0.0
+  }
+}

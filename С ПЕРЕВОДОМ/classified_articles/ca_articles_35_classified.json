@@ -1,0 +1,52 @@
+{
+  "title": "Fallen Manitoba soldier honoured",
+  "published_date": null,
+  "url": "https://www.cp24.com/news/canada/2025/05/20/manitoba-man-who-died-fighting-for-ukraine-to-be-honoured/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "A Manitoba man killed while fighting for Ukraine against Russia will be recognized posthumously on Wednesday.",
+    "The Ukrainian Canadian Congress and the Ukrainian War Veterans Association of Canada will present the Ukrainian Canadian Sacrifice Medal to the family of Austin Lathlin-Bercier during a ceremony at the Manitoba legislative building.",
+    "Joanne Lewandosky, president of the Ukrainian Canadian Congress – Manitoba Provincial Council, said Lathlin-Bercier‘s mother, Lucy Bercier, will be receiving the medal on her son’s behalf.",
+    "Lathlin-Bercier, who was from Opaskwayak Cree Nation, was killed in combat in November 2023 in Avdiivka, Donetsk Oblast.",
+    "“We, the Ukrainian community, are so proud of this Manitoba, young Indigenous boy who saw at the age of 25 to do what his heart asked him to do, and, in the end, we have to remember the 25-year-old Austin who gave his life for Ukraine,” Lewandosky said.",
+    "Lathlin-Bercier had volunteered with Ukraine’s International Legion in March 2022.",
+    "He had training with the Canadian Armed Forces in its Cadet and Bold Eagle program, which combined Indigenous teachings and military training.",
+    "Taras Jackiw, the sacrifice medal committee chairperson from the Ukrainian War Veterans Association of Canada, has handed out five of these medals to Canadians who have been killed or wounded in action while fighting for Ukraine against Russia.",
+    "He said Lathlin-Bercier‘s story is unique because he was an Indigenous man from a northern Manitoba First Nation.",
+    "“The way we understand it, he was in Europe when the war started, and he contacted his mother and said, ‘I have to go fight for the defence of women and children,’” Jackiw said.",
+    "“It’s just amazing that someone from there would understand and make a connection with the Ukrainian community in Manitoba and in Ukraine and was willing to defend it.",
+    "Jackiw added that of all the medal recipients, only one had Ukrainian blood.",
+    "“It’s almost to the level of believing in what is right and believing in the democratic values and freedom for everyone,” he said.",
+    "“Regardless of where in the world they believe that is important, and they will defend that.” The medal features four Canadian maple leaves and the Ukrainian trident.",
+    "Lathlin-Bercier‘s name and the date of his passing are engraved on the back.",
+    "At the time of his death, Opaskwayak Cree Nation Chief and Council issued a statement of condolences to his family.",
+    "“By all accounts, Austin was bright, compassionate, and extremely brave,” Chief Maureen Brown wrote.",
+    "The statement went into Lathlin-Bercier‘s life, saying he left the community to teach English in Peru and he had been in Italy and Romania when the war broke out in Ukraine.",
+    "He enlisted right away.",
+    "“The way he lived his life unselfishly and for others is a beacon of bravery for such a young man.",
+    "He lived and offered his life with honour.",
+    "He made our nation proud.” Chief Brown commended his parents and other family members for raising a strong and compassionate man.",
+    "“His life, light and sacrifice will never be forgotten.” -With files from The Canadian Press"
+  ],
+  "topics": {
+    "Military": 0.9590085744857788,
+    "Conflict": 0.9489136338233948,
+    "Culture": 0.9486116170883179,
+    "Health": 0.9353119730949402,
+    "Economy": 0.9303267002105713,
+    "Politics": 0.9229445457458496,
+    "Environment": 0.8626094460487366,
+    "Elections": 0.8416299223899841,
+    "Technology": 0.7876425981521606,
+    "Energy": 0.7776978611946106,
+    "Diplomacy": 0.7029486298561096,
+    "Transport": 0.702820897102356,
+    "Education": 0.5756574869155884,
+    "Crime": 0.4629289507865906
+  },
+  "sentiment": {
+    "positive": 0.87,
+    "negative": 0.13,
+    "neutral": 0.0
+  }
+}

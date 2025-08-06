@@ -1,0 +1,53 @@
+{
+  "title": "Erdogan rilancia i colloqui di pace tra Russia e Ucraina a Istanbul",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1836740/erdogan-mosca-ucraina-colloqui-russia-istanbul-pace-russi",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The Turkish president announces the resumption of negotiations interrupted in 2022, with the aim of a permanent solution The sultan takes up the wires and proposes himself as the great peace wealer in Ukraine.",
+    "This was announced by the Turkish president himself, Recep Tayyip Erdogan, who claims to have received the proposal from the Tsar Vladimir Putin on the phone.",
+    "\"The peace talks between Russia and Ukraine will continue in Istanbul\" from May 15th, \"starting from where they had been interrupted\", in March 2022.",
+    "\"Direct interviews\" that have not been there since then and that, in the hopes of Ankara, can lead to \"a turning point\", \"to a permanent solution\" to the conflict.",
+    "An \"opportunity that must be seized\".",
+    "An opportunity that Erdogan had been waiting for too long and that allows him to play his cards again as a regional power, but in a geopolitical picture changed compared to three years ago.",
+    "Then, in March, the Russian-Ukrainian direct interviews of Antalya, certainly premature after a single month of war.",
+    "But in July the historic agreement on the grain of the Black Sea (then canceled by Moscow a year later), under the UN and USA umbrella, which allowed to restore the trafficking of merchant ships full of wheat and seeds from Ukrainian ports (and in part also Russian) through the Bosphorus and the Dardanelli, under the Turkish supervision, put an end to a global food crisis, was granted.",
+    "The role of Ankara took impetus and Turkey mediated several agreements for exchanges of prisoners between Kiev and Moscow.",
+    "The diplomatic channels, then, dried.",
+    "The cards in the hands of the sultan are substantially the same as then, and make one of the few plausible figures: not entirely neutral, but in balance.",
+    "Turkey has in fact been a member of NATO and for decades aspires to approach, if not to join the European Union.",
+    "Ukraine of weapons and combat drones in the early stages of the war has abundantly supplied in abundance.",
+    "But Erdogan also has good relationships with Moscow: Putin believes a friend and he has looked at herself well from adhering to western sanctions against Russia, continuing to transport Russian gas and oil through its territory.",
+    "Relationships of good neighborhood with both belligerents, maintained with delicate balances.",
+    "With Moscow Erdogan, however, he is competing in strategic territories such as Libya and Syria.",
+    "In the latter, the Turkish position has strengthened with the fall of the Assad regime, supported by Moscow, driven out of the jihadist militias of the new master of Damascus, Ahmad Sharaa (Al-Jolani), which many consider being his creature, and the fate of the Russian bases in Tartus and Latakia is now uncertain.",
+    "The domino collapse of the geopolitical influence in the Iran region, ally of iron of Putin, did the rest.",
+    "Last summer the spokesman for the Kremlin, Dmitri Peskov, said how Turkish mediation was \"impossible\" to the conflict, probably riding the wave of the lens but inexorable Russian advances on the ground in Donbass and elsewhere.",
+    "But today, 10 months later, a new actor entered the scene: Donald Trump, who threw all his political weight on this as on the other wars that upset the globe.",
+    "And Moscow hears the global spotlight on himself, the ball has returned to his field.",
+    "Why not give a chance to his friend-ringer again?",
+    "One way like any other to save appearances, and perhaps take time.",
+    "But his friend Erdogan has shown that he could seize his opportunities."
+  ],
+  "topics": {
+    "Conflict": 0.9882535934448242,
+    "Politics": 0.9769845604896545,
+    "Transport": 0.9661473631858826,
+    "Diplomacy": 0.9632106423377991,
+    "Economy": 0.9298324584960938,
+    "Culture": 0.9175861477851868,
+    "Energy": 0.8833977580070496,
+    "Environment": 0.8320125937461853,
+    "Technology": 0.7509642243385315,
+    "Health": 0.748268723487854,
+    "Military": 0.7122564315795898,
+    "Crime": 0.5559216141700745,
+    "Education": 0.5476531982421875,
+    "Elections": 0.5432983040809631
+  },
+  "sentiment": {
+    "positive": 0.667,
+    "negative": 0.333,
+    "neutral": 0.0
+  }
+}

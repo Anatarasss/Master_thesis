@@ -1,0 +1,40 @@
+{
+  "title": "Cina e Russia rafforzano la cooperazione militare per stabilità globale",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1837972/xi-russia-mosca-cina-cooperazione-stabilita",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Beijing and Moscow intensify strategic links despite international tensions The Chinese armed forces are ready to collaborate with Russia to strengthen mutual strategic trust and expand cooperation.",
+    "This was stated today by the Ministry of Defense of the People's Republic of China in an official note relaunched by the Russian media.",
+    "\"The armed forces of China are ready to cooperate with the Russian part to further deepen mutual strategic trust, strengthen strategic communications and expand pragmatic cooperation under the strategic guidance of the two heads of state\", reads the press release.",
+    "According to the Ministry, the Chinese army \"is also ready to strengthen the dynamics of development of relations with the Russian armed forces and to play an important role in the consolidation of global strategic strategic strategist\".",
+    "The announcement of the Chinese Ministry of Defense gained a few days after the visit of President Xi Jinping to Moscow for the solemn parade held on May 9 to celebrate the day of the victory of the Second World War by the USSR against Nazi Germany.",
+    "China and Russia have further approached in recent years, despite the Russian aggression against Ukraine unleashed in February 2022.",
+    "After the long encounter with President Vladimir Putin, Xi said that the ties between the two countries bring \"positive energy\" to a turbulent world, adding that both nations have firmly departed against \"hegemonic intimidation\", \"bullying\" and \"unilateralism\", in an apparent reference to the battle of the duties wanted by the American president Donald Trump.",
+    "Putin, for his part, said he had traditionally warm and friendly with XI talks \", defining the Chinese leader of his\" dear friend \".",
+    "XI's journey to Moscow, however, aroused the wrath of the allies of Kiev, who accused Beijing of having provided Moscow an economic and political coverage for his war on Ukraine: accusations rejected by the dragon, who claimed to be a neutral part in the conflict and to have made efforts for peace.",
+    "Today, in response to a question linked to the visit of XI and how it would have helped to promote military ties with Russia, the spokesman for the Chinese Ministry of Defense Jiang bin observed that bilateral relations \"operated on another level\".",
+    "In this regard, \"we had frequent high -level exchanges, conducted relating to joint strategic air patrols, joint maritime exercises and we have supported each other in the organization of important commemorative celebrations\", always - concluded Jiang - \"under the strategic guidance of the two heads of state\", XI and Putin."
+  ],
+  "topics": {
+    "Military": 0.9586324691772461,
+    "Politics": 0.8557854890823364,
+    "Conflict": 0.6143469214439392,
+    "Diplomacy": 0.5480245351791382,
+    "Technology": 0.4617127478122711,
+    "Energy": 0.41058531403541565,
+    "Economy": 0.40659967064857483,
+    "Health": 0.3583432137966156,
+    "Culture": 0.35288867354393005,
+    "Transport": 0.32801491022109985,
+    "Environment": 0.2470369189977646,
+    "Crime": 0.2138071358203888,
+    "Elections": 0.2073826789855957,
+    "Education": 0.06341671198606491
+  },
+  "sentiment": {
+    "positive": 0.727,
+    "negative": 0.273,
+    "neutral": 0.0
+  }
+}

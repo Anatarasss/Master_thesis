@@ -1,0 +1,43 @@
+{
+  "title": "Von der Leyen annuncia nuove sanzioni contro la Russia al vertice della Cpe",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1838353/sanzioni-russia-leyen-der-von-cpe-vertice",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The package includes prohibitions on North Stream and limits at the price of crude oil to support Ukraine \"The speakers who preceded me have described the Russian mountains of the last few days.",
+    "To be clear: we want peace.",
+    "And we are working on a next series of sanctions.",
+    "The main elements of this package will be, for example: the ban on access to the north stream; further lists of the shadow fleet; a maximum price lower price for raising; and more penalties on the Russian financial sector\".",
+    "This was announced Ursula von der Leyen to the plenary session of the CPE summit.",
+    "The mere fact of sitting here today, together with you, Volodymyr, is the proof of our iron unity.",
+    "For three long years we have shown our unity, our determination and increasing cooperation, to defend Ukraine's sovereignty, to find a path towards a solution of peace and strong guarantees of security for Ukraine \", underlined Von der Leyen.",
+    "\"Throughout the path, most of the members of the CPE has supported the harsh penalties against Russia.",
+    "These penalties are hitting.",
+    "Russian oil and gas revenues have decreased by almost 80% compared to before the war.",
+    "Russian deficit is at stars.",
+    "Interest rates are prohibitive.",
+    "Inflation is increasing, well over 10%.",
+    "And we are ready to do more to bring President Putin to the Table Negotiations, \"he concluded."
+  ],
+  "topics": {
+    "Politics": 0.6996386051177979,
+    "Conflict": 0.6010173559188843,
+    "Diplomacy": 0.4415200352668762,
+    "Culture": 0.3334029018878937,
+    "Economy": 0.27026399970054626,
+    "Energy": 0.18660284578800201,
+    "Military": 0.1554703414440155,
+    "Technology": 0.06344986706972122,
+    "Environment": 0.014607477001845837,
+    "Crime": 0.014255475252866745,
+    "Transport": 0.012193643487989902,
+    "Health": 0.01120686810463667,
+    "Education": 0.004738465417176485,
+    "Elections": 0.0038299192674458027
+  },
+  "sentiment": {
+    "positive": 0.429,
+    "negative": 0.571,
+    "neutral": 0.0
+  }
+}

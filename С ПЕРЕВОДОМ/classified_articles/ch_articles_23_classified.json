@@ -1,0 +1,49 @@
+{
+  "title": "Keller-Sutter auspica colloqui di pace tra Ucraina e Russia al vertice di Tirana",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1838331/presidente-svizzera-confederazione-vertice-keller-sutter-tirana-russia-ucraina-pace-colloqui",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The Swiss president participates in the European summit and discusses duties with the USA, looking for quick solutions The president of the Confederation Karin Keller-Sutter hopes for talks for peace between Ukraine and Russia.",
+    "Kiev seems ready to sit at the negotiation table, he said upon his arrival at the top of the European political community (CPE) in Tirana.",
+    "\"We will see if you arrive at a solution or not,\" he said, referring to the meetings of Istanbul between Moscow and Kiev.",
+    "However, the situation seems quite tense.",
+    "Sunday - when the president will be in Rome for the pope's intronation - \"maybe there will be more clarity,\" he underlined.",
+    "Keller-Sutter represents Switzerland in the Albanian capital for the European summit.",
+    "Here he will meet \"almost all\".",
+    "A longer interview is expected that the Danish premier puts Frederiksen.",
+    "Copenhagen will take the Presidency of the European Union Council for six months in July.",
+    "The meeting of Tirana was invited 47 between heads of government and state, as well as European institutions.",
+    "Also on the international front, the technical discussions of the Confederation with the United States on customs duties continue.",
+    "Both parts hope an acceleration of the negotiations, highlighted Keller-Sutter on the sidelines of the summit.",
+    "31% customs duties are so high that for use in Switzerland it is vital to avoid such an increase.",
+    "\"For this we have to find a solution quickly.",
+    "At the moment I can't tell you what it will look like.\"",
+    "There is currently no negotiating mandate, but a declaration of intent has been sent to Washington.",
+    "The discussions with the US also focus on non -tariff obstacles to trade, such as tax issues or alleged Swiss monetary manipulations.",
+    "The president of the Confederation firmly rejected these accusations: \"The Swiss National Bank does not handle currencies, is independent\".",
+    "His mandate is aimed at price stability.",
+    "Keller-Sutter did not specify if meetings with US representatives are scheduled in Rome on Sunday."
+  ],
+  "topics": {
+    "Politics": 0.9562336802482605,
+    "Diplomacy": 0.8887459635734558,
+    "Conflict": 0.7137595415115356,
+    "Economy": 0.6175134778022766,
+    "Culture": 0.6124703884124756,
+    "Technology": 0.4566618800163269,
+    "Transport": 0.3710549473762512,
+    "Energy": 0.2994126081466675,
+    "Environment": 0.25477343797683716,
+    "Health": 0.20412832498550415,
+    "Military": 0.18912585079669952,
+    "Elections": 0.18780693411827087,
+    "Crime": 0.13433215022087097,
+    "Education": 0.12443319708108902
+  },
+  "sentiment": {
+    "positive": 0.55,
+    "negative": 0.45,
+    "neutral": 0.0
+  }
+}

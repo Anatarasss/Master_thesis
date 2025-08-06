@@ -1,0 +1,47 @@
+{
+  "title": "Alemania prohíbe la emisión del canal de televisión Russia Today y Moscú anuncia represalias",
+  "published_date": null,
+  "url": "https://www.abc.es/internacional/abci-alemania-prohibe-emision-canal-television-russia-today-y-moscu-anuncia-represalias-202202031302_noticia.html",
+  "original_language": "es",
+  "cleaned_sentences": [
+    "Germany prohibits the broadcast of the television channel Russia Today and Moscow announces reprisals The Germans argue that it lacks authorization, while the chain says that the closure is due to political reasons The German media regulatory agency, the Commission for the Supervision of Media (ZAK), has prohibited dissemination in its territory of the Russian television network Russia Today (RT) claiming that the necessary license has not been requested or granted the authorization required by the Law of Media in force, according to a statement.",
+    "RT has responded that it transmits from Moscow and has a Serbian license to transmit by cable and satellite, which in its opinion allows you to transmit in Germany according to the directives of the European Union.",
+    "\"We cannot understand why a regulator, supposedly informed and independent, acts based on what appears to be an exclusively political motivation, based on a false version of the reality that serves its purposes,\" says a spokesman for the chain, who is not able to refute, however, the statements of the German regulator about the chain to have a writing and is based in Berlin, where no legitimate permission has no.",
+    "\"This decision leaves us another option to take retaliation measures against German media accredited in Russia,\" has been the reaction of the Moscow Foreign Ministry, which advances that these measures will affect \"Internet intermediaries who arbitrarily and unjustified the accounts of the Russian chain on their platforms\", among which YouTube would be found.",
+    "The verdict of the Zak, at the request of a request from the media authority of Berlin and Brandembourg (MABB), which is considered competent for having RT Germany production facilities in the German capital, occurs at a time of enormous tension between the governments of Russia and Germany, fundamentally due to the crisis of Ukraine.",
+    "\"The channel will not stop issuing\" German Chancellor Olaf Scholz has just announced that he will visit \"soon\" Moscow, indicating that diplomatic teams are working at a bilateral meeting before which the two countries will go each with the most solid possible negotiation position.",
+    "In Germany, the RT chain has received numerous criticisms for its editorial line and its limited respect for the facts in the information it transmits, which have been systematically rejected by the chain director, Margarita Simonyan.",
+    "\"The verdict of the German media regulator is an unequivocal sign that Russia's concerns are being ignored and it can be shown that Western countries do not want Russian arguments to be heard,\" he said, in addition to ensuring that the channel \"will not stop issuing.\"",
+    "The RT chain, as a consequence of the lack of license, has already been blocked from the European satellite network at the request of the German authorities, although it is still accessible on the web and through mobile application, waiting for a judicial resource that hopes to present the address shortly.",
+    "Vladimir Soloviev, president of the Russian journalist union, has declared the Russian News Agency Tass that Germany seeks to \"ban an alternative point of view\", violating the \"principles of expression liberated.\"",
+    "RT has caused controversy in several countries, including the United States, where the chain has been urged to legally register as a \"foreign agent\" RT, which is broadcast since 2005, is a public channel that has web pages in several languages, such as English, French, Spanish and Arabic.",
+    "It has caused controversy in several countries, including the United States, where the chain has been urged to legally register as a \"foreign agent.\"",
+    "Also in the United Kingdom, whose authorities threatened to revoke their license, and has been prohibited in several countries, such as Soviet Republics Lithuania and Latvia.",
+    "In Germany the beginning of its broadcasts already suffered difficulties, when the European telecommunications satellite Eutelsat 9B canceled its signal on the platform, and, in August 2021, Luxembourg refused to grant RT a license to issue, justifying the decision in \"information and data provided by the German authorities\" that did not specify.",
+    "However, after consolidating the formation of the new German government, the \"traffic light coalition\", the new Foreign Minister seemed to have changed the official discourse.",
+    "Annalena Baerbock had recently declared that the German authorities could not avoid the activities of the Russian media.",
+    "Alexander Chinschtein, of the Unified Russia Russian russian party, has said that \"it is a political decision and a violation of freedom of expression.\"",
+    "Related news This functionality is only for subscribers Subscribe"
+  ],
+  "topics": {
+    "Conflict": 0.8737123608589172,
+    "Diplomacy": 0.8555787205696106,
+    "Politics": 0.7805606126785278,
+    "Energy": 0.7256321310997009,
+    "Health": 0.7058783173561096,
+    "Environment": 0.7028046250343323,
+    "Culture": 0.6908895969390869,
+    "Technology": 0.6372305750846863,
+    "Transport": 0.5958508253097534,
+    "Economy": 0.5826065540313721,
+    "Elections": 0.563172459602356,
+    "Crime": 0.45280903577804565,
+    "Education": 0.45170488953590393,
+    "Military": 0.4224918484687805
+  },
+  "sentiment": {
+    "positive": 0.056,
+    "negative": 0.944,
+    "neutral": 0.0
+  }
+}

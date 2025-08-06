@@ -1,0 +1,43 @@
+{
+  "title": "Cina e Russia rafforzano la cooperazione militare in risposta alle pressioni occidentali",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1838130/mosca-pechino-russia-cooperazione-cina",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Beijing announces the expansion of the strategic partnership with Moscow, challenging the USA and EU China does not give up Russia.",
+    "Indeed, it aims to expand bilateral military collaboration.",
+    "As the pressure on President Vladimir Putin rises to accept a direct confrontation with the Ukrainian counterpart Volodymyr Zelensky, Beijing runs to the rescue of Moscow and sends a warning to the USA and European Union, ensuring that he wants to \"deepen the strategic mutual trust, insect communication and expand practical cooperation, in order to strengthen the solid impetus of military relations\" with Russia.",
+    "The spokesman for the Ministry of Defense Jiang Bin, in a note, clarified that the purpose of the initiative is to \"enrich the content of the global strategic partnership of China-Russia coordination for a new era and contribute to maintaining and strengthening global strategic strategic strategic\".",
+    "In other words, no one will be able to snatch an agreement on the war in Ukraine with the Kremlin without taking into account Beijing, as part of a now strategic commonality of interests.",
+    "The announcement of the Ministry of Defense matured a few days after the visit of President Xi Jinping to Moscow for the solemn parade of 9 May to celebrate the day of victory, the success of the Red Army on Nazi Germany in the Second World War.",
+    "China and Russia have further approached in recent years, in spite of Moscow's aggression against Ukraine unleashed in February 2022, aiming to contrast the post -war international order led by the United States and West.",
+    "After the long and last meeting with the Tsar, Xi said that the ties between the two countries bring \"positive energy\" to a turbulent world and that the two nations have firmly lifested to contrast \"hegemonic intimidation\", \"bullying\" and \"unilateralism\", in a reference not even veiled to the war of American president Donald Trump.",
+    "Putin, for his part, remarked that he had traditionally warm and friendly with XI interviews \", defining the Chinese counterpart a\" dear friend \".",
+    "XI's journey to Moscow aroused the wrath of the allies of Kiev, EU in the lead, who accused Beijing of having provided Moscow economic and political coverage for his attack on Ukraine, instead of exercising his influence on Putin to encourage a \"just and lasting peace\".",
+    "All accusations rejected by the dragon, who instead claimed to be a neutral part in the conflict and to have made efforts for peace \"from the first moment\".",
+    "The announcement of the Chinese defense ministry is the result of the evolution of bilateral ties.",
+    "In this regard, \"we had frequent high -level exchanges, conducted relating to joint strategic air patrols, joint maritime exercises and we have supported each other in the organization of important commemorative celebrations under the strategic guidance of the two heads of state\", XI and Putin, recalled Jiang.",
+    "Natural, therefore, to think of a greater combined presence in disputed areas and sources of tension, between the southern and eastern Chinese Sea until it affects Taiwan's unresolved knot, the rebel island considered by Beijing \"sacred\" and \"inalienable\" part of its territory to be reunited even by force, if necessary."
+  ],
+  "topics": {
+    "Military": 0.9464207291603088,
+    "Politics": 0.935282826423645,
+    "Diplomacy": 0.7113162279129028,
+    "Culture": 0.6803824305534363,
+    "Energy": 0.5087971687316895,
+    "Conflict": 0.4893096387386322,
+    "Technology": 0.47124341130256653,
+    "Health": 0.439344584941864,
+    "Environment": 0.3289825916290283,
+    "Economy": 0.31581783294677734,
+    "Transport": 0.3146166503429413,
+    "Elections": 0.20159748196601868,
+    "Crime": 0.15675929188728333,
+    "Education": 0.09472286701202393
+  },
+  "sentiment": {
+    "positive": 0.786,
+    "negative": 0.214,
+    "neutral": 0.0
+  }
+}

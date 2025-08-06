@@ -1,0 +1,50 @@
+{
+  "title": "Anzügliche Grafik sorgt für Spott",
+  "published_date": null,
+  "url": "https://www.merkur.de/politik/russland-propaganda-flugzeug-foto-grafik-spott-haeme-lacher-peinlich-92698991.html",
+  "original_language": "de",
+  "cleaned_sentences": [
+    "Russia's TV propaganda: Supervious graphics ensure mockery and malice Russia's state broadcaster Russia-1 wanted to report on the border closures of Finland.",
+    "But an embarrassing breakdown in the representation now provides ridicule and malice.",
+    "Moscow - Russian state television represents the last route between St. Petersburg in Russia and Helsinki, the capital of Finland, by a graphic.",
+    "Until further notice, only one transition remains open.",
+    "It is only embarrassing that the graphic is strongly reminiscent of a male genital organ.",
+    "Russia's state TV shows explicit graphics on the border situation in Finland Evgeny Popov, member of Wladimir Putin's \"United Russia\" party and moderator in the Russian state TV, caused a stir with a report on the border situation in Finland.",
+    "He and his wife Olga Skabejewa, both well -known propagandists, also moderate the program \"60 minutes\".",
+    "The format is known for the spread of misinformation on the Ukraine War.",
+    "Anton Gerashchenko, advisor to the Ukrainian Ministry of the Interior, published an 18 -second section of the show on X (formerly Twitter).",
+    "Popov can be seen on how he faces the suggestive representation of the remaining border crossing and explains the border situation in Finland.",
+    "The authenticity of the presentation cannot be confirmed independently.",
+    "The reactions of other X-users were not long in coming and a wave of ridicule broke out through the presentation.",
+    "For example, users commented on: \"Russian TV presents the penis route.\"",
+    "Finland complains of migration pressure on the border with Russia In the past few weeks, more than 700 migrants from different countries have come across the Russian-Finnish border, whereupon Finland concluded almost all border crossings to Russia.",
+    "Finland blames the Russian government to have triggered the migration movements.",
+    "\"Unfortunately, there are many signs that Russian border officials and possibly other authorities are involved,\" said a spokesman for the Finnish Ministry of the Interior to Reuters.",
+    "He described the continuing migration pressure on the border as the \"hybrid attack surgery\" of Russia.",
+    "Sari Arho, member of the Rusi Thinktank and guest researcher at the University of Helsinki, said in an interview with Newsweek that the \"attack operation\" of Russia could be a reaction to the NATO accession of Finland and the \"Defense Cooperation Agreement with the USA\".",
+    "According to Arho, Finland is ready to \"react to the Russian pressure attempts\", but the situation \"is not easier, but could worsen.\"",
+    "Machine support was used for this article written by the editorial team.",
+    "The article was carefully checked by our employee Nils Hinsberger before publication."
+  ],
+  "topics": {
+    "Conflict": 0.615804135799408,
+    "Culture": 0.5552607774734497,
+    "Technology": 0.46649792790412903,
+    "Politics": 0.45569899678230286,
+    "Economy": 0.2848593294620514,
+    "Military": 0.26904231309890747,
+    "Transport": 0.22496454417705536,
+    "Energy": 0.1828891932964325,
+    "Elections": 0.15606990456581116,
+    "Crime": 0.1199038028717041,
+    "Health": 0.11256851255893707,
+    "Environment": 0.11222440749406815,
+    "Diplomacy": 0.1112874299287796,
+    "Education": 0.0916895940899849
+  },
+  "sentiment": {
+    "positive": 0.143,
+    "negative": 0.857,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Ecco come in Russia si cerca di sottrarre i giovani alla propaganda",
+  "published_date": null,
+  "url": "https://www.cdt.ch/news/ecco-come-in-russia-si-cerca-di-sottrarre-i-giovani-alla-propaganda-393145",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Here's how in Russia we try to subtract young people from propaganda A musical competition that rewards those who perform the best Russian military song, a school trip to go to listen to a speech in favor of the war held by a veteran of the Soviet invasion of Afghanistan, lessons that portray Russia as a victim and the West as an enemy and, again, a weekly lesson lasting an hour that foresees the Russian flag -raising while the national anthem is played and discussions on topics that range from the family values to the military glory of Russia.",
+    "These are just some of the activities related to the patriotic education lessons wanted by Vladimir Putin following the large -scale invasion of Ukraine.",
+    "Initially considered as a marginal initiative that would have worked only in the economically disadvantaged regions where the level of education is low, the new school material soon has attracted throughout the country, making parents and teachers concern war on the effects of indoctrination that could have on children.",
+    "To stem the phenomenon, here are particular countermeasures in families and schools.",
+    "The most widespread, explains the New York Times that dedicates an article to the question, are the creation of unofficial and secret times that are then adopted by the schools in which patriotic education lessons do not find space or the choice of parents to instruct their children at home.",
+    "\"We must constantly play the cat and the mouse with the school: the news continue to sprout like gusts of shots,\" says a mother.",
+    "Patriotic education \"is of fundamental importance for the Kremlin\", explains Andrei Kolesnikov, long -standing political analyst and Novaya Gazeta editorialist.",
+    "\"Putin intends to remain in power for a long time, that's why he needs a younger generation to be educated in the spirit of patriotism, fear or at least of conformism to what is happening\".",
+    "Now, it must be said that most of the population seems to welcome the patriotic education program or, at least, consider it, with resignation, an obligatory step.",
+    "However, a part of the population, in fact, opposes it openly.",
+    "The hours of patriotic education, in some schools, are thus used to review the subjects or to carry out the tasks assigned to the house.",
+    "In other schools, teachers close not an eye, but both in the face of the absences of some students to the patriotic education lessons which, in fact, therefore become optional.",
+    "A mother, for example, says that her eleven year old son jumps this subject to carry out extra mathematical lessons in his place.",
+    "\"There is an official timetable prepared for the authorities and a second time, without propaganda lessons, which the school follows\", clarifies Olga, a 47 -year -old history teacher of Moscow.",
+    "Furthermore, the woman does not pay much attention to the new history textbook personally approved by Putin to teach the Cremlin version of the most recent history in all schools in Russia.",
+    "For other parents, however, in the schools of the country he reigns a toxic atmosphere and therefore decided to cut all bridges with schools and educate their children within the home.",
+    "An option, this, allowed by the Russian law, the only condition: that every year the young educated privately exceed the Russian state exams.",
+    "«I wish to protect my daughter.",
+    "I want it to grow in an atmosphere of peace and acceptance and not in one of war », explains a mother.",
+    "The imperative, for those who contravene the rules imposed by Moscow, is one: to maintain a low profile.",
+    "The fear of retaliation and negative consequences, points out a mother, is in fact real.",
+    "The father of a teenager girl who in 2022 was sentenced to \"have discredited the Russian armed forces\" and lost the custody of the young woman after this had designed a Ukrainian flag during an art course."
+  ],
+  "topics": {
+    "Conflict": 0.9292641282081604,
+    "Education": 0.8939220309257507,
+    "Politics": 0.7776994705200195,
+    "Culture": 0.6411855220794678,
+    "Military": 0.6179178357124329,
+    "Diplomacy": 0.5705490708351135,
+    "Environment": 0.5687351822853088,
+    "Energy": 0.544978678226471,
+    "Technology": 0.5210419297218323,
+    "Transport": 0.5044674873352051,
+    "Crime": 0.4799109101295471,
+    "Economy": 0.4605371356010437,
+    "Elections": 0.4405539333820343,
+    "Health": 0.4313029646873474
+  },
+  "sentiment": {
+    "positive": 0.364,
+    "negative": 0.636,
+    "neutral": 0.0
+  }
+}

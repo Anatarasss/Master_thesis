@@ -1,0 +1,40 @@
+{
+  "title": "Kim Jong-un minaccia l'uso della forza militare contro gli Stati Uniti",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1836532/kim-truppe-russia-stati-leader-forza-jong-un-nord-jong",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The North Korean leader justifies the sending of troops to Russia as an exercise in sovereign rights The North Korean leader Kim Jong-un has ensured that he will not hesitate to use the military force of the hermit country \"if the United States and his vassal states will try to organize\" another attack on Russia.",
+    "\"If they allow them to continue not to mask their military actions against the territory of nuclear power, the Ukrainian puppets will naturally become successful enough to perform even more outrageous and daring attempts, and the troops of Seoul, who are the most faithful lakes of the United States, will become increasingly increasingly reckless\", said Kim in the Kcna report.",
+    "During his visit to the Russian Embassy in Pyongyang made yesterday for the 80 years of the defeat of Nazi Germany by the USSR in the Second World War he said that the sending of North Korean troops in Russia to support the war against Ukraine is \"justifiable\", calling him an exercise in sovereign rights pursuant to a mutual defense treatise with Moscow, Kcna spread today.",
+    "Citing the Treaty of Mutual Defense signed last year with Russia, Kim said he has given the order to send his troops to \"free\" the Kursk front region, being determined to respect him faithfully.",
+    "\"Our involvement in the war is justifiable, and this falls within our sovereign rights,\" Kim said in the congratulations, calling \"heroes\" the North Korean troops engaged in combat against Ukraine.",
+    "Last month North Korea admitted for the first time that he had sent troops to support Moscow against Kiev.",
+    "Seoul's espionage agency has said that the North has unfolded about 15,000 soldiers so far, estimating over 4,700 losses, including about 600 deaths.",
+    "The new treaty of partnership and safety, signed between the two nations in June 2024, provides for the supply of military assistance \"without delay\" if one of the parties undergoes an attack.",
+    "Russia celebrated on Friday in Moscow on the 80th anniversary of the day of victory with a military parade, which was attended by foreign leaders, including Chinese President Xi Jinping.",
+    "Kim was expected to be invited to the celebrations, but did not go to Moscow.",
+    "According to South Korean intelligence, the refusal would be to be connected to safety and logistics reasons."
+  ],
+  "topics": {
+    "Politics": 0.8498367667198181,
+    "Conflict": 0.7756061553955078,
+    "Military": 0.7442449331283569,
+    "Culture": 0.6155790090560913,
+    "Economy": 0.4539104402065277,
+    "Health": 0.37477195262908936,
+    "Technology": 0.3711490333080292,
+    "Transport": 0.30473870038986206,
+    "Diplomacy": 0.28079256415367126,
+    "Environment": 0.23744447529315948,
+    "Energy": 0.17039644718170166,
+    "Elections": 0.15576893091201782,
+    "Crime": 0.11738650500774384,
+    "Education": 0.11378402262926102
+  },
+  "sentiment": {
+    "positive": 0.636,
+    "negative": 0.364,
+    "neutral": 0.0
+  }
+}

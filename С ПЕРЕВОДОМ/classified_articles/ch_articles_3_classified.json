@@ -1,0 +1,53 @@
+{
+  "title": "Putin visita Kursk mentre le tensioni tra Russia e Ucraina restano alte",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1839744/stati-negoziati-putin-ucraina-kursk-russia-tensioni",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "No progress in peace negotiations, while the United States focus on the challenge with China Vladimir Putin visited the Kursk: a symbolic journey in the Russian region that the Ukrainians had tried to invade last year with the declared intent to divert the Russian troops from the offensive in the Donbass and to earn territory to be exchanged in possible negotiations.",
+    "Objectives both failed with the expulsion of Ukrainian troops across the border.",
+    "While the prospects for the same negotiations remain wrapped in the fog.",
+    "Among other things, Moscow has known that he has not yet received any mediation proposal from the Vatican, underlining that \"no decision was made on the headquarters of further negotiations\", after those of Istanbul on May 16 between delegations Russian and Ukraine.",
+    "Russia \"welcomes the availability and efforts of all those countries that wish to contribute to a quick solution,\" assured the Cremlin spokesman, Dmitry Peskov.",
+    "But beyond the declarations of goodwill, there are no signals that Moscow is willing to compromise, not even after the long -awaited phone call two days ago between Putin and Donald Trump.",
+    "The American secretary of state Marco Rubio has declared that he expects that \"between not much, perhaps in a few days, the Russian part will present the terms\" for a possible ceased the fire.",
+    "But Russian Foreign Minister Serghei Lavrov reiterated - as Putin had done after talking to Trump - that for Moscow the decision of a respite must be taken in the context of negotiations that they face \"the background causes of the conflict\".",
+    "So no termination of hostilities before negotiations.",
+    "A point on which the leaders of the willing countries had insisted especially in the mission to Kiev of 10 May, threatening in case of heavy penalties against Moscow, also on behalf of the USA.",
+    "But Trump clearly took the distances.",
+    "Lavrov accused \"Emmanuel Macron, Keir Starmer, Ursula von der Leyen and other European personalities\" to \"ask the United States to join the anti-Russe actions\".",
+    "The United States, according to politician, oppose the inclusion of a commitment to a \"further support\" to Ukraine in the G7 declaration in the processing phase by the finance ministers in Canada.",
+    "Washington would also be reluctant to define the Russian invasion of Ukraine \"illegal\" in the text.",
+    "To this must be added the warnings of Trump who could abandon mediation efforts in the absence of results.",
+    "\"This is not my war\", it goes by repeating the tycoon, and the New York Times wonders if this can mean a future abandonment of Kiev to its destiny.",
+    "From Washington, moreover, clear signals come that the administration is worrying more is the strategic challenge with China.",
+    "\"Every minute and every dollar that we spend in the conflict in Europe is a distraction of attention and resources from a potentially more serious confrontation in the Indus-Pacific,\" Rubio said yesterday in an audition in the Senate.",
+    "As for the fighting, Kiev has announced that six military ones were killed and ten injured in a missile raid on a polygon for training troops in the Sumy region, bordering the Russian of Kursk.",
+    "Ukrainian forces, on the other hand, launched heavy attacks with drones against various Russian regions, including Moscow.",
+    "The Ministry of Defense said that 159 pilot -free aircraft were demolished on the night between Tuesday and Wednesday throughout the country, including 6 in the area of ​​the capital.",
+    "Then, during the day, 11 others were always intercepted in the Moscow region, according to the mayor Serghei Sobyanin.",
+    "The alarms caused the hiccup closing of some of the Moscoviti international airports.",
+    "Temporarily also blocked traffic in the airports of other cities: Vladimir, Ivanovo, Kaluga, Yaroslavl and Kostroma."
+  ],
+  "topics": {
+    "Conflict": 0.9790428280830383,
+    "Politics": 0.8784757256507874,
+    "Military": 0.8238494396209717,
+    "Culture": 0.8215898871421814,
+    "Diplomacy": 0.7943899035453796,
+    "Economy": 0.7818438410758972,
+    "Energy": 0.6688423752784729,
+    "Environment": 0.6619704961776733,
+    "Technology": 0.6619270443916321,
+    "Health": 0.6125248074531555,
+    "Transport": 0.5766536593437195,
+    "Education": 0.4377833604812622,
+    "Crime": 0.40340906381607056,
+    "Elections": 0.36826324462890625
+  },
+  "sentiment": {
+    "positive": 0.125,
+    "negative": 0.875,
+    "neutral": 0.0
+  }
+}

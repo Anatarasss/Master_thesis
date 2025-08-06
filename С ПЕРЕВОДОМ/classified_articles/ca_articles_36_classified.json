@@ -1,0 +1,37 @@
+{
+  "title": "Russian wrestler, former Olympic champion charged with doping",
+  "published_date": null,
+  "url": "https://www.cp24.com/news/sports/2025/05/21/russian-wrestler-who-beat-future-ufc-star-cormier-at-olympics-is-charged-with-doping/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "LAUSANNE, Switzerland — Former Olympic champion wrestler Khadjimourat Gatsalov was charged with doping Wednesday as part of the state-backed cheating scheme in Russia.",
+    "Gatsalov was a gold medalist at the 2004 Athens Olympics.",
+    "He beat future UFC champion Daniel Cormier in a semifinals bout in the freestyle 96-kilogram class.",
+    "The 42-year-old Russian is being prosecuted using evidence from investigations by Richard McLaren and the World Anti-Doping Agency, including data from the Moscow testing laboratory, the International Testing Agency said.",
+    "He tested positive for the banned substance ipamorelin from a sample given in 2015, the ITA said in a statement.",
+    "The drug “stimulates the body’s release of growth hormone, which, in turn, promotes muscle growth, fat loss and recovery,” said the agency based in Lausanne, Switzerland.",
+    "Gatsalov’s provisional suspension during the prosecution also prevents him working as a coach or official at national or international events, the ITA said.",
+    "He won the last of his five world titles in 2013, two years before the positive test."
+  ],
+  "topics": {
+    "Culture": 0.7508196234703064,
+    "Health": 0.6911937594413757,
+    "Conflict": 0.6536960601806641,
+    "Technology": 0.582072913646698,
+    "Military": 0.468659371137619,
+    "Crime": 0.39147406816482544,
+    "Environment": 0.3111417293548584,
+    "Transport": 0.30544334650039673,
+    "Energy": 0.2981747090816498,
+    "Economy": 0.27748754620552063,
+    "Politics": 0.22073180973529816,
+    "Education": 0.08069431781768799,
+    "Diplomacy": 0.06544437259435654,
+    "Elections": 0.060875505208969116
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

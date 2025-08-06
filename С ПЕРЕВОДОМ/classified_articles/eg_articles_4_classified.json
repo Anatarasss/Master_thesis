@@ -1,0 +1,38 @@
+{
+  "title": "مقتل 10 بينهم أطفال.. رحلة تخييم تنتهي بفاجعة في روسيا (صور+فيديو)",
+  "published_date": null,
+  "url": "https://www.akhbaralaan.net/news/world/2023/07/31/%d9%85%d9%82%d8%aa%d9%84-10-%d8%a8%d9%8a%d9%86%d9%87%d9%85-%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%b1%d8%ad%d9%84%d8%a9-%d8%aa%d8%ae%d9%8a%d9%8a%d9%85-%d8%aa%d9%86%d8%aa%d9%87%d9%8a-%d8%a8%d9%81%d8%a7%d8%ac%d8%b9%d8%a9-%d9%81%d9%8a-%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%b5%d9%88%d8%b1%d9%81%d9%8a%d8%af%d9%8a%d9%88",
+  "original_language": "ar",
+  "cleaned_sentences": [
+    "Giant trees eliminate 8 people in Russia Eight people, including three children, spent Russia when trees fell on a camping site in the Russian Marie Al area during \"Hurricane\", according to the local authorities on Sunday.",
+    "Hundreds of people were grabbing the banks of Lake Yalcik when the storm blew Saturday.",
+    "And Mary L is about 650 km east of the capital, Moscow, a Russian region located on the northern bank of the Volga River, and it constitutes Witkkar-first in the main city.",
+    "The Russian investigation committee said in a statement that the bodies of 10 people, including three young children, were found at night after what it described as \"Hurricane\".",
+    "According to the statement, another person died in the hospital.",
+    "In another statement, the Russian Ministry of Emergency cases announced that 29 people were injured and 16 of them were taken to hospital.",
+    "In a message published through the Telegram application, the ministry confirmed that \"the vacationers did not take into account the weather forecast.\"",
+    "The Investigation Committee announced the opening of an investigation to determine if the camp site respects safety standards.",
+    "The ministry explained that a total of ten people were killed, while 76 others were injured in the Volga area, which includes the Marie Al"
+  ],
+  "topics": {
+    "Environment": 0.7521485090255737,
+    "Energy": 0.7136700749397278,
+    "Culture": 0.4971655011177063,
+    "Military": 0.47228124737739563,
+    "Health": 0.3891352713108063,
+    "Conflict": 0.37747976183891296,
+    "Economy": 0.2721925973892212,
+    "Technology": 0.23766404390335083,
+    "Crime": 0.19765231013298035,
+    "Politics": 0.16439372301101685,
+    "Transport": 0.14534641802310944,
+    "Education": 0.10921525210142136,
+    "Diplomacy": 0.06605252623558044,
+    "Elections": 0.0404522605240345
+  },
+  "sentiment": {
+    "positive": 0.111,
+    "negative": 0.889,
+    "neutral": 0.0
+  }
+}

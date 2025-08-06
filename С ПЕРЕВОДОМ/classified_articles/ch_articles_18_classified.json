@@ -1,0 +1,40 @@
+{
+  "title": "Il cancelliere tedesco Merz ribadisce l'importanza dell'Italia come partner strategico",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1838628/merz-politica-meloni-partner-cancelliere-italia",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "During the meeting with Meloni, discussed Ukrainian, Russian penalties and European refugee policy \"Italy is an indispensable strategic partner for us in European and foreign policy\".",
+    "The German chancellor Friedrich Merz said it after the bilateral with the Italian premier Giorgia Meloni.",
+    "Yesterday's interviews on Ukraine \"did not satisfy our expectations despite Ukrainian negotiators had the utmost availability,\" he added.",
+    "\"We will increase the pressure on Russia and on Tuesday there will be the 17th pack of sanctions especially on the shadow fleet on the Baltic Sea\".",
+    "At the moment I do not see the reason to write letters: the courts in Europe decide in their sovereignty and responsibility and we respect it, we must respect it, \"said Merz, during the press conference with Meloni replicating to a question about the circulation of an Italian letter to the ECHR on migrants.",
+    "Letter that Meloni then clarified, however, to be to the European and political partners.",
+    "\"We must have a common European policy for refugees - he added - and a German policy for refugees that corresponds to European rules.",
+    "We have decided to control German borders because necessary, in full correspondence with European law.",
+    "We speak with our European neighbors and we do not decide on their heads and if this interests the courts the solution will be in compliance with the European legal rules\".",
+    "\"I would like to point out expressly - added Merz - my favor for the journey of Premier Meloni to the USA who has found an agreement with Trump, has influence, is one of the main protagonists in Europe so that we can remain next to the US because we know that they are not replaced.",
+    "It is important not to lose sight of the essential, a lasting truce, this is the message we add to Moscow\"."
+  ],
+  "topics": {
+    "Politics": 0.9130738973617554,
+    "Diplomacy": 0.9126575589179993,
+    "Conflict": 0.777012050151825,
+    "Culture": 0.5682193040847778,
+    "Economy": 0.5605827569961548,
+    "Transport": 0.5048223733901978,
+    "Military": 0.44704997539520264,
+    "Crime": 0.3667433559894562,
+    "Energy": 0.32781848311424255,
+    "Technology": 0.31479308009147644,
+    "Health": 0.2546994984149933,
+    "Environment": 0.220762699842453,
+    "Education": 0.1577511429786682,
+    "Elections": 0.11625923961400986
+  },
+  "sentiment": {
+    "positive": 0.545,
+    "negative": 0.455,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Assenti Trump e Putin ai colloqui di pace a Istanbul tra Russia e Ucraina",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1837897/presidente-ucraina-putin-colloqui-trump-istanbul-russia-zelensky",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Russian and Ukrainian delegations meet for direct negotiations, Zelensky open to different formats of dialogue Donald Trump and Vladimir Putin will not be today in Istanbul where direct talks are scheduled with Ukraine.",
+    "The confirmation of the Tycoon arrived last night after the President of the Russian Federation also closed to the possibility of going to Türkiye.",
+    "President Trump - reported US administration officials to CNN - has no intention of going to Türkiye during this week to participate in the interviews of ceased the fire between Russia and Ukraine.",
+    "\"I have a complete agenda,\" said the number one of the White House, which is visiting the Middle East.",
+    "Vladimir Putin for his part has not collected Volodymyr Zelensky's challenge and today he will not be in Istanbul to meet the Ukrainian president face to face.",
+    "To lead the Russian delegation in the first direct negotiations between the two enemies from 2022 will be the same adviser to the Russian leader who was the head of the Moscow negotiators three years ago: the former Minister of Culture Vladimir Medinsky, flanked by the deputy minister of Foreign Affairs Mikhail Galuzin, the deputy minister of defense Alexander Fomin and the Chief of Staff Igor Kostyukov, director of services, director of services, director of services of military intelligence.",
+    "In addition to Putin himself, the Foreign Minister Serghei Lavrov will therefore be absent, reports the Kremlin.",
+    "For the United States, on the other hand, the secretary of state Marco Rubio and the special envoy of the White House Steve Witkoff will be present.",
+    "Aside Ukrainian should be present as mentioned by President Volodymyr Zelensky, accompanied by the head of the Ukrainian Presidency Office, Andrij Yermak, by the Minister of Defense, Rustem Umerov, the Diplomatic Councilor, Igor Zhovkva and the Foreign Minister, Andrij Sybiha.",
+    "However, the Ukrainian president made it known to accept \"any negotiation format\" to end the war, therefore also to negotiations at a lower level, reserving to decide the \"next steps\" depending on who would have represented Russia to the talks.",
+    "As for the contents of the negotiations, Leonid Slutsky, the president of the Duma International Affairs Commission who had participated in the 2022 negotiations, hypothesized that we also talk about a total exchange of prisoners.",
+    "Putin's councilor for foreign policy, Yuri Ushakov, told his part that there will be \"political issues and many technical issues on the table."
+  ],
+  "topics": {
+    "Conflict": 0.8850990533828735,
+    "Politics": 0.8086922764778137,
+    "Diplomacy": 0.7907363176345825,
+    "Military": 0.7525419592857361,
+    "Technology": 0.4158261716365814,
+    "Culture": 0.3935770094394684,
+    "Energy": 0.3541479706764221,
+    "Economy": 0.3379944860935211,
+    "Transport": 0.25598010420799255,
+    "Crime": 0.16514723002910614,
+    "Health": 0.10592065006494522,
+    "Environment": 0.09894751012325287,
+    "Education": 0.07038246840238571,
+    "Elections": 0.06480284035205841
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

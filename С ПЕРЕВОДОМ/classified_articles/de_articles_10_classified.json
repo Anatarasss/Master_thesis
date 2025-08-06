@@ -1,0 +1,42 @@
+{
+  "title": "Wolodymyr Selenskyj provoziert mit T-Shirt: \"Make Russia small again\"",
+  "published_date": null,
+  "url": "https://www.stern.de/politik/ausland/wolodymyr-selenskyj-provoziert-mit-t-shirt---make-russia-small-again--35170550.html",
+  "original_language": "de",
+  "cleaned_sentences": [
+    "The Ukrainian President Wolodymyr Selenskyj thanked the western ally for the new billions of billions.",
+    "The $ 50 billion (around 46 billion euros) of the G7 states help Ukraine with their defense and resilience, as Selenskyj said in Kiev, which was widespread in Kiev.",
+    "He wore a T-shirt with the inscription \"Make Russia Small Again\" (in German: makes Russia small again).",
+    "The spokeswoman for the Russian Ministry of Foreign Affairs, Maria Sacharova, posted a photo of it on Telegram and called Selenskyj a \"full droplet\".",
+    "Selenskyj is pushing for a quick payment of the billion dollar aids Selenskyj emphasized that the money had to flow this year to help Ukraine in her defense fight against the Russian attack war on almost 1000 days.",
+    "The group of the seven major economic nations includes the USA, Canada, Germany, Italy, France, Great Britain and Japan.",
+    "The United States alone has $ 20 billion, $ 20 billion of the EU countries and $ 10 billion from Great Britain, Canada and Japan.",
+    "There should be indirect Russia for this.",
+    "The loan is secured by interest income from frozen Russian state assets.",
+    "It is about a package that the G7 countries and representatives of the European Union had decided at a summit in June.",
+    "Russia has referred to the freezing of his assets abroad and the skimming of interest yields as a robbery, which remains \"not unpunished\".",
+    "Kremlin chief Vladimir Putin also wants to ask himself questions from media at the end of the Brics summit in Kazan at the end of the Brics summit and should once again comment on his war against Ukraine.",
+    "Sources: dpa, Selenkyj video (YouTube)"
+  ],
+  "topics": {
+    "Politics": 0.894027829170227,
+    "Conflict": 0.8443187475204468,
+    "Economy": 0.7231515049934387,
+    "Diplomacy": 0.704514741897583,
+    "Military": 0.6043044328689575,
+    "Culture": 0.46320641040802,
+    "Technology": 0.23751892149448395,
+    "Transport": 0.22849959135055542,
+    "Crime": 0.217152401804924,
+    "Energy": 0.20570708811283112,
+    "Health": 0.1535520702600479,
+    "Environment": 0.13055145740509033,
+    "Elections": 0.052954960614442825,
+    "Education": 0.05203854292631149
+  },
+  "sentiment": {
+    "positive": 0.462,
+    "negative": 0.538,
+    "neutral": 0.0
+  }
+}

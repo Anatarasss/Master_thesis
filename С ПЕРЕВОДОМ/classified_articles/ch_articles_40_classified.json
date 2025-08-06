@@ -1,0 +1,49 @@
+{
+  "title": "L’Artico, il futuro protagonista dell’economia e della logistica",
+  "published_date": null,
+  "url": "https://www.cdt.ch/news/economia/lartico-il-futuro-protagonista-delleconomia-e-della-logistica-393863",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The Arctic, the future protagonist of the economy and logistics The Arctic began to become one of the most important areas not only on a geopolitical, but also economic level, for the enormous resources that contains.",
+    "These are resources possessed or coveted so far by the eight nations that overlook it: Canada, Russia, Iceland, Finland, Norway, Sweden, Denmark (with the \"Appendix\" of Greenland) and the United States.",
+    "In 1996 the Arctic Council had defined it neutral area, but since then the scenarios have changed: competition advances, widens to new actors and is destined to become harder, also favored by the climatic changes that make the arctic route more practical and convenient, facilitating access to the resources present offshore and along the coasts, in particular Siberian ones.",
+    "The Arctic is estimated to hold over 20% of the world reserves of fossil fuels, with over 400 oil and natural gas basins already discovered and others potentially usable, as well as huge quantities of traditional and innovative minerals.",
+    "Russia is the leading power of the area and has been investing in the Arctic, for years now, about a tenth of national resources.",
+    "The pre -eminent position is primarily geographically, for its 24 thousand kilometers of coasts (53% of the total) overlooking it.",
+    "It houses large ports and terminals, such as Mumansk and Arcangelo on the western side and Petropavlovsk-Kamcatsky on the Pacific, in front of Japan.",
+    "There are important naval arsenal, also because the North fleet has always been the flagship of the Russian Navy, as well as aerial and missile bases, as well as radar stations and for the electronic war.",
+    "Added to this are the presences, now symbolic but important and suggestive, of two small ex -Soviet enclaves in the Svalbard islands, Barentsburg and Pyramiden, wanted by Josif Stalin for the extraction of the coal of which the archipelago, now belonging to Norway, is rich.",
+    "In terms of natural resources, Russia holds at least 17.3 billion tons of oil in the Arctic and over 85 trillions of cubic meters of natural gas, over 200 oil and gas basins in the Barents, Beijora and Kara Sea, with others in progress.",
+    "From the Finnish border to the Bering Strait, there are mineral centers rich in gold, platinum, diamonds, chrome, manganese, coal, nickel, cobalt, tungsten, mercury, titanium and other essential substances for old and new technologies.",
+    "Russia has created innovative solutions in the field of production and liquefaction of natural gas in the Arctic environment, as in the case of Novatek systems along the Siberian coasts, also located 700 km north of the Arctic circle, where for several months a year the sun never stands and temperatures often go down to -50 degrees.",
+    "The liquefied gas is transferred to the coastal terminals and boarded on special reinforced tank ships.",
+    "In parallel, Russia is the only nation to have created a nuclear propulsion breed fleet, capable of operating in all conditions, also in the midst of expanses of ice with a thickness of over two meters.",
+    "The growing importance of the Arctic and the new transpolar broken route has stimulated the interest of other countries such as the United Kingdom, Germany, South Korea, Japan, Turkey, as well as of course China, the main partner of Russia and potential primary user of the new logistics channels, so much so that it has already made investments in Greenland and Norway.",
+    "China has self-defined \"Near-Arctic State\" and, in addition to various reasons of interest, attributes a lot of importance to the Arctic, being the main importer and world user of fish products.",
+    "The polar route, currently usable between Asia and Europe for 3-4 months a year, but intended for rapid developments, allows a saving of 10-15 days of navigation compared to the traditional Suez route and economic savings that can reach 40%.",
+    "On all this weighs uncertainties and geopolitical pressures.",
+    "Moscow does not hide the tendency to want to carry out a sort of strategic control on the transits of the road Arctic (so much so that it recently expanded the radar network).",
+    "The Trump administration aims to control Greenland and the disputes regarding the definition of territorial waters between different countries, including Canada, are growing, which in December 2024 defined its new \"Arctic Foreign Policy\" and is now in full clash with Washington."
+  ],
+  "topics": {
+    "Economy": 0.9943551421165466,
+    "Environment": 0.9896549582481384,
+    "Politics": 0.9862915873527527,
+    "Diplomacy": 0.9780563712120056,
+    "Energy": 0.9768299460411072,
+    "Conflict": 0.9731402397155762,
+    "Culture": 0.973050057888031,
+    "Transport": 0.970935583114624,
+    "Health": 0.96693354845047,
+    "Technology": 0.9036015868186951,
+    "Military": 0.8701455593109131,
+    "Elections": 0.8513990640640259,
+    "Education": 0.7675374150276184,
+    "Crime": 0.7069450616836548
+  },
+  "sentiment": {
+    "positive": 0.75,
+    "negative": 0.25,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "L'Icao accusa la Russia per l'abbattimento del volo MH17 nel 2014",
+  "published_date": null,
+  "url": "https://www.laregione.ch/estero/estero/1837150/abbattimento-volo-agenzia-responsabilita-mh17-russia-icao",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The UN agency confirms Russian responsibility, accepting the appeals of Australia and the Netherlands The United Nations Civil Aviation Agency (ICAO) said that Russia is responsible for the demolition of the MH17 flight on 17 July 2014 in Ukraine, in which life 298 lost between passengers and crew members.",
+    "The Board of Directors of the organization based in Montreal, Canada, believed that the appeals presented by Australia and the Netherlands regarding the reduction of the Aerel Airlines plane were \"founded in fact and in law\".",
+    "This is the first decision of the Council of the Organization \"on the merits of a dispute between the Member States\".",
+    "\"The Russian Federation has not respected its obligations pursuant to international air law following the reduction of Malaysia Airlines MH17 flight in 2014,\" reads a press release from the Agency released last night.",
+    "The ICAO stressed that this is the first time in its history that its advice is pronounced on the merits of a dispute between the Member States.",
+    "On 17 July 2014, the Boeing 777 of Malaysia Airlines - in flight from Amsterdam to Kuala Lumpur - crashed into the Donetsk region, in Eastern Ukraine, where the pro -Russian separatist rebels were fighting against Ukrainian forces.",
+    "The plane was struck by a Russian manufacturing Earth-Aia Aiaia Air Missile.",
+    "Two thirds of the victims were Dutch, together with 38 Australians and about 30 Malaysians, with many victims of double citizenship.",
+    "The then Ukrainian president, Petro Poroshenko, called the incident as a \"terrorist act\".",
+    "The pro-Russian rebels in the area affirmed that the scheduled plane had been demolished by a Ukrainian military jet and Russian president Vladimir Putin declared that Ukraine \"has responsibility\".",
+    "The following day, the then president of the United States Barack Obama said that the plane was shot down by a missile launched by a territory controlled by the separatists and that the rebels would not be able to hit it without the Russian support.",
+    "In 2022, a Dutch court condemned three men to the ergastol for the demolition, including two Russians, but Moscow - who has always denied any involvement in the tragedy - refused to extradite them.",
+    "The governments of Australia and the Netherlands welcomed the United Nations Agency's decision last night.",
+    "\"This is a historical moment in the search for truth, justice and responsibility for the victims of the demolition of the MH17 flight, for their families and loved ones,\" said the Australian government in a note.",
+    "He invited the agency to \"move quickly to determine the remedies\" for the violation of international law by Russia.",
+    "\"We invite Russia to finally take on its responsibility for this horrible act of violence and to repair its shameful conduct, as required by international law,\" added the government.",
+    "International investigators suspended investigations on the case last year, stating that there were no enough evidence to identify other suspects."
+  ],
+  "topics": {
+    "Conflict": 0.9101752638816833,
+    "Culture": 0.8419983386993408,
+    "Politics": 0.7100930213928223,
+    "Diplomacy": 0.677344799041748,
+    "Transport": 0.6689063310623169,
+    "Military": 0.6572791934013367,
+    "Economy": 0.6567739248275757,
+    "Technology": 0.6343414783477783,
+    "Energy": 0.47925814986228943,
+    "Health": 0.46039363741874695,
+    "Crime": 0.4354236125946045,
+    "Environment": 0.35765281319618225,
+    "Education": 0.2068725824356079,
+    "Elections": 0.16197094321250916
+  },
+  "sentiment": {
+    "positive": 0.353,
+    "negative": 0.647,
+    "neutral": 0.0
+  }
+}
