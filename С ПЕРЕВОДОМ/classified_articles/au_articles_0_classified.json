@@ -1,0 +1,50 @@
+{
+  "title": "Trump unveils design of $273 billion Golden Dome shield to protect US from Russia and China",
+  "published_date": null,
+  "url": "https://7news.com.au/news/trump-announces-golden-dome-us-defence-shield-design-c-18759861",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "US President Donald Trump has selected a design for the Golden Dome missile defence shield and has named a Space Force general to head the ambitious program aimed at blocking threats from China and Russia.",
+    "Trump announced on Tuesday at a White House press conference that US Space Force General Michael Guetlein would be the lead program manager for what the president said would be a $US175 billion ($A273 billion) project, an effort widely viewed as the keystone to Trump’s military planning.",
+    "Golden Dome will “protect our homeland”, Trump said from the Oval Office and added that Canada had said it wanted to be part of it.",
+    "The office of Prime Minister Mark Carney was not immediately available for comment.",
+    "Know the news with the 7NEWS app: Download today First ordered by Trump in January, Golden Dome aims to create a network of satellites to detect, track and potentially intercept incoming missiles.",
+    "The shield could deploy hundreds of satellites for missile detection and tracking.",
+    "At a cost of $US175 billion ($A273 billion), it will take years to implement, as the controversial program faces both political scrutiny and funding uncertainty.",
+    "Democratic lawmakers have voiced concern about the procurement process and the involvement of Trump ally Elon Musk’s SpaceX, which has emerged as a frontrunner alongside Palantir and Anduril to build key components of the system.",
+    "“The new autonomous space-age defence ecosystem is more about Silicon Valley than it is about ‘big metal,’” Senator Kevin Cramer of North Dakota said at the White House event.",
+    "“So what’s exciting about this is it makes it available to everybody to participate - to compete.” “Big metal” refers to legacy defence contractors.",
+    "The Golden Dome idea was inspired by Israel’s land-based Iron Dome defence shield that protects it from missiles and rockets.",
+    "Trump’s Golden Dome is much more extensive and includes a massive array of surveillance satellites and a separate fleet of attacking satellites that would shoot down offensive missiles soon after lift-off.",
+    "Tuesday’s announcement kicks off the Pentagon’s effort to test and ultimately buy the missiles, systems, sensors and satellites that will make up the Golden Dome.",
+    "Trump, who said the project would be completed by the end of his term in January 2029, said Alaska will be a big part of the program and named Florida, Georgia and Indiana as also benefiting from the project.",
+    "Many of the early systems are expected to come from existing production lines.",
+    "Attendees at the press conference named L3Harris Technologies, Lockheed Martin and RTX Corp as potential contractors for the massive project.",
+    "L3 has invested $US150 million ($A234 million) in building out its new facility in Fort Wayne, Indiana, where it makes the Hypersonic and Ballistic Tracking Space Sensor satellites which are part of a Pentagon effort to better detect and track hypersonic weapons with space-based sensors and could be adapted for Golden Dome.",
+    "Golden Dome’s funding remains uncertain.",
+    "Republican lawmakers have proposed a $US25 billion ($A39 billion) initial investment for Golden Dome as part of a broader $US150 billion ($A234 billion) defence package, but this funding is tied to a contentious reconciliation bill that faces significant hurdles in Congress.",
+    "“Unless reconciliation passes, the funds for Golden Dome may not materialise,” said an industry executive following the program.",
+    "“This puts the entire project timeline in jeopardy.” Stream free on"
+  ],
+  "topics": {
+    "Politics": 0.9861370921134949,
+    "Military": 0.964763879776001,
+    "Technology": 0.9221975803375244,
+    "Diplomacy": 0.9171855449676514,
+    "Conflict": 0.9117786884307861,
+    "Economy": 0.9069867730140686,
+    "Health": 0.9044947624206543,
+    "Energy": 0.8481208682060242,
+    "Crime": 0.843727707862854,
+    "Environment": 0.8352906703948975,
+    "Elections": 0.8098157644271851,
+    "Transport": 0.7958376407623291,
+    "Culture": 0.7910955548286438,
+    "Education": 0.6432445645332336
+  },
+  "sentiment": {
+    "positive": 0.429,
+    "negative": 0.571,
+    "neutral": 0.0
+  }
+}
