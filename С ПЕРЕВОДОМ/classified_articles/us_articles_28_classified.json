@@ -1,0 +1,50 @@
+{
+  "title": "Russia launches largest drone attack against Ukraine since beginning of war, Ukrainian military says",
+  "published_date": null,
+  "url": "https://edition.cnn.com/2025/05/18/europe/russia-largest-drone-attack-ukraine-war-intl",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russia battered Ukraine over the weekend with its largest drone attack since the war began, Ukraine’s military said Sunday, ahead of an expected phone call between US President Donald Trump and Russian President Vladimir Putin on ending hostilities.",
+    "Russia launched 273 Shahed drones in one night, the Ukrainian Air Force said Sunday, predominantly targeting the central Kyiv region, where they killed a 28-year-old woman and wounded three others, including a 4-year-old child, according to the region’s governor.",
+    "More strikes hit overnight, killing at least two people and injuring 13 others, local authorities said Monday.",
+    "The Ukrainian Air Force said Russia launched a further 112 drones in the early hours of Monday, attacking the regions of Kharkiv, Sumy, Donetsk, Cherkasy and Kirovohrad.",
+    "The barrages came as Trump said he would speak to Putin by phone on Monday, which the Kremlin has confirmed.",
+    "The Russian leader has previously ignored a proposal from Washington and Kyiv for a 30-day ceasefire and last week snubbed Ukrainian President Volodymyr Zelensky’s call to meet face-to-face for talks in Istanbul.",
+    "Trump has said he doesn’t think there will be a significant breakthrough on peace talks until he speaks with Putin.",
+    "Kremlin spokesperson Dmitry Peskov said Monday that Russia is “grateful to the American side” for its mediation efforts, adding, “if they really help us achieve our goals by peaceful means, then this is indeed preferable.” The US president is growing frustrated with Putin, Finland’s President Alexander Stubb told local media on Sunday, after he spoke with Trump by phone the day before.",
+    "“Zelensky is patient, but Trump is starting to grow impatient” toward Putin, Stubb told a press conference in Estonia.",
+    "Meanwhile, Russian forces downed 75 Ukrainian drones over the weekend, state-run news agency TASS reported Sunday, citing Moscow’s defense ministry.",
+    "Days of back-and-forth These latest Russian aerial assaults come after a drone attack on a bus in Ukraine’s northeastern region of Sumy killed at least nine people and injured seven Saturday, just hours after the two countries met for the first direct peace talks since the early weeks of Russia’s 2022 invasion.",
+    "The negotiations in Turkey failed to produce a major breakthrough.",
+    "The two countries discussed a possible meeting between their presidents, a ceasefire and agreed a prisoner swap.",
+    "The talks capped days of back-and-forth: Putin called for the face-to-face meeting but did not attend, instead sending a junior delegation after rejecting Ukraine’s proposal of a 30-day ceasefire.",
+    "During the talks, Russia demanded Ukraine cede land that was still under Kyiv’s control, a source familiar with Friday’s negotiations told CNN, a position Ukraine has long dismissed.",
+    "The leaders of the United Kingdom, France, Germany and Poland called Russia’s stance in the talks “unacceptable.” In a TV interview with a Russian state media journalist released Sunday, Putin said he wanted to “eliminate” the causes of the conflict.",
+    "The footage had a date banner reading March 27, but its release Sunday perhaps signals Moscow’s unchanged stance ahead of any future talks.",
+    "Zelensky, for his part, said he had had a “good meeting” Sunday with US Vice President JD Vance and Secretary of State Marco Rubio in Italy, where the trio discussed Friday’s peace talks.",
+    "They also “touched on” Russian sanctions, the battlefield situation and future prisoner swaps, the Ukrainian president added in a post on social media.",
+    "Sunday marked the first meeting between Zelensky and Vance since their spat in the Oval Office in February, where the vice president castigated the Ukrainian leader for purportedly not demonstrating enough gratitude for American support.",
+    "CNN’s Victoria Butenko, Nick Paton Walsh, Olesya Dmitracova, Andrew Carey, Anna Chernova and Lauren Kent contributed reporting."
+  ],
+  "topics": {
+    "Conflict": 0.9351738691329956,
+    "Military": 0.9342665672302246,
+    "Politics": 0.9284459352493286,
+    "Diplomacy": 0.8984777927398682,
+    "Culture": 0.8552868366241455,
+    "Technology": 0.8494559526443481,
+    "Health": 0.8381423354148865,
+    "Economy": 0.7858486771583557,
+    "Elections": 0.7242984771728516,
+    "Environment": 0.7192443013191223,
+    "Crime": 0.6732544898986816,
+    "Education": 0.6417792439460754,
+    "Energy": 0.6340585947036743,
+    "Transport": 0.538104772567749
+  },
+  "sentiment": {
+    "positive": 0.238,
+    "negative": 0.762,
+    "neutral": 0.0
+  }
+}

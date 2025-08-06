@@ -1,0 +1,38 @@
+{
+  "title": "Trump, Putin Set High-Stakes Phone Call",
+  "published_date": null,
+  "url": "https://www.newser.com/story/368900/trump-putin-to-have-high-stakes-phone-call.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Monday has the potential to be a big day with regard to the Russia-Ukraine war: President Trump speaks with Vladimir Putin by phone on Monday morning, followed by a call later to Ukraine's Volodymyr Zelensky.",
+    "\"Hopefully it will be a productive day, a ceasefire will take place, and this very violent war, a war that should have never happened, will end,\" Trump wrote on Truth Social over the weekend, per the New York Times.",
+    "On Sunday night, Trump also spoke with the leaders of Britain, France, Germany, and Italy, reports NBC News.",
+    "\"Tomorrow, President Putin must show he wants peace by accepting the 30-day unconditional ceasefire proposed by President Trump and backed by Ukraine and Europe,\" French President Emmanuel Macron tweeted afterward.",
+    "The Kremlin is paying deference to Trump—\"if the political services of the US—which we highly value and are grateful to the American side—if they actually help us reach our goals with peaceful means, that would indeed be preferable\" to war, said spokesman Dmitri Peskov on Monday.",
+    "However, Russia also unleashed one of its largest drone attacks of the war on Sunday night, reports Reuters.",
+    "Moscow launched more than 270 drones on the Kyiv, Dnipropetrovsk, and Donetsk regions.",
+    "The move comes after Trump implored Putin to stop such attacks last month.",
+    "(More Russia-Ukraine war stories.)"
+  ],
+  "topics": {
+    "Conflict": 0.8706346750259399,
+    "Politics": 0.8705465793609619,
+    "Technology": 0.7151232957839966,
+    "Military": 0.699643611907959,
+    "Economy": 0.6670393347740173,
+    "Culture": 0.6570578217506409,
+    "Diplomacy": 0.6346074342727661,
+    "Crime": 0.5799604058265686,
+    "Health": 0.5174397230148315,
+    "Energy": 0.4791889190673828,
+    "Environment": 0.4111127257347107,
+    "Transport": 0.3550431728363037,
+    "Elections": 0.3337354362010956,
+    "Education": 0.2794961631298065
+  },
+  "sentiment": {
+    "positive": 0.556,
+    "negative": 0.444,
+    "neutral": 0.0
+  }
+}

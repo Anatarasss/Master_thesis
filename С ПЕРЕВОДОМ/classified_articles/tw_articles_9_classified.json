@@ -1,0 +1,44 @@
+{
+  "title": "《TAIPEI TIMES》 Wu slams China over international role",
+  "published_date": null,
+  "url": "https://news.ltn.com.tw/news/focus/breakingnews/3949032",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "《TAIPEI TIMES》 Wu slams China over international role Minister of Foreign Affairs Joseph Wu gives a prerecorded speech at an event in Ottawa on Thursday.",
+    "Photo courtesy of the Ministry of Foreign Affairs ‘COMMON COMPONENT’: Beijing’s actions pose challenges to democracies worldwide, including by colluding with Russia over its invasion of Ukraine, the foreign minister said By Yang Cheng-yu and Jonathan Chin / Staff reporter, with staff writer China is undermining human rights and the international order, Minister of Foreign Affairs Joseph Wu （吳釗燮） told a seminar in Ottawa on Thursday.",
+    "“Most of the challenges we face today have one common component: that is China,” Wu told the event, which was hosted by the University of Ottawa’s Human Rights Research and Education Centre two days before the anniversary of the Tiananmen Square Massacre.",
+    "“In recent years, the Chinese Communist Party has accelerated its authoritarian agenda both at home and abroad,” he said in a prerecorded speech, citing human rights abuses in Xinjiang, Tibet and Hong Kong, as well as a COVID-19-related lockdown in Shanghai.",
+    "“The authoritarian regime that wrote the bloody history of the Tiananmen Massacre 33 years ago is no better today than it was back then,” Wu said.",
+    "“In fact, It is now stronger, smarter, more ruthless and better equipped with economic power and technological capabilities.” These capabilities enable China to undermine democracies around the world, using its military, diplomatic and economic coercion, spreading fake news, and attacking the structure of free trade, he said.",
+    "Beijing has colluded with Russia over Moscow’s war against Ukraine by providing it diplomatic cover and conducting a joint strategic bomber patrol near Japan on Tuesday last week, coinciding with US President Joe Biden’s visit to East Asia, he said.",
+    "Taiwan’s response to the crisis in Ukraine was to promptly donate US$33 million in financial assistance, as well as humanitarian and medical supplies, he said, adding that a substantial portion of the supplies were donated by members of the public.",
+    "Wu also lauded Canada’s role in bolstering the multinational effort to counter authoritarian expansion.",
+    "“Taiwan will always be your [Canada’s] most loyal partner” in the fight to safeguard democracy, he said.",
+    "“In cooperation with Canada and other like-minded countries, Taiwan defends the universal values of freedom, democracy and human rights, despite nonstop coercion from China,” he said.",
+    "Wu said Taiwan’s high-tech sector is crucial to international efforts to restructure global supply chains after COVID-19 shutdowns exposed their dependency on China.",
+    "He urged Canada to support Taiwan’s bid to join the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, saying that the nation meets the trade bloc’s standards.",
+    "The Asia-Pacific region would benefit from its accession, he added.",
+    "Wu thanked the event’s organizers and participants, saying: “Taiwan and my ministry stand ready with you in every possible way to advance our shared cause.” “By working together, we can deter the challenge of authoritarianism, safeguard democracy and human rights, and build a more stable and prosperous world,” Wu said."
+  ],
+  "topics": {
+    "Technology": 0.9719629883766174,
+    "Conflict": 0.9628690481185913,
+    "Culture": 0.9529039859771729,
+    "Politics": 0.9406402111053467,
+    "Economy": 0.9384222030639648,
+    "Diplomacy": 0.8931565880775452,
+    "Health": 0.8677555322647095,
+    "Energy": 0.8473418354988098,
+    "Education": 0.8391587138175964,
+    "Military": 0.8274690508842468,
+    "Elections": 0.8049986958503723,
+    "Transport": 0.8021369576454163,
+    "Environment": 0.791400134563446,
+    "Crime": 0.3739195168018341
+  },
+  "sentiment": {
+    "positive": 0.733,
+    "negative": 0.267,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Putin skipping part of delegation heading to Turkey for Ukraine-Russia peace talks, Kremlin says",
+  "published_date": null,
+  "url": "https://nypost.com/2025/05/14/us-news/putin-wont-be-part-of-delegation-heading-to-turkey-for-ukraine-russia-peace-talks-kremlin-says/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Putin skipping high-stakes Ukraine-Russia peace talks in Turkey, Kremlin says Russian President Vladimir Putin will not attend a high-stakes meeting in Turkey aimed at ending the three-year-long war in Ukraine.",
+    "Despite proposing the direct talks in Istanbul, Putin’s name did not appear on a list released by the Kremlin on Wednesday of Russian officials who would be attending the negotiations, according to the BBC.",
+    "Ukrainian President Volodymyr Zelensky, who has not had a face-to-face meeting with Putin since 2019, is expected to be in Istanbul for the talks taking place on Thursday.",
+    "Zelensky will be joined by a high-level US delegation, led by Secretary of State Marco Rubio.",
+    "President Trump, who is visiting the Middle East, is not expected to attend the meeting, despite floating the possibility that he might earlier this week.",
+    "Russia’s delegation will be headed by top Putin aide Vladimir Medinsky, according to the Kremlin.",
+    "Putin, who ordered the invasion of Ukraine in February 2022, suggested on Sunday that Ukraine and Russia hold direct talks “without pre-conditions” in Turkey’s largest city.",
+    "Trump urged Zelensky to take Putin up on the offer shortly after the proposal was floated.",
+    "“Ukraine should agree to this, IMMEDIATELY,” Trump posted on Truth Social Sunday.",
+    "“At least they will be able to determine whether or not a deal is possible, and if it is not, European leaders, and the U.S., will know where everything stands, and can proceed accordingly!” “HAVE THE MEETING, NOW!!",
+    "!.” the president added.",
+    "The same day, Zelensky announced that he would “be waiting for Putin in Türkiye on Thursday.",
+    "Personally.” Trump, who pledged on the 2024 campaign trail to quickly end the bloodiest conflict in Europe since World War II, is optimistic about the meeting.",
+    "“I think we’re having some pretty good news coming out of there today and maybe tomorrow and maybe Friday, frankly,” he said in Qatar on Wednesday.",
+    "“But we’ll see about that.” Trump added that if a peace agreement is not reached, secondary sanctions could be imposed against Russia.",
+    "“As you know, I put secondary sanctions on Iran again, and hopefully they’re going to make the right decision, because something’s going to happen one way or the other,” he said."
+  ],
+  "topics": {
+    "Conflict": 0.8741152882575989,
+    "Politics": 0.8444975018501282,
+    "Health": 0.6844680309295654,
+    "Culture": 0.6737102270126343,
+    "Technology": 0.6119943261146545,
+    "Diplomacy": 0.5588551759719849,
+    "Environment": 0.44659292697906494,
+    "Economy": 0.42628487944602966,
+    "Transport": 0.31191354990005493,
+    "Elections": 0.3078013062477112,
+    "Military": 0.22464853525161743,
+    "Education": 0.19856952130794525,
+    "Energy": 0.16312439739704132,
+    "Crime": 0.08285525441169739
+  },
+  "sentiment": {
+    "positive": 0.812,
+    "negative": 0.188,
+    "neutral": 0.0
+  }
+}

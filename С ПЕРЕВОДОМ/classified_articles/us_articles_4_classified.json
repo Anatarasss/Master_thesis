@@ -1,0 +1,43 @@
+{
+  "title": "To end the war in Ukraine, make Beijing's bankrolling of Russia's war machine hurt",
+  "published_date": null,
+  "url": "https://nypost.com/2025/05/19/opinion/to-end-the-war-in-ukraine-make-beijings-bankrolling-of-russias-war-machine-hurt/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "If President Donald Trump wants lasting peace in Ukraine, he needs to unleash secondary sanctions on the countries keeping Vladimir Putin’s bloody war going.",
+    "Trump left Monday’s call with Putin in an optimistic mood, posting that the chat “went very well” and that “Russia and Ukraine will immediately start negotiations toward a Ceasefire and, more importantly, an END to the War.” Thing is, Putin’s readout of the call still signaled that he’ll accept nothing less than domination of Ukraine: That’s what he means when he declares the overriding need “to eliminate the root causes of this crisis.” In Vlad’s mind, the “root cause” of the war is Ukraine’s sovereignty, so “Russia is ready to work with Kyiv” toward peace only via Kyiv’s surrender.",
+    "Trump’s going to need to a big stick to get Putin to meaningfully bend.",
+    "Russia illegally invaded under the guise of “de-Nazifying” the country and saving Russian-speaking Ukrainians from “oppression” — grievances impossible to address because they’re baseless.",
+    "In all negotiations so far, Putin has insisted on conditions that would leave Kyiv neutered and vulnerable: demilitarization, NATO membership off the table, letting Russia keep all the territory it’s occupying and then some.",
+    "Vlad won’t back off those demands unless he has no other option.",
+    "Sen. Lindsey Graham (R-SC) has a solution primed and ready: A bill he introduced with Sen. Richard Blumenthal (D-Conn.) to impose a crippling a 500% tariff on imported goods from countries that buy Russian oil, gas, uranium etc.",
+    "That would slam China, which has kept Putin’s war machine chugging with those energy purchases and exporting hundreds of billions in products to Moscow, staving off catastrophic inflation and shortages.",
+    "Without that lifeline, Russia’s already limping economy would go kaput.",
+    "President Xi Jinping sees Putin as an ally in his war on the West, but will only suffer so much economic pain on behalf of Moscow.",
+    "A call from him could force Vlad to face reality at the negotiating table.",
+    "Graham has said that the secondary sanctions bill has enough bipartisan support to pass “if Russia does not embrace an honorable, just and enduring peace.” Putin is making it ever more clear he has no intention to do so.",
+    "Trump should give the go-ahead to start making China’s bankrolling of Moscow’s bloodlust hurt.",
+    "The road to peace in Ukraine goes through Beijing."
+  ],
+  "topics": {
+    "Economy": 0.9963939189910889,
+    "Politics": 0.9878309965133667,
+    "Conflict": 0.9843965172767639,
+    "Energy": 0.9836453795433044,
+    "Culture": 0.9645892977714539,
+    "Diplomacy": 0.9313356876373291,
+    "Military": 0.9272493124008179,
+    "Technology": 0.9261888265609741,
+    "Health": 0.8879786729812622,
+    "Environment": 0.8638125061988831,
+    "Transport": 0.7468662261962891,
+    "Elections": 0.7370378971099854,
+    "Crime": 0.7189010977745056,
+    "Education": 0.540075421333313
+  },
+  "sentiment": {
+    "positive": 0.357,
+    "negative": 0.643,
+    "neutral": 0.0
+  }
+}

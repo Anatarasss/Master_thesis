@@ -1,0 +1,39 @@
+{
+  "title": "Ukraine drones destroy Russian radar, supply depots in the Black Sea",
+  "published_date": null,
+  "url": "https://nypost.com/2025/05/19/world-news/ukraine-drones-destroy-russian-radar-supply-depots-in-the-black-sea/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Ukraine hits back after Russia’s record drone strike — destroying radar, supply depots in the Black Sea A pair of drones destroyed a Russian radar system and military warehouse facilities at a gas production platform in the Black Sea on Monday, according to the Security Service of Ukraine (SBU).",
+    "The strike followed Russia’s mass drone attack on Ukrainian territory on Saturday, which Kyiv said was the largest recorded so far in the bloody 3-plus-year war.",
+    "Footage from the SBU shows the first drone soaring across the Black Sea and crashing into the tower of the gas production site, reportedly taking out a Russian Neva radar used to monitor aerial attacks.",
+    "A second drone flew underneath the plant for a follow-up strike, which was aimed at destroying military supply depots that Ukraine said were being held at the facility.",
+    "“We once again reminded the enemy that no Russian junk has a place in the Black Sea,” the SBU said in a statement.",
+    "“The Security Service of Ukraine continues to develop and implement unique special operations to clear the Black Sea from Russian invaders, their military equipment and other equipment,” the agency added.",
+    "The SBU’s claims could not be independently verified.",
+    "The Black Sea has remained a key conflict site in the Ukraine war after Moscow undermined a US-backed maritime truce deal in March.",
+    "Since then, Kyiv has found success with its drone strikes against Russia’s military sites, including one that took out a Su-30 fighter jet earlier this month.",
+    "Kyiv touted the successful strike against the fighter jet, noting that it followed another first when its naval drones were used to take out two Russian helicopters on the last day of 2024."
+  ],
+  "topics": {
+    "Conflict": 0.9371630549430847,
+    "Military": 0.7474488615989685,
+    "Technology": 0.733231246471405,
+    "Culture": 0.6364287734031677,
+    "Economy": 0.5623902082443237,
+    "Politics": 0.43869972229003906,
+    "Energy": 0.4293026924133301,
+    "Environment": 0.41605108976364136,
+    "Health": 0.39362046122550964,
+    "Diplomacy": 0.2659546136856079,
+    "Transport": 0.26595041155815125,
+    "Crime": 0.24104119837284088,
+    "Education": 0.1183122843503952,
+    "Elections": 0.1004069373011589
+  },
+  "sentiment": {
+    "positive": 0.3,
+    "negative": 0.7,
+    "neutral": 0.0
+  }
+}

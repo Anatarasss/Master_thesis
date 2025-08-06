@@ -1,0 +1,41 @@
+{
+  "title": "Russia adds Amnesty International to 'undesirable' list",
+  "published_date": null,
+  "url": "https://www.upi.com/Top_News/World-News/2025/05/19/Amnesty-International-ban-undesirable/3051747670073/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "May 19 (UPI) -- The Russian government announced Monday that the nonprofit Amnesty International is no longer welcome within its borders.",
+    "The Prosecutor General's Office of the Russian Federation put out a statement that it \"has made a decision to recognize the activities of the international non-governmental organization Amnesty International Limited, registered in London, as undesirable on the territory of the Russian Federation.\"",
+    "The agency then claimed that while \"the organization positions itself as an active conductor of human rights protection in the world,\" it alleges that \"the London headquarters of AIL is the center of preparation of global 'Russophobic' projects, paid for by accomplices of the Kyiv regime.\"",
+    "It then further purported that Amenesty International has not only worked to \"intensify the military confrontation in the region,\" but has also justified \"the crimes of Ukrainian neo-Nazis,\" and has sought an increase for funding of Ukraine as it insists \"on the political and economic isolation of [Russia].\"",
+    "Related \"The organization's members support extremist organizations and finance the activities of foreign agents,\" the agency said.",
+    "The Amnesty Eastern Europe and Central Asia regional office responded Monday with a warning that the Russian declaration means \"any participation in our activities, including donations and reposts, is punishable in the Russian Federation.\"",
+    "\"If you read us from Russia, or are planning to be there, please refrain from sharing our online and offline materials,\" it said.",
+    "\"We will continue to protect human rights in Russia and in the world, and we will keep you informed,\" before a final wish for readers to take care.",
+    "According to AIL, its Moscow office has been shut down since April of 2022 by Russian authorities after the Russian Ministry of Justice delisted it from the register of the representative offices of foreign nongovernmental organizations and international organizations.",
+    "This allegedly came after Russia's media regulator blocked access to Amnesty International's Russian-language website.",
+    "Russia has a list of over 200 \"undesirable organizations,\" which includes the Clooney Foundation for Justice, Radio Free Europe/Radio Liberty and Greenpeace.",
+    "Russian citizens can receive as many as five years in prison for funding or working with any of the groups that have been banned."
+  ],
+  "topics": {
+    "Conflict": 0.7050637006759644,
+    "Politics": 0.6940746307373047,
+    "Culture": 0.4955656826496124,
+    "Economy": 0.45847851037979126,
+    "Military": 0.3997737169265747,
+    "Crime": 0.37843653559684753,
+    "Technology": 0.3630306124687195,
+    "Diplomacy": 0.3106640577316284,
+    "Transport": 0.2648349702358246,
+    "Health": 0.2283167541027069,
+    "Energy": 0.19164179265499115,
+    "Education": 0.1868639439344406,
+    "Elections": 0.17202302813529968,
+    "Environment": 0.09307289123535156
+  },
+  "sentiment": {
+    "positive": 0.083,
+    "negative": 0.917,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Russia-Ukraine peace talks downgraded after Moscow sends junior-level delegation",
+  "published_date": null,
+  "url": "https://www.upi.com/Top_News/World-News/2025/05/15/Turkey-Russia-Ukraine-peace-talks-limbo/9071747297474/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "May 15 (UPI) -- The first direct peace talks between Russia and Ukraine in three years, due to get underway in Turkey on Thursday, were thrown into doubt after it emerged neither President Vladimir Putin nor President Volodymyr Zelensky would be there.",
+    "Zelensky said he would only participate if Putin attended, but the Russian team being sent to Istanbul, posted on X at the last minute in the early hours of Thursday, did not include Putin, Foreign Minister Sergei Lavrov or any senior officials.",
+    "The Russian delegation was hand-picked by a Putin-chaired meeting of high-level diplomatic, security and intelligence officials and military brass, including \"all commanders of groups in the special military operation zone [Ukraine],\" the Kremlin said in a follow up news release some hours later.",
+    "Speaking on arrival at Ankara for talks with Turkish President Recep Tayyip Erdogan, Zelensky accused Russia of sending \"stand-in props,\" prompting Moscow to lash out, calling Zelensky a \"clown and a loser talking about respectable people [the Russian delegation].\"",
+    "Related - EU prepared to levy 17th sanctions package agaisnt Russia over Ukraine war - Zelensky vows to meet 'personally' with Putin for talks to end war - European leaders, Zelensky press Russia for 30-day cease-fire; Putin proposes talks with Ukraine - Trump departs for Middle East on tour to strengthen U.S. ties with Gulf States However, Kyiv also appeared to be taking a cagey approach.",
+    "In a post on X on Wednesday evening, Zelensky said he was still consulting with his senior officials and advisers regarding the team he should dispatch to Turkey, but expressed the hope U.S. President Donald Trump might divert to Istanbul from his Middle East tour as he has twice hinted at doing.",
+    "\"I am waiting to see who will come from Russia, and then I will decide which steps Ukraine should take.",
+    "So far, the signals from them in the media are unconvincing,\" said Zelensky.",
+    "\"This week really may change a lot -- but only may.",
+    "Everything is being decided right now.\"",
+    "Zelensky's office confirmed in a post on X Thursday that the president was accompanied by what it said was a high-level delegation with authority to \"prepare necessary decisions,\" and contrasted its team with Russia's \"rather low-level one,\" which it said had no clear mandate.",
+    "Zelensky previously welcomed Putin's offer on Sunday of \"unconditional\" Russia-Ukraine talks but demanded a face-to-face meeting, saying he would be there in person \"waiting for Putin in Turkey on Thursday.\"",
+    "A team of U.S. officials, led by U.S. Secretary of State Marco Rubio, already on the ground in Turkey for a meeting of NATO foreign ministers in Antalya, was on standby to travel to Istanbul to mediate in the talks.",
+    "\"[President Trump] has been abundantly clear he wants the war to end.",
+    "He's open to virtually any mechanism that gets us to a just, enduring, and lasting peace, and that's what he wants to see,\" Rubio said in comments Thursday before heading into a meeting with NATO Secretary-General Mark Rutte.",
+    "\"We'll see what happens over the next couple of days in that regard, but we want to see progress made.",
+    "And whatever mechanism is outlined, whatever the process is that needs to happen, I mean, we are open to being constructive and helpful in any way we can to end the conflict.",
+    "\"I will say this and I'll repeat it, that there is no military solution to the Russia-Ukraine conflict.",
+    "This war is going to end not through a military solution but through a diplomatic one, and the sooner an agreement can be reached on ending this war, the less people -- less people will die and the less destruction there will be,\" Rubio added.",
+    "The BBC said the Russian delegation had arrived in Turkey and that Russian sources had told it that the talks would go ahead as planned but in the afternoon.",
+    "Ukrainian sources said the meeting was postponed until Friday.",
+    "However, any talks would be a significant step given there have been no direct Russia-Ukraine negotiations since their respective foreign ministers initiated peace talks in Turkey in the very early stages of the war in March 2022.",
+    "Those talks petered out after several weeks without any tangible progress."
+  ],
+  "topics": {
+    "Conflict": 0.9728144407272339,
+    "Politics": 0.9492357969284058,
+    "Diplomacy": 0.9407280087471008,
+    "Culture": 0.8956515192985535,
+    "Economy": 0.8569127917289734,
+    "Environment": 0.8100643754005432,
+    "Health": 0.8029285073280334,
+    "Military": 0.7936802506446838,
+    "Technology": 0.7699649333953857,
+    "Crime": 0.7536594271659851,
+    "Transport": 0.6924348473548889,
+    "Energy": 0.6667923927307129,
+    "Elections": 0.4887624979019165,
+    "Education": 0.4780234396457672
+  },
+  "sentiment": {
+    "positive": 0.304,
+    "negative": 0.696,
+    "neutral": 0.0
+  }
+}

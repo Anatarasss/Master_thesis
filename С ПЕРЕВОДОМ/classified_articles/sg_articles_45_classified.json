@@ -1,0 +1,32 @@
+{
+  "title": "North Korea’s Kim going for high-risk, high-return gamble by joining Ukraine war",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/asia/east-asia/north-koreas-kim-going-for-high-risk-high-return-gamble-by-joining-ukraine-war",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "SEOUL – By throwing in his lot with Russian leader Vladimir Putin and joining the war in Ukraine, North Korean leader Kim Jong Un is taking on the biggest gamble of his leadership, say analysts.",
+    "With North Korea’s economy facing immense difficulties, and growing civil unrest threatening his control of the regime, Mr Kim has calculated that joining the war would bring him more benefits than losses, said Dr Doo Jin-ho, who heads the global strategy division at the Korea Institute for Defence Analyses think-tank.",
+    "Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.9795446395874023,
+    "Culture": 0.9725693464279175,
+    "Economy": 0.9623205065727234,
+    "Politics": 0.9376603364944458,
+    "Military": 0.9178747534751892,
+    "Technology": 0.8712508082389832,
+    "Health": 0.7428097128868103,
+    "Crime": 0.7191985249519348,
+    "Transport": 0.6971807479858398,
+    "Environment": 0.4926609992980957,
+    "Energy": 0.4786352813243866,
+    "Elections": 0.30947425961494446,
+    "Education": 0.19393280148506165,
+    "Diplomacy": 0.07545123249292374
+  },
+  "sentiment": {
+    "positive": 0.667,
+    "negative": 0.333,
+    "neutral": 0.0
+  }
+}

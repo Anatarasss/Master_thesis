@@ -1,0 +1,49 @@
+{
+  "title": "JD Vance meets Pope Leo XIV at the Vatican, gives him a Chicago Bears jersey",
+  "published_date": null,
+  "url": "https://www.cbsnews.com/news/vance-pope-leo-meet-vatican-bears-jersey-gift-trump-pushes-russia-ukraine-deal/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "JD Vance meets Pope Leo XIV at the Vatican, gives him a Chicago Bears jersey Rome — Pope Leo XIV and Vice President JD Vance met at the Vatican on Monday ahead of a flurry of U.S.-led diplomatic efforts aimed at making progress on a ceasefire in Russia's war in Ukraine.",
+    "Vance, a Catholic convert, had led the U.S. delegation to the formal Mass opening the pontificate of the first American pope.",
+    "Joining him at the meeting on Monday was Secretary of State Marco Rubio, who is also Catholic, Vance spokesperson Luke Schroeder said.",
+    "\"There was an exchange of views on some current international issues, calling for respect for humanitarian law and international law in areas of conflict and for a negotiated solution between the parties involved,\" according to a Vatican statement after their meeting.",
+    "There was also a customary exchange of gifts, with Vance presenting the Chicago-born pontiff a Bears jersey bearing the name \"Pope Leo\" and number \"XIV.\"",
+    "The pope is also a White Sox fan, his brother confirmed earlier this month.",
+    "Vance's office said he also gave the pope two books by St. Augustine, \"The City of God\" and \"On \"Christian Doctrine.\"",
+    "The vice president's office noted that Vance chose St. Augustine as his patron saint when he converted to Catholicism and was baptized in 2019.",
+    "Pope Leo had previously been head of the Augustinian order worldwide.",
+    "The Vatican listed Vance's delegation as the first of several private audiences Leo was having Monday with people who had come to Rome for his inaugural Mass, including other Christian leaders and a group of faithful from his old diocese in Chiclayo, Peru.",
+    "The Vatican, which was largely sidelined during the first three years of Russia's invasion of Ukraine, has offered to host any peace talks while continuing humanitarian efforts to facilitate prisoner swaps and reunite Ukrainian children taken by Russia.",
+    "After greeting Leo briefly at the end of Sunday's Mass, Vance spent the rest of the day in separate meetings, including with Ukrainian President Volodymyr Zelenskyy.",
+    "He also met with European Union Commission President Ursula von der Leyen and Italy's Premier Giorgia Meloni, who said she hoped the trialateral meeting could be a \"new beginning.\"",
+    "In the evening, Meloni spoke by phone with President Trump and several other European leaders ahead of Mr. Trump's expected call with Russia's President Vladimir Putin on Monday, according to a statement from Meloni's office.",
+    "Leo, the former Cardinal Robert Prevost, is a Chicago-born Augustinian missionary who spent the bulk of his ministry in Chiclayo, a commercial city of around 800,000 on Peru's northern Pacific coast.",
+    "In the days since his May 8 election, Leo has vowed \"every effort\" to help bring peace to Ukraine.",
+    "He also has emphasized his continuity with Pope Francis, who made caring for migrants and the poor a priority of his pontificate.",
+    "Before his election, Prevost shared news articles on X that were critical of the Trump administration's plans for mass deportations of migrants.",
+    "Vance was one of the last foreign officials to meet with Francis before the Argentine pope's April 21 death.",
+    "The two had tangled over migration, with Francis publicly rebuking the Trump administration's deportation plan and correcting Vance's theological justification for it."
+  ],
+  "topics": {
+    "Culture": 0.7603772878646851,
+    "Conflict": 0.6742181777954102,
+    "Health": 0.5836007595062256,
+    "Economy": 0.5715768337249756,
+    "Diplomacy": 0.5517926216125488,
+    "Education": 0.5483633279800415,
+    "Politics": 0.46932947635650635,
+    "Environment": 0.4468575119972229,
+    "Energy": 0.4153716564178467,
+    "Military": 0.37544453144073486,
+    "Transport": 0.374811053276062,
+    "Crime": 0.2702278792858124,
+    "Technology": 0.22348400950431824,
+    "Elections": 0.15437239408493042
+  },
+  "sentiment": {
+    "positive": 0.95,
+    "negative": 0.05,
+    "neutral": 0.0
+  }
+}

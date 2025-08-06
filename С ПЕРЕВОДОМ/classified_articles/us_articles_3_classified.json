@@ -1,0 +1,42 @@
+{
+  "title": "Former Ukrainian Politician Linked to Russia Is Shot Dead",
+  "published_date": null,
+  "url": "https://www.newser.com/story/369045/former-ukrainian-politician-linked-to-russia-is-shot-dead.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "A former high-ranking Ukrainian politician was shot dead on Wednesday, just after dropping off his children at school in Spain.",
+    "Andriy Portnov, 51, had departed the American School of Madrid in the city's Pozuelo de Alarcon district around 9:15am local time when at least one gunman repeatedly fired at him.",
+    "Portnov, shot at least three times in the head and back as he was getting into his vehicle, died at the scene, per the BBC and AP.",
+    "One alleged gunman, whom witnesses described as thin and wearing a blue tracksuit, fled into the woods of a nearby public park, per the BBC.",
+    "Local media reports suggest he may have had an accomplice on a motorbike.",
+    "The school noted that police were on campus interviewing parents who witnessed the shooting, per Reuters.",
+    "Portnov served as deputy head of Ukraine's presidential office from 2010 to 2014.",
+    "He was a senior aide to Ukraine's former pro-Russian president, Viktor Yanukovych, before Yanukovych's 2014 ouster amid revolution.",
+    "Portnov left Ukraine around that time and was known to be living in Russia in 2015, per the AP.",
+    "He later moved to Austria, returning to Ukraine in 2019, per the BBC.",
+    "Two years later, he was sanctioned by the US Treasury.",
+    "\"Widely known as a court fixer, Portnov was credibly accused of using his influence to buy access and decisions in Ukraine's courts and undermining reform efforts,\" the department said at the time, per the Independent.",
+    "(More Spain stories.)"
+  ],
+  "topics": {
+    "Conflict": 0.7995942234992981,
+    "Politics": 0.7467959523200989,
+    "Crime": 0.6943615674972534,
+    "Culture": 0.6359644532203674,
+    "Technology": 0.5249609351158142,
+    "Health": 0.5047645568847656,
+    "Economy": 0.4973449110984802,
+    "Military": 0.46469929814338684,
+    "Transport": 0.42321068048477173,
+    "Diplomacy": 0.37687066197395325,
+    "Education": 0.3727945387363434,
+    "Environment": 0.3169543147087097,
+    "Energy": 0.31372788548469543,
+    "Elections": 0.3121057152748108
+  },
+  "sentiment": {
+    "positive": 0.308,
+    "negative": 0.692,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Trump says he'll soon meet with Putin, a no-show at peace talks in Turkey",
+  "published_date": null,
+  "url": "https://apnews.com/article/trump-putin-meeting-summit-soon-russia-meet-83ff8027e1860d8480dc7f5567e76062",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "After Putin is a no-show at talks in Turkey, Trump says he’ll meet the Russian leader soon After Putin is a no-show at talks in Turkey, Trump says he’ll meet the Russian leader soon ABU DHABI, United Arab Emirates (AP) — President Donald Trump said Friday he’s moving to set up direct talks with Russian President Vladimir Putin as soon as he can, after Putin opted to skip peace talks between Russia and Ukraine in Turkey.",
+    "“I think it’s time for us to just do it,” Trump told reporters as he wrapped a four-day visit to the Middle East.",
+    "Trump later told reporters after boarding Air Force One to begin the journey back to Washington that he may call Putin soon.",
+    "“He and I will meet, and I think we’ll solve it or maybe not,” Trump said.",
+    "“At least we’ll know.",
+    "And if we don’t solve it, it’ll be very interesting.” Trump reiterated that he wasn’t surprised that Putin skipped out on the talks set for Friday in Turkey.",
+    "Putin didn’t want to go because he’s not there, Trump said.",
+    "The Republican president added that he would hold a meeting with Putin “as soon as we can set it up.” “I would actually leave here and go,” said Trump, who noted his daughter Tiffany just gave birth to her first child.",
+    "“I do want to see my beautiful grandson.” Ukrainian President Volodymyr Zelenskyy agreed to take part in the talks as Trump pressed for the leaders to find a solution to the war, ongoing since Russia’s February 2022 invasion of Ukraine.",
+    "But Putin spurned the call to meet face-to-face with Zelenskyy.",
+    "Trump has pressed both sides to quickly come to a war-ending agreement.",
+    "Zelenskyy has agreed to an American plan for an initial 30-day halt to hostilities, but Russia has not signed on and has continued to strike at targets inside Ukraine.",
+    "Still, Russia and Ukraine were holding their first direct peace talks in three years Friday, gathering in Istanbul for negotiations.",
+    "Officials and observers expect them to yield little immediate progress on stopping the more than 3-year-old war.",
+    "“He didn’t go, and I understand that,” Trump said.",
+    "“We’re going to get it done.",
+    "We got to get it done.",
+    "Five thousand young people are being killed every single week on average, and we’re going to get it done.” Trump on Thursday told reporters that a meeting between himself and Putin was crucial to breaking the deadlock.",
+    "“I don’t believe anything’s going to happen, whether you like it or not, until he and I get together,” Trump said.",
+    "“But we’re going to have to get it solved because too many people are dying.”"
+  ],
+  "topics": {
+    "Politics": 0.9704464673995972,
+    "Conflict": 0.9478238224983215,
+    "Culture": 0.930976390838623,
+    "Energy": 0.9122830033302307,
+    "Economy": 0.8814497590065002,
+    "Military": 0.8751993179321289,
+    "Health": 0.8742021322250366,
+    "Technology": 0.8741474747657776,
+    "Diplomacy": 0.8635180592536926,
+    "Crime": 0.8394450545310974,
+    "Elections": 0.8252463936805725,
+    "Environment": 0.8118488192558289,
+    "Transport": 0.796040415763855,
+    "Education": 0.7792839407920837
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

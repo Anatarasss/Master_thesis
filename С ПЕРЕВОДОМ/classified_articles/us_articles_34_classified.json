@@ -1,0 +1,35 @@
+{
+  "title": "A timeline of the Trump administration’s evolving approach Russia-Ukraine peace talks",
+  "published_date": null,
+  "url": "https://edition.cnn.com/2025/05/16/politics/trump-timeline-russia-ukraine-putin-zelensky-dg",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "President Donald Trump has taken an intense personal interest in ending the war between Ukraine and Russia, recently suggesting that “nothing” will happen until he has an official meeting with Russian President Vladimir Putin.",
+    "Trump and his administration’s views on the negotiations have evolved over time.",
+    "Secretary of State Marco Rubio warned about a month ago that the United States could walk away from mediation efforts between the warring nations if progress were not made within “days.” Now, Trump appears to be publicly pressing for the one-on-one with Putin and implying he’s the only one who can bring the conflict to an end, after months of stalled peace talks.",
+    "Trump has personally oscillated between criticizing Ukrainian President Volodymyr Zelensky, saying he “has no cards” after a highly contentious Oval Office meeting in February, and taking Putin to task, demanding that he “STOP” the attacks and suggesting the Russian leader is “tapping me along.” Lately, it seems Trump’s patience with Putin is waning, as the Russian president blew off the chance to meet directly with Zelensky in Turkey — a face-to-face meeting Putin suggested.",
+    "The Ukrainian and Russian delegations agreed to a prisoner swap on Friday in Istanbul, but a larger peace deal, which Trump once said he could get on Day One of his second presidential term, remains elusive.",
+    "Here’s a look at how we got here:"
+  ],
+  "topics": {
+    "Conflict": 0.9650707840919495,
+    "Politics": 0.8733144998550415,
+    "Diplomacy": 0.7908607721328735,
+    "Culture": 0.6777841448783875,
+    "Military": 0.5030831694602966,
+    "Transport": 0.37053415179252625,
+    "Economy": 0.35012713074684143,
+    "Technology": 0.3101414442062378,
+    "Health": 0.2859269678592682,
+    "Crime": 0.2398553043603897,
+    "Environment": 0.1901451200246811,
+    "Energy": 0.17515939474105835,
+    "Elections": 0.13026177883148193,
+    "Education": 0.12368372082710266
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

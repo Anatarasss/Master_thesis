@@ -1,0 +1,42 @@
+{
+  "title": "Estonia warns Russia may use military force to defend its shadow fleet of tankers dodging sanctions",
+  "published_date": null,
+  "url": "https://www.clickondetroit.com/news/world/2025/05/15/estonia-warns-russia-may-use-military-force-to-defend-its-shadow-fleet-of-tankers-dodging-sanctions/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "ANTALYA – Estonia warned on Thursday that Russia appears willing to defend with military force its shadow fleet of aging tankers dodging international sanctions to keep oil revenue and equipment flowing, even through the territorial waters of European countries.",
+    "Estonian Foreign Minister Margus Tsahkna said that a Russian fighter jet entered NATO airspace in recent days after Estonia’s navy had intercepted a suspected shadow fleet ship in its waters.",
+    "Recommended Videos Tsahkna said the navy stopped the ship, the Jaguar, because it was flying no flag and apparently had no insurance.",
+    "The Russian warplane appeared on the scene while the ship was stopped.",
+    "“This fighter jet violated NATO territory, for one minute.",
+    "This is something very new,” he told reporters at a NATO meeting in Antalya, Turkey.",
+    "He said that NATO aircraft scrambled to intercept the Russian fighter.",
+    "“We need to understand that Russia has officially tied and connected itself to the Russian shadow fleet,” Tsahkna said, and underlined the importance of air patrols over the Baltic Sea, saying that “we need to understand that the situation is really serious.” The shadow fleet is made up of aging tankers bought used, often by nontransparent entities with addresses in non-sanctioning countries such as the United Arab Emirates or the Marshall Islands, and flagged in places like Gabon or the Cook Islands.",
+    "Some of the vessels are owned by the Russian state Sovcomflot shipping company.",
+    "Their role is to help Russia’s oil exporters avoid the $60 per barrel price cap imposed by Ukraine’s allies.",
+    "The European Union has been targeting the ships, which sometimes also carry stolen Ukrainian grain, with sanctions.",
+    "In February, 70 vessels believed to be part of the shadow fleet were added to more than 50 already listed.",
+    "EU foreign ministers are expected next week to slap sanctions on dozens more."
+  ],
+  "topics": {
+    "Conflict": 0.8658868074417114,
+    "Military": 0.7833800315856934,
+    "Politics": 0.629043459892273,
+    "Technology": 0.5861563682556152,
+    "Energy": 0.56902015209198,
+    "Culture": 0.5580576062202454,
+    "Economy": 0.5005043745040894,
+    "Transport": 0.4598521590232849,
+    "Environment": 0.2976369857788086,
+    "Diplomacy": 0.25777822732925415,
+    "Health": 0.22372041642665863,
+    "Crime": 0.15641041100025177,
+    "Elections": 0.10199616849422455,
+    "Education": 0.09724052250385284
+  },
+  "sentiment": {
+    "positive": 0.231,
+    "negative": 0.769,
+    "neutral": 0.0
+  }
+}

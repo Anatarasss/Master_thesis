@@ -1,0 +1,39 @@
+{
+  "title": "Zelensky says Ukraine war will end ‘sooner’ with Trump in office",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/europe/zelensky-says-ukraine-war-will-end-sooner-with-trump-in-office",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "KYIV - Ukrainian President Volodymyr Zelensky said on Nov 15 that Russia’s war against his country will “end sooner” than it otherwise would have done once Donald Trump becomes US president in 2025.",
+    "“It is certain that the war will end sooner with the policies of the team that will now lead the White House.",
+    "This is their approach, their promise to their citizens,” Mr Zelensky said in an interview with Ukrainian media outlet Suspilne.",
+    "“The war will end, but we don’t know the exact date,” he added.",
+    "Mr Zelensky said he had a “constructive exchange” with Trump during their telephone conversation after his victory in the US presidential election.",
+    "“I didn’t hear anything that goes against our position,” he added.",
+    "Throughout the election campaign, Trump criticised the tens of billions of dollars in aid provided for Ukraine since the start of the Russian invasion in February 2022, and he promised he would resolve the conflict “in 24 hours”, without ever explaining how.",
+    "Speaking at his Mar-a-Lago resort in Palm Beach, Florida on Nov 15, Trump said “we’re going to work very hard on Russia and Ukraine.",
+    "Ukraine fears US support will flag just as its troops are struggling on the front, or that it will be forced to make territorial concessions to Russia.",
+    "AFP Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.9058177471160889,
+    "Politics": 0.8310177326202393,
+    "Health": 0.7320143580436707,
+    "Economy": 0.7254335880279541,
+    "Military": 0.7214080691337585,
+    "Technology": 0.7135691046714783,
+    "Culture": 0.688438355922699,
+    "Diplomacy": 0.6774632334709167,
+    "Energy": 0.6733328700065613,
+    "Elections": 0.6638895273208618,
+    "Education": 0.5310090184211731,
+    "Transport": 0.47916218638420105,
+    "Environment": 0.44552600383758545,
+    "Crime": 0.24841062724590302
+  },
+  "sentiment": {
+    "positive": 0.6,
+    "negative": 0.4,
+    "neutral": 0.0
+  }
+}

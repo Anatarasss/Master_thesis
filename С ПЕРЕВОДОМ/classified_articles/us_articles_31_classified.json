@@ -1,0 +1,48 @@
+{
+  "title": "Russia sentences Australian man to 13 years in prison for fighting for Ukraine",
+  "published_date": null,
+  "url": "https://edition.cnn.com/2025/05/17/europe/russia-jails-australian-oscar-jenkins-ukraine-intl-hnk",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russia has sentenced an Australian man to 13 years in a maximum-security prison for fighting alongside Ukrainian forces, state prosecutors in the Russian-controlled parts of eastern Ukraine said Friday.",
+    "Oscar Jenkins, 33, was found guilty by a court in Luhansk of participating in an armed conflict as a mercenary, prosecutors said in a statement, after it ruled he had fought for Ukraine against Russia between March and December last year.",
+    "Australian Foreign Minister Penny Wong said on Saturday that her government was “appalled” by the sentencing, calling it a “sham trial” and urged Russia to treat Jenkins in accordance with international humanitarian law.",
+    "Australia has repeatedly called for the release of Jenkins, who is originally from Melbourne, since he was captured by Russian forces in December.",
+    "“We continue to hold serious concerns for Mr Jenkins.",
+    "We are working with Ukraine and other partners, including the International Committee of the Red Cross, to advocate for his welfare and release,” Wong said in a statement.",
+    "Russian prosecutors accused Jenkins of being paid between $7,400 and $10,000 a month to fight in Ukraine as a mercenary.",
+    "The Kremlin maintains that mercenaries are subject to criminal prosecution and not entitled to prisoner-of-war protections under international law.",
+    "In a photo shared by the Russian-controlled court in Luhansk, Jenkins was seen standing in a glass cage with his hands behind his back.",
+    "The court ordered Jenkins to serve his sentence in a maximum-security penal colony, the prosecutor’s office said.",
+    "Jenkins is thought to have joined an international brigade among the Ukrainian ranks, according to Reuters.",
+    "His arrest came to light late last year when a video surfaced on Russian Telegram accounts purportedly showing Jenkins being taken as a prisoner of war.",
+    "In the footage, which CNN has been unable to geolocate, Jenkins’ hands are tightly bound, and he appears to struggle to understand questions posed to him in Russian.",
+    "A man strikes him twice across the head.",
+    "Speaking in a mix of English, Ukrainian and Russian, he identifies himself as “a soldier” and says he is a teacher in China and a student in Australia.",
+    "Earlier this year, media reports suggesting he might have been killed prompted Canberra to summon the Russian ambassador, with Prime Minister Anthony Albanese vowing the “strongest action” over any harm caused to the man.",
+    "Albanese said last month his government would continue to make representations to the “reprehensible regime” of Russian President Vladimir Putin on behalf of Jenkins.",
+    "Australia has repeatedly condemned Russia’s invasion of Ukraine and has given Kyiv close to $1 billion in assistance since 2022, while its military has provided training for Ukraine’s armed forces.",
+    "CNN’s Hilary Whiteman contributed to this report."
+  ],
+  "topics": {
+    "Conflict": 0.8351189494132996,
+    "Culture": 0.7035342454910278,
+    "Military": 0.61921626329422,
+    "Technology": 0.5919417142868042,
+    "Energy": 0.5390753746032715,
+    "Economy": 0.5095490217208862,
+    "Politics": 0.4995177686214447,
+    "Health": 0.46096786856651306,
+    "Environment": 0.4325583279132843,
+    "Transport": 0.42391693592071533,
+    "Diplomacy": 0.328635573387146,
+    "Education": 0.3167266249656677,
+    "Elections": 0.24513107538223267,
+    "Crime": 0.20907872915267944
+  },
+  "sentiment": {
+    "positive": 0.263,
+    "negative": 0.737,
+    "neutral": 0.0
+  }
+}

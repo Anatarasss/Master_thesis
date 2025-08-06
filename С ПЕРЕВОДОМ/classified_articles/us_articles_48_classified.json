@@ -1,0 +1,43 @@
+{
+  "title": "If Russia won’t go for peace, US must boost Ukraine aid",
+  "published_date": null,
+  "url": "https://nypost.com/2025/05/14/opinion/if-cease-fire-talks-fail-trump-needs-to-boost-ukraine-aid-and-hit-russia-with-sanctions/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Thursday’s talks in Turkey between Moscow and Kyiv will serve as the latest test of whether Vladimir Putin is serious about a cease-fire deal.",
+    "And if Putin fails, President Donald Trump faces a test of his own.",
+    "The prez expressed optimism that “some pretty good news” will emerge from the negotiations.",
+    "Yet Moscow has feigned an interest in peace before, only to show its real stripes.",
+    "Remember, Putin was the one who started this war and who’s broken past cease-fire terms.",
+    "As long as he believes he can gain some advantage, he’ll keep up his attacks — no matter what he “agrees” to.",
+    "So it’s good Trump is threatening secondary sanctions on Moscow if no accord is reached.",
+    "Russia’s economy is already precarious, and it would suffer serious hurt from serious additional blows.",
+    "But getting Putin to accept any realistic peace agreement will likely also require Trump and the West to boost aid to Kyiv — particularly military aid: weapons and equipment that can make a difference on the ground.",
+    "Russia’s been seeing “significant” and increasing troop losses per square mile of territory gained, reports the Institute for the Study of War.",
+    "But it’s poised to more than replace those troops.",
+    "Ukraine badly needs to raise Russia’s costs on the battlefield, if not halt (or even roll back) its recent advances.",
+    "The best news: Trump increasingly seems to realize that Putin, not Volodymyr Zelensky, is the chief obstacle to peace.",
+    "If he truly wants to end the war soon, he’ll need to tighten all the screws on Vlad — to the max."
+  ],
+  "topics": {
+    "Military": 0.9073490500450134,
+    "Politics": 0.9046671986579895,
+    "Economy": 0.9045403599739075,
+    "Conflict": 0.8765264749526978,
+    "Diplomacy": 0.8136946558952332,
+    "Culture": 0.7421314716339111,
+    "Health": 0.6466649174690247,
+    "Technology": 0.6339020729064941,
+    "Crime": 0.619247555732727,
+    "Environment": 0.567061722278595,
+    "Energy": 0.5311695337295532,
+    "Transport": 0.32007133960723877,
+    "Elections": 0.26156020164489746,
+    "Education": 0.26084834337234497
+  },
+  "sentiment": {
+    "positive": 0.357,
+    "negative": 0.643,
+    "neutral": 0.0
+  }
+}

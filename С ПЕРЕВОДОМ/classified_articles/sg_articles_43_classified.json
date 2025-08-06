@@ -1,0 +1,41 @@
+{
+  "title": "Ukraine’s Zelensky says wants to end war by ‘diplomatic means’ next year",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/europe/zelensky-says-wants-to-end-war-by-diplomatic-means-next-year",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "KYIV, Ukraine - Ukrainian President Volodymyr Zelensky said on Nov 16 he would like to end the war with Russia next year through “diplomatic means”.",
+    "He spoke a day after saying he expected the conflict to end sooner than it would otherwise have done, once Donald Trump takes office in the United States next year.",
+    "“For our part, we must do everything we can to ensure that this war ends next year.",
+    "We have to end it by diplomatic means,” Mr Zelensky said in an interview with Ukrainian radio.",
+    "“And this, I think, is very important.” There have been no meaningful talks between Russia and Ukraine, but a Trump presidency raises questions about the future of the conflict, with the Republican repeatedly saying he would end the war swiftly.",
+    "“We have to understand what the Russians want,” Mr Zelensky said.",
+    "Referring to Ukraine, he said: “You are at war with a state that does not value its people, that has a lot of equipment, that does not care how many people die.” Russian President Vladimir Putin has said he will only accept talks with Ukraine if Kyiv surrenders Ukrainian territory that Moscow occupies.",
+    "The Kremlin said he repeated that demand in a phone conversation with German Chancellor Olaf Scholz on Nov 15.",
+    "Mr Zelensky has rejected Mr Putin’s conditions.",
+    "Moscow has made steady advances in eastern Ukraine since this summer, inching closer to key hubs such as Pokrovsk and Kurakhove.",
+    "Mr Zelensky said on Nov 16 that Russian forces were suffering heavy losses and that the adance had “slowed down” in some areas.",
+    "AFP Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Diplomacy": 0.9615894556045532,
+    "Conflict": 0.9416778683662415,
+    "Technology": 0.8996832966804504,
+    "Politics": 0.8964806795120239,
+    "Culture": 0.861833393573761,
+    "Energy": 0.8475362658500671,
+    "Economy": 0.8382697105407715,
+    "Health": 0.834868311882019,
+    "Elections": 0.8156668543815613,
+    "Military": 0.8029816150665283,
+    "Transport": 0.7493749260902405,
+    "Education": 0.7479525208473206,
+    "Environment": 0.7040226459503174,
+    "Crime": 0.5243633389472961
+  },
+  "sentiment": {
+    "positive": 0.417,
+    "negative": 0.583,
+    "neutral": 0.0
+  }
+}

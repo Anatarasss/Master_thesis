@@ -1,0 +1,49 @@
+{
+  "title": "North Korea ratifies mutual defence treaty with Russia",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/asia/east-asia/north-korea-ratifies-mutual-defence-treaty-with-russia",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "SEOUL – North Korea has ratified a landmark defence pact with Russia, state media reported on Nov 12, deepening security cooperation that has seen Pyongyang send thousands of troops to help Moscow fight against Ukraine.",
+    "The agreement formalises months of tightening military bonds between two nations that were Communist allies throughout the Cold War.",
+    "Seoul and ally the United States have accused the nuclear-armed North of sending thousands of soldiers to Russia, where they have been outfitted with Russian uniforms and are, according to reports, massed on the border near Kursk.",
+    "The deal “was ratified as a decree” of North Korean leader Kim Jong Un, the Korean Central News Agency (KCNA) said on Nov 12.",
+    "The notice comes after Russian lawmakers voted unanimously last week to ratify the deal, which President Vladimir Putin later signed.",
+    "“The treaty will take effect from the day when both sides exchange the ratification instruments,” KCNA said.",
+    "North Korea has become one of the most vocal and important backers of Russia’s full-scale offensive on Ukraine.",
+    "Pyongyang has long been accused by Western nations of supplying Moscow with artillery shells and missiles for use in Ukraine, but that support has escalated in recent weeks with the reported arrival of thousands of North Korean troops prepared to engage in combat.",
+    "Mr Putin and Mr Kim signed the strategic partnership treaty in June, during the Kremlin chief’s visit to Pyongyang.",
+    "It obligates both states to provide military assistance “without delay” in the case of an attack on the other, and to cooperate internationally to oppose Western sanctions.",
+    "Mr Putin hailed the deal in June as a “breakthrough document”.",
+    "“With bilateral ratifications, Pyongyang and Moscow will claim legitimacy for North Korea’s military deployment to Russia, arguing that this action is justified by the ratified treaty between the two,” said Mr Hong Min, a senior analyst at the Korea Institute for National Unification.",
+    "“While their treaty does not override UN resolutions prohibiting such cooperation, they will assert its legitimacy based on their agreement,” Mr Hong added.",
+    "“This raises the prospect of additional, potentially larger deployments of North Korean manpower to Russia in the future.” North Korean Foreign Minister Choe Son Hui recently visited Moscow and said her country would “stand firmly by our Russian comrades until victory day”.",
+    "She called Moscow’s offensive against Ukraine a “sacred struggle” and said Pyongyang believed in Mr Putin’s “wise leadership”.",
+    "Citing intelligence reports, South Korea, Ukraine and the West say North Korea has deployed around 10,000 troops to Russia to fight against Ukraine.",
+    "When asked publicly about the deployment in October, Mr Putin did not deny it, instead deflecting the question to criticise the West’s support of Ukraine.",
+    "The West fears Russia is offering North Korea technological support that could advance Pyongyang’s nuclear weapons programme, in exchange for sending troops.",
+    "The reclusive state recently fired a salvo of ballistic missiles, including a test of a new solid-fuel intercontinental ballistic missile.",
+    "AFP Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.9016355872154236,
+    "Military": 0.8954687714576721,
+    "Politics": 0.8931571245193481,
+    "Culture": 0.893156886100769,
+    "Technology": 0.7341526746749878,
+    "Economy": 0.7292741537094116,
+    "Transport": 0.7142267227172852,
+    "Diplomacy": 0.7104048132896423,
+    "Health": 0.684679388999939,
+    "Energy": 0.6251929998397827,
+    "Elections": 0.6143872141838074,
+    "Environment": 0.5998901128768921,
+    "Crime": 0.5098676681518555,
+    "Education": 0.4641153812408447
+  },
+  "sentiment": {
+    "positive": 0.7,
+    "negative": 0.3,
+    "neutral": 0.0
+  }
+}

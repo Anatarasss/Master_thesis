@@ -1,0 +1,40 @@
+{
+  "title": "Ukraine strikes on Russia with US missiles could lead to world war, Russian lawmakers say",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/europe/ukraine-strikes-on-russia-with-us-missiles-could-lead-to-world-war-russian-lawmakers-say",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW - Washington’s decision to let Kyiv strike deep into Russia with long-range US missiles escalates the conflict in Ukraine and could lead to World War III, senior Russian lawmakers said on Nov 17.",
+    "Two US officials and a source familiar with the decision revealed the significant reversal of Washington’s policy in the Ukraine-Russia conflict earlier on Nov 17.",
+    "“The West has decided on such a level of escalation that it could end with the Ukrainian statehood in complete ruins by morning,” Mr Andrei Klishas, a senior member of the Federation Council, Russia’s upper chamber of parliament, said on the Telegram messaging app.",
+    "Mr Vladimir Dzhabarov, first deputy head of the Russian Upper House’s international affairs committee, said that Moscow’s response will be immediate.",
+    "“This is a very big step towards the start of World War III,” the Tass state news agency quoted Mr Dzhabarov as saying.",
+    "Echoing his views, Russian lawmaker Maria Butina said on Nov 18: “These guys, Biden’s administration, is trying to escalate the situation to the maximum while they still have power and are still in office.” “I have a great hope that (Donald) Trump will overcome this decision if this has been made because they are seriously risking the start of World War III which is not in anybody’s interest.” President Vladimir Putin said on Sept 12 that Western approval for such a step would mean “the direct involvement of Nato countries, the United States and European countries in the war in Ukraine” because Nato military infrastructure and personnel would have to be involved in the targeting and firing of the missiles.",
+    "In late October, Mr Putin said that Russia’s defence ministry was working on different ways to respond if the US and its Nato allies help Ukraine to strike deep into Russia with long-range Western missiles.",
+    "“I guess there are some people in the United States who have nothing to lose for whatever reason or who are completely off the grid so much that they simply do not care,” said Ms Butina, who spent 15 months in US prison for acting as an unregistered Russian agent and is now a lawmaker for the ruling United Russia party.",
+    "Mr Leonid Slutsky, chairman of the state Duma Lower House's foreign affairs committee, said that US authorisation of strikes by Kyiv on Russia with US ATACMS tactical missiles would lead to the toughest response, Russian news agencies reported.",
+    "\"Strikes with US missiles deep into Russian regions will inevitably entail a serious escalation, which threatens to lead to much more serious consequences,\" Tass news agency quoted Mr Slutsky as saying.",
+    "REUTERS Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.9699258804321289,
+    "Politics": 0.9282541871070862,
+    "Technology": 0.8830500245094299,
+    "Military": 0.8550230860710144,
+    "Culture": 0.84307861328125,
+    "Economy": 0.7889630198478699,
+    "Health": 0.7887659668922424,
+    "Crime": 0.7677439451217651,
+    "Energy": 0.7354748845100403,
+    "Transport": 0.7253402471542358,
+    "Education": 0.6826748847961426,
+    "Environment": 0.6285337805747986,
+    "Elections": 0.6240851283073425,
+    "Diplomacy": 0.5065136551856995
+  },
+  "sentiment": {
+    "positive": 0.273,
+    "negative": 0.727,
+    "neutral": 0.0
+  }
+}
