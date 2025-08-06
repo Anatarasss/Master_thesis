@@ -1,0 +1,40 @@
+{
+  "title": "【やさしい日本語】ウクライナから 日本(にっぽん)に 逃(に)げてくる 人(ひと)を 助(たす)ける",
+  "published_date": null,
+  "url": "https://www.nishinippon.co.jp/item/n/888975/",
+  "original_language": "ja",
+  "cleaned_sentences": [
+    "[★What is it★Easy Japanese] Help people who are coming from Ukraine to Japan.",
+    "Russia is now attacking its neighboring country, Ukraine.",
+    "Many people have died or fled to other countries.",
+    "There are currently around 1,900 Ukrainians in Japan.",
+    "There are about 80 people in Fukuoka Prefecture.",
+    "The Fukuoka City group, Global Life Support Centre, is engaged in activities to help Ukrainian people.",
+    "It helps Ukrainians in Japan to invite their families and acquaintances to Japan.",
+    "They will teach you how to enter Japan and help you find a home.",
+    "The group has about 100 rooms available for living in Fukuoka and Kitakyushu.",
+    "A member of the group said, \"We would like to create a system to help and spread it all over the country.\"",
+    "The original article is here Easy Japanese We deliver news translated into \"easy Japanese\" that is easy for foreigners and children to understand."
+  ],
+  "topics": {
+    "Conflict": 0.7653228044509888,
+    "Health": 0.7163886427879333,
+    "Economy": 0.694866418838501,
+    "Culture": 0.48571115732192993,
+    "Transport": 0.45624151825904846,
+    "Environment": 0.421233206987381,
+    "Energy": 0.4091685712337494,
+    "Technology": 0.35531726479530334,
+    "Education": 0.3308744430541992,
+    "Crime": 0.21142637729644775,
+    "Elections": 0.175186887383461,
+    "Politics": 0.14749863743782043,
+    "Diplomacy": 0.13979996740818024,
+    "Military": 0.10509496927261353
+  },
+  "sentiment": {
+    "positive": 0.636,
+    "negative": 0.364,
+    "neutral": 0.0
+  }
+}

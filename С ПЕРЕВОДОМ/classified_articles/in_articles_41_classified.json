@@ -1,0 +1,44 @@
+{
+  "title": "Russian drone attack on minibus kills 9 in Ukraine as direct talks with Moscow falter",
+  "published_date": null,
+  "url": "https://www.firstpost.com/world/russian-drone-attack-on-minibus-kills-9-in-ukraine-as-direct-talks-with-moscow-falter-13889252.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Nine people died in eastern Ukraine on Saturday after Russian drones hit a minibus.",
+    "The military administration in Ukraine’s northern Sumy region said that four others were injured in the town of Bilopillia as the vehicle was on its way to Sumy.",
+    "Ukraine’s Sumy border region has come under increasingly deadly bombardments by Moscow since March, when Ukrainian forces were pushed out of Russia’s neighbouring Kursk region, which they had partially controlled since the summer of 2024.",
+    "The attack comes after Russia and Ukraine held their first direct talks since 2022.",
+    "The meeting failed to achieve any breakthrough, although the two countries did agree to swap prisoners.",
+    "“Unfortunately, as a result of a cynical attack by the Russians on a bus with civilians, there are dead,” the Sumy military said in a statement.",
+    "Little progress in talks The first direct talks since the spring of 2022 – shortly after Moscow’s full-scale invasion that February – between Ukraine and Russia in Istanbul resulted in a concrete agreement to exchange 1,000 prisoners each.",
+    "But there were few signs of any progress towards halting the fighting that has dragged on for more than three years, destroyed large swathes of Ukraine and displaced millions of people.",
+    "The two sides said they would “present their vision of a possible future ceasefire”, according to Russia’s top negotiator, Vladimir Medinsky.",
+    "‘Nothing’s going to happen until…’ Meanwhile, US President Donald Trump has asserted that “nothing’s going to happen” on the conflict until he meets Russian President Vladimir Putin face-to-face.",
+    "The Kremlin has said that a meeting between the two leaders is “essential” to make progress in the Ukraine ceasefire talks.",
+    "US Secretary of State Marco Rubio also said on Thursday that the only way a breakthrough in the efforts to end Russia’s war in Ukraine would happen would be through direct talks between Trump and Putin.",
+    "Asked about Rubio’s comments, Kremlin spokesman Dmitry Peskov said on Friday: “There is no doubt that contacts between President Putin and Trump are important in the context of the Ukrainian negotiations.",
+    "We, of course, agree with this thesis.",
+    "The importance of this cannot be overstated.” With inputs from agencies"
+  ],
+  "topics": {
+    "Conflict": 0.9669709205627441,
+    "Military": 0.9283019304275513,
+    "Transport": 0.8899957537651062,
+    "Politics": 0.8791854381561279,
+    "Diplomacy": 0.8365576267242432,
+    "Technology": 0.7439562082290649,
+    "Health": 0.715284526348114,
+    "Crime": 0.6986629962921143,
+    "Culture": 0.678333580493927,
+    "Economy": 0.6764929890632629,
+    "Energy": 0.6228564977645874,
+    "Elections": 0.4724029004573822,
+    "Environment": 0.3894934356212616,
+    "Education": 0.3381243646144867
+  },
+  "sentiment": {
+    "positive": 0.267,
+    "negative": 0.733,
+    "neutral": 0.0
+  }
+}

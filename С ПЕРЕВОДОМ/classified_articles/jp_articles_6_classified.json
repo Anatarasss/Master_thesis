@@ -1,0 +1,43 @@
+{
+  "title": "【やさしい日本語】ウクライナから 逃(に)げて 来(き)た 人(ひと)は、日本(にっぽん)での 生活(せいかつ)が 長(なが)く なってきた",
+  "published_date": null,
+  "url": "https://www.nishinippon.co.jp/item/n/979406/",
+  "original_language": "ja",
+  "cleaned_sentences": [
+    "[Easy Japanese] People who have escaped from Ukraine have become more and more prolonged in Japan.",
+    "People who came from Ukraine It has been six months since Russia attacked its neighboring country, Ukraine.",
+    "The war is still going on.",
+    "About 200 people fled from Ukraine to Kyushu.",
+    "I've been living in Japan for a long time, but I have many problems with work and language.",
+    "It's hard to find work.",
+    "Even if you find a job, it may not last long.",
+    "A woman who worked in Fukuoka City cleaning and tidying up work stopped after 11 days.",
+    "The government office is helping Ukrainians live their lives.",
+    "I taught Japanese and prepared a house.",
+    "But it's difficult to help a lot of people.",
+    "A government official said, \"I would like to support you so that you can work and live your life.\"",
+    "The original article is here Read the news You can also hear the voices.",
+    "Easy Japanese We deliver news translated into \"easy Japanese\" that is easy for foreigners and children to understand."
+  ],
+  "topics": {
+    "Economy": 0.9207372665405273,
+    "Conflict": 0.9060106873512268,
+    "Culture": 0.8863229155540466,
+    "Health": 0.7245354652404785,
+    "Environment": 0.7101736664772034,
+    "Technology": 0.6187229752540588,
+    "Energy": 0.6038557887077332,
+    "Transport": 0.5971892476081848,
+    "Education": 0.5585156679153442,
+    "Politics": 0.5200488567352295,
+    "Diplomacy": 0.47893646359443665,
+    "Crime": 0.4148749113082886,
+    "Elections": 0.39918041229248047,
+    "Military": 0.37761828303337097
+  },
+  "sentiment": {
+    "positive": 0.357,
+    "negative": 0.643,
+    "neutral": 0.0
+  }
+}

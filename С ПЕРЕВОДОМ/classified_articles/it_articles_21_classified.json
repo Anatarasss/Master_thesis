@@ -1,0 +1,53 @@
+{
+  "title": "Zelensky-Vance, mezz'ora di vertice a Roma nel giorno dell'insediamento di Papa Leone XIV",
+  "published_date": null,
+  "url": "https://www.ilfattoquotidiano.it/2025/05/18/zelensky-vance-mezzora-di-vertice-a-roma-nel-giorno-dellinsediamento-di-papa-leone-xiv/7992997/",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Zelensky-Vance, half an hour of summit in Rome on the day of the settlement of Pope Leo XIV Half an hour of face face at Villa Taverna, residence of the Ambassador of the United States to Rome.",
+    "As had happened for the funeral of Pope Francis, the day of Leone XIV's settlement also turned into the occasion for a summit between the USA and Kiev.",
+    "If on the day of the last greeting to Bergoglio Volodymyr Zelensky he had met Donald Trump, this time the Ukrainian leader was throttled with JD Vance.",
+    "The two spoke \"of the situation at the front, of the preparations in view of the exchange of Monday\" between Trump and Vladimir Putin, \"of the possibility of sanctions against Russia in the absence of results, and of a ceased the fire\", explained a source of the Ukrainian presidency.",
+    "Marco Rubio was also present at the top.",
+    "\"Particular attention was paid to the implementation of the economic partnership agreement between Ukraine and the United States.",
+    "The Head of State has declared that he had sent a letter to President Trump with new cooperation proposals in the sectors of the defense and trade industry\", reads a note from the Ukrainian presidency.",
+    "The US vice -president met Zelensky in the first interview after the clash at the February White House.",
+    "In the oval studio, before Trump intervened hard, Vance had accused Zelensky of lacking compared to the US administration who was \"preventing the destruction of your country\".",
+    "The two politicians had met briefly in the morning at the installation of Pope XIV and had tightened their hand.",
+    "Then Zelensky had been received by the Pope in the study of the Paul VI Hall, officially inviting him to Ukraine.",
+    "\"After the inaugural mass, we had a meeting with Pope Leo XIV.",
+    "We are grateful to His Holiness for the hearing.",
+    "For millions of people all over the world, the pontiff is a symbol of hope for peace.",
+    "The authority and the voice of the Holy See can play an important role in putting an end to this war\", wrote on social media Zelensky.",
+    "\"We thank the Vatican for its willingness to act as a platform for the direct negotiations between Ukraine and Russia,\" he added, \"we are ready for dialogue in any form to obtain tangible results.",
+    "We appreciate the support for Ukraine and the clear stance to defend a just and lasting peace\".",
+    "The pope to the settlement mass: \"In Gaza people die of hunger, Kiev awaits negotiations\".",
+    "Then he sees Zelensky Read article Last updated 5 days Fapoi on X The Ukrainian leader revealed the contents of the meeting with Vance.",
+    "\"We talked about the need for sanctions against Russia, bilateral trade, defense cooperation, the situation on the battlefield and the next exchange of prisoners\".",
+    "Zelensky claimed that \"pressure is needed on Russia until they are willing to end the war\".",
+    "\"Obviously we talked about our joint steps to obtain a right and lasting peace\", writes the Ukrainian president still explaining that in today's interview \"we discussed the negotiations of Istanbul where the Russians sent a low level delegation that has no decision -making power\".",
+    "After a series of rumors, the White House specified that President Trump did not participate in today's summit in Villa Taverna.",
+    "Vance and Zelensky also spoke of the phone call foreseen tomorrow between the US president and Vladimir Putin."
+  ],
+  "topics": {
+    "Politics": 0.9889567494392395,
+    "Conflict": 0.9802817702293396,
+    "Diplomacy": 0.9431602954864502,
+    "Economy": 0.8627984523773193,
+    "Military": 0.8176540732383728,
+    "Culture": 0.8043580055236816,
+    "Crime": 0.7604545950889587,
+    "Energy": 0.7597641348838806,
+    "Technology": 0.657209038734436,
+    "Health": 0.6335657835006714,
+    "Environment": 0.43440282344818115,
+    "Transport": 0.42062807083129883,
+    "Education": 0.2963082790374756,
+    "Elections": 0.17298829555511475
+  },
+  "sentiment": {
+    "positive": 0.583,
+    "negative": 0.417,
+    "neutral": 0.0
+  }
+}

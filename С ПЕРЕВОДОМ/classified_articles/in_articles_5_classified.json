@@ -1,0 +1,48 @@
+{
+  "title": "'Bring them home': Ukraine and Russia exchange 800 POWs in largest prisoner swap since 2022",
+  "published_date": null,
+  "url": "https://www.firstpost.com/world/bring-them-home-ukraine-and-russia-exchange-800-pows-in-largest-prisoner-swap-since-2022-13891187.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Ukraine and Russia have begun the largest prisoner swap since Moscow launched its offensive in 2022, with almost 800 captives to be freed over the coming days.",
+    "Announcing the commencement of the first phase of the exchange, Ukrainian President Volodymyr Zelenskyy said that Kyiv returned 390 people to Russia on Friday and said that the process of prisoner swap would continue over the weekend.",
+    "Russia said it had received 270 Russian troops and 120 civilians, including some from parts of its Kursk region captured and held by Kyiv for months.",
+    "“The agreement on the release of 1,000 of our people from Russian captivity was almost the only real result of the [direct talks between Russia and Ukraine a week ago in] Turkey,” Zelenskyy said, adding, “It’s very important to bring everyone home.” After they stepped off the bus, tearful relatives rushed to embrace the soldiers while others held pictures of their loved ones, hoping to find out if they had been seen in captivity.",
+    "Many of the soldiers were draped in bright yellow and blue Ukrainian flags.",
+    "US President Donald Trump congratulated both sides on the momentous exchange and said, “This could lead to something big??",
+    "?” suggesting a breakthrough in peace talks.",
+    "After 39 months of fighting, thousands of POWs are held in both countries.",
+    "Russia is believed to have the larger share, with the number of Ukrainian captives held by Moscow estimated to be between 8,000 and 10,000.",
+    "Where does the peace deal stand?",
+    "Meanwhile, there seems to be some progress in peace talks between the two sides after discussions faltered in Turkey last week.",
+    "Russian Foreign Minister Sergei Lavrov on Friday said that Moscow is ready to hand Ukraine a draft document outlining conditions for a long-term peace accord after the process of prisoner exchange is completed.",
+    "He also accused Ukraine of launching waves of drone attacks over several days on Russian targets that caused casualties and disrupted air traffic.",
+    "He suggested European countries had encouraged Kyiv to launch the attacks to undermine peace efforts led by U.S. President Donald Trump.",
+    "💬 Russia's FM Sergey #Lavrov: The Ukrainian side launched a record number of combat drones.",
+    "— MFA Russia 🇷🇺 (@mfa_russia) May 23, 2025 ❗️We are witnessing a clear attempt to derail peace talks and disrupt the process that began in Istanbul.",
+    "We will continue working on that despite provocations.",
+    "pic.twitter.com/eYcq18wWIA Lavrov said the surge of Ukrainian drone attacks – some 800 sent against Russian targets over the last three days – was “a direct consequence” of support for Ukraine by European Union countries whose leaders visited Kyiv in recent days.",
+    "With inputs from agencies"
+  ],
+  "topics": {
+    "Politics": 0.9254416823387146,
+    "Conflict": 0.9233981966972351,
+    "Culture": 0.8099855780601501,
+    "Technology": 0.7830728888511658,
+    "Military": 0.7343589067459106,
+    "Economy": 0.6605901122093201,
+    "Energy": 0.569238007068634,
+    "Health": 0.4998306930065155,
+    "Environment": 0.49267515540122986,
+    "Elections": 0.4157902002334595,
+    "Diplomacy": 0.3697934150695801,
+    "Transport": 0.35952135920524597,
+    "Education": 0.30854761600494385,
+    "Crime": 0.2877197265625
+  },
+  "sentiment": {
+    "positive": 0.526,
+    "negative": 0.474,
+    "neutral": 0.0
+  }
+}

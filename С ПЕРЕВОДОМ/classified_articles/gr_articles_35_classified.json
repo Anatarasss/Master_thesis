@@ -1,0 +1,50 @@
+{
+  "title": "Ο διευθυντής του Russia Today ζήτησε \"να πνιγούν ή να καούν τα παιδιά στην Ουκρανία\"",
+  "published_date": null,
+  "url": "https://www.lifo.gr/now/world/o-dieythyntis-toy-russia-today-zitise-na-pnigoyn-ta-paidia-stin-oykrania",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "The director of the Russian state television network Russia Today apologized for the statement that \"the children of Ukraine must drown or burn\".",
+    "The Russian television presenter apologized for the heinous statement, through which he called on the Ukrainian children, with Russia's state research committee declaring that he was investigating his comments.",
+    "During a broadcast, aired last week on the state -controlled RT broadcasting body, presenter Anton Krasovsky said that Ukrainian children who consider the Russians to conquer a Soviet Union would have to \"fly straight into a river with a powerful river\".",
+    "Ukraine said yesterday that RT is motivating genocide and should be banned worldwide.",
+    "Margarita Simonyan, the channel's editor -in -chief, replied that he made Krasovsky on the availability of his \"disgusting\" comments, adding that no one in RT shares his views.",
+    "- маргарита Симоньян (@M_simonyan) october 23, 2022 Недоумение, что Скажешь.",
+    "After Salo, Krasovsky said in a post on social media that he was \"really ashamed\".",
+    "\"It happens ... You're in the air and you are drifting.",
+    "I ask for forgiveness for all those who were shaken by it, \"he said.",
+    "State television, which is largely controlled by the Kremlin, has strongly supported Russia's invasion of Ukraine, often calling on Vladimir Putin to follow an even more aggressive approach to the war.",
+    "But Krasovsky's comments seem to have exceeded the limits for the authorities.",
+    "The investigative committee, which handles serious crimes, said she was asked to examine his \"sharp statements\" and ordered a report.",
+    "Krasovsky is a well -known philosopher commentator on Russian television, where sanctions have been imposed by the European Union.",
+    "Last week's broadcast, he also argued that all Ukrainians had to be exterminated and that they would burn them alive in their homes and shoot them while joking for the rape of Ukrainian women.",
+    "\"Governments that have not yet banned RT must watch this excerpt,\" Ukraine Foreign Minister Dmytro Kuleba told Twitter, referring to an interview with an excerpt.",
+    "He said Ukraine would refer Krasovsky to trial for \"aggressive motivation of genocide\".",
+    "Governments which still have not banned RT must watch this Excerpt.",
+    "This is what you say with if you allow RT to operate in your counties.",
+    "Aggressive Genocide Incitement (we will get this person on trial for it), which is not to do with freedom of speech.",
+    "- Dmytro Kuleba (@dmytrokuleba) October 23, 2022 In a statement on the RT website, Margarita Simonyan said: \"For the children of Ukraine, as well as Donbas' children and all other children, I wish all this to end as soon as possible and be able to live and study peacefully again - in the language they consider.\"",
+    "With information from Reuters"
+  ],
+  "topics": {
+    "Conflict": 0.8165349960327148,
+    "Culture": 0.8026822805404663,
+    "Crime": 0.7429579496383667,
+    "Politics": 0.6882483959197998,
+    "Economy": 0.5895588397979736,
+    "Military": 0.528777539730072,
+    "Technology": 0.48986220359802246,
+    "Health": 0.4772169888019562,
+    "Energy": 0.34923020005226135,
+    "Diplomacy": 0.3413172960281372,
+    "Transport": 0.31748834252357483,
+    "Education": 0.15528132021427155,
+    "Environment": 0.11401911079883575,
+    "Elections": 0.06697722524404526
+  },
+  "sentiment": {
+    "positive": 0.429,
+    "negative": 0.571,
+    "neutral": 0.0
+  }
+}

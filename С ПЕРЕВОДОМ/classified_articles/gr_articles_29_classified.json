@@ -1,0 +1,44 @@
+{
+  "title": "Κλείνει το RT Γαλλίας μετά το πάγωμα των λογαριασμών του - \"123 εργαζόμενοι μένουν χωρίς δουλειά\"",
+  "published_date": null,
+  "url": "https://www.lifo.gr/now/world/kleinei-rt-gallias-meta-pagoma-ton-logariasmon-toy-123-ergazomenoi-menoyn-horis-doyleia",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "The French television station, supported by the Kremlin, Russia Today will close after the French government has frozen its bank accounts, media chairman and media manager Xenia Fedorova said.",
+    "\"After five years of merciless efforts, the authorities have achieved their goal: the closure of RT France,\" she wrote on her Twitter post, referring to \"censorship\".",
+    "Les Fonds de RT France Sont Gelés à la Demande de la Direction Générale du Trésor, en Raison du 9eme Paquet de Sanctions Qui Ne Vise Pas RT France.",
+    "Notre chaîne ne peut plus poursuivre son Acivité.",
+    "Voici Notre Communication.",
+    "pic.twitter.com/Af3jusqkll - Xenia Fedorova (@xfedorova) January 21, 2023 In March last year, the RT and other Russian state -owned Sputnik medium were banned in the European Union as part of the deterrence of misinformation following Russia's invasion of Ukraine.",
+    "However, RT France continued producing content from its office in Western Paris, which was broadcast in the French -speaking countries of Africa.",
+    "The channel was even available online.",
+    "The parent company and a key shareholder of RT France was included in the ninth round of European sanctions against Russia, which was decided in December.",
+    "Following this development, the French government frozen the financial data of the organization.",
+    "According to Fedorova, 123 employees, including 77 journalists, will probably not be paid in January, and will lose their jobs.",
+    "Moscow pledged not to leave this action unanswered.",
+    "\"The commitment of RT France's account will lead to French media retaliation in Russia.",
+    "And it will be noticeable if the French authorities do not stop intimidating Russian journalists, \"the Russian ministry of extraterrestrials told Tass.",
+    "With information from Politico"
+  ],
+  "topics": {
+    "Conflict": 0.8829814791679382,
+    "Politics": 0.7745646238327026,
+    "Culture": 0.699967622756958,
+    "Economy": 0.688772976398468,
+    "Transport": 0.6826467514038086,
+    "Technology": 0.5795997381210327,
+    "Military": 0.5309514403343201,
+    "Diplomacy": 0.4959240257740021,
+    "Crime": 0.42192623019218445,
+    "Energy": 0.3975326120853424,
+    "Health": 0.31304100155830383,
+    "Environment": 0.3098149001598358,
+    "Education": 0.22880031168460846,
+    "Elections": 0.18745066225528717
+  },
+  "sentiment": {
+    "positive": 0.267,
+    "negative": 0.733,
+    "neutral": 0.0
+  }
+}

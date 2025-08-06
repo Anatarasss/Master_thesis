@@ -1,0 +1,36 @@
+{
+  "title": "Zelenskiy Urges Stronger Sanctions Following Deadly Drone Strike in Ukraine",
+  "published_date": null,
+  "url": "https://www.devdiscourse.com/article/politics/3415549-zelenskiy-urges-stronger-sanctions-following-deadly-drone-strike-in-ukraine",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Zelenskiy Urges Stronger Sanctions Following Deadly Drone Strike in Ukraine Ukrainian President Volodymyr Zelenskiy calls for stronger sanctions on Russia after a Russian drone attack kills nine civilians in northeastern Ukraine, despite recent peace talks in Turkey.",
+    "Zelenskiy emphasizes the need for United States and European sanctions against Russia to push for genuine diplomatic efforts.",
+    "Ukrainian President Volodymyr Zelenskiy intensified his call for harsher sanctions against Russia after a drone attack in northeastern Ukraine resulted in the death of nine civilians.",
+    "The call came following inconclusive peace talks in Turkey, marking the first such meeting between the two nations in three years of ongoing conflict.",
+    "Zelenskiy accused Russia of deliberately targeting civilians and urged international partners, including the U.S. and Europe, to ramp up sanctions to press Moscow toward meaningful diplomacy.",
+    "(With inputs from agencies.)",
+    "- READ MORE ON: - Zelenskiy - Ukraine - Russia - sanctions - peace talks - drone attack - Moscow - civilians - Turkey - conflict Advertisement ALSO READ Tensions Rise as India Thwarts Pakistani Drone Attack Indian Army Thwarts Major Drone Attacks in Jammu and Kashmir Akash Missile System Thwarts Pakistani Drone Attacks Rajasthan Locals Hail Indian Forces for Thwarting Drone Attacks Indian Armed Forces Successfully Repel Pakistani Drone Attacks Near Jaisalmer"
+  ],
+  "topics": {
+    "Conflict": 0.986929714679718,
+    "Politics": 0.9294407963752747,
+    "Military": 0.8148068189620972,
+    "Culture": 0.6993447542190552,
+    "Diplomacy": 0.6523264646530151,
+    "Health": 0.6440842151641846,
+    "Crime": 0.6361992359161377,
+    "Technology": 0.6288955211639404,
+    "Transport": 0.5028399229049683,
+    "Energy": 0.4882511496543884,
+    "Economy": 0.3852134943008423,
+    "Environment": 0.35966581106185913,
+    "Education": 0.2523362934589386,
+    "Elections": 0.17672957479953766
+  },
+  "sentiment": {
+    "positive": 0.286,
+    "negative": 0.714,
+    "neutral": 0.0
+  }
+}

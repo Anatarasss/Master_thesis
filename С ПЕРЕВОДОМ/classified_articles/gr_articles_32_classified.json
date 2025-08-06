@@ -1,0 +1,42 @@
+{
+  "title": "Tο RT της Ρωσίας μεταδίδει διαδικτυακά στα σερβικά με την ονομασία \"RT Balkan\"",
+  "published_date": null,
+  "url": "https://www.newsit.gr/kosmos/To-RT-tis-rosias-metadidei-diadiktyaka-sta-servika-me-tin-onomasia-RT-Balkan/3641909/",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "Russia Today's State News Network (RT) announced today (16.11.2022) that it has begun broadcasting, as RT Balkan, content of its program in Serbian.",
+    "Russian Network editor -in -chief Margarita Simonian announced the fact from Twitter with the message: \"We started the RT in the Balkans.",
+    "Because Kosovo is Serbia. \"",
+    "ADVERTISING The European Union has banned from March 2022 the program broadcast by the RT, which is considered a Kremlin -controlled media, funded by the state budget of the Russian Federation and spreads Putin's propaganda.",
+    "It was banned in the context of sanctions imposed against Russia due to the invasion of Ukraine.",
+    "Serbia, however, despite warnings from Brussels, refuses to coordinate with EU foreign policy and allowed it to operate.",
+    "As announced on the official Russian website of RT, by 2024 it will start operating in Serbia and a television channel called RT Balkan.",
+    "ADVERTISING \"Being part of the Balkan media space is a great challenge for us.",
+    "Probably nowhere in the world we did not expect us as much as here (ed: in Serbia).",
+    "I want to address the dear Serbs in their language: \"Brothers, to see RT,\" Margarita Simonian says in a statement published on the RT website.",
+    "The reaction The reaction from Brussels was immediate.",
+    "The rapporteur for Serbia in the European Parliament Vladimir Bilcik stressed that Serbia, allowing the operation of a \"Russian war propaganda\", is being led in the wrong direction.",
+    "\"The operation of the media, funded by the Russian state and spreading the propaganda of hatred, is not what we want in Europe nor what we want to see in the countries that are nominated for integration into the Union,\" Bilcik said in the opening of RT."
+  ],
+  "topics": {
+    "Politics": 0.879521369934082,
+    "Conflict": 0.8308799266815186,
+    "Culture": 0.6019077897071838,
+    "Economy": 0.5887585878372192,
+    "Diplomacy": 0.5825850963592529,
+    "Technology": 0.5556303858757019,
+    "Transport": 0.4482036530971527,
+    "Energy": 0.39298057556152344,
+    "Military": 0.38016268610954285,
+    "Health": 0.3567824065685272,
+    "Elections": 0.34564054012298584,
+    "Environment": 0.3088739812374115,
+    "Education": 0.2696201205253601,
+    "Crime": 0.17148979008197784
+  },
+  "sentiment": {
+    "positive": 0.385,
+    "negative": 0.615,
+    "neutral": 0.0
+  }
+}

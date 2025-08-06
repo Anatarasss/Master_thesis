@@ -1,0 +1,39 @@
+{
+  "title": "Via libera dell'Europa alle nuove sanzioni per Mosca",
+  "published_date": null,
+  "url": "https://www.ansa.it/sito/notizie/mondo/2025/05/14/via-libera-delleuropa-alle-nuove-sanzioni-per-mosca-_c9f9c658-2e51-4dae-a410-883503ac5f0b.html",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Green light of the permanent representatives of the 27 EU countries (Coreper II) at 17/Esimo package of sanctions against Russia, as far as we learn.",
+    "The new European measures, in addition to hitting the so -called 'shadow fleet' of Moscow again, also include sanctions relating to the hybrid activities of Russia, the violations of human rights and the use of chemical weapons.",
+    "Von der leyen: \"well the penalties, we keep the pressure on the Kremlin\" \"I welcome the agreement on our 17th package of penalties against Russia.",
+    "We are further limiting access to the battlefield technology.",
+    "And we have listed other 189 shadow fleet ships to hit Russia's energy exports.",
+    "We will keep the pressure on the Kremlin high\".",
+    "The president of the EU Commission Ursula von der Leyen writes it on X. Russia does not yet announce who will go to Istanbul On the eve of the direct negotiations with Ukraine in Istanbul, Cremlin made it known that he still could still make the composition of the Russian delegation known.",
+    "This was reported by the Interfax agency.",
+    "\"Nothing has changed in this regard, we will do it when we receive the related instructions from the president, and so far there have been no instructions in this sense,\" said the Cremlin spokesman, Dmitry Peskov, to the journalists who asked if it had been decided who will go to the interviews.",
+    "Reserved reproduction © Copyright Ansa"
+  ],
+  "topics": {
+    "Conflict": 0.8805550336837769,
+    "Politics": 0.8410301804542542,
+    "Diplomacy": 0.8082162141799927,
+    "Culture": 0.6960136294364929,
+    "Technology": 0.6233999729156494,
+    "Energy": 0.6078629493713379,
+    "Military": 0.5575610995292664,
+    "Economy": 0.48829394578933716,
+    "Environment": 0.4429362416267395,
+    "Health": 0.380603164434433,
+    "Transport": 0.3484390377998352,
+    "Crime": 0.2945932447910309,
+    "Elections": 0.2545816898345947,
+    "Education": 0.25420767068862915
+  },
+  "sentiment": {
+    "positive": 0.3,
+    "negative": 0.7,
+    "neutral": 0.0
+  }
+}

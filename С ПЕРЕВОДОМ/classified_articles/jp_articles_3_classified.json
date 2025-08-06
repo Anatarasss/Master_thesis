@@ -1,0 +1,42 @@
+{
+  "title": "【やさしい日本語】ウクライナの 女性(じょせい)が、核兵器(かくへいき)の 怖(こわ)さを 紹介(しょうかい)する 動画(どうが)を つくった",
+  "published_date": null,
+  "url": "https://www.nishinippon.co.jp/item/n/1038652/",
+  "original_language": "ja",
+  "cleaned_sentences": [
+    "[Easy Japanese] A Ukrainian woman has created a video introducing the scary nature of nuclear weapons.",
+    "Ekaterina Since February last year, Russia has been attacking Ukraine.",
+    "Ekaterina Chaprinsika fled from Ukraine to Japan and lives in Tagawa City, Fukuoka Prefecture with her 3-year-old daughter.",
+    "Ekaterina is worried that the Russian president might use nuclear weapons.",
+    "Last October, Ekaterina went to Hiroshima City.",
+    "Hiroshima City is a city where nuclear weapons were used in 1945.",
+    "Ekaterina went to the atomic bomb facility and learned about the scary nature of nuclear weapons.",
+    "We then created a video introducing the facilities.",
+    "When I put it on YouTube and Facebook, people in Russia started watching.",
+    "\"I think the people in Russia want peace,\" said Ekaterina.",
+    "I hope that the Russians who watched the video will stop the president.",
+    "The original article is here Read the news You can also hear the voices.",
+    "Easy Japanese We deliver news translated into \"easy Japanese\" that is easy for foreigners and children to understand."
+  ],
+  "topics": {
+    "Culture": 0.9236031770706177,
+    "Health": 0.8873777389526367,
+    "Economy": 0.8795668482780457,
+    "Environment": 0.8683103322982788,
+    "Conflict": 0.8501495122909546,
+    "Transport": 0.8418388962745667,
+    "Energy": 0.8220229148864746,
+    "Education": 0.7991785407066345,
+    "Politics": 0.7717443704605103,
+    "Technology": 0.7668850421905518,
+    "Elections": 0.6686806678771973,
+    "Diplomacy": 0.6544870734214783,
+    "Crime": 0.6464560031890869,
+    "Military": 0.6455163955688477
+  },
+  "sentiment": {
+    "positive": 0.692,
+    "negative": 0.308,
+    "neutral": 0.0
+  }
+}

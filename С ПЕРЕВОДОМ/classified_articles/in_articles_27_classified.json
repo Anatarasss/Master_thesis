@@ -1,0 +1,40 @@
+{
+  "title": "Global Leaders Urge Unconditional Ceasefire in Ukraine Conflict",
+  "published_date": null,
+  "url": "https://www.devdiscourse.com/article/politics/3416919-global-leaders-urge-unconditional-ceasefire-in-ukraine-conflict",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Global Leaders Urge Unconditional Ceasefire in Ukraine Conflict British PM Keir Starmer discussed Russia's war with Ukraine with leaders from the U.S., Italy, France, and Germany.",
+    "The call focused on urging an unconditional ceasefire and considering sanctions if Russia fails to engage in peace talks.",
+    "The leaders stressed the urgency of the situation amid ongoing diplomacy.",
+    "British Prime Minister Keir Starmer on Sunday engaged in discussions with leaders from the U.S., Italy, France, and Germany regarding Russia's ongoing war against Ukraine, according to a Downing Street spokesperson.",
+    "On the cusp of a scheduled call between U.S. President Donald Trump and Russian President Vladimir Putin, the leaders emphasized the necessity of an unconditional ceasefire.",
+    "They also deliberated on imposing sanctions should Russia not take ceasefire and peace talk proposals seriously, as noted by the spokesperson.",
+    "The dialogue was a continuation of diplomatic efforts that began on May 10 with a visit to Kyiv, where significant European nations advocated for a 30-day unconditional ceasefire in Ukraine.",
+    "French President Emmanuel Macron highlighted on X after the discussions that President Putin must demonstrate a desire for peace by accepting the proposed ceasefire agreement from President Trump, supported by Ukraine and Europe.",
+    "(With inputs from agencies.)",
+    "ALSO READ Europe Backs Tribunal to Hold Putin Accountable for Aggression in Ukraine Empowering Cloud Computing Professionals: IIT Bhubaneswar and TCS iON Collaborate Putin's Tehran Visit: Strengthening Russo-Iranian Ties 'I am pleased to announce that India and Pakistan have agreed to a FULL AND IMMEDIATE CEASEFIRE,' says US President Donald Trump.",
+    "Putin Proposes Direct Talks with Kyiv Amid Ongoing Tensions"
+  ],
+  "topics": {
+    "Diplomacy": 0.9764034152030945,
+    "Conflict": 0.9347569346427917,
+    "Politics": 0.8715876936912537,
+    "Technology": 0.6725175976753235,
+    "Culture": 0.48283687233924866,
+    "Economy": 0.4402920603752136,
+    "Military": 0.3591408431529999,
+    "Transport": 0.23871181905269623,
+    "Health": 0.23247955739498138,
+    "Energy": 0.18839557468891144,
+    "Environment": 0.16788087785243988,
+    "Crime": 0.09796466678380966,
+    "Elections": 0.09729103744029999,
+    "Education": 0.07315145432949066
+  },
+  "sentiment": {
+    "positive": 0.727,
+    "negative": 0.273,
+    "neutral": 0.0
+  }
+}

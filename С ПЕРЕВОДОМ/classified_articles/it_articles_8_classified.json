@@ -1,0 +1,35 @@
+{
+  "title": "Cremlino, grazie Papa, da scegliere sede nuovi negoziati",
+  "published_date": null,
+  "url": "https://www.ilgiornaledivicenza.it/news/mondo/cremlino-grazie-papa-da-scegliere-sede-nuovi-negoziati-1.12685350",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "ROME, May 20 - The Kremlin is aware of the Vatican offer to host the negotiations between Russia and Ukraine, but no decision has yet been taken.",
+    "The journalists of the Russian president Dmitrij Peskov reported it to journalists.",
+    "\"Everyone is aware of this initiative of the Pope - he said in a statement relaunched by Tass -.",
+    "There was also a Vatican declaration.",
+    "And of course, the Russian part is grateful to all those who are willing to make their contribution.",
+    "But specific decisions have not yet been made on the place to continue the possible future negotiations\" .."
+  ],
+  "topics": {
+    "Conflict": 0.8634895086288452,
+    "Culture": 0.8215610384941101,
+    "Diplomacy": 0.8177345991134644,
+    "Politics": 0.8103266358375549,
+    "Economy": 0.5125687718391418,
+    "Technology": 0.41466575860977173,
+    "Health": 0.3278522789478302,
+    "Transport": 0.27575674653053284,
+    "Energy": 0.27246949076652527,
+    "Military": 0.24937966465950012,
+    "Environment": 0.2020447999238968,
+    "Elections": 0.19307102262973785,
+    "Education": 0.180616095662117,
+    "Crime": 0.16117514669895172
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

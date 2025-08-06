@@ -1,0 +1,39 @@
+{
+  "title": "【やさしい日本語】ウクライナから 来(き)た 17歳(さい)の 男性(だんせい)が、たくさん 勉強(べんきょう)して 日本(にっぽん)の 高校(こうこう)に 入(はい)る",
+  "published_date": null,
+  "url": "https://www.nishinippon.co.jp/item/n/1056970/",
+  "original_language": "ja",
+  "cleaned_sentences": [
+    "Samarha, who wrote \"Heiwa\" It has been almost a year since Russia began attacking Ukraine last February.",
+    "17-year-old Alexander Samarha fled from Ukraine to Sasebo in June.",
+    "Because my man lived there.",
+    "At first, I was worried because I didn't understand Japanese, but I did my best at studying at Japanese language school and at home.",
+    "I passed the \"N 4\" in the Japanese Language Proficiency Test in December.",
+    "On February 17th of this year, a Speech Contest was held at the Japanese Language School.",
+    "Samarha spoke about the incident since the Russian attack began.",
+    "In April, Samarha will be enrolled at a high school in Sasebo City.",
+    "I want to convey the importance of peace to the friends I meet in high school.",
+    "The original article is here ◆◆ The text published by Samarha can be read here Easy Japanese We deliver news translated into \"easy Japanese\" that is easy for foreigners and children to understand."
+  ],
+  "topics": {
+    "Health": 0.5769630670547485,
+    "Economy": 0.5740987062454224,
+    "Environment": 0.568603515625,
+    "Education": 0.5463756918907166,
+    "Culture": 0.5434430241584778,
+    "Conflict": 0.5415018200874329,
+    "Energy": 0.46001294255256653,
+    "Technology": 0.457383394241333,
+    "Diplomacy": 0.44748973846435547,
+    "Transport": 0.42433393001556396,
+    "Elections": 0.3026764392852783,
+    "Politics": 0.28708115220069885,
+    "Military": 0.21371619403362274,
+    "Crime": 0.1648586392402649
+  },
+  "sentiment": {
+    "positive": 0.6,
+    "negative": 0.4,
+    "neutral": 0.0
+  }
+}

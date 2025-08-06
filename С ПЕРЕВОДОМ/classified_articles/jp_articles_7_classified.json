@@ -1,0 +1,37 @@
+{
+  "title": "【やさしい日本語】お酒(さけ)を 売(う)って ウクライナの 人(ひと)を 応援(おうえん)する",
+  "published_date": null,
+  "url": "https://www.nishinippon.co.jp/item/n/956562/",
+  "original_language": "ja",
+  "cleaned_sentences": [
+    "[Easy Japanese] Sellers alcohol and support people in Ukrainians Ukrainian ambassador Russia attacks next door Ukraine, causing war.",
+    "Many people have died or lost their homes in Ukraine.",
+    "A company in Fukuoka City has decided to sell alcohol and support Ukrainians.",
+    "If you buy one bottle of alcohol, you will donate 100 yen to the Ukrainian embassy.",
+    "It is sold at the \"Leganet\" supermarket in Fukuoka City.",
+    "You can buy it at the Leganets at Tenjin, Menihama, Iikura, Minami Nagazumi and LaLaport Fukuoka.",
+    "The Ukrainian ambassador in Japan said, \"I would be happy if many people drank alcohol to support me.\"",
+    "The original article is here Easy Japanese We deliver news translated into \"easy Japanese\" that is easy for foreigners and children to understand."
+  ],
+  "topics": {
+    "Culture": 0.9276901483535767,
+    "Economy": 0.918559193611145,
+    "Conflict": 0.9143388271331787,
+    "Health": 0.8753456473350525,
+    "Transport": 0.7514517307281494,
+    "Environment": 0.7432214021682739,
+    "Energy": 0.7354724407196045,
+    "Diplomacy": 0.5827478766441345,
+    "Technology": 0.5542297959327698,
+    "Education": 0.49295371770858765,
+    "Politics": 0.440271258354187,
+    "Elections": 0.17892169952392578,
+    "Military": 0.129611074924469,
+    "Crime": 0.10624723136425018
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

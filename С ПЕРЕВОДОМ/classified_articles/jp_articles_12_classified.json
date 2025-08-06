@@ -1,0 +1,39 @@
+{
+  "title": "【やさしい日本語】熊本城(くまもとじょう)を ウクライナ(Ukraine)の 旗(はた)の 色(いろ)にした",
+  "published_date": null,
+  "url": "https://www.nishinippon.co.jp/item/n/884594/",
+  "original_language": "ja",
+  "cleaned_sentences": [
+    "[Easy Japanese] Kumamoto Castle has been colored as the colour of the Ukraine flag.",
+    "Kumamoto Castle, which is lit in yellow and blue, On February 21, Russia began attacking Ukraine.",
+    "In Ukraine, the city has been broken and some have died.",
+    "Countries around the world, such as Japan, are opposed to attacks.",
+    "Kumamoto City opposes the war by using the town's Kumamoto Castle as the colour of the Ukrainian national flag.",
+    "Starting from March 1st, blue and yellow lights have been shining on the castle at night.",
+    "It will continue until March 5th.",
+    "Near the castle, people at the shrine prayed for peace.",
+    "The mayor of Kumamoto City sent a letter to the Russian Embassy in Japan asking for Russian troops to leave Ukraine soon.",
+    "The original article is here Easy Japanese We deliver news translated into \"easy Japanese\" that is easy for foreigners and children to understand."
+  ],
+  "topics": {
+    "Conflict": 0.9452674984931946,
+    "Culture": 0.9295971393585205,
+    "Economy": 0.8804326057434082,
+    "Politics": 0.7961016893386841,
+    "Health": 0.7080556154251099,
+    "Environment": 0.6800976395606995,
+    "Transport": 0.6319521069526672,
+    "Technology": 0.6054750680923462,
+    "Military": 0.6052327752113342,
+    "Education": 0.564838171005249,
+    "Energy": 0.4492477774620056,
+    "Diplomacy": 0.44570329785346985,
+    "Crime": 0.4142826795578003,
+    "Elections": 0.13793408870697021
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

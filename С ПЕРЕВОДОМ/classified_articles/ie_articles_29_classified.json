@@ -1,0 +1,35 @@
+{
+  "title": "Here's What Happened Today: Sunday",
+  "published_date": null,
+  "url": "https://www.thejournal.ie/news-fix-11-05-25-6702208-May2025/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Support from readers like you keeps The Journal open.",
+    "You are visiting us because we have something you value.",
+    "Independent, unbiased news that tells the truth.",
+    "Advertising revenue goes some way to support our mission, but this year it has not been enough.",
+    "If you've seen value in our reporting, please contribute what you can, so we can continue to produce accurate and meaningful journalism.",
+    "For everyone who needs it."
+  ],
+  "topics": {
+    "Culture": 0.7363035678863525,
+    "Economy": 0.686401903629303,
+    "Conflict": 0.6816133856773376,
+    "Health": 0.5685074925422668,
+    "Environment": 0.45691823959350586,
+    "Energy": 0.4224654734134674,
+    "Transport": 0.3788571059703827,
+    "Elections": 0.28331974148750305,
+    "Education": 0.2792914807796478,
+    "Politics": 0.25781792402267456,
+    "Technology": 0.25198131799697876,
+    "Diplomacy": 0.2208046019077301,
+    "Crime": 0.17282457649707794,
+    "Military": 0.1669693887233734
+  },
+  "sentiment": {
+    "positive": 0.833,
+    "negative": 0.167,
+    "neutral": 0.0
+  }
+}

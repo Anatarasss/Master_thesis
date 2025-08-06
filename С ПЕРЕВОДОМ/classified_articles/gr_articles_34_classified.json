@@ -1,0 +1,38 @@
+{
+  "title": "Η Αρμενία απαγόρευσε την είσοδο της Μαργκαρίτα Σιμονιάν - Ποια είναι η πολεμοχαρής διευθύντρια του Russia Today",
+  "published_date": null,
+  "url": "https://www.newsit.gr/kosmos/i-armenia-apagoreyse-tin-eisodo-tis-margkarita-simonian-poia-einai-i-polemoxaris-dieythyntria-tou-Russia-Today/3627146/",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "\"Door\" ... Armenia threw in Margarita Simonian, the Armenian descent of a fanatical propagandist of the Russian invasion of Ukraine.",
+    "Simonian is the head of Russia Today, the state network of Russian broadcasting.",
+    "Originally from Armenia, Margarita Simonian is Russia Today's \"Iron Lady\" (RT).",
+    "He is also described as a warlike fan of the Kremlin in the Russian media and ... of course he is in favor of the war in Ukraine.",
+    "ADVERTISING Born in Russia, Simonian often accuses the Grevan government in Armenia of incomplete dedication to Moscow.",
+    "Margarita Simonian said she was banned from entering Armenia, as well as Russian MP Konstantin Zatolin.",
+    "\"It was forbidden to enter Constantine Zatolulin, who has been a warm supporter of Armenia for years by the current Armenian leader.",
+    "And my own by the way, \"Simonian wrote on Telegram.",
+    "The Armenian media reported that Zatolin, who is head of the Russian Duma committee on relations with the former Soviet democracies, was excluded because of his criticism of the Armenian Prime Minister, Nicole Pasinian."
+  ],
+  "topics": {
+    "Conflict": 0.9708255529403687,
+    "Politics": 0.9629905223846436,
+    "Crime": 0.8946739435195923,
+    "Culture": 0.6898269057273865,
+    "Military": 0.4666498601436615,
+    "Technology": 0.42476242780685425,
+    "Diplomacy": 0.3493662476539612,
+    "Economy": 0.30668336153030396,
+    "Energy": 0.25771406292915344,
+    "Transport": 0.2206793576478958,
+    "Health": 0.17456886172294617,
+    "Elections": 0.13724558055400848,
+    "Environment": 0.10635417699813843,
+    "Education": 0.0863168016076088
+  },
+  "sentiment": {
+    "positive": 0.444,
+    "negative": 0.556,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Kyiv Under Siege: Drone Strikes Ignite Chaos",
+  "published_date": null,
+  "url": "https://www.devdiscourse.com/article/science-environment/3423276-kyiv-under-siege-drone-strikes-ignite-chaos",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Kyiv Under Siege: Drone Strikes Ignite Chaos Early Saturday, Russia targeted Kyiv with drones and missiles, causing fires and scattering debris across the city.",
+    "The attack injured at least two people, with significant damage reported in Solomyanskyi and Dniprovskyi districts.",
+    "Emergency crews responded while officials confirmed multiple fires and ongoing anti-aircraft operations.",
+    "Early Saturday, Russia launched a series of drone and missile attacks on Kyiv, injuring at least two people and causing widespread damage, according to city officials.",
+    "Mayor Vitali Klitschko confirmed a drone hit an apartment building in Solomyanskyi district, while two residents were reported injured in Dniprovskyi district.",
+    "Emergency services were swiftly deployed to the scene.",
+    "Timur Tkachenko, head of Kyiv's military administration, noted fires broke out across several parts of the city including Dniprovskyi district.",
+    "Anti-aircraft units responded as witnesses reported waves of drones and multiple explosions.",
+    "(With inputs from agencies.)",
+    "- READ MORE ON: - Russia - Ukraine - Kyiv - drone - missiles - attacks - emergency - anti-aircraft - Vitali Klitschko - Dniprovskyi Advertisement"
+  ],
+  "topics": {
+    "Conflict": 0.9461771845817566,
+    "Military": 0.8513897657394409,
+    "Culture": 0.7987924218177795,
+    "Health": 0.7171832919120789,
+    "Technology": 0.7165713906288147,
+    "Politics": 0.5928342342376709,
+    "Crime": 0.5680217742919922,
+    "Environment": 0.5432368516921997,
+    "Economy": 0.4019295275211334,
+    "Energy": 0.3872702717781067,
+    "Transport": 0.3714112341403961,
+    "Education": 0.17548443377017975,
+    "Diplomacy": 0.09668344259262085,
+    "Elections": 0.087766632437706
+  },
+  "sentiment": {
+    "positive": 0.3,
+    "negative": 0.7,
+    "neutral": 0.0
+  }
+}

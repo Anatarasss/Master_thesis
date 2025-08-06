@@ -1,0 +1,48 @@
+{
+  "title": "Nuove sanzioni alla Russia, il sì di Bruxelles: ora nel mirino il prezzo del petrolio",
+  "published_date": null,
+  "url": "https://www.corriere.it/esteri/25_maggio_20/nuove-sanzioni-alla-russia-il-si-di-bruxelles-ora-nel-mirino-il-prezzo-del-petrolio-673637e5-6eb1-4e55-ad99-1e20ef6daxlk.shtml",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "New penalties to Russia, the yes of Brussels: now in the sights the price of oil Zelensky thanks Von der Leyen: we intensify the pressure.",
+    "At the studio 18th package By our correspondent Brussels - The European Union yesterday adopted the 17th pack of penalties against Russia, which affects the Moscow shadow petrol fleet, and is already working on the 18th package.",
+    "The Ukrainian leader Zelensky has telephoned the president of the European Commission Von der Leyen to thank her.",
+    "\"We are collaborating closely to define the next steps,\" the president posted on X, referring to the interview and adding that \"it is time to intensify the pressure on Russia so that the fire is implemented\".",
+    "The Union goes on its way waiting to understand the moves of the United States, after Trump yesterday in his phone call with Putin withdrawn the request to Russia to declare a ceased immediate fire.",
+    "The unknown on how Washington will move on new penalties also weighs in Brussels because decisions must be made unanimously and Hungary, which is simultaneously pro-trump and pro-Putin, is always ready to veto.",
+    "Meanwhile, at the G7 of the Finance Ministers, which is held these days in Canada, the commissioner to the Dombrovskis economy will put on the table the hypothesis of lowering the roof to the price of Russian oil, which is currently 60 dollars.",
+    "It is the heart of the new packet of European sanctions and is \"the most important\", as explained the high EU representative of the EU Kallas at the end of the Foreign Affairs Council, remembering that \"the Russian economy is not going well\" and that \"energy is part of the Russian National Fund, which is almost completely exhausted\".",
+    "Ukrainian Minister Andrii Sybiha told his colleagues during the meeting, that the roof at the price of oil \"should not exceed $ 30 a barrel\" and asked to intensify the penalties against the Russian credit institutions including the central bank.",
+    "In Tirana last Friday von der Leyen listed the possible measures of the 18th packet: \"The ban on access to the north stream, further lists of the shadow fleet, a maximum roof at the price of the lowest crude of the current and more penalties on the Russian financial sector\".",
+    "Zelensky thanked Von der Leyen for the 17th package also on Telegram, as well as personally: «This is a step in the right direction.",
+    "It is important to clearly limit the Russian oil tanker fleet, which serves to finance killers, as well as all the patterns that Russia uses to build its military industry.",
+    "The stronger the pressure on Russia will be, the more Moscow will have motivations to proceed towards true peace ».",
+    "In detail, the 17th package of sanctions affects 189 ships that are part of the shadow of Russian oil tanker, bringing to 342 the total number of ships included in the black list that prohibits access to ports and the supply of a wide range of services.",
+    "The operational capacity of the fleet is thus compromised, which aims to evade the maximum roof of the price of oil.",
+    "31 companies that provide direct or indirect support to the Russian military-industrial complex or which are involved in the elimination of sanctions have also ended up under penalties.",
+    "Among these 18 companies are based in Russia and 13 in third countries (including Türkiye, Vietnam, United Arab Emirates).",
+    "17 new natural persons and 58 entities responsible for actions that compromise territorial integrity, sovereignty and independence of Ukraine are subject to the freezing of goods and the travel ban.",
+    "The package also further expanded the list of dual use products (civil and military), with the aim of excluding Russia from key technologies."
+  ],
+  "topics": {
+    "Economy": 0.908473789691925,
+    "Energy": 0.8651850819587708,
+    "Politics": 0.820932149887085,
+    "Military": 0.7956737279891968,
+    "Conflict": 0.747069776058197,
+    "Technology": 0.7036376595497131,
+    "Diplomacy": 0.6438711285591125,
+    "Culture": 0.5646998286247253,
+    "Transport": 0.5451219081878662,
+    "Elections": 0.4387090504169464,
+    "Crime": 0.3452264368534088,
+    "Environment": 0.3428731858730316,
+    "Health": 0.11637566238641739,
+    "Education": 0.03196217492222786
+  },
+  "sentiment": {
+    "positive": 0.421,
+    "negative": 0.579,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Russia May Launch Intercontinental Ballistic Missile To Intimidate Kyiv, West: Ukraine",
+  "published_date": null,
+  "url": "https://www.news18.com/world/russia-may-launch-intercontinental-ballistic-missile-to-intimidate-kyiv-west-ukraine-ws-l-9342442.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russia May Launch Intercontinental Ballistic Missile To Intimidate Kyiv, West: Ukraine There was no immediate comment from Russia on the Ukrainian military intelligence statement.",
+    "Ukraine’s military intelligence agency said on Sunday that Russia planned to conduct a “training and combat\" launch of an intercontinental ballistic missile to intimidate Ukraine and the West.",
+    "The overnight launch was ordered to be implemented from Russia’s Sverdlovsk region, the GUR agency said in a statement on the Telegram app.",
+    "It added the flight range for the missile was more than 10,000 kilometers (6,200 miles).",
+    "Recommended Stories “In order to demonstratively pressure and intimidate Ukraine, and also EU and NATO member states, the aggressor state of Russia intends to make a ‘training and combat’ launch of the RS-24 intercontinental ballistic missile from the Yars complex,\" GUR said in the statement.",
+    "There was no immediate comment from Russia on the Ukrainian military intelligence statement.",
+    "Russia does not answer questions about its plans to test launch nuclear missiles, the details of which it classifies as a military secret, although it issues statements after such launches.",
+    "More than three years into the war against Russia, Ukraine is under enormous pressure as Russia seeks frontline gains in the Ukrainian east, and diplomatic efforts to end the war have so far yielded no results.",
+    "(This story has not been edited by News18 staff and is published from a syndicated news agency feed - Reuters)- Location : - First Published:"
+  ],
+  "topics": {
+    "Conflict": 0.9367513656616211,
+    "Military": 0.8679026365280151,
+    "Politics": 0.8191635012626648,
+    "Culture": 0.8159147500991821,
+    "Technology": 0.729548454284668,
+    "Crime": 0.6972169280052185,
+    "Health": 0.6245880722999573,
+    "Transport": 0.5617601275444031,
+    "Environment": 0.5479135513305664,
+    "Economy": 0.4839930236339569,
+    "Energy": 0.4752374291419983,
+    "Elections": 0.35348302125930786,
+    "Education": 0.31246447563171387,
+    "Diplomacy": 0.107106514275074
+  },
+  "sentiment": {
+    "positive": 0.222,
+    "negative": 0.778,
+    "neutral": 0.0
+  }
+}

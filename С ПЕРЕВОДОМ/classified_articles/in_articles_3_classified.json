@@ -1,0 +1,48 @@
+{
+  "title": "Ukraine Kyiv faces large scale Russian drone missile attack with massive explosions heard throughout city",
+  "published_date": null,
+  "url": "https://www.indiatvnews.com/news/world/ukraine-kyiv-faces-large-scale-russian-drone-missile-attack-with-massive-explosions-heard-throughout-city-2025-05-24-991662",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Ukraine’s capital Kyiv came under a large-scale Russian drone and missile attack early Saturday (May 24), with explosions and machine gun fire heard throughout the city, forcing many Kyiv residents to take shelter in underground subway stations.",
+    "The nighttime Russian attack came hours after Russia and Ukraine began a major prisoner exchange, swapping hundreds of soldiers and civilians in the first phase of an exchange that was agreed on by the two sides at a meeting in Istanbul last week.",
+    "The agreement was a moment of cooperation in otherwise failed efforts to reach a ceasefire in the 3-year-old war.",
+    "The debris of intercepted missiles and drones fell in at least four city districts of the capital early Saturday, acting head of Kyiv military administration, Tymur Tkachenko, wrote on Telegram.",
+    "According to Tkachenko, six people required medical care after the attack, two fires sparked at Solomianskyi district of Kyiv.",
+    "Prior to the attack, city mayor Vitalii Klitschko warned Kyiv residents of more than 20 Russian strike drones heading towards Kyiv.",
+    "As the attack continued, he said drone debris fell on a shopping mall and a residential building in Obolon district of Kyiv.",
+    "Emergency services were headed to the site, Klitschko said.",
+    "The prisoners swap on Friday (May 23) was the first phase of a complicated swap involving the exchange of 1,000 prisoners from each side.",
+    "President Volodymyr Zelenskyy said the first phase brought home 390 Ukrainians, with further releases expected over the weekend that will make it the largest swap of the war.",
+    "Russia’s Defense Ministry said it received the same number from Ukraine.",
+    "As the freed men entered the medical facility Friday, people holding signs and photos of their relatives shouted names or brigade numbers, seeking any news of a loved one.",
+    "The returning men inspected the photos, and a serviceman said he shared a cell with one of those on the sea of portraits held out toward him.",
+    "“Vanya!” cried Nataliia Mosych, among the gathered relatives, “My husband!” She hadn’t seen her husband, Ivan, for almost two years, she said, beaming.",
+    "“It is an unbelievable feeling.",
+    "I am still in shock,” Mosych said after he came outside to greet his family following registration procedures inside the facility.",
+    "“I am really glad, and we were not forgotten, and we still mean something for Ukraine.” The exchange, which would be the latest of dozens of swaps since the war began and the biggest involving Ukrainian civilians at one time, didn’t herald any halt in fighting.",
+    "Battles also continued along the roughly 1,000-kilometer (620-mile) front line, where tens of thousands of soldiers have been killed, and neither country has relented in its deep strikes.",
+    "(With agencies inputs)"
+  ],
+  "topics": {
+    "Conflict": 0.878758430480957,
+    "Culture": 0.8561151623725891,
+    "Military": 0.7889743447303772,
+    "Politics": 0.7862027287483215,
+    "Health": 0.7853024005889893,
+    "Technology": 0.7203521132469177,
+    "Energy": 0.7136173248291016,
+    "Economy": 0.7100173234939575,
+    "Transport": 0.6826532483100891,
+    "Environment": 0.6186683177947998,
+    "Crime": 0.6104068160057068,
+    "Education": 0.552359402179718,
+    "Diplomacy": 0.5340468883514404,
+    "Elections": 0.5161740183830261
+  },
+  "sentiment": {
+    "positive": 0.368,
+    "negative": 0.632,
+    "neutral": 0.0
+  }
+}

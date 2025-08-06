@@ -1,0 +1,36 @@
+{
+  "title": "Israele, Russia e la Casa Bianca. Rivedi la diretta con Peter Gomez e Alessandro Di Battista",
+  "published_date": null,
+  "url": "https://www.ilfattoquotidiano.it/2025/05/15/israele-russia-gomez-di-battista-video/7987740/",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Israel, Russia and the White House.",
+    "They talked about it in a direct reserved for subscribers of the YouTube channel of the newspaper with the director Peter Gomez and Alessandro Di Battista Dear reader, the publication of the comments is suspended from 20 to 9, the comments for each item will be closed after 72 hours, the maximum characters allowed for each message is 1,500 and each user can post a maximum of 150 comments per week.",
+    "We decided to set these limits to improve the quality of the debate.",
+    "It is necessary to comply terms and conditions of use of the site (in particular points 3 and 5): avoid insults, accusations without foundation and remaining on the subject with the discussion.",
+    "The comments will be published after being read and approved, with the exception of those published by users in the White List (see point 3 of our policy).",
+    "Finally, it is not allowed to access the service via multiple account.",
+    "Please report any technical problems to our technical support the editorial staff"
+  ],
+  "topics": {
+    "Conflict": 0.8614786267280579,
+    "Culture": 0.7270070910453796,
+    "Politics": 0.5290507674217224,
+    "Economy": 0.4763578176498413,
+    "Health": 0.30164381861686707,
+    "Military": 0.2650544047355652,
+    "Technology": 0.25222650170326233,
+    "Diplomacy": 0.22510190308094025,
+    "Environment": 0.1991029679775238,
+    "Transport": 0.19777031242847443,
+    "Energy": 0.13326413929462433,
+    "Crime": 0.08581662178039551,
+    "Education": 0.055277951061725616,
+    "Elections": 0.04264983534812927
+  },
+  "sentiment": {
+    "positive": 0.286,
+    "negative": 0.714,
+    "neutral": 0.0
+  }
+}

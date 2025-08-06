@@ -1,0 +1,42 @@
+{
+  "title": "Trump: 'Ci avviciniamo a un accordo con l'Iran sul nucleare'",
+  "published_date": null,
+  "url": "https://www.ansa.it/sito/notizie/mondo/2025/05/15/trump-ci-avviciniamo-a-un-accordo-con-liran-sul-nucleare-_0cdbaa9b-f6b0-4b46-8721-da3053a2d092.html",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "US President Donald Trump said, speaking to Doha, that Washington and Tehran approach an agreement on Iranian nuclear power.",
+    "Trump said he could go to Türkiye tomorrow if the negotiations between Russia and Ukraine should proceed.",
+    "\"You know, if something happened, I would go on Friday,\" Trump said in Qatar, the second stage of his tour in the Gulf.",
+    "Trump warned that the United States \"can resume their offensive\" against the Houthi in case the Yemeni militias resume their attacks.",
+    "\"We agreed with the Houthi and I think this was a great success.",
+    "But maybe tomorrow an attack will be launched, and in that case we would return to the offensive,\" he added.",
+    "\"We are working hard in Gaza.",
+    "Gaza has been a territory of death and destruction\", but the United States will intervene and will become a \"zone of freedom\".",
+    "So Donald Trump, speaking in Qatar, adding that \"we will have to deal with Hamas\".",
+    "The Times of Israel reports it.",
+    "The President of the United States said that October 7 was \"one of the worst days in the history of the world, not only in this region\".",
+    "\"We are facing Hamas, Iran and Houthi and I think it was a great success,\" he says, referring to the United States attacks against the Yemenita group supported by Iran.",
+    "Reserved reproduction © Copyright Ansa"
+  ],
+  "topics": {
+    "Conflict": 0.8971781134605408,
+    "Politics": 0.8093491792678833,
+    "Diplomacy": 0.6076265573501587,
+    "Military": 0.5737691521644592,
+    "Culture": 0.5489742159843445,
+    "Technology": 0.4489952623844147,
+    "Economy": 0.33982202410697937,
+    "Crime": 0.3345757722854614,
+    "Health": 0.3248753845691681,
+    "Transport": 0.2757784426212311,
+    "Energy": 0.2404395341873169,
+    "Environment": 0.22067232429981232,
+    "Education": 0.1616227775812149,
+    "Elections": 0.1443231850862503
+  },
+  "sentiment": {
+    "positive": 0.538,
+    "negative": 0.462,
+    "neutral": 0.0
+  }
+}

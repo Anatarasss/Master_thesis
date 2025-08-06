@@ -1,0 +1,36 @@
+{
+  "title": "Russia, rafforzate le basi militari al confine con la Finlandia",
+  "published_date": null,
+  "url": "https://tg24.sky.it/mondo/2025/05/20/russia-basi-militari-confine-finlandia",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "To write is the New York Times, according to which the images, confirmed by NATO officials, show files of new curtains and new warehouses capable of hosting military vehicles Russia is strengthening the foundations and building military infrastructures near the Finnish border, according to recent satellite images that could shed light on a Moscow strategy for the after-war in Ukraine.",
+    "To write it is the New York Times, according to which the images, confirmed by NATO officials, show files of new curtains and new warehouses capable of hosting military vehicles, renovations of shelters for combat planes and a constant construction activity on a base for helicopters that had remained mostly unused and covered with vegetation.",
+    "At the moment an expansion activity seems to So far it seems to be in front of the early stages of a wider and long -term expansion activity, which for NATO officials cited by the American newspaper have nothing to do with the accumulation of troops along the Ukrainian border before the vast scale of Russia in 2022.",
+    "For now, Russia, engaged in the war in Ukraine, has very few troops along the border, and the Finns of all It represents a significant threat, at least for now.",
+    "See also Ukraine, Trump-Putin: yes negotiates.",
+    "Moscow: contact reopenings with Kiev The risk that it becomes a hot area But Finland is one of the most recent members of NATO, having entered to be part of it two years ago, recalls the newspaper, and these moves undoubtedly reflect the perception of a threat from Moscow: this border of 830 is now the longest contact line of the western alliance with Russia.",
+    "Military analysts provide that it can become a hot area, also because - at least in part - internal to the increasingly disputed territory of the Arctic Circle."
+  ],
+  "topics": {
+    "Conflict": 0.9877626895904541,
+    "Military": 0.9813573360443115,
+    "Politics": 0.9234082102775574,
+    "Culture": 0.7536041140556335,
+    "Technology": 0.7452483773231506,
+    "Diplomacy": 0.6252590417861938,
+    "Transport": 0.513727068901062,
+    "Economy": 0.5013108849525452,
+    "Environment": 0.4028221666812897,
+    "Health": 0.36712926626205444,
+    "Crime": 0.27517443895339966,
+    "Elections": 0.21071524918079376,
+    "Education": 0.18589936196804047,
+    "Energy": 0.18301479518413544
+  },
+  "sentiment": {
+    "positive": 0.429,
+    "negative": 0.571,
+    "neutral": 0.0
+  }
+}

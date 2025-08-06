@@ -1,0 +1,41 @@
+{
+  "title": "'Even without use of nukes...': Putin expresses confidence in Russian forces to achieve set goals in Ukraine",
+  "published_date": null,
+  "url": "https://www.indiatvnews.com/news/world/putin-expresses-confidence-in-russian-forces-to-achieve-set-goals-in-ukraine-even-without-use-of-nukes-2025-05-18-990844",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russian President Vladimir Putin has said that Russia has ample forces to complete its Ukraine campaign and achieve its set goals, and that too even without the use of nuclear weapons.",
+    "In an interview with State TV’s Kremlin correspondent, Putin said, \"Several attempts were made to force us to make this mistake (the use of nuclear weapons), but we have ample force to achieve objectives without this option.\"",
+    "\"The objectives are about the elimination of the original causes of this crisis, the formation of conditions for long-lasting and sustainable peace and the provision of security to Russia,” he said in the interview, which will be telecast on Sunday night.",
+    "In February 2022, at the start of the campaign, Putin had described the “denazification and demilitarisation of the former Soviet republic and its neutral status.",
+    "Long-lasting peace and protection of the rights of the Russian-speaking population in Ukraine must be the core result of Russia’s special military operation, Putin said in the interview with VGTRK journalist Pavel Zarubin.",
+    "Putin has repeatedly called for resolving the Ukraine conflict, highlighting the need to take Russia’s interests into account when addressing the root causes of the crisis.",
+    "According to him, this is the only way to establish long-term peace, which is what Moscow wants, TASS news agency reported.",
+    "The Russian leader’s interview would be telecast on the eve of US President Donald Trump’s phone call to him on Monday to discuss Ukraine, as the May 16 Istanbul talks between the Russian and Ukrainian delegations failed to agree on a ceasefire.",
+    "Putin expressed Moscow’s readiness to respect US interests and expected reciprocity.",
+    "“Americans, the entire population of America and the US leadership, including the president, have their own national interests, and we respect that.",
+    "We hope that we will be treated in the same way,” Putin said.",
+    "(With inputs from AP)"
+  ],
+  "topics": {
+    "Conflict": 0.9617192149162292,
+    "Military": 0.8644750118255615,
+    "Culture": 0.8021495938301086,
+    "Politics": 0.7610473036766052,
+    "Economy": 0.6805413365364075,
+    "Diplomacy": 0.6207930445671082,
+    "Energy": 0.5581720471382141,
+    "Health": 0.5449972152709961,
+    "Technology": 0.5240954756736755,
+    "Transport": 0.4513871371746063,
+    "Environment": 0.3921503722667694,
+    "Elections": 0.3654884099960327,
+    "Crime": 0.3360920250415802,
+    "Education": 0.18260541558265686
+  },
+  "sentiment": {
+    "positive": 0.833,
+    "negative": 0.167,
+    "neutral": 0.0
+  }
+}

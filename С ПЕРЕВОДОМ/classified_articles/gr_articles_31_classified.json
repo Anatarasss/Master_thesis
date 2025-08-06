@@ -1,0 +1,37 @@
+{
+  "title": "Σε ποιες θερμοκρασίες πρέπει να σερβίρεται κάθε κρασί και πώς δεν θα σας ξεγελάσουν",
+  "published_date": null,
+  "url": "https://www.lifo.gr/now/world/se-poies-thermokrasies-prepei-na-serbiretai-kathe-krasi-kai-pos-den-tha-sas-xegelasoyn",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "A group of experts at Wine Guide of Russia gives instructions on how one can distinguish good wine, and warns of the ways that some people try to fool those who do not know the secrets of wine well.",
+    "According to Artur Sargsyan, head of the Wine Guide of Russia expert team, with the \"cold method\" a shopkeeper can disguise low quality wine from the customer.",
+    "In an interview with Ria Novosti, he noted that the same drink at different temperatures (frozen, normal temperature and hot) will have 3 different flavors.",
+    "\"The cold hides the aroma, in the taste you only feel a light sour.",
+    "So wine defects are often hidden, \"he revealed.",
+    "Recommend the choice of the right temperature, which must be respected when serving any wine.",
+    "To achieve this one must be aware of the following basic principle: lower wine quality is often accompanied by a lower temperature.",
+    "Light red wine should be served at 12-16 degrees, white wines at 10-11 degrees, sparkling wines at 7-8 degrees, while a separate champagne at 12-13 degrees, the expert said."
+  ],
+  "topics": {
+    "Culture": 0.6691179275512695,
+    "Conflict": 0.6258280873298645,
+    "Environment": 0.5068734884262085,
+    "Technology": 0.4597223997116089,
+    "Economy": 0.43845927715301514,
+    "Transport": 0.40184229612350464,
+    "Energy": 0.3987397849559784,
+    "Health": 0.39653149247169495,
+    "Education": 0.39306867122650146,
+    "Diplomacy": 0.3847288191318512,
+    "Politics": 0.24691759049892426,
+    "Military": 0.22759942710399628,
+    "Crime": 0.15290196239948273,
+    "Elections": 0.1213836595416069
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Trump Mediation: A New Bid for Ukraine-Russia Peace",
+  "published_date": null,
+  "url": "https://www.devdiscourse.com/article/law-order/3418325-trump-mediation-a-new-bid-for-ukraine-russia-peace",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Trump Mediation: A New Bid for Ukraine-Russia Peace President Donald Trump announced potential ceasefire negotiations between Russia and Ukraine, following calls with both nations' leaders.",
+    "While no specific plans are set, Trump remains hopeful his rapport with President Putin will ease tensions.",
+    "Despite limited progress, discussions may lead to a future peace treaty.",
+    "- Country: - United States President Donald Trump declared the imminent start of ceasefire talks between Russia and Ukraine after engaging in separate dialogues with their leaders.",
+    "Aimed at resolving a three-year conflict, this effort reflects Trump's diplomatic resolve.",
+    "Despite the optimistic announcement, detailed plans for the potential ceasefire remain undisclosed.",
+    "These discussions follow recent direct engagements between Russian and Ukrainian delegations in Turkey, which resulted in a limited exchange of prisoners but did not pause the ongoing hostilities.",
+    "During pre-call briefings, the White House indicated Trump's growing frustration with the war's continuation.",
+    "Trump has utilized his perceived personal influence with Putin as a pivotal tool to negotiate a truce, hinting at reduced sanctions and enhanced trade post-conflict as incentives.",
+    "(With inputs from agencies.)",
+    "- READ MORE ON: - Trump - ceasefire - Ukraine - Russia - negotiations - Putin - Zelenskyy - peace - treaty - prisoner exchange ALSO READ High Stake Negotiations: China's April Export Surge Amid Trump Tariff Talks Europe Backs Tribunal to Hold Putin Accountable for Aggression in Ukraine Empowering Cloud Computing Professionals: IIT Bhubaneswar and TCS iON Collaborate Failed Peace Talks: Revisiting Russia-Ukraine Negotiations High-Stakes Negotiations: U.S. and China Tackle Trade War in Geneva"
+  ],
+  "topics": {
+    "Diplomacy": 0.9540355205535889,
+    "Conflict": 0.8775051832199097,
+    "Politics": 0.8211612105369568,
+    "Technology": 0.5767467021942139,
+    "Culture": 0.48445841670036316,
+    "Economy": 0.45901110768318176,
+    "Health": 0.38385599851608276,
+    "Crime": 0.3715784251689911,
+    "Military": 0.37062469124794006,
+    "Energy": 0.35959526896476746,
+    "Transport": 0.35156720876693726,
+    "Environment": 0.3147203028202057,
+    "Education": 0.20476044714450836,
+    "Elections": 0.18240641057491302
+  },
+  "sentiment": {
+    "positive": 0.545,
+    "negative": 0.455,
+    "neutral": 0.0
+  }
+}

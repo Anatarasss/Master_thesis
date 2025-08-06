@@ -1,0 +1,37 @@
+{
+  "title": "Global Leaders Urge Ceasefire in Ukraine Conflict",
+  "published_date": null,
+  "url": "https://www.devdiscourse.com/article/politics/3416914-global-leaders-urge-ceasefire-in-ukraine-conflict",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Global Leaders Urge Ceasefire in Ukraine Conflict British Prime Minister Keir Starmer held discussions with leaders from the U.S., Italy, France, and Germany regarding the Ukraine war.",
+    "They emphasized the need for peace talks with Russia.",
+    "UK Foreign Minister David Lammy criticized Moscow after ceasefire talks ended quickly, highlighting challenges in diplomatic engagement.",
+    "In a critical discussion on Sunday, British Prime Minister Keir Starmer conversed with leaders from the U.S., Italy, France, and Germany about the ongoing conflict in Ukraine, according to a Downing Street spokesperson.",
+    "As U.S. President Donald Trump prepares for a significant call with Russia's President Vladimir Putin on Monday, the leaders highlighted the urgency for an unconditional ceasefire, urging Putin to engage in peace talks earnestly.",
+    "Sanctions remain on the table should Russia fail to engage seriously, the spokesperson indicated.",
+    "Meanwhile, UK Foreign Minister David Lammy openly criticized Moscow's approach after the recent talks with Ukraine ended abruptly, with Trump suggesting no progress could occur until a direct meeting with Putin.",
+    "(With inputs from agencies.)"
+  ],
+  "topics": {
+    "Diplomacy": 0.9901946187019348,
+    "Conflict": 0.988379180431366,
+    "Politics": 0.9137332439422607,
+    "Culture": 0.8086519837379456,
+    "Economy": 0.5919079780578613,
+    "Military": 0.5915043950080872,
+    "Technology": 0.4535521864891052,
+    "Health": 0.44051122665405273,
+    "Crime": 0.4107753038406372,
+    "Energy": 0.4084201753139496,
+    "Transport": 0.3724825978279114,
+    "Environment": 0.30609795451164246,
+    "Elections": 0.19539883732795715,
+    "Education": 0.18108685314655304
+  },
+  "sentiment": {
+    "positive": 0.625,
+    "negative": 0.375,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Vladimir Putin ‘hopes nuclear weapons will not be required’ in Ukraine",
+  "published_date": null,
+  "url": "https://www.irishmirror.ie/news/world-news/vladimir-putin-hopes-nuclear-weapons-35167920",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russian President Vladimir Putin has said the need to use nuclear weapons in Ukraine has not arisen and he hopes it will not.",
+    "In a preview of an interview with Russian state television, published on Telegram, Mr Putin said Moscow has the strength and the means to bring the conflict in Ukraine to a “logical conclusion”.",
+    "Responding to a question about Ukrainian strikes on Russian territory, he said: “There has been no need to use those (nuclear) weapons … and I hope they will not be required.” “We have enough strength and means to bring what was started in 2022 to a logical conclusion with the outcome Russia requires,” he said.",
+    "Mr Putin signed a revamped version of Russia’s nuclear doctrine in November, spelling out the circumstances that would allow him to use the world’s largest atomic arsenal.",
+    "The document gave that option in response even to a conventional attack backed by a nuclear power.",
+    "Russia and Ukraine are at odds over competing ceasefire proposals.",
+    "Ukrainian President Volodymyr Zelensky said on Friday, in comments made public on Saturday, that Moscow’s announcement of a 72-hour ceasefire next week in Ukraine to mark Victory Day in the Second World War is an attempt to create a “soft atmosphere” ahead of Russia’s annual celebrations.",
+    "Mr Zelensky instead renewed calls for a 30-day pause in hostilities, as the US had proposed.",
+    "He said the proposed ceasefire could start any time as a meaningful step toward ending the war.",
+    "Mr Putin on Monday declared the unilateral 72-hour ceasefire as the US presses for a deal to end the three-year war.",
+    "The Kremlin said the truce, ordered on “humanitarian grounds”, will run from the start of May 8 and run until the end of May 10 to mark Moscow’s defeat of Nazi Germany in 1945 — Russia’s biggest secular holiday.",
+    "Meanwhile, 11 people were wounded in a Russian drone attack overnight on the Ukrainian capital Kyiv, Ukraine’s State Emergency Service said on Sunday.",
+    "Two children were among the wounded.",
+    "Russia fired a total of 165 exploding drones and decoys overnight, Ukraine’s air force said.",
+    "Of those, 69 were intercepted and 80 were lost, having probably been electronically jammed.",
+    "Russia also launched two ballistic missiles.",
+    "Russia’s Defence Ministry said its air defences shot down 13 Ukrainian drones overnight.",
+    "Subscribe to our newsletter for the latest news from the Irish Mirror direct to your inbox: Sign up here."
+  ],
+  "topics": {
+    "Conflict": 0.7205007672309875,
+    "Culture": 0.6974904537200928,
+    "Technology": 0.6340556144714355,
+    "Politics": 0.6056159734725952,
+    "Military": 0.49446219205856323,
+    "Economy": 0.45501720905303955,
+    "Health": 0.45381584763526917,
+    "Environment": 0.36229658126831055,
+    "Energy": 0.3404276669025421,
+    "Education": 0.3387986123561859,
+    "Transport": 0.29793357849121094,
+    "Elections": 0.2753281891345978,
+    "Diplomacy": 0.21641089022159576,
+    "Crime": 0.10926443338394165
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

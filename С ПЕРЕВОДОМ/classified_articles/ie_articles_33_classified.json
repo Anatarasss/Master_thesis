@@ -1,0 +1,51 @@
+{
+  "title": "Zelensky hopes for ceasefire with Russia and says ‘he’ll be waiting for Putin’",
+  "published_date": null,
+  "url": "https://www.breakingnews.ie/world/zelensky-hopes-for-ceasefire-with-russia-and-says-hell-be-waiting-for-putin-1761826.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Ukrainian president Volodymyr Zelenskiy said he is hoping for a full and lasting ceasefire with Russia starting on Monday, adding he would be in Turkey to negotiate with Russian president Vladimir Putin “personally”.",
+    "His comments came after US president Donald Trump insisted Ukraine accept Russia’s latest offer of holding direct talks in Turkey on Thursday.",
+    "Ukraine, along with European allies, had demanded Russia accept an unconditional 30-day ceasefire starting on Monday before holding talks, but Moscow effectively rejected the proposal and called for direct negotiations instead.",
+    "It was not clear if Mr Zelenskiy was conditioning his presence in Turkey on the Monday ceasefire holding.",
+    "“We await a full and lasting ceasefire, starting from tomorrow, to provide the necessary basis for diplomacy.",
+    "There is no point in prolonging the killings.",
+    "And I will be waiting for Putin in Turkiye on Thursday.",
+    "I hope that this time the Russians will not look for excuses,” he wrote on X. Mr Trump said in a social media post on Sunday that Ukraine should agree to Mr Putin’s peace talks proposal “IMMEDIATELY.” “At least they will be able to determine whether or not a deal is possible, and if it is not, European leaders, and the US, will know where everything stands, and can proceed accordingly!” Trump wrote, adding: “HAVE THE MEETING, NOW!!",
+    "!” Mr c and said that “the entire world has been waiting for this for a very long time”.",
+    "He added, however, that “the very first step in truly ending any war is a ceasefire,” in a reference to his proposal to start a 30-day unconditional truce on Monday.",
+    "Mr Putin in remarks to the media overnight effectively rejected that ceasefire offer and proposed restarting direct talks with Ukraine in Istanbul on Thursday instead “without preconditions”.",
+    "He said a ceasefire might be agreed on during the negotiations — but stressed that the Kremlin needs a truce that would lead to a “lasting peace” instead of one that would allow Ukraine to rearm and mobilise more men into its armed forces.",
+    "Mr Putin’s counter-offer came after leaders from four major European countries threatened to ratchet up pressure on Moscow if it does not accept an unconditional 30-day ceasefire in Ukraine.",
+    "French president Emmanuel Macron, British prime minister Keir Starmer, German chancellor Friedrich Merz and Polish prime minister Donald Tusk met with Mr Zelenskiy in Kyiv on Saturday and issued a co-ordinated call for the truce starting Monday.",
+    "The plan has received backing from both the European Union and Mr Trump.",
+    "The leaders pledged tougher sanctions on Russia if Mr Putin did not accept the proposal.",
+    "Mr Zelenskiy, in his Sunday remarks, reiterated that call.",
+    "“There is no point in continuing the killing even for a single day.",
+    "We expect Russia to confirm a ceasefire — full, lasting, and reliable — starting tomorrow, May 12th, and Ukraine is ready to meet,” the Ukrainian leader said on X. Mr Macron said on Sunday that Mr Putin’s offer of direct negotiations with Ukraine is “a first step, but not enough,” signalling continued Western scepticism toward Moscow’s intentions.",
+    "“An unconditional ceasefire is not preceded by negotiations,” Mr Macron told reporters at the Polish-Ukrainian border, according to French media.",
+    "Mr Macron also warned that Mr Putin is “looking for a way out, but he still wants to buy time”.",
+    "Kremlin spokesman Dmitry Peskov, in comments aired by Russian state TV on Sunday, called Mr Putin’s proposal “very serious,” aimed at eliminating “the root causes of the conflict,” and said it “confirms a real intention to find a peaceful solution”."
+  ],
+  "topics": {
+    "Politics": 0.6149904727935791,
+    "Conflict": 0.540610134601593,
+    "Economy": 0.4197928011417389,
+    "Culture": 0.30781251192092896,
+    "Technology": 0.2894952893257141,
+    "Military": 0.2604176104068756,
+    "Health": 0.22186772525310516,
+    "Energy": 0.21720725297927856,
+    "Diplomacy": 0.21067310869693756,
+    "Environment": 0.16611021757125854,
+    "Transport": 0.13283665478229523,
+    "Elections": 0.1325981467962265,
+    "Education": 0.07437006384134293,
+    "Crime": 0.032500628381967545
+  },
+  "sentiment": {
+    "positive": 0.409,
+    "negative": 0.591,
+    "neutral": 0.0
+  }
+}

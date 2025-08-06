@@ -1,0 +1,40 @@
+{
+  "title": "European Leaders Rally for Increased Sanctions on Russia",
+  "published_date": null,
+  "url": "https://www.devdiscourse.com/article/politics/3418339-european-leaders-rally-for-increased-sanctions-on-russia",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "European Leaders Rally for Increased Sanctions on Russia European leaders, informed by U.S. President Donald Trump about his call with Russian President Vladimir Putin, agreed to heighten sanctions on Russia.",
+    "The discussions aim to address the ongoing Ukrainian conflict, which Trump has attempted to mediate, without achieving major concessions from Russia.",
+    "European leaders, following a briefing from U.S. President Donald Trump, have decided to escalate sanctions against Russia.",
+    "The briefing detailed Trump's discussion with Russian President Vladimir Putin regarding the conflict in Ukraine.",
+    "Trump's call with Putin and subsequent discussions with Ukrainian President Volodymyr Zelenskiy, and leaders of France, Italy, Germany, Finland, and the European Union, sought to forge a path to ceasefire negotiations in the three-year-old conflict.",
+    "However, Trump secured no significant concessions from Putin during the call.",
+    "German Chancellor Friedrich Merz stated that Europe and the U.S. are united in backing Ukraine, agreeing to increase pressure on Moscow through sanctions.",
+    "Despite this stance, Kremlin aide Yuri Ushakov indicated that no timeline for a ceasefire was discussed, though Trump emphasized a desire for swift agreements.",
+    "(With inputs from agencies.)",
+    "ALSO READ Diplomatic Dance: Trump's Shift and Russia's Perspective on Ukraine Britain Secures Groundbreaking Deal in Trump's Trade War PSL Matches Shifted: Cricket Amidst Conflict President fires Librarian of Congress Carla Hayden as White House continues purge of perceived Trump opponents, reports AP.",
+    "Behind Closed Doors: Trump and Dermer's Strategic Meeting"
+  ],
+  "topics": {
+    "Diplomacy": 0.9808530807495117,
+    "Conflict": 0.9659453630447388,
+    "Politics": 0.8831619620323181,
+    "Culture": 0.48167696595191956,
+    "Economy": 0.3826408088207245,
+    "Environment": 0.3408353924751282,
+    "Health": 0.3133063316345215,
+    "Transport": 0.2693002223968506,
+    "Military": 0.2440149337053299,
+    "Energy": 0.24341638386249542,
+    "Crime": 0.20211078226566315,
+    "Technology": 0.16211070120334625,
+    "Elections": 0.11400139331817627,
+    "Education": 0.11207430064678192
+  },
+  "sentiment": {
+    "positive": 0.545,
+    "negative": 0.455,
+    "neutral": 0.0
+  }
+}

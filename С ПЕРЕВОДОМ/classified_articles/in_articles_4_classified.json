@@ -1,0 +1,41 @@
+{
+  "title": "Blitz Over Kyiv: Drone Assaults Ignite Chaos and Blaze",
+  "published_date": null,
+  "url": "https://www.devdiscourse.com/article/science-environment/3423289-blitz-over-kyiv-drone-assaults-ignite-chaos-and-blaze",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Blitz Over Kyiv: Drone Assaults Ignite Chaos and Blaze Russia launched an early morning drone and missile attack on Ukraine's capital, Kyiv.",
+    "The assault caused fires, scattered debris across the city, and injured eight people.",
+    "Kyiv's mayor reported damage to residential and non-residential buildings.",
+    "Russian military actions follow recent Ukrainian drone strikes on Russian targets, including Moscow.",
+    "In a pre-dawn offensive that rattled residents and set parts of Ukraine's capital ablaze, Russia targeted Kyiv with drones and missiles early Saturday.",
+    "The assault injured at least eight individuals and left a trail of destruction, authorities reported.",
+    "Vitali Klitschko, the city's mayor, confirmed the artillery barrage triggered fires and propelled debris across Kyiv, particularly impacting the Solomyanskyi district where the top floor of an apartment building was struck by drone fragments.",
+    "A non-residential structure in the same area was also ablaze.",
+    "This escalation comes in the wake of approximately 800 Ukrainian drone attacks within Russia, aimed at strategic locales including Moscow.",
+    "Moscow has vowed retaliation, as demonstrated in its recent assault on Kyiv, underscoring the escalating tension between the two nations.",
+    "(With inputs from agencies.)",
+    "- READ MORE ON: - Russia - Ukraine - Kyiv - drone - missile - attack - explosions - air-defence - Vitali Klitschko - Ukrainian"
+  ],
+  "topics": {
+    "Conflict": 0.9823769927024841,
+    "Military": 0.9802502989768982,
+    "Politics": 0.8990480899810791,
+    "Culture": 0.8196161389350891,
+    "Technology": 0.7729085683822632,
+    "Health": 0.7646536827087402,
+    "Crime": 0.7183303236961365,
+    "Economy": 0.5985199809074402,
+    "Environment": 0.5855076313018799,
+    "Energy": 0.5705610513687134,
+    "Transport": 0.4655407965183258,
+    "Education": 0.2676997780799866,
+    "Diplomacy": 0.21123960614204407,
+    "Elections": 0.20155057311058044
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

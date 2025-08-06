@@ -1,0 +1,40 @@
+{
+  "title": "Ukraine to get $100 million-plus worth of ammunition from Finland, paid with Russia's frozen billions",
+  "published_date": null,
+  "url": "https://www.theweek.in/news/world/2025/05/19/ukraine-to-get-dollar100-million-plus-worth-of-ammunition-from-finland-paid-with-russia-s-frozen-billions.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Ukraine is set to receive €90 million ($101.35 million) worth of ammunition from Finland, as per a press release from the Finnish Ministry of Defence on Monday.",
+    "The ammunition will be sourced using Russian financial assets that had been frozen by the European Union just after Moscow began its special military operation in Kyiv, in February 2022.",
+    "The ammunition will be of Finnish origin, for which the Russian-origin funds will be released via the European Peace Facility (EPF).",
+    "The EU has estimated that $221.5 billion out of approximately $300 billion worth of frozen Russian assets are held in the 27-nation bloc, primarily in the form of government bonds that the Bank of Russia, the nation's central bank, had stored as reserves, a Reuters report said.",
+    "The EU has also said that it expected these assets were capable of yielding about $16-$22 billion in interest earned by 2027 as well, subject to fluctuations in euro zone rates, a related report said.",
+    "“We were able to negotiate additional funding for Finland’s support for Ukraine ...",
+    "The products are purchased from Finnish industry to boost employment at home and sent to Ukraine to help its defence.",
+    "I am very pleased with the outcome,” the Minister of Defence Antti Häkkänen explained, in the press release.",
+    "Although Russia has not properly responded to this, the utilisation of their own frozen assets, especially to aid Ukraine, is highly likely to incur legal and geopolitical trouble.",
+    "Reiterating Finland's “strong and unwavering” support for Ukraine, Häkkänen explained that the EU-sourced munitions package would be accompanied by a Finnish support programme worth €660 million ($741.6 million) to support, and “forge closer links between the Finnish industry and Finland's support” for the embattled nation.",
+    "“This is a great example of the Finnish defence industry’s abilities, and it shows that our investments into ammunition production capacity are paying off,” Häkkänen concluded."
+  ],
+  "topics": {
+    "Military": 0.7985143065452576,
+    "Economy": 0.7758243083953857,
+    "Conflict": 0.6114420890808105,
+    "Technology": 0.5927144289016724,
+    "Culture": 0.48123636841773987,
+    "Politics": 0.47031453251838684,
+    "Health": 0.344339519739151,
+    "Environment": 0.30008482933044434,
+    "Diplomacy": 0.23857977986335754,
+    "Elections": 0.165903240442276,
+    "Transport": 0.12066332250833511,
+    "Energy": 0.09490974247455597,
+    "Crime": 0.09415026009082794,
+    "Education": 0.0050069778226315975
+  },
+  "sentiment": {
+    "positive": 0.364,
+    "negative": 0.636,
+    "neutral": 0.0
+  }
+}

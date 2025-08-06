@@ -1,0 +1,40 @@
+{
+  "title": "【やさしい日本語】建物(たてもの)や 公園(こうえん)に、 ウクライナの 旗(はた)の 色(いろ)の 光(ひかり)を 映(うつ)す",
+  "published_date": null,
+  "url": "https://www.nishinippon.co.jp/item/n/890054/",
+  "original_language": "ja",
+  "cleaned_sentences": [
+    "The colour of the Ukrainian flag (light) Russia is attacking its neighboring country, Ukraine.",
+    "Many people have died or fled to other countries.",
+    "In Japan, many people want Russia to stop attacking.",
+    "Fukuoka Prefecture has begun something special in hoping for peace to return to Ukraine.",
+    "At night, blue and yellow lights are reflected in two locations in Fukuoka City.",
+    "It is the color of the flag of the Ukraine country.",
+    "The building, the former Prefectural Public Hall, in Chuo Ward, Fukuoka City, reflects light throughout the night.",
+    "Nakajima in Ohori Park is open until 10pm.",
+    "I plan to continue for a while.",
+    "The Fukuoka Prefecture governor said, \"I would like to express my wish for peace just like you all.\"",
+    "The original article is here Easy Japanese We deliver news translated into \"easy Japanese\" that is easy for foreigners and children to understand."
+  ],
+  "topics": {
+    "Conflict": 0.9165269732475281,
+    "Economy": 0.8392590880393982,
+    "Health": 0.7110270857810974,
+    "Culture": 0.6886785626411438,
+    "Transport": 0.6688845753669739,
+    "Environment": 0.648303210735321,
+    "Politics": 0.6397828459739685,
+    "Education": 0.5768334269523621,
+    "Technology": 0.5152151584625244,
+    "Energy": 0.5078250765800476,
+    "Elections": 0.41635265946388245,
+    "Crime": 0.3304966986179352,
+    "Diplomacy": 0.32201406359672546,
+    "Military": 0.24008697271347046
+  },
+  "sentiment": {
+    "positive": 0.636,
+    "negative": 0.364,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Τζόκοβιτς: Ο πατέρας του φωτογραφήθηκε με υποστηρικτές του Πούτιν με το σήμα \"Ζ\"",
+  "published_date": null,
+  "url": "https://www.tanea.gr/2023/01/26/sports/othersports/tzokovits-o-pateras-tou-fotografithike-me-ypostiriktes-tou-poutin-me-to-sima-z/",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "Novak Djokovic has new jokes after his father, Srdzan, was photographed with Vladimir Putin fans who were on the stands to watch the race between Serbian tennis player and Russian Andrei Rublef for the Australian Open.",
+    "As shown by videos released online, there were fans wearing \"Z\" blouses, the letter linked to the Russian invasion of Ukraine, while holding Russia flags and shouting slogans in favor of the war.",
+    "According to a complaint, Djokovic's father was photographed with one of them, and allegedly said \"Long Live Russia\" (\"Live Russia\" or in free performance \"Long live Russia\").",
+    "Watch video The tennis federation in Australia, as Al Jazeera writes, reports that four people were investigated by police and expelled from Rod Laver Arena for \"inappropriate flags and symbols\" and threat of security guards.",
+    "Intense reaction from Ukrainian ambassador The Ukrainian Ambassador to Australia and New Zealand, Vasil Mirosnitsenko, spoke of a \"shameful event\", and demanded that action was taken for fans of the Russian invasion, as it did.",
+    "\"It's a complete package.",
+    "Among the Serbian flags, there is: a Russian flag, Putin, the symbol of Z, the so -called flag of the Donetsk People's Republic, \"he wrote on Twitter with a link below.",
+    "\"It's a shame,\" he added.",
+    "Among the Serbian Flags, there is: A Russian Flag, Putin, Z-Symbol, So-Called Donetsk People's Republic Flag.",
+    "Its Such a Disgrace… @Tennisaustralia @australianopen - Vasyl myroshnychenko (@ambasyl) January 25, 2023"
+  ],
+  "topics": {
+    "Politics": 0.9507285952568054,
+    "Conflict": 0.9450433850288391,
+    "Culture": 0.8927479982376099,
+    "Crime": 0.7573501467704773,
+    "Economy": 0.6339329481124878,
+    "Diplomacy": 0.6275898814201355,
+    "Military": 0.4659315049648285,
+    "Health": 0.44870343804359436,
+    "Technology": 0.40607479214668274,
+    "Transport": 0.3983110189437866,
+    "Environment": 0.24709849059581757,
+    "Energy": 0.2196069061756134,
+    "Elections": 0.10106226801872253,
+    "Education": 0.06375500559806824
+  },
+  "sentiment": {
+    "positive": 0.3,
+    "negative": 0.7,
+    "neutral": 0.0
+  }
+}

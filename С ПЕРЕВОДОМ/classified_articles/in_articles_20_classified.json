@@ -1,0 +1,50 @@
+{
+  "title": "Russia-Ukraine ceasefire: While Putin 'agrees' to compromises, Zelenskyy rejects 'withdraw troops' demand, MoU soon",
+  "published_date": null,
+  "url": "https://www.theweek.in/news/india/2025/05/20/russia-ukraine-ceasefire-while-putin-agrees-to-compromises-zelenskyy-rejects-withdraw-troops-demand-mo-u-soon.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "While US President Donald Trump sounded victorious after holding talks with his Russian and Ukrainian counterparts, Vladimir Putin and Volodymyr Zelenskyy, respectively, the warring countries are yet to agree on a timeline for the ceasefire.",
+    "Both nations have agreed to sign an MoU that would pave the way for future peace talks.",
+    "Addressing presspersons after the talks, the Russian president said he was ready to \"discuss compromises\".",
+    "He added that the root cause of the crisis must be addressed.",
+    "Speaking to reporters at Sochi, Putin said Russia is ready to work with Ukraine on a memorandum addressing possible terms for a future peace agreement, including defining a number of key positions, TASS reported.",
+    "\"Russia’s position remains clear.",
+    "The main thing for us is to eliminate the root causes of this crisis,\" Putin said.",
+    "#WATCH | US President Donald Trump says, \"...My little conversation with a nice gentleman named Vladimir Putin.",
+    "We had a good talk, and I think that progress is being made.",
+    "5,000 young soldiers are being killed every single week on average.",
+    "And it's a number probably worse than… pic.twitter.com/kycWSNJfhr — ANI (@ANI) May 19, 2025 However, Putin did not agree to a 30-day ceasefire proposed by the US.",
+    "Kremlin spokesperson Dmitry Peskov said there are no deadlines for MoU as \"the devil is in the details\".",
+    "\"The drafts will be formulated by both the Russian and Ukrainian sides, these draft documents will be exchanged, and then complex contacts to develop a single text,\" Reuters reported, quoting Peskov.",
+    "Also read - 'Then what do we get?",
+    "': Director Wes Anderson ridicules Trump's '100% tariff' plan to save Hollywood - 'It went very well': Trump announces Russia-Ukraine calls a success, ceasefire negotiations underway - Ukraine to get $100 million-plus worth of ammunition from Finland, paid with Russia's frozen billions - 'New era' of UK-EU ties: What areas will they collaborate in?",
+    "Reacting to the talks, Ukrainian President Zelenskyy said it might seek a high-level meeting among Ukraine, Russia, the United States, European Union countries and Britain as part of a push to end the war.",
+    "\"Ukraine is ready for direct negotiations with Russia in any format that brings results,\" Zelenskiy tweeted.",
+    "Zelenskyy, later told presspersons, \"There could be a respective memorandum in the bilateral format, which may then lead to a roadmap toward ending the war, that is, toward a full agreement.",
+    "This memorandum, supported by both countries, would include provisions for a ceasefire,\" Ukraine news agency Ukrinform reported.",
+    "US President Trump on Monday said that his two-hour telephone conversation with Putin was a success and the “tone and spirit of the conversation were excellent”.",
+    "He added that the warring nations would soon begin negotiations, first towards a ceasefire, and then towards an end to the conflict itself."
+  ],
+  "topics": {
+    "Conflict": 0.94102543592453,
+    "Politics": 0.9075887799263,
+    "Military": 0.8543466925621033,
+    "Culture": 0.8507680296897888,
+    "Diplomacy": 0.795996367931366,
+    "Energy": 0.7288408279418945,
+    "Economy": 0.695401668548584,
+    "Technology": 0.6377140879631042,
+    "Health": 0.5793554186820984,
+    "Transport": 0.5757618546485901,
+    "Environment": 0.3899867534637451,
+    "Education": 0.3619873821735382,
+    "Elections": 0.35181674361228943,
+    "Crime": 0.23918913304805756
+  },
+  "sentiment": {
+    "positive": 0.524,
+    "negative": 0.476,
+    "neutral": 0.0
+  }
+}

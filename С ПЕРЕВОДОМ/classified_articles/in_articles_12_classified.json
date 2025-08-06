@@ -1,0 +1,50 @@
+{
+  "title": "5,000 soldiers are being killed every week, we're trying to stop it: Trump on Russia-Ukraine ceasefire talks",
+  "published_date": null,
+  "url": "https://www.indiatvnews.com/news/world/5-000-soldiers-are-being-killed-every-week-we-re-trying-to-stop-it-trump-on-russia-ukraine-ceasefire-talks-2025-05-20-991006",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "US President Donald Trump said he had separate phone calls with the leaders of Russia and Ukraine and added that some progress is being made and his administration is trying to stop the war.",
+    "Expressing concern over people being killed in the war, he said 5,000 young soldiers are being killed every single week on average and it's a number probably worse than that, in addition to other people who are being killed in towns.",
+    "Calling it an absolute bloodbath, he said he has seen satellite pictures that are so bad, so horrible.",
+    "“My little conversation with a nice gentleman named Vladimir Putin.",
+    "We had a good talk, and I think that progress is being made.",
+    "5,000 young soldiers are being killed every single week on average.",
+    "And it's a number probably worse than that, in addition to other people that are being killed in towns.",
+    "And we're trying to stop it.",
+    "It's an absolute bloodbath.",
+    "I've seen satellite pictures that are so bad, so horrible...We're doing the best we can.",
+    "This was not our war.",
+    "We're doing something from the last administration.",
+    "How did they allow that to happen?",
+    "It wouldn't have happened,” Trump said, He further added that Russia and Ukraine will \"immediately\" begin ceasefire negotiations.",
+    "However, it was not clear when or where any talks might take place or who would participate.",
+    "Trump's announcement came days after the first direct engagement between Russian and Ukrainian delegations since 2022.",
+    "Those negotiations on Friday in Turkey brought about a limited exchange of prisoners but no pause in the fighting.",
+    "Ahead of the calls, the White House said Trump had grown \"frustrated\" with both leaders over the continuing war.",
+    "Vice President JD Vance said Trump would press Russian President Vladimir Putin to see if he was truly interested in stopping the fighting, and if not, that the US could disengage from trying to stop the conflict.",
+    "Trump later told reporters that he believed Putin was serious about wanting peace.",
+    "\"The conditions for that will be negotiated between the two parties, as it can only be, because they know details of a negotiation that nobody else would be aware of,\" Trump said in a social media post."
+  ],
+  "topics": {
+    "Conflict": 0.9262486696243286,
+    "Military": 0.720750093460083,
+    "Politics": 0.6806619167327881,
+    "Culture": 0.6174789071083069,
+    "Economy": 0.5353691577911377,
+    "Technology": 0.513847291469574,
+    "Transport": 0.4399804472923279,
+    "Health": 0.43319156765937805,
+    "Diplomacy": 0.3923727571964264,
+    "Energy": 0.37429583072662354,
+    "Environment": 0.3345522880554199,
+    "Education": 0.20109649002552032,
+    "Crime": 0.1126614660024643,
+    "Elections": 0.09346983581781387
+  },
+  "sentiment": {
+    "positive": 0.286,
+    "negative": 0.714,
+    "neutral": 0.0
+  }
+}

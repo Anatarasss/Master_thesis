@@ -1,0 +1,39 @@
+{
+  "title": "Russia launches one of the biggest drone attacks on Ukraine since war began",
+  "published_date": null,
+  "url": "https://www.breakingnews.ie/world/russia-launches-one-of-the-biggest-drone-attacks-on-ukraine-since-war-began-1764049.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russia overnight into Sunday launched one of its most intense drone attacks on Ukraine since the beginning of its full-scale invasion in 2022.",
+    "Russia fired a total of 273 exploding drones and decoys overnight, Ukraine’s air force said.",
+    "Of those, 88 were intercepted and a further 128 lost, likely having been electronically jammed.",
+    "The attacks targeted the country’s Kyiv, Dnipropetrovsk and Donetsk regions.",
+    "Yuriy Ihnat, head of the communications department of the Ukrainian air force, told The Associated Press that the barrage was the biggest drone attack since the start of the full-scale invasion.",
+    "According to Kyiv regional governor Mykola Kalashnyk, a 28-year-old woman was killed in a drone attack on the region and three other people, including a four-year-old child, were wounded.",
+    "The number of drones fired exceeds Russia’s previous largest known single drone attack of the war, when Russia pounded Ukraine with 267 drones on the eve of the war’s third anniversary.",
+    "The barrage came after the first direct talks between Moscow and Kyiv in years on Friday failed to yield a ceasefire.",
+    "Russian President Vladimir Putin spurned Ukrainian President Volodymyr Zelensky’s offer to meet face-to-face in Turkey after he himself proposed direct negotiations, although not at the presidential level, as an alternative to a 30-day ceasefire urged by Ukraine and its western allies, including the US.",
+    "US President Donald Trump said he plans to speak by phone on Monday to Mr Putin, followed by Mr Zelensky and leaders of various Nato countries, about ending the war in Ukraine."
+  ],
+  "topics": {
+    "Conflict": 0.9026213884353638,
+    "Technology": 0.7692464590072632,
+    "Politics": 0.7293869853019714,
+    "Military": 0.6991523504257202,
+    "Culture": 0.6171056032180786,
+    "Diplomacy": 0.518572986125946,
+    "Economy": 0.4704371392726898,
+    "Health": 0.4605521857738495,
+    "Energy": 0.41616207361221313,
+    "Transport": 0.3811272084712982,
+    "Environment": 0.3758103549480438,
+    "Crime": 0.2796669602394104,
+    "Education": 0.21840639412403107,
+    "Elections": 0.16004617512226105
+  },
+  "sentiment": {
+    "positive": 0.2,
+    "negative": 0.8,
+    "neutral": 0.0
+  }
+}

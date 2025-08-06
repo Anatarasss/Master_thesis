@@ -1,0 +1,45 @@
+{
+  "title": "La Russia dichiara fuorilegge Amnesty International",
+  "published_date": null,
+  "url": "https://tg24.sky.it/mondo/2025/05/19/amnesty-international-russia-organizzazione-indesiderata",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "The human rights organization has been included in the list of \"undesirable organizations\".",
+    "The body will have to stop any activity in the country.",
+    "Amnesty: \"We will continue to work for human rights in Russia\" The Kremlin defined the International Human Rights Authority AMNESTY INTERNATIONAL, an \"unwanted organization\": it follows that, on the basis of a 2015 legislation, any involvement with this association can represent a form of crime.",
+    "To announce this decision was the office of the Russian prosecutor General, who, through an online declaration, gave birth to the nth degree of repression of the opposition after the invasion of Ukraine in February 2022 entities, among which, above all, important independent newspapers and groups for human rights stand out.",
+    "\"We will not give in to threats and we will continue undaunted to work to ensure that Russian citizens can enjoy their human rights without discrimination.",
+    "And we will continue to document and denounce the war crimes committed in Ukraine from Russia all over the world\".",
+    "This was stated by Agnès Callamard, general secretary of Amnesty International, in a note.",
+    "The previous statements by Amnesty International The decision of the Russian government implies that the international organization for human rights must cease any activity in Russia and that anyone who collaborates or supporting will be pursued in criminalise.",
+    "It is a measure probably adopted by the Kremlin due to the recent criticisms made by Amnesty International.",
+    "In fact, we read on the organization's website: \"Russia has continued its war of aggression against Ukraine, important independent newspapers and groups for human rights.",
+    "The dissidents have undergone arbitrary judicial proceedings, unfair processes, heavy fines and long prison penalties based on a myriad of laws that do not comply with international standards in the field of human rights.",
+    "Used as a weapon to pursue government critics, religious groups and even children.",
+    "The protection of human rights The note also read notes related to the failure to protect civil rights, the main mission of the organization: \"Torture and other mistreatment during detention were widespread and committed in conditions of almost total impunity.",
+    "The persecution of LGBTI people has increased.",
+    "The regional authorities have continued to introduce obstacles to abortion.",
+    "Russia has not shown any commitment to face climate change\"."
+  ],
+  "topics": {
+    "Conflict": 0.7997505068778992,
+    "Politics": 0.7904748916625977,
+    "Crime": 0.7579778432846069,
+    "Culture": 0.5188136696815491,
+    "Health": 0.3867221176624298,
+    "Technology": 0.37590351700782776,
+    "Energy": 0.37248969078063965,
+    "Economy": 0.3560151159763336,
+    "Environment": 0.31419438123703003,
+    "Military": 0.30824151635169983,
+    "Diplomacy": 0.28281548619270325,
+    "Transport": 0.25602757930755615,
+    "Elections": 0.21725983917713165,
+    "Education": 0.19231635332107544
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

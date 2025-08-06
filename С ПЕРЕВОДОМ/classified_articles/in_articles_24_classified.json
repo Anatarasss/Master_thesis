@@ -1,0 +1,43 @@
+{
+  "title": "JD Vance meets Zelenskyy in Rome to discuss Ukraine-Russia peace talks",
+  "published_date": null,
+  "url": "https://www.indiatvnews.com/news/world/jd-vance-meets-zelenskyy-in-rome-to-discuss-ukraine-russia-peace-talks-2025-05-19-990863",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "On the sidelines of Pope Leo XIV's inaugural mass at Saint Peter's Square in Vatican City, US Vice President JD Vance met with Ukrainian President Volodymyr Zelenskyy in Rome on Sunday (local time).",
+    "United States Secretary of State Marco Rubio was also present at the meeting.",
+    "As per a statement from the Office of the Vice President, the focus of the meeting was on the ongoing conflict between Russia and Ukraine, with discussions centred on their shared objective of halting the bloodshed in Ukraine.",
+    "Both parties also discussed the current status of negotiations between Russia and Ukraine in Istanbul, Turkiye, which aim to achieve a ceasefire and establish lasting peace in the region.",
+    "\"This afternoon in Rome, Italy, Vice President JD Vance and Secretary of State Marco Rubio met with Ukrainian President Volodymyr Zelenskyy.",
+    "The leaders discussed their shared goal of ending the bloodshed in Ukraine and provided updates on the current state of negotiations for a ceasefire and lasting peace,\" the statement from the VP's office read.",
+    "All three were among the attendees of Sunday's two-hour-long liturgy in the Vatican, along with the President of Peru, Dina Boluarte, the country where Pope Leo served as both a missionary and a bishop for several decades.",
+    "The negotiations in Istanbul were the first face-to-face meeting of both countries after three years of tough military confrontation.",
+    "Earlier, US Secretary of State Marco Rubio spoke with Russian Foreign Minister Sergey Lavrov and welcomed the prisoner exchange agreement reached during Russia-Ukraine talks.",
+    "During his conversation on Saturday, Rubio reiterated Trump's message, stating, \"The death and destruction must stop.\"",
+    "Secretary Rubio welcomed the prisoner exchange agreement reached during the May 16 session of the Ukraine-Russia talks and delivered President Trump's strong message: \"The United States is committed to achieving a lasting end to the Russia-Ukraine war,\" according to the US State Department.",
+    "\"The comprehensive peace plan proposed by the United States outlines the best way forward.",
+    "The Secretary emphasised President Trump's call for an immediate ceasefire and an end to the violence,\" the statement added.",
+    "(With inputs from ANI)"
+  ],
+  "topics": {
+    "Conflict": 0.9950499534606934,
+    "Diplomacy": 0.9159789681434631,
+    "Politics": 0.8904191255569458,
+    "Culture": 0.6324645280838013,
+    "Military": 0.5942466855049133,
+    "Transport": 0.3754379451274872,
+    "Crime": 0.36727175116539,
+    "Economy": 0.3449544906616211,
+    "Health": 0.3232380449771881,
+    "Technology": 0.2964535355567932,
+    "Energy": 0.24051566421985626,
+    "Education": 0.14867086708545685,
+    "Environment": 0.11152912676334381,
+    "Elections": 0.09881691634654999
+  },
+  "sentiment": {
+    "positive": 1.0,
+    "negative": 0.0,
+    "neutral": 0.0
+  }
+}

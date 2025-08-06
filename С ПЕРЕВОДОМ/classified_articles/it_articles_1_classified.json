@@ -1,0 +1,36 @@
+{
+  "title": "Trump si sfila: \"Russia e Ucraina trovino una soluzione\". Mosca: \"Silenzio dal Vaticano\"",
+  "published_date": null,
+  "url": "https://www.affaritaliani.it/esteri/trump-si-sfila-russia-e-ucraina-trovino-una-soluzione-970539.html",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Foreign Trump parades: \"Russia and Ukraine find a solution\".",
+    "Moscow: \"Silence from the Vatican\" From the Kremlin, Putin spokesman brakes on the American Golden Dome: 'Consultations with Moscow' necessary ' Ukrainian war, Trump parades: \"Putin and Zelensky find a solution\" Donald Trump parades from the Ukrainian conflict.",
+    "According to reports from the New York Times, the American president would have expressed in Volodymyr Zelensky and some European leaders the idea that the responsibility to end the conflict between Russia and Ukraine must fall on the two nations involved.",
+    "This position comes a few days after Trump himself said that only him and Vladimir Putin were the only ones who can negotiate a solution.",
+    "After a phone call on Monday with the Cremlin leader, Trump would have shared his new considerations with Zelensky and other European exponents.",
+    "The New York Times wonders if this represents a real step behind the commitment of the United States, carried out in recent years, in support of Ukraine.",
+    "As for the possibility of a mediation by the Vatican for the conflict in Ukraine, Peskov remarked that Russia has not yet received any proposal from the Vatican for a possible mediation on the conflict in Ukraine, but \"welcomes the availability and efforts of all those countries that wish to contribute to a rapid solution\"."
+  ],
+  "topics": {
+    "Conflict": 0.9869740605354309,
+    "Politics": 0.9806079268455505,
+    "Diplomacy": 0.9173293709754944,
+    "Culture": 0.8107718229293823,
+    "Military": 0.6132586598396301,
+    "Economy": 0.5782837271690369,
+    "Technology": 0.440236359834671,
+    "Environment": 0.40050333738327026,
+    "Transport": 0.37599390745162964,
+    "Health": 0.3564301133155823,
+    "Crime": 0.3271719217300415,
+    "Energy": 0.30676141381263733,
+    "Elections": 0.2230803519487381,
+    "Education": 0.1922958940267563
+  },
+  "sentiment": {
+    "positive": 0.429,
+    "negative": 0.571,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "No direct negotiations yet: Russia on peace talks with Ukraine",
+  "published_date": null,
+  "url": "https://www.theweek.in/news/world/2025/05/22/no-direct-negotiations-yet-russia-on-peace-talks-with-ukraine.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russia and Ukraine have no further direct negotiations scheduled, the Kremlin announced on Thursday, as the conflict between them, which is well into its third year, continues to rage on.",
+    "“There is no concrete agreement about the next meetings,” Kremlin spokesman Dmitry Peskov told reporters.",
+    "“They are yet to be agreed upon.” This announcement comes days after US President Donald Trump's latest attempt to mediate the conflict in a two-hour call with Russian president Vladimir Putin, followed by subsequent calls to Ukraine's Zelenskyy and NATO officials.",
+    "However, the call failed to achieve its intended purpose, with Trump ultimately leaving direct conflict negotiations to the two nations itself, stating, nevertheless, that ceasefire negotiations would begin “immediately”, followed by a broader plan to end the conflict itself, giving way to trade.",
+    "He had also offered to attend the Russia-Ukraine peace talks at Istanbul earlier this month if Putin agreed to do so as well, but neither showed up.",
+    "These talks fell through too, with Zelenskyy—who had also tried to get Putin to attend in person—remarking that the mutually-agreed prisoner swap was “only real result”.",
+    "The two nations have agreed to exchange 1,000 prisoners of war (POWs): the largest exchange of this kind since February 2022.",
+    "Peskov told Russian news agency Interfax that Moscow had provided Kyiv a list of prisoners it required in the swap.",
+    "“We have not yet received a counter list from Kyiv.",
+    "We are waiting.” Meanwhile, Moscow's defence ministry claimed to have shot down 105 of Kyiv's drones overnight—the second consecutive night of border tensions—including 35 over its capital region, as per an Associated Press report.",
+    "Kyiv's air force also claims to have intercepted 128 drones from Moscow at around the same time.",
+    "Russia’s Defense Ministry said that it had shot down 105 Ukrainian drones overnight, including 35 over the Moscow region.",
+    "It was the second straight night that Kyiv’s forces have targeted the Russian capital.",
+    "The European Union, along with the UK, has, however, ramped up sanctions on Russia in its 17th sanctions package, announced earlier this week.",
+    "The latest sanctions, finalised three months ago, will run parallel to Russian delays in agreeing to ceasefire negotiations, which, according to Trump, would be taking place with Putin and Zelenskyy meeting face-to-face at the Vatican.",
+    "European Commission President Ursula von der Leyen had also spoken of a further package of sanctions being prepared, with inputs from Zelenskyy."
+  ],
+  "topics": {
+    "Conflict": 0.9595905542373657,
+    "Politics": 0.8644503355026245,
+    "Military": 0.7966398596763611,
+    "Culture": 0.7341698408126831,
+    "Technology": 0.6671675443649292,
+    "Diplomacy": 0.5769293308258057,
+    "Economy": 0.5597687363624573,
+    "Transport": 0.554861307144165,
+    "Health": 0.5499814748764038,
+    "Crime": 0.5492027997970581,
+    "Environment": 0.5294699668884277,
+    "Energy": 0.39467981457710266,
+    "Elections": 0.3883172571659088,
+    "Education": 0.3769075870513916
+  },
+  "sentiment": {
+    "positive": 0.125,
+    "negative": 0.875,
+    "neutral": 0.0
+  }
+}

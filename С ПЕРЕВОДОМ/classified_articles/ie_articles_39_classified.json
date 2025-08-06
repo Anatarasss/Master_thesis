@@ -1,0 +1,43 @@
+{
+  "title": "Kim Jong Un calls for increased artillery shell production",
+  "published_date": null,
+  "url": "https://www.breakingnews.ie/world/kim-jong-un-calls-for-increased-artillery-shell-production-1759952.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "North Korean leader Kim Jong Un has called for his munitions industry to boost the production of artillery shells, state media said on Wednesday.",
+    "North Korea’s official Korean Central News Agency (KCNA) said Mr Kim, during recent visits to unspecified munitions and machinery factories, praised modernisation efforts that the agency claimed enabled the facilities to double their annual shell production capacity.",
+    "Mr Kim urged workers to further accelerate artillery shell production, calling it crucial to “strengthening the fighting efficiency” of his armed forces, and also called for the development of more advanced machinery to boost munitions output.",
+    "The call comes as the country continues to supply arms and troops to support Russia’s war on Ukraine.",
+    "KCNA did not mention any comments from Mr Kim regarding his support for Russian President Vladimir Putin’s invasion of Ukraine.",
+    "Recent South Korean intelligence assessments suggest North Korea has sent about 15,000 soldiers to Russia, and that nearly 5,000 of them have been killed or injured while fighting against Ukrainian forces.",
+    "Washington and Seoul have also accused North Korea of supplying Russia with various types of military equipment, including artillery systems and shells and ballistic missiles.",
+    "After denying its war involvement for months, North Korea last month confirmed for the first time that it had sent combat troops to help Russia in recapturing parts of the Kursk region, which had fallen to a surprise Ukrainian incursion last year.",
+    "Moscow also acknowledged the North Korean involvement, with Mr Putin issuing a statement thanking the North for sending troops to support his forces and promising not to forget their sacrifices.",
+    "Analysts say North Korea’s official acknowledgement of its military support for Russia is likely aimed at cementing a deeper, long-term partnership with Moscow and securing greater compensation, potentially including advanced military technology that could enhance the threat posed by Mr Kim’s nuclear-armed forces.",
+    "By formalising its role as a participant in the war, North Korea may also be positioning itself to seek compensation in future negotiations to end the conflict in Ukraine, according to a recent report by the Institute for National Security Strategy, a think tank affiliated with South Korea’s intelligence agency.",
+    "In a closed-door briefing to lawmakers last month, South Korea’s National Intelligence Service also said it believes North Korea has sent about 15,000 workers to Russia under bilateral industrial cooperation programmes.",
+    "While the value of North Korean artillery and missiles supplied to Russia likely amounts to billions of dollars, there are no immediate signs that Russia has provided direct cash payments in return, the agency said.",
+    "Instead, Russia has likely compensated North Korea with air defence missiles, electronic warfare equipment, drones and technology for spy satellite launches, according to the assessment."
+  ],
+  "topics": {
+    "Technology": 0.9602578282356262,
+    "Conflict": 0.9443268775939941,
+    "Military": 0.8951948285102844,
+    "Culture": 0.8889976143836975,
+    "Politics": 0.8791539072990417,
+    "Economy": 0.6840565204620361,
+    "Energy": 0.6787381768226624,
+    "Diplomacy": 0.6764479279518127,
+    "Health": 0.660146176815033,
+    "Environment": 0.6523051857948303,
+    "Crime": 0.5156770944595337,
+    "Elections": 0.515627920627594,
+    "Transport": 0.4761379659175873,
+    "Education": 0.376347154378891
+  },
+  "sentiment": {
+    "positive": 0.357,
+    "negative": 0.643,
+    "neutral": 0.0
+  }
+}

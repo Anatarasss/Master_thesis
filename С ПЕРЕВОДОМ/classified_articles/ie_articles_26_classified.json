@@ -1,0 +1,42 @@
+{
+  "title": "Russia responsible for downing MH17 over Ukraine, global aviation agency finds",
+  "published_date": null,
+  "url": "https://www.breakingnews.ie/world/russia-responsible-for-downing-mh17-over-ukraine-global-aviation-agency-finds-1762364.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "The Council of the International Civil Aviation Organisation says Russia was responsible for shooting down Malaysia Airlines Flight 17 more than a decade ago, in a ruling that raises the prospect of victims’ families being paid compensation.",
+    "The flight, known as MH17, was shot down over Ukraine in 2014 with the loss of 298 lives.",
+    "A Dutch-led international investigation concluded in 2016 that the Amsterdam-to-Kuala Lumpur airliner was shot down on July 17 2014, from Ukrainian territory held by separatist rebels using a Buk missile system delivered from Russia.",
+    "Moscow denies any involvement in the MH17 tragedy.",
+    "The Dutch and Australian governments brought the case against Moscow before the Montreal-based global aviation agency in 2022, and on Tuesday welcomed the verdict.",
+    "The council found that Russia had violated the Convention on International Civil Aviation, known as the Chicago Convention, which requires that states “refrain from resorting to the use of weapons against civil aircraft in flight”.",
+    "It is the first time that the council, which represents 193 member states, has decided on a dispute between governments.",
+    "Dutch foreign minister Caspar Veldkamp said that the council would consider the question of reparations within weeks.",
+    "“In that context, the Netherlands and Australia are requesting that the ICAO council order the Russian Federation to enter into negotiations with the Netherlands and Australia, and that the Council facilitate this process,” Mr Veldkamp said in a statement.",
+    "“The latter is important in order to ensure that the negotiations are conducted in good faith and according to specific timelines, and that they will yield actual results,” he added.",
+    "Australian foreign minister Penny Wong urged the council to move swiftly to “determine remedies”.",
+    "“We call on Russia to finally face up to its responsibility for its horrific act of violence and make reparations for its egregious conduct, as required under international law,” Ms Wong said in a statement.",
+    "Kremlin spokesman Dmitry Peskov said: “Russia did not take part in the investigation of this incident and therefore we will not accept these biased conclusions.”"
+  ],
+  "topics": {
+    "Conflict": 0.7856535315513611,
+    "Diplomacy": 0.6101269721984863,
+    "Culture": 0.5091472268104553,
+    "Technology": 0.42741286754608154,
+    "Transport": 0.4151899814605713,
+    "Military": 0.3954479694366455,
+    "Politics": 0.3527773916721344,
+    "Crime": 0.31940698623657227,
+    "Economy": 0.28044819831848145,
+    "Health": 0.18275892734527588,
+    "Environment": 0.08854302763938904,
+    "Energy": 0.07876037806272507,
+    "Elections": 0.05558362603187561,
+    "Education": 0.04927053675055504
+  },
+  "sentiment": {
+    "positive": 0.615,
+    "negative": 0.385,
+    "neutral": 0.0
+  }
+}

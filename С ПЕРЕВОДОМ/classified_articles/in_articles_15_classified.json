@@ -1,0 +1,41 @@
+{
+  "title": "Trump and Putin: Navigating the Path to a Ceasefire",
+  "published_date": null,
+  "url": "https://www.devdiscourse.com/article/politics/3418354-trump-and-putin-navigating-the-path-to-a-ceasefire",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Trump and Putin: Navigating the Path to a Ceasefire Presidents Trump and Putin discussed initiating negotiations for a ceasefire between Russia and Ukraine.",
+    "Trump resisted imposing further sanctions on Russia, suggesting some progress was being made.",
+    "European leaders have pressured Russia with sanctions, while Trump coordinated global leaders towards finding a peaceful resolution.",
+    "In a pivotal discussion on Monday, President Donald Trump communicated with President Vladimir Putin, signaling an imminent start to negotiations for a ceasefire between Russia and Ukraine, according to Trump.",
+    "However, the Kremlin indicated that achieving a resolution would require time.",
+    "Trump, while briefing European leaders including Ukraine's President Volodymyr Zelenskiy, refrained from aligning with Europe's fresh sanctions aimed at coercing Moscow.",
+    "\"Russia and Ukraine will immediately start negotiations toward a ceasefire and, more importantly, an end to the war,\" Trump announced, expressing optimism despite Europe's move to intensify pressure through sanctions.",
+    "German Chancellor Friedrich Merz, in a public statement, confirmed Europe's position post-Trump's consultation with Putin.",
+    "Trump, when questioned about withholding new sanctions, stated, \"I think there's a chance of getting something done,\" while aiming to avoid escalating tensions.",
+    "Attempts to facilitate peace continue, with Putin affirming Moscow's readiness to explore a potential agreement with Ukraine, amidst complex ongoing negotiations.",
+    "(With inputs from agencies.)",
+    "- READ MORE ON: - Trump - Putin - Russia - Ukraine - negotiations - ceasefire - sanctions - European Union - peace talks - diplomacy ALSO READ Tensions Escalate on the Western Front: Drone Strikes and Ceasefire Violations Unyielding Conflict: Russia Strikes Despite Ceasefire U.S. Intensifies Sanctions on China's 'Teapot' Oil Refineries High Stake Negotiations: China's April Export Surge Amid Trump Tariff Talks Ceasefire Tensions: Ukraine Under Attack Amid Claims of Continued Fighting"
+  ],
+  "topics": {
+    "Conflict": 0.973997175693512,
+    "Diplomacy": 0.9666804075241089,
+    "Politics": 0.9660680890083313,
+    "Military": 0.7869224548339844,
+    "Economy": 0.7135270237922668,
+    "Culture": 0.7111725211143494,
+    "Health": 0.6775718331336975,
+    "Energy": 0.6743834614753723,
+    "Transport": 0.6384523510932922,
+    "Technology": 0.5579164028167725,
+    "Environment": 0.477446973323822,
+    "Crime": 0.42421868443489075,
+    "Elections": 0.343955397605896,
+    "Education": 0.25220629572868347
+  },
+  "sentiment": {
+    "positive": 0.75,
+    "negative": 0.25,
+    "neutral": 0.0
+  }
+}

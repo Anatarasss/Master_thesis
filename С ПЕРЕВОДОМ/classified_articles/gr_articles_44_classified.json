@@ -1,0 +1,41 @@
+{
+  "title": "Russia Today: Αναφορές στα ελληνοτουρκικά από το ρωσικό τηλεοπτικό δίκτυο",
+  "published_date": null,
+  "url": "https://www.tanea.gr/2022/10/06/world/rt-anafores-sta-ellinotourkika-apo-to-tileoptiko-diktyo-tis-rosias/",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "The Greek -Turkish states of Russia's state news network, RT, which hosts one of the delusions of Turkish President Recep Tayyip Erdogan against Greece.",
+    "Turkish President Recep Tayyip Erdogan has accused Greek Prime Minister Kyriakos Mitsotakis of allegedly seeking support from Washington amid tensions between Ankara and Athens.",
+    "Erdogan report \"The Greek prime minister is seeking help from the US.",
+    "Whatever you do, we will continue and we are ready to do what is necessary, \"Erdogan said during an interview in Ankara on Tuesday.",
+    "Mitsotakis answer The statement was followed by media reports last week, according to which Mitsotakis told his cabinet that he was confident that Greece has the support of the US and the EU against Turkey, according to the RT.",
+    "The meeting of the Prime Minister It is recalled that on Tuesday, Prime Minister Kyriakos Mitsotakis had a meeting at the Maximus Mansion with a inter -party delegation of the House of Representatives of the US, led by the President of the Military Affairs Committee, Adam Smith, in the presence of the US Ambassador.",
+    "During the meeting, Kyriakos Mitsotakis underlined the excellent level of Greek-American relations and the Greek-US strategic relationship.",
+    "He also pointed out the progress made regarding the military cooperation of the two countries, based on the second protocol of amending the mutual defense cooperation (MDCA).",
+    "In addition, he emphasized the role of Greece as a pillar of stability, peace and security in the wider region.",
+    "- Read also: Athens in Erdogan for immigrants: \"Turkey is trying to push Greece to open its borders\" The prime minister briefed his interlocutors on the extreme and escalating aggressive rhetoric of the Turkish side, as well as the challenge of Greek sovereignty, which is unacceptable.",
+    "He also stressed that our country will not accept a violation of its sovereignty or sovereign rights.",
+    "He reiterated that Greece's positions are based on international law, sea law and the principles of good neighborly and reaffirmed our country's firm position in favor of understanding and dialogue based on this context."
+  ],
+  "topics": {
+    "Military": 0.9389045834541321,
+    "Politics": 0.835588276386261,
+    "Conflict": 0.7144691348075867,
+    "Diplomacy": 0.47208455204963684,
+    "Culture": 0.45069393515586853,
+    "Transport": 0.3146267235279083,
+    "Economy": 0.30683159828186035,
+    "Environment": 0.30410245060920715,
+    "Technology": 0.29918408393859863,
+    "Energy": 0.25528526306152344,
+    "Health": 0.24766159057617188,
+    "Elections": 0.156107097864151,
+    "Crime": 0.12415075302124023,
+    "Education": 0.11347454786300659
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

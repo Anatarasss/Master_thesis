@@ -1,0 +1,41 @@
+{
+  "title": "【やさしい日本語】ウクライナのために、建物(たてもの)の 壁(かべ)に「平和(へいわ)」の 字(じ)を 出(だ)す",
+  "published_date": null,
+  "url": "https://www.nishinippon.co.jp/item/n/887306/",
+  "original_language": "ja",
+  "cleaned_sentences": [
+    "[Easy Japanese] For Ukraine, the character \"Heiwa\" is displayed on the walls of buildings.",
+    "The words \"Heiwa\" were written on the building.",
+    "Russia is now attacking its neighboring country, Ukraine.",
+    "Many people have died or been injured.",
+    "There are many people who have to flee to other countries.",
+    "Japan hopes that peace will return to Ukraine.",
+    "Kitakyushu City is a city that values ​​peace.",
+    "The city council of Kitakyushu is opposed to the Russian attack.",
+    "Something special has begun in Kitakyushu City for peace in Ukraine.",
+    "The light \"peace\" is written on the walls of the city hall from 6:15pm to 10pm.",
+    "Also, at JR Kokura Station, the flag of Ukraine is reflected on the sign.",
+    "The original article is here Easy Japanese We deliver news translated into \"easy Japanese\" that is easy for foreigners and children to understand."
+  ],
+  "topics": {
+    "Conflict": 0.8293906450271606,
+    "Culture": 0.8049861788749695,
+    "Economy": 0.7228732705116272,
+    "Transport": 0.6654608845710754,
+    "Technology": 0.42380717396736145,
+    "Environment": 0.4044130742549896,
+    "Politics": 0.4004942774772644,
+    "Health": 0.39252161979675293,
+    "Diplomacy": 0.2939307391643524,
+    "Energy": 0.24707941710948944,
+    "Military": 0.19876019656658173,
+    "Education": 0.19630448520183563,
+    "Elections": 0.14317958056926727,
+    "Crime": 0.10447737574577332
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

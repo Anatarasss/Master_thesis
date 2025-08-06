@@ -1,0 +1,40 @@
+{
+  "title": "【やさしい日本語】福岡(ふくおか)の 大学(だいがく)が、 ウクライナの 学生(がくせい)を 呼(よ)んで 勉強(べんきょう)してもらう",
+  "published_date": null,
+  "url": "https://www.nishinippon.co.jp/item/n/893615/",
+  "original_language": "ja",
+  "cleaned_sentences": [
+    "Students from Ukraine and Japan Russia is attacking next door Ukraine.",
+    "Many people have died or fled to other countries.",
+    "Nihon Keizai University in Dazaifu City, Fukuoka Prefecture has been friends with Ukrainian universities for some time.",
+    "So I will help Ukrainian students.",
+    "We invite 70 people who were studying Japanese at the Kiev National Language University to study.",
+    "I'll be asked to live in a university dormitory.",
+    "I plan to have them study for free and provide them with as much money as possible for their daily lives.",
+    "It seems that this is the first time a Japanese university has helped a Ukrainian university student like this.",
+    "◆◆ Kyushu prefectures and cities are also preparing to help those who run away from Ukraine.",
+    "Fukuoka and Saga prefectures plan to prepare houses.",
+    "The original article is here Easy Japanese We deliver news translated into \"easy Japanese\" that is easy for foreigners and children to understand."
+  ],
+  "topics": {
+    "Conflict": 0.858487606048584,
+    "Economy": 0.8079346418380737,
+    "Education": 0.758423924446106,
+    "Culture": 0.7224093079566956,
+    "Environment": 0.6902874708175659,
+    "Health": 0.6728872656822205,
+    "Technology": 0.6216347813606262,
+    "Energy": 0.6157435774803162,
+    "Transport": 0.5499573349952698,
+    "Politics": 0.4992818236351013,
+    "Crime": 0.45118269324302673,
+    "Diplomacy": 0.4330579340457916,
+    "Elections": 0.3990975022315979,
+    "Military": 0.29511559009552
+  },
+  "sentiment": {
+    "positive": 0.545,
+    "negative": 0.455,
+    "neutral": 0.0
+  }
+}

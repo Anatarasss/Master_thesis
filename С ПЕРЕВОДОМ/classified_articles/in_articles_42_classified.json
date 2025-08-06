@@ -1,0 +1,33 @@
+{
+  "title": "Putin invites Arab leaders to first Russia-Arab summit after Trump's West Asia visit",
+  "published_date": null,
+  "url": "https://www.firstpost.com/world/putin-invites-arab-leaders-to-first-russia-arab-summit-after-trumps-west-asia-visit-13889251.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russian President Vladimir Putin has invited all leaders and the secretary general of the Arab League for the first Russia-Arab summit on October 15, Russia’s news agencies reported on Saturday, citing a statement from the Kremlin.",
+    "“I am confident that this meeting will contribute to the further strengthening of mutually beneficial, multifaceted cooperation between our countries and will help in finding ways to ensure peace, security, and stability in the Middle East and North Africa,” Interfax agency cited Putin as saying in the statement.",
+    "The Arab League, a regional organisation of Arab states in the Middle East and parts of Africa, has 22 member states who have pledged, among others, to cooperate on political, economic and military affairs in the region.",
+    "The reports came following a four-day trip by U.S. President Donald Trump through the Gulf region this week, during which Washington said it had secured several deals, including a $600 billion commitment by Saudi Arabia to invest in the U.S., $142 billion in arms sales to the kingdom, and an AI partnership with the United Arab Emirates."
+  ],
+  "topics": {
+    "Politics": 0.7261478304862976,
+    "Diplomacy": 0.688650906085968,
+    "Culture": 0.6834630966186523,
+    "Military": 0.6382094025611877,
+    "Conflict": 0.6291117072105408,
+    "Economy": 0.534081757068634,
+    "Technology": 0.5257779955863953,
+    "Transport": 0.41300952434539795,
+    "Health": 0.35860615968704224,
+    "Energy": 0.31421688199043274,
+    "Environment": 0.2803708016872406,
+    "Elections": 0.21805939078330994,
+    "Education": 0.17236319184303284,
+    "Crime": 0.1257183849811554
+  },
+  "sentiment": {
+    "positive": 0.75,
+    "negative": 0.25,
+    "neutral": 0.0
+  }
+}

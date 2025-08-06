@@ -1,0 +1,40 @@
+{
+  "title": "Washington-Teheran, prove di distensione. Trump: \"Ci avviciniamo a un accordo con l'Iran sul nucleare\"",
+  "published_date": null,
+  "url": "https://www.affaritaliani.it/esteri/washington-teheran-trump-nucleare-iran-969514.html",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Foreign Washington-Teheran, Distance tests.",
+    "Trump: \"We approach an agreement with Iran on nuclear power\" The American president from Doha opens up to the possibility of going to Istanbul: \"I could go to Türkiye tomorrow if there are progress\" in the Russia-Ukraine interviews Trump: \"We approach an agreement with Iran on nuclear power\" US President Donald Trump said, speaking to Doha, that Washington and Tehran approach an agreement on Iranian nuclear power.",
+    "Trump said he could go to Türkiye tomorrow if the negotiations between Russia and Ukraine should proceed.",
+    "\"You know, if something happened, I would go on Friday,\" Trump said in Qatar, the second stage of his tour in the Gulf.",
+    "In the same wake also the American secretary of state, Marco Rubio, who at the opening of the NATO ministerial summit in Antalya said that the President of the United States Donald Trump is in favor of any mechanism that leads to a solution of the Ukrainian conflict.",
+    "\"The big problem that everyone has in mind is what is happening with Russia and Ukraine.",
+    "The President of the United States has been clear in wanting the end of the war, is practically open to any mechanism that leads us to a just, lasting and lasting peace, and this is what he wants to see, he wants to see the end of the wars, he wants to prevent wars from happening\", he continued.",
+    "Washington wants to see progress in negotiations and is ready to help the negotiations in any way, concluded Rubio who will participate in the meeting between the Russian and Ukrainian delegations scheduled for today in Istanbul.",
+    "The tour in the Gulf can collect 400 billion in agreements The President of the United States Donald Trump said that his Gulf tour could collect up to 4 trillion dollars in agreements during a meeting with the company leaders in Doha.",
+    "\"This is a record tour.",
+    "There has never been a tour that will collect, it could reach a total of 3.5-4 thousand billion dollars only in these four or five days,\" said Trump."
+  ],
+  "topics": {
+    "Politics": 0.9258882403373718,
+    "Conflict": 0.8932638168334961,
+    "Diplomacy": 0.6803310513496399,
+    "Economy": 0.6029967069625854,
+    "Culture": 0.3859124779701233,
+    "Military": 0.2544540464878082,
+    "Transport": 0.24355392158031464,
+    "Technology": 0.20654556155204773,
+    "Energy": 0.1675945371389389,
+    "Health": 0.1233757734298706,
+    "Environment": 0.12154681235551834,
+    "Elections": 0.060741279274225235,
+    "Crime": 0.03510414436459541,
+    "Education": 0.03064120002090931
+  },
+  "sentiment": {
+    "positive": 0.727,
+    "negative": 0.273,
+    "neutral": 0.0
+  }
+}

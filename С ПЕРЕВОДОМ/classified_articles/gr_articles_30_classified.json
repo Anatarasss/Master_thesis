@@ -1,0 +1,38 @@
+{
+  "title": "Πούτιν: Έτοιμος για διαπραγματεύσεις αλλά η Ουκρανία αρνείται",
+  "published_date": null,
+  "url": "https://www.pagenews.gr/2022/12/25/kosmos/poutin-etoimos-gia-diapragmateuseis-alla-i-oukrania-arneitai/",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "Putin: Ready for negotiations but Ukraine denies Photo source: AP Photo/Pool Sputnik Kremlin/Themoscowtimes Russian President B. Putin is coming back to the negotiations, telling the Russian state channel Russia 1 that he is ready to start negotiations, but Ukraine has a negative attitude.",
+    "The Russian president, an obstacle to the negotiations, is essentially the negative impact of the United States on the relevant proceedings and on the general course of the war.",
+    "According to Putin, the United States wants to dominate the Western world and to attempt the \"division of the country\".",
+    "In particular, President Vladimir Putin said Russia is ready to negotiate with all the places involved in the war in Ukraine, but Kiev and his Western supporters refused to participate in talks.",
+    "The Kremlin claims that it will fight until all its goals are achieved, while Kiev states that the battles will continue as a Russian soldier stays on his territory, including Crimea, annexed in 2014 by Russia.",
+    "\"We are ready to negotiate acceptable solutions with all interested parties, but it depends on them, we are not us who refuse to negotiate, they are,\" Vladimir Putin told State Television 1, in an interview on Sunday.",
+    "The Russian president said Russia is moving in the \"right direction\" in Ukraine because the West, under the influence of the United States, was trying to divide the country.",
+    "\"I believe that we are moving in the right direction, we defend our national interests, the interests of our citizens, our people.",
+    "And we have no choice but to protect our citizens, \"Putin said."
+  ],
+  "topics": {
+    "Conflict": 0.9436518549919128,
+    "Politics": 0.9362410306930542,
+    "Military": 0.8025131225585938,
+    "Culture": 0.7788711786270142,
+    "Crime": 0.7705764770507812,
+    "Diplomacy": 0.7401134371757507,
+    "Economy": 0.5406495332717896,
+    "Technology": 0.465821772813797,
+    "Energy": 0.44503337144851685,
+    "Health": 0.4179314970970154,
+    "Transport": 0.34899666905403137,
+    "Elections": 0.3056009113788605,
+    "Environment": 0.2892463803291321,
+    "Education": 0.27879324555397034
+  },
+  "sentiment": {
+    "positive": 0.556,
+    "negative": 0.444,
+    "neutral": 0.0
+  }
+}

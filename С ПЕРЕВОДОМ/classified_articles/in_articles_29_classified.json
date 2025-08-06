@@ -1,0 +1,37 @@
+{
+  "title": "'It went very well': Trump announces Russia-Ukraine calls a success, ceasefire negotiations underway",
+  "published_date": null,
+  "url": "https://www.theweek.in/news/world/2025/05/19/it-went-very-well-trump-announces-russia-ukraine-telephone-talks-a-success-ceasefire-negotiations-underway.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "US President Donald Trump announced on Monday that his two-hour telephone conversation with Russian President Vladimir Putin had been a success, explaining that the “tone and spirit of the conversation were excellent”.",
+    "America's phone calls to Russia, Ukraine and NATO officials come amid Trump's push to end the three-year-long conflict between Moscow and Kyiv, or to withdraw altogether, should the negotiations continue to fail.",
+    "He explained that negotiations between the two nations would begin immediately, first towards a ceasefire, and then towards an end to the conflict itself.",
+    "Although he does not mention the terms upon which the negotiations were reached, citing that Moscow and Kyiv were to agree those among themselves, he adds that the Kremlin was even ready to begin large-scale trade with America as soon as the “bloodbath” was over, in a tone reminiscent of Washington's renewed interest in breaking the warring nations apart as soon as it obtained joint access to Ukraine's mineral wealth.",
+    "Stating that the negotiations would be taking place at the Vatican, he explained that he next contacted Ukrainian President Volodymyr Zelenskyy, EU Commission president Ursula von der Leyen, French President Emmanuel Macron, Italian PM Giorgia Meloni, recently elected German Chancellor Friedrich Merz, and Finnish President Alexander Stubb.",
+    "After the call, Putin told reporters that efforts to end the war were \"generally on the right track\" and that Moscow was ready to work with Ukraine on a potential peace deal, a Reuters report read.",
+    "\"We have agreed with the president of the United States that Russia will propose and is ready to work with the Ukrainian side on a memorandum on a possible future peace accord,\" Putin told reporters near the Black Sea resort of Sochi.",
+    "Kyiv has not responded to the announcement, although it has expressed an interest in a ceasefire this month, which Moscow agreed to respect only if their conditions were met—one of which was the withdrawal of Ukrainian troops from its areas that Russia had annexed."
+  ],
+  "topics": {
+    "Conflict": 0.9207586646080017,
+    "Politics": 0.8317148685455322,
+    "Diplomacy": 0.7578992247581482,
+    "Culture": 0.6211633086204529,
+    "Military": 0.5762079954147339,
+    "Economy": 0.4454624354839325,
+    "Technology": 0.4080193042755127,
+    "Crime": 0.3469712436199188,
+    "Health": 0.3339751660823822,
+    "Transport": 0.25685054063796997,
+    "Energy": 0.25586166977882385,
+    "Environment": 0.25286945700645447,
+    "Education": 0.1392609179019928,
+    "Elections": 0.13910578191280365
+  },
+  "sentiment": {
+    "positive": 0.75,
+    "negative": 0.25,
+    "neutral": 0.0
+  }
+}

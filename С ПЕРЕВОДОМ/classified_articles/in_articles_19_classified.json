@@ -1,0 +1,44 @@
+{
+  "title": "EU, UK announce new sanctions on Russia after Trump's phone call fails to bring about ceasefire",
+  "published_date": null,
+  "url": "https://www.theweek.in/news/world/2025/05/20/eu-uk-announce-new-sanctions-on-russia-after-trump-s-phone-call-fails-to-bring-about-ceasefire.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "The United Kingdom and the European Union (EU) have announced new sanctions against Russia, following the failure of US President Trump's two-hour telephone call to Russia in bringing about a ceasefire.",
+    "The new measures, coming as a part of the 17th sanctions package on Moscow, are said to have targeted almost 200 ships from Russia's shadow fleet—and companies involved in the process—that had been illicitly transporting oil to circumvent existing Western restrictions.",
+    "\"Sanctions matter, and I am grateful to everyone who makes them more tangible for the perpetrators of the war,\" Ukraine President Volodymyr Zelenskyy wrote on Telegram.",
+    "Notably, these sanctions have been unveiled despite silence from the Trump administration about America's involvement in enforcing them, a demand made by numerous European leaders.",
+    "EU foreign policy chief Kaja Kallas explained in an X post that the new sanctions would address “hybrid threats and human rights”.",
+    "In that regard, she added that while President Vladimir Putin “feigns interest” in peace, more sanctions were underway, adding that “Russia’s actions and those who enable Russia face severe consequences”.",
+    "The latest sanctions, finalised three months ago, will run parallel to Russian delays in agreeing to the ceasefire, which, according to Trump, would be taking place with Putin and Zelenskyy meeting face-to-face at the Vatican.",
+    "Trump told reporters on Tuesday that he was deliberating over what actions to take following the call.",
+    "\"We're looking at a lot of things, but we'll see,\" Trump said as he left a meeting in Washington.",
+    "European Commission President Ursula von der Leyen said she had spoken to Zelenskyy and that a further package of sanctions was being prepared.",
+    "Just off the phone with @ZelenskyyUa.",
+    "— Ursula von der Leyen (@vonderleyen) May 20, 2025 We are coordinating closely on the next steps.",
+    "Europe has just adopted its 17th package of hard-biting sanctions.",
+    "An 18th package is being prepared with further hard hitting sanctions.",
+    "It’s time to intensify the pressure on Russia to… \"It's time to intensify the pressure on Russia to bring about the ceasefire,\" she wrote on X, echoing Kallas' sentiment of tougher stances on Russia, should the conflict persist."
+  ],
+  "topics": {
+    "Conflict": 0.9643232822418213,
+    "Politics": 0.949596643447876,
+    "Environment": 0.9292621612548828,
+    "Diplomacy": 0.7974990010261536,
+    "Transport": 0.7758729457855225,
+    "Culture": 0.7470312118530273,
+    "Economy": 0.7418058514595032,
+    "Health": 0.6675941348075867,
+    "Technology": 0.6518142223358154,
+    "Military": 0.5744247436523438,
+    "Energy": 0.5211842060089111,
+    "Crime": 0.42775848507881165,
+    "Elections": 0.40779903531074524,
+    "Education": 0.3533158600330353
+  },
+  "sentiment": {
+    "positive": 0.267,
+    "negative": 0.733,
+    "neutral": 0.0
+  }
+}

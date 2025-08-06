@@ -1,0 +1,38 @@
+{
+  "title": "Kyiv Under Siege: A Night of Drone and Missile Assaults",
+  "published_date": null,
+  "url": "https://www.devdiscourse.com/article/science-environment/3423294-kyiv-under-siege-a-night-of-drone-and-missile-assaults",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Kyiv Under Siege: A Night of Drone and Missile Assaults Russia launched a significant drone and missile assault on Kyiv, leading to fires, debris, and injuries.",
+    "At least eight people were hurt, with buildings damaged across the city.",
+    "The attack follows Ukrainian drone strikes on Russian soil, escalating tension between the two nations.",
+    "In a relentless onslaught, Russia unleashed drones and missiles on Kyiv early Saturday, leaving significant damage and at least eight injured, according to the city's mayor.",
+    "Eyewitnesses reported drones flying over the Ukrainian capital amid a series of explosions.",
+    "Mayor Vitali Klitschko confirmed air defense efforts were underway, with two residents hospitalized and debris scattered citywide.",
+    "Destruction was evident as fires raged on top floors of an apartment building in the Solomynskyi district, with similar scenes in Dniprovskyi and Obolon.",
+    "These strikes mark retaliation for Ukraine's recent drone offensives in Russia, including in Moscow, raising regional tensions.",
+    "(With inputs from agencies.)"
+  ],
+  "topics": {
+    "Conflict": 0.9741336107254028,
+    "Politics": 0.9082881808280945,
+    "Technology": 0.7929350137710571,
+    "Military": 0.7670290470123291,
+    "Culture": 0.6976960897445679,
+    "Health": 0.6366574168205261,
+    "Crime": 0.48743513226509094,
+    "Economy": 0.47734004259109497,
+    "Environment": 0.43631410598754883,
+    "Transport": 0.29838183522224426,
+    "Energy": 0.27985310554504395,
+    "Education": 0.10964926332235336,
+    "Diplomacy": 0.09750011563301086,
+    "Elections": 0.03631235659122467
+  },
+  "sentiment": {
+    "positive": 0.111,
+    "negative": 0.889,
+    "neutral": 0.0
+  }
+}

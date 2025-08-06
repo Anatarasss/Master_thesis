@@ -1,0 +1,49 @@
+{
+  "title": "Are Ukraine-Russia talks about how ‘not’ to talk peace?",
+  "published_date": null,
+  "url": "https://www.firstpost.com/world/are-ukraine-russia-talks-about-how-not-to-talk-peace-13889170.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "The first face-to-face talks between Ukraine and Russia in over three years ended Friday without a ceasefire agreement, with Kyiv dismissing Moscow’s conditions as “non-starters” while both sides agreed to exchange 1,000 prisoners of war – the largest such swap since the war began.",
+    "The meeting, held in Istanbul’s Dolmabahce Palace, lasted less than two hours.",
+    "Although the two sides agreed in principle to swap 1,000 prisoners of war each — the largest such exchange to date — the broader goal of peace remained elusive.",
+    "Russia reportedly introduced new and “unacceptable” demands, including the withdrawal of Ukrainian forces from large territories, according to a senior Ukrainian official speaking on condition of anonymity.",
+    "These terms, never previously discussed, were rejected outright by Kyiv.",
+    "“Russia’s demands were detached from reality,” said a source in Ukraine’s delegation.",
+    "Divergent Red Lines Russia expressed satisfaction with the talks and readiness for further contacts, but Ukrainian officials revealed Moscow had introduced unexpected conditions, including Ukrainian troop withdrawals from large occupied areas.",
+    "“These proposals had never been discussed before,” a senior Ukrainian official told The Associated Press anonymously.",
+    "Ukrainian Foreign Ministry spokesman Heorhii Tykhyi confirmed Russia made “unacceptable” demands but said Kyiv’s delegation maintained its stance calmly.",
+    "The Ukrainian side reiterated its focus on achieving an immediate truce and a diplomatic roadmap aligned with US and European proposals.",
+    "The Trump Factor US President Donald Trump, who has pressured both sides to end Europe’s bloodiest conflict since WWII, said negotiations wouldn’t progress until he meets Vladimir Putin.",
+    "“Nothing’s going to happen until Putin and I get together,” Trump told reporters in Abu Dhabi.",
+    "Putin notably skipped the Istanbul talks, prompting Ukrainian President Volodymyr Zelenskyy also absent to deride Russia’s delegation as “dummies.” Zelenskyy immediately rallied Western allies post-talks, urging tougher sanctions if Moscow rejects a 30-day ceasefire proposal.",
+    "He held calls with Trump, French President Emmanuel Macron, German Chancellor Olaf Scholz, and Polish leader Donald Tusk.",
+    "A Theater of Diplomacy?",
+    "Turkish Foreign Minister Hakan Fidan opened the talks, urging participants to seize the opportunity for peace, calling a ceasefire “critically important.” While both sides agreed in principle to meet again, the day’s events suggested the negotiations served more as a stage for grievances than a pathway to peace.",
+    "Russia’s lead negotiator Vladimir Medinsky had earlier said readiness for “possible compromises,” without details.",
+    "Meanwhile, Zelenskyy’s team emphasised they would only engage in top-level talks with Putin present – a condition the Kremlin continues to ignore.",
+    "With the prisoner swap as the sole concrete outcome, the Istanbul meeting highlighted how far apart the two nations remain after 27 months of war.",
+    "As Ukraine pushes for Western-backed solutions and Russia floats unspecified compromises, the talks appeared less about making peace than managing its impossibility."
+  ],
+  "topics": {
+    "Conflict": 0.988995373249054,
+    "Diplomacy": 0.9839056134223938,
+    "Politics": 0.9763542413711548,
+    "Culture": 0.9301071166992188,
+    "Health": 0.8816275000572205,
+    "Technology": 0.8735235929489136,
+    "Military": 0.8605831265449524,
+    "Energy": 0.844658613204956,
+    "Economy": 0.8444124460220337,
+    "Environment": 0.8308586478233337,
+    "Transport": 0.8066401481628418,
+    "Crime": 0.7761963605880737,
+    "Elections": 0.7496739625930786,
+    "Education": 0.6487781405448914
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Vance says Russia was ‘asking for too much’ in its initial Ukraine peace offer",
+  "published_date": null,
+  "url": "https://www.breakingnews.ie/world/vance-says-russia-was-asking-for-too-much-in-its-initial-ukraine-peace-offer-1760311.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "US Vice President JD Vance has said Russia was “asking for too much” in its initial peace offer as the United States looks to bring about an end to the war in Ukraine.",
+    "The vice president, speaking at a Washington meeting hosted by the Munich Security Conference, did not elaborate on Moscow’s terms, but said he was not pessimistic about the possibility of a peace deal.",
+    "That is a more sanguine assessment than President Donald Trump’s recent scepticism that Russian President Vladimir Putin wants to end the war that begin in February 2022 when Russia invaded Ukraine.",
+    "“I wouldn’t say that the Russians are uninterested in bringing this thing to a resolution,” Mr Vance said.",
+    "“What I would say is right now the Russians are asking for a certain set of requirements, a certain set of concessions in order to end the conflict.",
+    "We think they’re asking for too much.” Mr Trump, when asked later on Wednesday about the vice president’s comments, told reporters at the White House: “Well, it’s possible that’s right.” He seemed to imply that Mr Vance had details that he did not have because he was preoccupied with other matters.",
+    "“We are getting to a point where some decisions are going to have to be made.",
+    "I’m not happy about it,” Mr Trump said of the peace effort.",
+    "Mr Vance did not repeat any of the criticisms of Volodymyr Zelensky that he had aired during an Oval Office row in February with the Ukrainian leader, and he made a point of saying the US appreciated Ukraine’s willingness to have a 30-day ceasefire.",
+    "But the Republican vice president, citing Russia’s unwillingness on that point, said the US would like to move past that and have the Russian and Ukrainian leaders sit down directly to negotiate a long-term settlement that would end the fighting.",
+    "“What the Russians have said is, ‘A 30-day ceasefire is not in our strategic interests’.",
+    "So we’ve tried to move beyond the obsession with the 30-day ceasefire and more on the, what would a long-term settlement look like,” Mr Vance said.",
+    "Mr Vance’s speech at the conference event followed his appearance at the organisation’s February summit in Germany, where he ruffled feathers for his comments that free speech is “in retreat” across Europe.",
+    "Mr Vance addressed that on Wednesday and said his comments applied to the US under Democratic president Joe Biden’s administration, just as they did to Europe.",
+    "“It’s not ‘Europe bad, America good’.",
+    "It’s that I think that both Europe and the United States, we got a little bit off track, and I encourage us all to get back on track together,” he said.",
+    "On the Middle East, Mr Vance did not shed light on the timing of planned talks between the US and Iran over Iran’s nuclear programme.",
+    "He said the Trump administration felt the inspection and enforcement provisions in the 2015 Iran nuclear deal negotiated under Democratic president Barack Obama were “incredibly weak” and “allowed Iran to sort of stay on this glide path toward a nuclear weapon if they flip the switch and press go”.",
+    "“We think that there is a deal here that would reintegrate Iran into the global economy, that would be really good for the Iranian people, but would result in the complete cessation of any chance that they can get a nuclear weapon.",
+    "And that’s what we’re negotiating toward,” Mr Vance said."
+  ],
+  "topics": {
+    "Conflict": 0.8669047951698303,
+    "Economy": 0.7196823954582214,
+    "Politics": 0.6777635216712952,
+    "Culture": 0.6304078102111816,
+    "Energy": 0.5562318563461304,
+    "Military": 0.5326868891716003,
+    "Technology": 0.43839412927627563,
+    "Education": 0.4102826416492462,
+    "Diplomacy": 0.3781476318836212,
+    "Transport": 0.3355133533477783,
+    "Environment": 0.31419968605041504,
+    "Health": 0.30792245268821716,
+    "Elections": 0.2520350217819214,
+    "Crime": 0.20834803581237793
+  },
+  "sentiment": {
+    "positive": 0.3,
+    "negative": 0.7,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Russia-Ukraine ceasefire 'hours away' as Zelensky makes 'personal' Putin vow",
+  "published_date": null,
+  "url": "https://www.irishmirror.ie/news/world-news/russia-ukraine-ceasefire-hours-away-35207971",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Ukrainian President Volodymyr Zelensky says he \"will be waiting\" for his Russian counterpart Vladimir Putin in Turkey this week.",
+    "It comes after Putin effectively rejected a ceasefire proposal, but instead called for the resumption of direct talks with Ukraine in Istanbul on May 15, \"without preconditions\".",
+    "In a social media post, Zelensky said Ukraine awaits a \"full and lasting ceasefire\" and called for it to be implemented tomorrow \"to provide the necessary basis for diplomacy\".",
+    "He said: \"There is no point in prolonging the killings.",
+    "And I will be waiting for Putin in Türkiye on Thursday.",
+    "I hope that this time the Russians will not look for excuses.\"",
+    "Zelensky earlier said it was a \"positive sign\" that Russia has \"finally begun to consider ending the war\" after Putin proposed direct talks.",
+    "Putin's calls were made the day after Sir Keir Starmer and other European leaders travelled to Kyiv and called for the Russian president to accept the demands for a 30-day ceasefire, with a threat of increased sanctions.",
+    "Starmer, French President Emmanuel Macron, Polish Prime Minister Donald Tusk and German Chancellor Friederich Merz said their proposal for a ceasefire to start on Monday was supported by US President Donald Trump, whom they had briefed over the phone earlier in the day.",
+    "Putin has said the Kremlin needs a truce that would lead to a \"lasting peace\" instead of one that would allow Ukraine to rearm and mobilise more men into its armed forces.",
+    "Kremlin spokesman Dmitry Peskov has said in comments aired by Russian state TV that Putin's proposal is \"very serious\" and \"confirms a real intention to find a peaceful solution\".",
+    "He added: \"The goals of the talks are clear: to eliminate the root causes of the conflict.",
+    "And also to ensure the interests of the Russian Federation.\"",
+    "Meanwhile, Russia resumed mass drone attacks in Ukraine early on Sunday, after its self-declared three-day pause expired.",
+    "Russia launched 108 attack drones and simulator drones from six different directions, Ukraine's Air Force said on Sunday.",
+    "It said 60 drones were shot down and another 41 simulator drones failed to reach targets due to Ukrainian counter-measures.",
+    "The Russian defence ministry accused Ukraine of \"violating\" Moscow's three-day ceasefire more than 14,000 times.",
+    "Ukraine, which did not agree to the May 8-10 ceasefire, has also accused Russia of violating its own truce, with the Ukrainian foreign minister calling it a farce.",
+    "Subscribe to our newsletter for the latest news from the Irish Mirror direct to your inbox: Sign up here."
+  ],
+  "topics": {
+    "Conflict": 0.8720327019691467,
+    "Politics": 0.843805193901062,
+    "Culture": 0.8382262587547302,
+    "Technology": 0.8066484928131104,
+    "Economy": 0.7436975836753845,
+    "Military": 0.7156485319137573,
+    "Health": 0.6733037233352661,
+    "Energy": 0.6573451161384583,
+    "Education": 0.6560311317443848,
+    "Environment": 0.6442855596542358,
+    "Elections": 0.6270957589149475,
+    "Transport": 0.5621486902236938,
+    "Diplomacy": 0.5527365803718567,
+    "Crime": 0.4581097662448883
+  },
+  "sentiment": {
+    "positive": 0.474,
+    "negative": 0.526,
+    "neutral": 0.0
+  }
+}

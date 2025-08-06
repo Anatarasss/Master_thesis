@@ -1,0 +1,48 @@
+{
+  "title": "La Russia avanza, ma senza sfondare. E nel Mar Nero l'Ucraina è in vantaggio",
+  "published_date": null,
+  "url": "https://www.corriere.it/esteri/25_maggio_19/guerra-russia-ucraina-002c38d6-133c-4f94-815b-323c3748exlk.shtml",
+  "original_language": "it",
+  "cleaned_sentences": [
+    "Russia advances, but without breaking through.",
+    "And in the Black Sea Ukraine is in the lead The lunge in the occupied areas costs recruits to the Russians and refueling lines are increasingly difficult to maintain.",
+    "Kiev relies on marine drones From our correspondent KIEV - Yesterday, before the phone call between Trump and Putin, Moscow announced that he had conquered Marine's settlements, in the Sumy region, near the border with Russia, and Novooleivka, in the eastern region of Donetsk.",
+    "Other successes on the field that put the tsar in a position of strength.",
+    "However, military experts agree: Putin will not be able to occupy the totality of the territories he claims.",
+    "The matter is simple: Moscow at the negotiating table claims not only the Lugansk and Donetsk Oblasts that controls 99% and 66% but also those of Zaporizhzia and Kerson whose 70% in hand, however, excluding the regional capitals.",
+    "In fact, to occupy the whole aerial that claims the Kremlin does not have enough time and men.",
+    "The military advantage to be spent on the negotiating table is not unlimited and Putin himself, despite the fact that public opinion is not a problem for him, knows that it is not a good idea to increase the number of fallen exponentially.",
+    "Second problem, the refueling lines: to take Pokrovsk, for example, and go towards Dnipro and Zaporizhzia, the army would find himself with his shoulders uncovered.",
+    "And therefore it would not be able to advance.",
+    "The Russian generals then have a third theme on the table not a little: the Black Sea.",
+    "If on the Earth front Moscow is in the lead, on the maritime one Kiev has the best.",
+    "Ukrainian forces claim to have destroyed or damaged last year a third of the Russian fleet everything despite the remarkable advantage of the Russian Navy and despite the cuts in military aid arranged by the American ally.",
+    "Just yesterday, the Ukrainian SBU announced the destruction of a Russian radar system, the Neva, used for monitoring aerial and surface activities and warehouses located on the gas production platforms in the Black Sea in an operation conducted by the 13th Directorate General of the Department of Military counterintelligence with the combined use of air and naval drones.",
+    "In the Black Sea, the SBU usually uses Sea Baby drones, while military intelligence, gur, and in particular its group 13, the division created ad hoc, uses the naval drones Magura with which two Russian hunts were knocked up at the beginning of May.",
+    "In December 2024, however, it had been the turn of two Russian Mi-8 helicopters.",
+    "But the Magura are also those who sank the Russian patrol ship Sergey Kotov in March 2024 and the Caesar Kunikov landing ship in February 2024.",
+    "Since then the hostilities on the Black Sea have subsided: Russia has moved most of its naval resources from Crimea to the east and Ukraine has managed to resume its maritime navigation.",
+    "A drop in the sea, perhaps."
+  ],
+  "topics": {
+    "Military": 0.9499989151954651,
+    "Conflict": 0.8996899127960205,
+    "Technology": 0.7943053245544434,
+    "Crime": 0.6699300408363342,
+    "Culture": 0.6559417247772217,
+    "Politics": 0.5614102482795715,
+    "Health": 0.49867624044418335,
+    "Transport": 0.49400898814201355,
+    "Energy": 0.4916597008705139,
+    "Economy": 0.43312856554985046,
+    "Environment": 0.3584871292114258,
+    "Elections": 0.12164194136857986,
+    "Diplomacy": 0.10193654894828796,
+    "Education": 0.051944147795438766
+  },
+  "sentiment": {
+    "positive": 0.263,
+    "negative": 0.737,
+    "neutral": 0.0
+  }
+}
