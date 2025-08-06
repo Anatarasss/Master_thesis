@@ -1,0 +1,43 @@
+{
+  "title": "Russie : face aux pénuries, des entreprises jouent la carte du \"made in Russia\"",
+  "published_date": null,
+  "url": "https://www.france24.com/fr/europe/20220615-russie-face-aux-p%C3%A9nuries-des-entreprises-jouent-la-carte-du-made-in-russia",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Russia: Faced with shortages, companies play the \"made in Russia\" card As a result of economic sanctions against Russia due to the invasion of Ukraine, Russian companies no longer receive components or raw materials.",
+    "Faced with the risk of shortages, some adapt and highlight local manufacturing.",
+    "Report in the suburbs of Moscow and Saint Petersburg.",
+    "To display this YouTube content, it is necessary to allow audience and advertising measurement cookies.",
+    "An extension of your browser seems to block the loading of the video player.",
+    "To be able to look at this content, you must deactivate it or uninstall it.",
+    "In the restaurant \"La Famiglia\", located in the suburbs of Moscow, business has been working rather well since the start of the Russian intervention in Ukraine.",
+    "The neighboring McDonald's has certainly closed its doors but that is not the only reason, according to its manager.",
+    "Artiom Kolesnikov thinks that residents no longer leaving abroad and spending more in Russia.",
+    "Same pragmatism in the oldest factory in Russian watches, Raketa.",
+    "If the brand, bought by a Frenchman in 2011, is experiencing difficulties in continuing to manufacture certain models, it is delighted to see new customers arrive.",
+    "\"We have been fighting for 10 years to try to explain to the Russians that it is not only the Swiss watches that exist.",
+    "Russian watches are also qualitative, it tells great history.",
+    "And there, for two months this message passes much better,\" explains David Henderson-Stewart, Director General of Raketa Watches."
+  ],
+  "topics": {
+    "Conflict": 0.8439332246780396,
+    "Economy": 0.7520864605903625,
+    "Culture": 0.6336780786514282,
+    "Technology": 0.6023296117782593,
+    "Politics": 0.5583000183105469,
+    "Health": 0.39790910482406616,
+    "Energy": 0.3776165843009949,
+    "Military": 0.3759213387966156,
+    "Environment": 0.36972615122795105,
+    "Education": 0.31735146045684814,
+    "Transport": 0.2606121003627777,
+    "Diplomacy": 0.21671098470687866,
+    "Crime": 0.19811324775218964,
+    "Elections": 0.16836929321289062
+  },
+  "sentiment": {
+    "positive": 0.429,
+    "negative": 0.571,
+    "neutral": 0.0
+  }
+}

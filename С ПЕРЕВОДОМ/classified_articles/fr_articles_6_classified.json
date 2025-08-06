@@ -1,0 +1,36 @@
+{
+  "title": "Valartis lance une offre publique d'achat sur ENR Russia Invest",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/action/VALARTIS-GROUP-AG-34973405/actualite/Valartis-lance-une-offre-publique-d-achat-sur-ENR-Russia-Invest-47888759/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Zurich (AWP) - The Zugois Valartis banking group wishes to fully use the Geneva participation company ENR Russia.",
+    "The price of the offer amounts to 5.60 Swiss francs per share ENR.",
+    "The offer of the offer is expected to be published in October 2024, Valartis said on Wednesday in a press release.",
+    "The public purchase offer should be finalized in December 2024.",
+    "Valartis has held the ENR Russia Invest since August 97.9% of the actions capital.",
+    "The Zugois banking group had then sold its shares in Athris, another Zugoise participation company.",
+    "In exchange, Valartis had received 892,703 shares ENR Russia Invest, as well as a cash payment."
+  ],
+  "topics": {
+    "Economy": 0.6041533946990967,
+    "Energy": 0.2636012136936188,
+    "Conflict": 0.2551928758621216,
+    "Culture": 0.24312038719654083,
+    "Politics": 0.19279994070529938,
+    "Environment": 0.14528031647205353,
+    "Technology": 0.12650491297245026,
+    "Diplomacy": 0.06065823510289192,
+    "Elections": 0.05210156738758087,
+    "Military": 0.045173436403274536,
+    "Transport": 0.0324229821562767,
+    "Health": 0.021537955850362778,
+    "Crime": 0.020944923162460327,
+    "Education": 0.014519121497869492
+  },
+  "sentiment": {
+    "positive": 0.286,
+    "negative": 0.714,
+    "neutral": 0.0
+  }
+}

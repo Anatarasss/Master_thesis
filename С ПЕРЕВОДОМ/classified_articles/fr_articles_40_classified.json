@@ -1,0 +1,43 @@
+{
+  "title": "Il avait suggéré de noyer des enfants ukrainiens, un journaliste de la chaîne Russia Today suspendu",
+  "published_date": null,
+  "url": "https://www.ladepeche.fr/2022/10/24/il-avait-suggere-de-noyer-des-enfants-ukrainiens-un-journaliste-de-la-chaine-russia-today-suspendu-10759853.php",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "War in Ukraine: he had suggested drowning Ukrainian children, a journalist from the Russia TODAY SUSPEND Anton Krassovski, journalist for Russia Today, said last week, said Ukrainian children who criticized Russia deserved to be \"drowned\".",
+    "It was suspended this Monday, October 24, by its editorial staff which denounces \"disgusting\" comments.",
+    "\"They should have been drowned in the TSNA river where the Canetons swim.",
+    "Damie these children in the TSNA,\" said last week in the Anton Krassovski antenna, also calling for \"burning them in a hut\".",
+    "Russia Today's journalist, a channel funded by the Kremlin, was finally suspended this Monday, October 24.",
+    "Meanwhile on Russia's State-late, Director of Broadcasting Anton Krasovsky Suggests Drowning or Burning Ukrainian Children, Makes Hideous Comments about the Rapes by Russian Soldiers in Ukraine, Says Ukraine Should Not Exit and Ukrainians who Resist Russia SHOULD BE SHOT.",
+    "pic.twitter.com/bgiabnok4v - Julia Davis (@juliadavisnews) October 23, 2022 The sequence, widely shared on social networks, had greatly shocked Internet users.",
+    "During the same interview, Anton Krassovski had also mocked the rape accusations concerning the forces of Moscow.",
+    "\"These grannies would spend all their savings reserved for their funeral to be raped by Russian soldiers,\" he launched in an amused tone.",
+    "\"Disgusting\" comments The Ukrainian Minister of Foreign Affairs, Dmitro Kuleba quickly seized the case to demand the ban on the entire world.",
+    "This Sunday, he notably twisted: \"If you accept this channel in your country, it is that you press these words\", while recalling that \"aggressive calls for genocide have nothing to do with freedom of expression\".",
+    "Four days after the broadcast, the editor -in -chief of RT, Margarita Simonian, therefore made the decision to end any collaboration with Anton Krassovski after her \"disgusting\" comments.",
+    "For his part, Anton Krassovski apologized on social networks, saying \"really embarrassed\".",
+    "\"I apologize to all those who have been amazed by this\" and who found these words \"wild, unthinkable\"."
+  ],
+  "topics": {
+    "Conflict": 0.9954413771629333,
+    "Politics": 0.9524581432342529,
+    "Crime": 0.7611363530158997,
+    "Military": 0.7405720353126526,
+    "Transport": 0.679294228553772,
+    "Culture": 0.6611325144767761,
+    "Health": 0.6316969990730286,
+    "Technology": 0.567733108997345,
+    "Economy": 0.5108770132064819,
+    "Energy": 0.403730571269989,
+    "Environment": 0.38238149881362915,
+    "Diplomacy": 0.18482637405395508,
+    "Education": 0.1013018935918808,
+    "Elections": 0.08596251159906387
+  },
+  "sentiment": {
+    "positive": 0.143,
+    "negative": 0.857,
+    "neutral": 0.0
+  }
+}

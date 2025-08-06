@@ -1,0 +1,32 @@
+{
+  "title": "ENR Russia Invest: VNI 10,64 francs par action à fin septembre",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/devise/US-DOLLAR-RUSSIAN-ROUBLE--2370597/actualite/ENR-Russia-Invest-VNI-10-64-francs-par-action-a-fin-septembre-45202515/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Geneva (AWP)-The participation company specializing in Russia ENR Russia Invest displayed a net inventory value (VNI) per share of 10.64 Swiss francs, she said on Tuesday evening.",
+    "Due to variations in the Russian operational environment, economic and political conditions remain uncertain and may have the effect on the value of assets, which may vary from the value of production in Swiss Swiss francs.",
+    "The ENR Russia shares were negotiated for the last time out of six in August 2022, at the unit price of 6 Swiss francs."
+  ],
+  "topics": {
+    "Politics": 0.3646712899208069,
+    "Conflict": 0.29546645283699036,
+    "Environment": 0.20841804146766663,
+    "Economy": 0.12257649004459381,
+    "Energy": 0.04501023516058922,
+    "Culture": 0.021058226004242897,
+    "Technology": 0.010087828151881695,
+    "Diplomacy": 0.008187086321413517,
+    "Military": 0.008115516975522041,
+    "Elections": 0.004963595420122147,
+    "Crime": 0.004554792307317257,
+    "Health": 0.0025280523113906384,
+    "Transport": 0.0015661425422877073,
+    "Education": 0.0011943485587835312
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

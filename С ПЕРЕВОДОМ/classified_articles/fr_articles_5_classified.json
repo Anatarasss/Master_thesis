@@ -1,0 +1,37 @@
+{
+  "title": "ENR Russia: l'offre de Valartis est valable du 24 octobre au 6 novembre",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/action/ENR-RUSSIA-INVEST-SA-387966/actualite/ENR-Russia-l-offre-de-Valartis-est-valable-du-24-octobre-au-6-novembre-48029522/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Zurich (AWP) - The Zugois Valartis banking group published the prospectus of its takeover offer from the Geneva participation company Enr Russia on Wednesday.",
+    "The offer is valid from October 24 to November 6, 2024, subject to extension.",
+    "The price of the offer amounts to 5.60 Swiss francs per share ENR, of a nominal value of 12.40 Swiss francs each, Valartis said on Wednesday in a press release.",
+    "The public purchase offer should be finalized on December 10, 2024.",
+    "However, according to the offer prospectus published on Wednesday, the offer relates only to 41,668 actions ENR Russia, Valartis already holding almost all of ENR.",
+    "Valartis currently controls 98.38% of the Geneva company, against 97.9% at the time of pre -registration.",
+    "In August, Valartis sold its shares in Athris, another Zugoise participation company, and received in return 892,703 ENR titles as well as a cash payment.",
+    "In addition, a condition for the public purchase offer is that no court or authority makes a decision or an order which prevents, prohibits or declares the implementation of this offer inadmissible."
+  ],
+  "topics": {
+    "Economy": 0.7638358473777771,
+    "Culture": 0.7290619015693665,
+    "Energy": 0.675544261932373,
+    "Conflict": 0.6721106171607971,
+    "Politics": 0.6349718570709229,
+    "Technology": 0.581731915473938,
+    "Environment": 0.5185089111328125,
+    "Diplomacy": 0.43769827485084534,
+    "Transport": 0.36848899722099304,
+    "Health": 0.320742130279541,
+    "Elections": 0.28675442934036255,
+    "Education": 0.21962329745292664,
+    "Military": 0.20589274168014526,
+    "Crime": 0.1835612803697586
+  },
+  "sentiment": {
+    "positive": 0.375,
+    "negative": 0.625,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Russie: RT France conteste sa suspension devant la justice européenne",
+  "published_date": null,
+  "url": "https://www.france24.com/fr/info-en-continu/20220610-russie-rt-france-conteste-sa-suspension-devant-la-justice-europ%C3%A9enne",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Russia: RT France disputes its suspension before European justice Luxembourg (AFP)-The news channel RT France (ex-Russia Today) challenged the suspension of its dissemination on Friday in the context of EU sanctions against Moscow, the Russian state media claiming its \"freedom of expression\".",
+    "Posted on: Modified: Accused of being instruments of \"disinformation\" of the Kremlin, the Spoutnik and RT media (including its French-speaking version RT France) were prohibited from broadcasting in the EU from March 2, on television as on the Internet, following an agreement of the twenty-seven shortly after the start of the Russian offensive against Ukraine.",
+    "The RT France channel, owned by an association funded by Moscow, ano-TV Novosti, challenged this measure before the EU Court of Justice in Luxembourg, arguing of an attack on freedom of expression contrary to European law.",
+    "The EU court will return its verdict in the coming months, which may be disputed on appeal.",
+    "The Council, the institution representing the member states, \"does not have the right to silence a European media\", protested on Friday during the hearing Emmanuel Piwnica, representative of RT France.",
+    "According to him, RT France, which employs 116 journalists, \"is not a propaganda tool in the hands of Russia\", but benefits from \"guarantees of independence\" vis-à-vis Russia which finances it and is \"free to determine its editorial line\".",
+    "\"The Russian offensive was presented as a defensive, preventive, limited action, in response to alleged Ukrainian provocations,\" said Raphaël Meyer, representing the Council, to justify the legality and legitimacy of the restrictive measure in order to \"protect public order\".",
+    "\"It is undeniably a propagandist discourse, not of good faith information protected by freedom of expression,\" he insisted.",
+    "\"The chain has made the relay of the rhetoric of the Russian government in defiance of the facts, even presenting the Russian army as a liberation army,\" added Tanguy Stehelin, representative of France.",
+    "RT France is an \"exemplary company which has never been sanctioned by the French regulator\" since its arrival on the screens in 2017, replied Me Piwnica.",
+    "According to RT France, it would belong to the Arcom (French Authority for the Regulation of Audiovisual and Digital Communication, formerly CSA) to intervene in the event of damage to dissemination rules -that Paris as Brussels dispute.",
+    "On February 28, in a statement entitled \"We never defended freedom by attacking journalists\", the National Syndicate of Journalists (SNJ) had described \"the act of censorship\" the European sanction targeting Spoutnik and RT."
+  ],
+  "topics": {
+    "Conflict": 0.9201624393463135,
+    "Politics": 0.8624206185340881,
+    "Culture": 0.7013670206069946,
+    "Military": 0.6959580779075623,
+    "Economy": 0.6422284245491028,
+    "Technology": 0.5856403112411499,
+    "Energy": 0.5172303915023804,
+    "Transport": 0.4503616690635681,
+    "Diplomacy": 0.429479718208313,
+    "Environment": 0.39507803320884705,
+    "Health": 0.3630228042602539,
+    "Elections": 0.26982080936431885,
+    "Education": 0.23411911725997925,
+    "Crime": 0.21046458184719086
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

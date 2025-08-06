@@ -1,0 +1,38 @@
+{
+  "title": "L'Ukraine affirme avoir détruit 20 drones au cours de la nuit",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/devise/US-DOLLAR-RUSSIAN-ROUBLE--2370597/actualite/L-Ukraine-affirme-avoir-detruit-20-drones-au-cours-de-la-nuit-46393845/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Kyiv, April 9 (Reuters) - Defense systems Ukrainian anti-aircraft neutralized 20 drones launched by the Russia in seven different regions across the country during of the night, the air force commander said on Tuesday Ukrainian, Mykola Olechtchouk.",
+    "Drones were destroyed above the southern regions of Mykolaïv, Odessa and Kherson Ukraine, central regions Dnipropetrovsk, Poltava and Vinnytsia, and Lviv west of country, said Mykola Olechtchouk on the application of Telegram messaging.",
+    "Russian forces have launched Shahed drone attacks in several waves, targeting critical infrastructure and power plants, according to military officials and Ukrainian regional.",
+    "The governor of the Lviv region, Maksym Kozytsky, said that drone debris had damaged a critical infrastructure in the west of the country, causing a fire.",
+    "In the Odessa region, electric lines have been destroyed by debris, said Governor Oleh Kiper on the Telegram application.",
+    "The Ukrainian Energy Ministry stressed that electrical infrastructure equipment also had been damaged in the central region of Poltava.",
+    "Russia has intensified its attacks on the sector Ukrainian energy in recent weeks, targeting installations and other key infrastructure.",
+    "The Ukrainian Air Force said Russia had Launched four missiles from Sol-Air missile systems S-300, but without giving more details on what happened of these missiles.",
+    "(Written by Lidia Kelly in Melbourne, with Olena Harmash in Kiyv ; French version Mathias de Rozario, edited by Kate Entringing)"
+  ],
+  "topics": {
+    "Energy": 0.9367834329605103,
+    "Conflict": 0.8677382469177246,
+    "Military": 0.7573322057723999,
+    "Technology": 0.56960529088974,
+    "Politics": 0.4528293311595917,
+    "Culture": 0.3600623607635498,
+    "Economy": 0.34057900309562683,
+    "Environment": 0.3236357569694519,
+    "Transport": 0.1707436889410019,
+    "Diplomacy": 0.13307377696037292,
+    "Crime": 0.11060915887355804,
+    "Health": 0.10010123252868652,
+    "Education": 0.06555884331464767,
+    "Elections": 0.044752564281225204
+  },
+  "sentiment": {
+    "positive": 0.111,
+    "negative": 0.889,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "La BERD réduit ses participations en Russie en vendant sa part dans la Bourse de Moscou -Forbes",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/devise/US-DOLLAR-RUSSIAN-ROUBLE--2370597/actualite/La-BERD-reduit-ses-participations-en-Russie-en-vendant-sa-part-dans-la-Bourse-de-Moscou-Forbes-45122808/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "The European Bank for Reconstruction and Development (BERD) sold its participation of 5.3 % in the Moscow Stock Exchange in the Computer Company Softline, reported Forbes Russia on Monday, citing two people familiar with the subject.",
+    "The BERD said last year that it sought to withdraw from Russia as quickly as possible after its board of directors voted the suspension of access to Russia and Belarus to its funding and other resources in April 2022, in response to the invasion of Ukraine by Moscow.",
+    "Forbes Russia reported that the BERD had sold its participation in the largest Russian scholarship in Softline with a 60 % discount and had a 20 % contribution from the sale price to the Russian budget, requirements imposed by Moscow.",
+    "The BERD and Softline did not immediately respond to requests for comments.",
+    "The Moscow Stock Exchange said that it never comments on the shares of its shareholders.",
+    "Russia has continued to tighten the exit conditions of foreign companies, now demanding a 50 % discount on any sale and a contribution to the Russian budget of at least 10 % of the sale price, qualified as \"exit tax\" by Washington.",
+    "The leaders say it is increasingly difficult to find your way around.",
+    "Last year, Softline separated from its global partner, now called Novel.",
+    "In September, Softline's actions began to be negotiated in Moscow after a direct rating.",
+    "The BERD has not invested in fresh money in Russia since Moscow annexed Crimea to Ukraine in 2014.",
+    "The lender also introduced a moratorium on new investments in Belarus following the disputed election of 2020 in the country.",
+    "(Report of Alexander Marrow; writing of Kirsten Donovan)"
+  ],
+  "topics": {
+    "Conflict": 0.707317590713501,
+    "Politics": 0.640214741230011,
+    "Economy": 0.511351466178894,
+    "Technology": 0.4260775148868561,
+    "Elections": 0.3194195330142975,
+    "Diplomacy": 0.2548931837081909,
+    "Culture": 0.22046847641468048,
+    "Crime": 0.13934332132339478,
+    "Environment": 0.06698106229305267,
+    "Health": 0.05848101153969765,
+    "Education": 0.05291139706969261,
+    "Transport": 0.042458996176719666,
+    "Military": 0.039757389575242996,
+    "Energy": 0.01995394378900528
+  },
+  "sentiment": {
+    "positive": 0.083,
+    "negative": 0.917,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "RT France: la justice européenne confirme la suspension du média russe",
+  "published_date": null,
+  "url": "https://www.france24.com/fr/info-en-continu/20220727-rt-france-la-justice-europ%C3%A9enne-confirme-la-suspension-du-m%C3%A9dia-russe",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "RT France: European justice confirms the suspension of the Russian media Luxembourg (AFP)-European justice rejected the request of the RT France news channel (ex-Russia Today) on Wednesday to cancel the suspension of its dissemination decided within the framework of EU sanctions against Moscow, which immediately promised to retaliate against the Western media.",
+    "Posted on: Modified: In its decision, against which the Russian state media has announced to appeal, the EU court argued in particular that this \"temporary ban\" does not call into question \"freedom of expression\" as such \"contrary to what the Russian state media claimed, sanctioned after the invasion of Ukraine by Moscow.",
+    "\"We are going to take similar pressure measures targeting the Western media working here in the country,\" Kremlin spokesperson Dmitri Peskov reacted to the press.",
+    "\"We are not going to let them work in our country either,\" he added.",
+    "Accused of being instruments of \"disinformation\" of the Kremlin, the Sputnik and RT media (including its French-speaking version RT France) were prohibited from broadcasting in the EU from March 2, on television as on the Internet, following an agreement of the twenty-seven shortly after the start of the war.",
+    "The French situation is special because, since the suspension of RT in Germany at the end of 2021, France was the only member state of the EU to host a subsidiary of RT on its soil.",
+    "In its judgment on Wednesday, the court estimated that \"the limitations to the freedom of expression of RT France (...) are proportionate, in that they are appropriate and necessary, to the goals sought\", namely to prevent \"propaganda\" in favor of \"the military aggression of Ukraine by the Russian Federation\" during \"broadcasts broadcast on television and on the Internet entirely funded by the Russian state\".",
+    "These measures, \"as soon as they are temporary and reversible, do not infringe disproportionate involvement with the essential content of RT France corporate freedom\"."
+  ],
+  "topics": {
+    "Politics": 0.9294480681419373,
+    "Conflict": 0.9126021862030029,
+    "Culture": 0.8938769698143005,
+    "Economy": 0.8411569595336914,
+    "Diplomacy": 0.7839282751083374,
+    "Military": 0.744467556476593,
+    "Technology": 0.6896020770072937,
+    "Transport": 0.5951321721076965,
+    "Health": 0.5568432211875916,
+    "Energy": 0.49299710988998413,
+    "Environment": 0.4846894145011902,
+    "Education": 0.39221489429473877,
+    "Crime": 0.3373582661151886,
+    "Elections": 0.32192274928092957
+  },
+  "sentiment": {
+    "positive": 0.375,
+    "negative": 0.625,
+    "neutral": 0.0
+  }
+}

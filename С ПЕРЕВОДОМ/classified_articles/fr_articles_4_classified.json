@@ -1,0 +1,34 @@
+{
+  "title": "ENR Russia: feu vert des actionnaires à la décotation",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/action/ENR-RUSSIA-INVEST-SA-387966/actualite/ENR-Russia-feu-vert-des-actionnaires-a-la-decotation-48542959/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Geneva (AWP) - Gathered on Friday in an extraordinary general meeting, the shareholders of the Participation Company ENR Russia accepted the proposal to withdraw stocks from the Stock Exchange.",
+    "The Board of Directors will thus be able to undertake the necessary measures for the decoration of the titles out of six, the company said in a press release.",
+    "ENR Russia was taken over by the Valartis financial group, which held, after its buyout offer, 99.76% of the actions of the company based in Geneva.",
+    "As part of the operation, Valartis gives up his minority participation in Athris Holding by Georg von Opel and receives in return 892,703 actions ENR Russia and a cash payment.",
+    "Athris Holding, which is listed at a Berne BX Stock Exchange, held a participation of a good third party in ENR Russia, according to previous data."
+  ],
+  "topics": {
+    "Economy": 0.6604335308074951,
+    "Energy": 0.5539058446884155,
+    "Culture": 0.49252915382385254,
+    "Environment": 0.4786578118801117,
+    "Conflict": 0.4449431598186493,
+    "Politics": 0.38906410336494446,
+    "Technology": 0.29920607805252075,
+    "Transport": 0.26217710971832275,
+    "Elections": 0.24803178012371063,
+    "Health": 0.2463264912366867,
+    "Diplomacy": 0.20259657502174377,
+    "Military": 0.11603234708309174,
+    "Education": 0.09773599356412888,
+    "Crime": 0.08862479776144028
+  },
+  "sentiment": {
+    "positive": 0.6,
+    "negative": 0.4,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Wagner: Η πρώτη εμφάνιση Σοϊγκού μετά την ανταρσία - Επιτήρησε επιχείρηση στην Ουκρανία",
+  "published_date": null,
+  "url": "https://www.newsbomb.gr/kosmos/story/1441924/wagner-i-proti-emfanisi-soigkoy-meta-tin-antarsia-epitirise-epixeirisi-stin-oukrania",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "Wagner: First Show Show after the rebellion - Surveillance a business in Ukraine According to a video broadcast by Russian Dimosia 24 TV 24, Soyigu, a target of Wagner's head of Wagner, Guvgeny Prigozin, went to a Russian administration center in Ukraine in Ukraine.",
+    "Images from Russia's Defense Minister Sergei Soigu, who inspected Russian forces in Ukraine, in his first public appearance after Wanger's failed rebellion, said Russia's state television.",
+    "According to a video broadcast by Russian TV Dicos Russia 24, Soigu, a target of fierce criticism of Wagner's leader Gevgeni Prigozin, went to a Russian administration center in Ukraine and \"met with those in charge\".",
+    "During this meeting, Sogu mainly emphasized \"the great efficiency (of the Russian army) in identifying and destroying\" weapons systems and \"enemy soldiers\", the Ministry of Defense said in a statement.",
+    "In the images broadcast by the state television network, the Russian minister seems to hear, in a calm and serious style, the reference to General Gevgeni Nikiforov, head of the Western Military District of the Russian Army, studying geographical maps and inspecting them."
+  ],
+  "topics": {
+    "Conflict": 0.9267255663871765,
+    "Military": 0.7805547118186951,
+    "Politics": 0.618506133556366,
+    "Culture": 0.5033288598060608,
+    "Technology": 0.3793903887271881,
+    "Transport": 0.23527337610721588,
+    "Crime": 0.19946181774139404,
+    "Diplomacy": 0.17960523068904877,
+    "Environment": 0.13232716917991638,
+    "Elections": 0.07358425110578537,
+    "Economy": 0.0604005828499794,
+    "Energy": 0.05246182531118393,
+    "Education": 0.02765822224318981,
+    "Health": 0.024724751710891724
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

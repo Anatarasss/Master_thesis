@@ -1,0 +1,43 @@
+{
+  "title": "Vika: The journalist who exposed Russian “black sites”, then ended up in one - podcast",
+  "published_date": null,
+  "url": "https://www.theguardian.com/news/audio/2025/may/22/vika-the-journalist-who-exposed-russian-black-sites-then-ended-up-in-one-podcast",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Viktoriia Roshchyna, a Ukrainian journalist known as Vika, was determined to report on Russia’s “black sites”.",
+    "“These ‘black sites’, they’re not prisons; there’s no control on behaviour there,” Juliette Garside, an editor at the Guardian, tells Michael Safi.",
+    "“So it’s where we know that some of the worst war crimes, the worst human rights abuses, take place.",
+    "“These are sites where largely civilians, anyone captured by the Russians, are held, often tortured.",
+    "And there are different reasons for the torture.",
+    "It could just be intimidation, it could be trying to get genuine intelligence from them … and sometimes it’s gathering material for show trials, false confessions.” In July 2023, Viktoriia set off on a dangerous reporting trip to Zaporizhzhia, in a Russian-occupied part of Ukraine.",
+    "She wanted to find these sites, and name the people responsible for the abuses inside.",
+    "A few days later, she vanished.",
+    "A global collective of journalists, including the Guardian’s investigations correspondent and the open-source lead Manisha Ganguly and Juliette Garside, have worked to piece together what came next.",
+    "Their reporting uncovered what happened to Viktoriia at these sites, including her time in a prison in the Russian coastal town of Taganrog, which was notorious for torture.",
+    "“They had an electric chair room, which was specifically constructed for this purpose,” Manisha says.",
+    "“They had a room with a tub where detainees would be drowned.",
+    "They also had a room with bars on the walls where detainees would be suspended upside down in a foetal position with their knees strapped to the bar and in handcuffs where they’d be beaten or electrocuted for 10 to 15 minutes.” You can read more about the The Viktoriia Project here.",
+    "Support the Guardian today: theguardian.com/todayinfocuspod"
+  ],
+  "topics": {
+    "Conflict": 0.7267829179763794,
+    "Crime": 0.6842195391654968,
+    "Culture": 0.5831592082977295,
+    "Politics": 0.41681423783302307,
+    "Technology": 0.41153690218925476,
+    "Military": 0.4046478867530823,
+    "Economy": 0.4024912416934967,
+    "Energy": 0.34767478704452515,
+    "Transport": 0.3154047429561615,
+    "Health": 0.3095126152038574,
+    "Environment": 0.25424474477767944,
+    "Diplomacy": 0.21481011807918549,
+    "Elections": 0.15067577362060547,
+    "Education": 0.13455931842327118
+  },
+  "sentiment": {
+    "positive": 0.143,
+    "negative": 0.857,
+    "neutral": 0.0
+  }
+}

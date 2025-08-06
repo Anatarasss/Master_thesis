@@ -1,0 +1,45 @@
+{
+  "title": "Kremlin confident US will no longer 'indulge' Ukraine and EU after Trump's call to Putin",
+  "published_date": null,
+  "url": "https://news.sky.com/story/kremlin-confident-us-will-no-longer-indulge-ukraine-and-eu-after-trumps-call-to-putin-13371598",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Kremlin confident US will no longer 'indulge' Ukraine and EU after Trump's call to Putin Much of the Russian press coverage portrays the phone call as a battle for Donald Trump's affections, with Russia emerging victorious despite the influence of \"Western hawks\".",
+    "Tuesday 20 May 2025 17:50, UK The mood in Russia is upbeat, bordering on triumphant, following Monday's phone call between Vladimir Putin and Donald Trump.",
+    "\"The tone of the conversation was excellent,\" crows the headline in the newspaper Argumenty i Fakty, quoting the American president's assessment of the conversation.",
+    "Trump has \"accepted the Russian formula\" of \"negotiations first, ceasefire after\", the paper brags.",
+    "Another, Komsomolskaya Pravda, runs with Putin's description of the call as their main headline: \"We are on the right track\".",
+    "According to the pro-Kremlin paper, Trump's approach shows the United States \"is not going to indulge [Volodymyr] Zelenskyy and Europe\".",
+    "Much of the coverage portrays the call as a battle for Trump's affections, with Russia emerging victorious despite the influence of \"Western hawks\".",
+    "\"[Trump] did not heed their requests,\" says Argumenty i Fakty, referring to Europe's calls for tougher sanctions.",
+    "Read more Russia bans Amnesty International What happened during Ukraine-Russia peace talks?",
+    "Analysis: Talks revealed a stark reality In Kommersant, there's talk of the two leaders sharing a \"common language\".",
+    "The paper talks about how Trump has adopted \"the most favourable position\" for Moscow, which it claims \"came as a complete surprise to the Western allies of the United States, nullifying their expectations\".",
+    "\"In Kyiv and the camp of its Western allies, disappointment reigns over the \"betrayal\" of the United States\", it gloats.",
+    "There's no talk of the Kremlin stalling negotiations or dragging its feet.",
+    "On the contrary, Putin's pledge to work with Ukraine on a memorandum for a future peace treaty is characterised as a logical next step.",
+    "\"The purpose of the conversation was to advance the peace process in Ukraine\", the daily Vedomosti states soberly.",
+    "There's not a hint of irony, nor criticism."
+  ],
+  "topics": {
+    "Politics": 0.7532965540885925,
+    "Conflict": 0.7224233746528625,
+    "Diplomacy": 0.6007505655288696,
+    "Energy": 0.5174235105514526,
+    "Military": 0.47298941016197205,
+    "Elections": 0.2976319193840027,
+    "Technology": 0.26080915331840515,
+    "Environment": 0.23242300748825073,
+    "Culture": 0.21423429250717163,
+    "Health": 0.16986756026744843,
+    "Economy": 0.15833333134651184,
+    "Education": 0.11600205302238464,
+    "Crime": 0.1144099161028862,
+    "Transport": 0.07489188015460968
+  },
+  "sentiment": {
+    "positive": 0.625,
+    "negative": 0.375,
+    "neutral": 0.0
+  }
+}

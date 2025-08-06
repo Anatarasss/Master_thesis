@@ -1,0 +1,44 @@
+{
+  "title": "Μόσχα: Βίντεο από την ανάκριση υπόπτου για το μακελειό δίνει το Russia Today",
+  "published_date": null,
+  "url": "https://www.cnn.gr/kosmos/story/411426/mosxa-vinteo-apo-tin-anakrisi-ypoptou-gia-to-makeleio-dinei-to-russia-today",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "Moscow: Video from suspect interrogation for the massacre gives Russia Today Video from the interrogation of one of the detainees for the massacre at the Moscow suburb of Moscow, the editor -in -chief of Russia Today, Margarita Simonian, who is also redeemed by the rest of the big Russian networks.",
+    "The suspect appears to be trembling and declaring that strangers were promised by a Telegram half a million rubles to shoot indiscriminately against the spectators of the concert at the Crocus Multipurpose.",
+    "The suspect in the video with the interrogation is distinguished to respond to the Russian language with a heavy accent on a series of questions.",
+    "He says he left Turkey on March 4 and had received instructions from strangers via Telegram to commit the attack in exchange for money.",
+    "The man is distinguished to tremble during the interrogation.",
+    "Initially it is distinguished to be lying face down with his hands back on the back and his chin resting on the boot of a man who wears a variant uniform.",
+    "Later, he is kneeling.",
+    "The suspect in the video with the interrogation is distinguished to respond to the Russian language with a heavy accent on a series of questions.",
+    "He says he left Turkey on March 4 and had received instructions from strangers via Telegram to commit the attack in exchange for money.",
+    "He committed the attack \"for money and specifically for 500,000 rubles.",
+    "In the video, he admits that he was involved in the attack on the Crocus City Hall concert venue with a trembling voice.",
+    "In comments attributed to her, Simonian attempts to disconnect the ISIS yesterday's blow, saying that \"we already know the names of the perpetrators, we have seen their faces and learned about what is\" singing \"during the interrogations.",
+    "It immediately becomes obvious because yesterday the US media reported in dance that it was an ISIS hit.",
+    "This is not the ISIS and the perpetrators are chosen in such a way that the stupid global community is convinced. \"",
+    "Russia has not yet shown evidence of any Ukrainian relationship with the attack."
+  ],
+  "topics": {
+    "Conflict": 0.8472957611083984,
+    "Crime": 0.5429480075836182,
+    "Technology": 0.44584742188453674,
+    "Culture": 0.4371711313724518,
+    "Politics": 0.4029562771320343,
+    "Military": 0.32456302642822266,
+    "Economy": 0.2956397533416748,
+    "Transport": 0.24888649582862854,
+    "Diplomacy": 0.24110639095306396,
+    "Health": 0.13719326257705688,
+    "Energy": 0.1175951361656189,
+    "Environment": 0.10345152765512466,
+    "Education": 0.07508998364210129,
+    "Elections": 0.07245134562253952
+  },
+  "sentiment": {
+    "positive": 0.267,
+    "negative": 0.733,
+    "neutral": 0.0
+  }
+}

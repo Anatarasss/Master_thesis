@@ -1,0 +1,33 @@
+{
+  "title": "Ukraine war latest: First pictures of war's largest prisoner swap so far shared by Zelenskyy",
+  "published_date": null,
+  "url": "https://news.sky.com/story/ukraine-war-latest-first-pictures-of-wars-largest-prisoner-swap-so-far-shared-by-zelenskyy-12541713",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Volodymyr Zelenskyy has been reacting to the overnight attack on Kyiv, which saw it bombarded with hundreds of drones and 14 ballistic missiles.",
+    "In a post on X, the Ukrainian president said the attack targeted civilians and that the Odesa, Vinnytsia, Sumy, Kharkiv, Donetsk, Kyiv, Dnipro regions suffered damages.",
+    "\"With each such attack, the world becomes more certain that the cause of prolonging the war lies in Moscow,\" he wrote, adding that \"far stronger pressure must be imposed on Russia to get results and launch real diplomacy\".",
+    "He said further sanctions from the US, Europe and the rest of Ukraine's partners would force Moscow to agree to end the war."
+  ],
+  "topics": {
+    "Conflict": 0.9274769425392151,
+    "Politics": 0.8073110580444336,
+    "Diplomacy": 0.7473088502883911,
+    "Culture": 0.6718614101409912,
+    "Technology": 0.6085235476493835,
+    "Military": 0.5890917181968689,
+    "Economy": 0.4552968442440033,
+    "Health": 0.39847099781036377,
+    "Crime": 0.3394694924354553,
+    "Energy": 0.28502756357192993,
+    "Transport": 0.27762413024902344,
+    "Environment": 0.2330266684293747,
+    "Education": 0.10562846064567566,
+    "Elections": 0.06161068379878998
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

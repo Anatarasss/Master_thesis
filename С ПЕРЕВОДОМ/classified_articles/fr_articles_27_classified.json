@@ -1,0 +1,37 @@
+{
+  "title": "Poutine approuve le transfert à Rosatom d'actions détenues par l'État dans une société de transport maritime",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/action/FESCO-GROUP-CO-LTD-9950112/actualite/Poutine-approuve-le-transfert-a-Rosatom-d-actions-detenues-par-l-Etat-dans-une-societe-de-trans-45276521/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "President Vladimir Putin signed a decree transferring to the Russian nuclear company Rosatom the actions held by the State in the Far Eastern Shipping Company, parent company of the FESCO transport group on Wednesday.",
+    "Fesco was previously controlled by Ziyavudin Magomedov, who was sentenced last year for organized crime and embezzlement and who is currently serving a 19 -year prison sentence following one of the most publicized legal proceedings against a Russian magnate for years.",
+    "Magamedov claims that the accusations are unfounded and appeal to his conviction.",
+    "He has already said that the Russian state wanted to place Fesco - which operates ports, including a key port in Vladivostok - under the control of Rosatom.",
+    "In January of this year, at the request of the Russian prosecutor's office, a court transferred to the state 92.4 % of Fesco shares which belonged to Magomedov and its partners, the Russian media reported.",
+    "On July 20, Magomedov brought legal action before the High Court of London to claim nearly $ 14 billion following the seizure of its actions.",
+    "The defendants in this case are Rosatom, the operator of Oleoducs Transneft, the investment company TPG and the port operator DP World, based in the United Arab Emirates.",
+    "Mr. Magomedov, 55, affirms that his arrest in 2018 for embezzlement triggered what he considers as an expropriation plan supported by the Russian state, largely for the benefit of Rosatom and Transneft, according to the documents deposited in court."
+  ],
+  "topics": {
+    "Conflict": 0.8443817496299744,
+    "Transport": 0.7975597977638245,
+    "Politics": 0.726879894733429,
+    "Crime": 0.5729073286056519,
+    "Economy": 0.4878046214580536,
+    "Technology": 0.3138260543346405,
+    "Culture": 0.2964141368865967,
+    "Military": 0.225379079580307,
+    "Energy": 0.21628479659557343,
+    "Diplomacy": 0.171779066324234,
+    "Environment": 0.0715634822845459,
+    "Health": 0.05519586056470871,
+    "Elections": 0.053460169583559036,
+    "Education": 0.009760579094290733
+  },
+  "sentiment": {
+    "positive": 0.125,
+    "negative": 0.875,
+    "neutral": 0.0
+  }
+}

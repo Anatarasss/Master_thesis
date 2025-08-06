@@ -1,0 +1,34 @@
+{
+  "title": "Καναδάς: \"Η Ρωσία χρηματοδοτεί απόπειρες υπονόμευσης ξένων κυβερνήσεων\"",
+  "published_date": null,
+  "url": "https://www.kathimerini.gr/world/563422270/kanadas-i-rosia-chrimatodotei-apopeires-yponomeysis-xenon-kyverniseon/",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "The G7, the team of the seven largest economies on the planet, complained that the Russian government has funded and directs secret state entities to undermine governments around the world through worldwide misinformation and influence campaigns.",
+    "The announcement was issued by Canada, chaired by the G7 this year, following the briefing of the 7th Group (RRM) of the 7th group, set up to combat threats against democracy, such as misinformation.",
+    "\"G7's RRM team faces every foreign manipulation and intervention in information with the highest possible seriousness,\" Canada's statement said.",
+    "As noted in the announcement, Russia has used Russia Today and Social Design Agency Marketing to \"promote malicious interests of the Kremlin and distract from the war in Ukraine\".",
+    "Members of the RRM team, in addition to the G7, include four countries: Australia, the Netherlands, New Zealand and Sweden."
+  ],
+  "topics": {
+    "Conflict": 0.8526226878166199,
+    "Culture": 0.7890122532844543,
+    "Economy": 0.7838893532752991,
+    "Politics": 0.7478358745574951,
+    "Military": 0.49577614665031433,
+    "Transport": 0.33588966727256775,
+    "Elections": 0.29480651021003723,
+    "Technology": 0.2183740884065628,
+    "Diplomacy": 0.21507151424884796,
+    "Health": 0.1924818605184555,
+    "Crime": 0.1730063259601593,
+    "Environment": 0.16213074326515198,
+    "Energy": 0.1454143077135086,
+    "Education": 0.08243618905544281
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

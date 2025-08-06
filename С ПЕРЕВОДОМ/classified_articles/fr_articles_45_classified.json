@@ -1,0 +1,32 @@
+{
+  "title": "La justice européenne confirme la suspension du média RT France",
+  "published_date": null,
+  "url": "https://www.letelegramme.fr/france/la-justice-europeenne-confirme-la-suspension-du-media-rt-france-27-07-2022-13127253.php",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "European justice rejected this Wednesday, the request of the news channel RT France (ex-Russia Today) on Wednesday to cancel the suspension of its distribution decided within the framework of EU sanctions against Moscow, according to a judgment consulted by AFP.",
+    "In its decision, the EU court notably argues that this \"temporary prohibition\" does not call \"into question\" the freedom of expression \"as such\" contrary to what the Russian state media stood, sanctioned after the invasion of Ukraine by Moscow.",
+    "RT France has announced its intention to appeal."
+  ],
+  "topics": {
+    "Conflict": 0.9324535727500916,
+    "Politics": 0.6620486974716187,
+    "Economy": 0.5659548044204712,
+    "Crime": 0.47629618644714355,
+    "Diplomacy": 0.47072699666023254,
+    "Military": 0.3627156615257263,
+    "Technology": 0.3542182743549347,
+    "Culture": 0.33285000920295715,
+    "Elections": 0.24849681556224823,
+    "Transport": 0.1549690216779709,
+    "Health": 0.1169581338763237,
+    "Environment": 0.05775396525859833,
+    "Energy": 0.0523926317691803,
+    "Education": 0.005134221166372299
+  },
+  "sentiment": {
+    "positive": 0.667,
+    "negative": 0.333,
+    "neutral": 0.0
+  }
+}

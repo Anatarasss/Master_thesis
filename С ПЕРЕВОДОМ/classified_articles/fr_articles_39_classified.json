@@ -1,0 +1,45 @@
+{
+  "title": "RT France, branche française de la chaîne russe Russia Today, annonce sa fermeture \"après 5 années d'acharnement\"",
+  "published_date": null,
+  "url": "https://www.ladepeche.fr/2023/01/21/rt-france-branche-francaise-de-la-chaine-russe-russia-today-annonce-sa-fermeture-apres-5-annees-dacharnement-10942285.php",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "RT France, French branch of the Russian chain Russia Today, announces its closure \"after 5 years of relentlessness\" RT France, the French branch of the Russian channel RT suspended in the European Union, announced this Saturday, January 21, its \"closure\" after the freeze of its bank accounts.",
+    "The French branch of the Russian chain ended up yielding.",
+    "\"After 5 years of relentlessness, the authorities in power have therefore achieved their ends: the closure of RT France (...).",
+    "The Directorate General of the Treasury has decided to freeze the bank accounts of RT France making it impossible for the continuation of our activity,\" announced this Saturday on Twitter Xenia Fedorova, president and director of the chain.",
+    "Denouncing an \"arbitrary measure\", she affirms that 123 French employees, including 77 holders of the press card, \"today may not be paid for their salary in January and will lose their job by the fact of the prince\".",
+    "Only European Union RT branch Asked, the French Ministry of the Economy explained on Friday that the chain assets had been frozen in application of the most recent European sanctions and not on the direct initiative of the French State.",
+    "Unlike the initial sanctions decided after the Russian military intervention in Ukraine in February 2022, those taken in December provide for an \"asset frost\" of the entities.",
+    "The French situation is special because France was the only member state of the EU to host a subsidiary of RT on its soil.",
+    "Accused of being instruments of \"disinformation\" of the Kremlin, the Sputnik and RT media (including its French-speaking version RT France) were prohibited from broadcasting in the EU from March 2, on television as on the Internet, following an agreement of the twenty-seven shortly after the start of the conflict in Ukraine.",
+    "\"RT France had to die\" - SNJ RT France (@snj_rtfrance) January 20, 2023 While we are going to switch to unemployment, our wages are currently frozen by decision of the State.",
+    "Intersyndical press release from the sections @snj_rtfrance and @fo_rtfrance, January 20, 2022.",
+    "Pic.twitter.com/xunhsd0yx Seized by RT France, European justice had confirmed this decision in July.",
+    "This initial package of sanctions only prohibited the dissemination of RT content in the EU, not their production itself.",
+    "Until now, RT France therefore continued to produce and disseminate content, available despite the ban via a virtual private network (VPN), a service to browse the web by bypassing the blocking.",
+    "This Saturday, Moscow promised to take retaliation measures against the French media in Russia.",
+    "\"They will be remembered if the French authorities do not cease to terrorize Russian journalists,\" warned a source in Russian diplomacy, quoted by Russian press agencies Ria Novosti and Tass. \""
+  ],
+  "topics": {
+    "Politics": 0.8792673945426941,
+    "Diplomacy": 0.8082160353660583,
+    "Conflict": 0.6964707374572754,
+    "Culture": 0.6929469704627991,
+    "Transport": 0.5243887901306152,
+    "Economy": 0.49081480503082275,
+    "Energy": 0.4877144694328308,
+    "Military": 0.4633786678314209,
+    "Technology": 0.40182140469551086,
+    "Environment": 0.35344380140304565,
+    "Health": 0.3254533112049103,
+    "Education": 0.2609659433364868,
+    "Crime": 0.246986985206604,
+    "Elections": 0.21177361905574799
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

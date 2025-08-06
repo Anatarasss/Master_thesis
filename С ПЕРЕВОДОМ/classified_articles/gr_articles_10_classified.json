@@ -1,0 +1,47 @@
+{
+  "title": "Η Le Soir μιλάει για ενδεχόμενο \"Russia Gate\" στην Ευρωπαϊκή Ένωση",
+  "published_date": null,
+  "url": "https://www.pagenews.gr/2024/03/30/kosmos/i-le-soir-milaei-gia-endexomeno-russia-gate-stin-europaiki-enosi/",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "Le Soir is talking about 'Russia Gate' in the European Union Source of Photography: Internet // As the Belgian newspaper points out, European Secret Services have identified a network aimed at misinformation and influence in view of the June European elections through the pro -Russian website \"Voice of Europe\".",
+    "\"A\" Russiagate \"is struck above the European Parliament two months before the election\" is the title of article in the Belgian newspaper \"Le Soir\".",
+    "As noted, European Secret Services (Czech Republic, Belgium, Germany, France, the Netherlands, Hungary, Poland) identified a network aimed at misinformation and influence in view of the June European elections through the pro -Russian website \"Voice of Europe\".",
+    "It is noted that some MEPs, mainly by the ID group, were allegedly paid by a pro -Russian organization.",
+    "The Czechs also announced that their research showed that Ukrainian oligarch Victor Medvensuk, especially close to Vladimir Putin, was the funder of the Voice of Europe.",
+    "Arrested in Ukraine, Victor Medvendzuk exchanged, along with 44 other Russian prisoners of war, with 200 Ukrainian fighters in September 2022.",
+    "His partner, Artem Marsevski, a resident of Czech.",
+    "The two men were introduced on the list of people who were imposed by the Czech Republic.",
+    "\"Moscow money was used to pay some political representatives spreading Russian propaganda,\" the Czech intelligence services added according to Soir.",
+    "Responding to the issue in the Belgian parliament, the country's Prime Minister Alexander de Croo said that \"Russia has approached MEPs, but also paid them to promote Russian propaganda.",
+    "These are not innocent on social media, but MPs receiving money.",
+    "There is external pressure and internal cooperation, also in our country, at the highest levels of our democratic institutions, ”he said.",
+    "Alexander de Croo spoke of a \"regional elected official\" and according to the report, everyone shows Philip Degider of the far -right party Vlaams Belang.",
+    "It is emphasized in the article that \"at this stage, there is no indication that a Belgian elected official has been paid by this organization\" nor is there any ongoing judicial investigation.",
+    "A spokesman for the EC president noted that Roberta Metsola \"is aware of the allegations that have been made and examined in particular\".",
+    "The Social Democrats, for their part, asked them to have an \"emergency debate\", and according to the Belga agency.",
+    "Liberals and the Greens called for a survey of possible intervention in the European Parliament funded by Russia.",
+    "Finally, Renew's head Valerie Haye asked Mrs Metsola to launch an investigation Read all the latest news from Greece and the world"
+  ],
+  "topics": {
+    "Elections": 0.9527316689491272,
+    "Politics": 0.9443445205688477,
+    "Conflict": 0.9442343711853027,
+    "Technology": 0.797599732875824,
+    "Culture": 0.722807765007019,
+    "Crime": 0.7066572904586792,
+    "Economy": 0.5220613479614258,
+    "Energy": 0.4492092430591583,
+    "Military": 0.43103402853012085,
+    "Environment": 0.3319189250469208,
+    "Diplomacy": 0.2913450002670288,
+    "Transport": 0.2891978919506073,
+    "Education": 0.23100467026233673,
+    "Health": 0.19929786026477814
+  },
+  "sentiment": {
+    "positive": 0.278,
+    "negative": 0.722,
+    "neutral": 0.0
+  }
+}

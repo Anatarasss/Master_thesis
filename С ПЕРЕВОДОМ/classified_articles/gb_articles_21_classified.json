@@ -1,0 +1,44 @@
+{
+  "title": "UK government announces 100 new sanctions on Russia days after huge aerial bombardment",
+  "published_date": null,
+  "url": "https://www.manchestereveningnews.co.uk/news/uk-news/uk-sanctions-russia-putin-ukraine-31688773",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "UK government announces 100 new sanctions on Russia days after huge aerial bombardment Russia carried out the biggest drone onslaught of the war so far on Ukraine last weekend The UK government has announced a wide range of sanctions on Russia, just days after Vladimir Putin carried out the biggest aerial onslaught of the war on Ukraine.",
+    "On Saturday, Russia fired 273 drones at Ukrainian cities.",
+    "A strike on a bus in the northeastern city of Sumy alone killed 9 civilians.",
+    "Now, Foreign Secretary David Lammy has made the decision to ramp up pressure on the Russian dictator by implementing 100 sanctions across Russian military, energy, financial sectors and those conducting Putin's information war against Ukraine.",
+    "UK and partners are also working to tighten the Oil Price Cap, further restricting critical oil revenues for Putin.",
+    "Despite reportedly agreeing on terms for an unconditional ceasefire during a meeting with US President Donald Trump earlier this week, Russia are showing no signs of softening their attacks on innocent people in Ukraine - let alone bringing a halt to military operations.",
+    "Amongst the military boycotts introduced today is a ban on Iksander missiles - a short-range ballistic system that has inflicted untold damage on the Ukrainian people.",
+    "This is a huge show of support for President Zelenskyy and a move that will save dozens of Ukrainian lives.",
+    "These latest sanctions come as the EU prepares to announce its 17th package of penalties against Russia.",
+    "Both the UK and EU's sanctions are likely to have a big effect on Russia's economy.",
+    "Russian GDP shrank in the first quarter of the year and the non-defence economy has been in recession for some time.",
+    "Putin has had to raise taxes and slash social spending just to be able to continue the war.",
+    "Speaking about the latest round of sanctions, David Lammy said: \"Putin’s latest strikes once again show his true colours as a warmonger.",
+    "\"We urge him to agree a full, unconditional ceasefire right away so there can be talks on a just and lasting peace,\" he added.",
+    "\"We have been clear that delaying peace efforts will only redouble our resolve to help Ukraine to defend itself and use our sanctions to restrict Putin’s war machine.\""
+  ],
+  "topics": {
+    "Economy": 0.9647886157035828,
+    "Energy": 0.9389176368713379,
+    "Conflict": 0.9193062782287598,
+    "Military": 0.8679976463317871,
+    "Politics": 0.8454631567001343,
+    "Diplomacy": 0.7977705001831055,
+    "Culture": 0.6553001403808594,
+    "Technology": 0.5210453271865845,
+    "Environment": 0.4512823224067688,
+    "Elections": 0.40543705224990845,
+    "Health": 0.4008508026599884,
+    "Crime": 0.36345839500427246,
+    "Transport": 0.34952324628829956,
+    "Education": 0.20297889411449432
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "La banque russe VTB finalisera l'intégration d'Otkritie d'ici fin 2024",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/devise/US-DOLLAR-RUSSIAN-ROUBLE--2370597/actualite/La-banque-russe-VTB-finalisera-l-integration-d-Otkritie-d-ici-fin-2024-45520454/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "The second lender in Russia, VTB, will complete the integration of Otkritie Bank by the end of 2024, ahead of the calendar, said Georgy Gorshkov, vice-president and chairman of the board of directors on Thursday.",
+    "The Central Bank has bail out Otkritie, who was once the largest private lender in Russia, in 2017 as part of a campaign of several years aimed at cleaning up the Russian banking sector.",
+    "It then sold Otkritie in VTB at the end of 2022 for 340 billion rubles ($ 3.68 billion).",
+    "Integration, which enabled VTB to alleviate certain capital problems after having recorded a loss of $ 7.7 billion in 2022 due to the sanctions, was to be completed in 2025.",
+    "VTB synchronized offers for retail customers and transferred certain cash loans.",
+    "\"In December this year, the gradual transfer of the Otkritie branch network to the VTB brand will begin,\" said Gorshkov.",
+    "\"This process will be fully completed by the end of 2024.",
+    "($ 1 = 92,4900 rubles) (report by Elena Fabrichnaya; editorial staff by Alexander Marrow, emelia Sithole-Matarise edition)"
+  ],
+  "topics": {
+    "Conflict": 0.7838799953460693,
+    "Economy": 0.7756083011627197,
+    "Culture": 0.6944888234138489,
+    "Politics": 0.6544036865234375,
+    "Technology": 0.6376027464866638,
+    "Environment": 0.40635940432548523,
+    "Diplomacy": 0.3444465100765228,
+    "Crime": 0.2771430015563965,
+    "Military": 0.23841343820095062,
+    "Health": 0.21899141371250153,
+    "Transport": 0.16325975954532623,
+    "Elections": 0.16136173903942108,
+    "Energy": 0.1047329381108284,
+    "Education": 0.05021904781460762
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

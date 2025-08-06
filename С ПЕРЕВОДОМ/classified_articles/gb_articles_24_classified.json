@@ -1,0 +1,51 @@
+{
+  "title": "Fresh UK and EU sanctions on Russia announced - as Putin procrastinates on ceasefire talks",
+  "published_date": null,
+  "url": "https://news.sky.com/story/fresh-uk-and-eu-sanctions-on-russia-announced-as-putin-procrastinates-on-ceasefire-talks-13371420",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Fresh UK and EU sanctions on Russia announced - as Putin procrastinates on ceasefire talks The sanctions will target Russia's weapons supply chains, Kremlin-funded information operations, financial institutions and its \"shadow fleet\".",
+    "Tuesday 20 May 2025 19:25, UK The UK and EU have placed fresh sanctions on Russia as the Kremlin refused to put a timeline on ceasefire talks with Ukraine.",
+    "The UK's Foreign Office said a total of 100 further sanctions will target Russia's military, energy and financial sectors.",
+    "The new measures will target the supply chains of Russian weapons systems, including Iskander missiles, Kremlin-funded information operations, financial institutions that help Russia evade sanctions and ships in the Kremlin's \"shadow fleet\" of oil tankers.",
+    "Ukraine war latest: Trump has 'red line' for peace talks The Foreign Office said Vladimir Putin had repeatedly fired Iskander missiles into crowded civilian areas \"with a callous disregard for life\", including on 13 April in Sumy when 34 civilians, including children, were killed as some headed to Palm Sunday services.",
+    "Similarly, European Commission President Ursula von der Leyen said an 18th package of EU sanctions against Russia is already being worked on.",
+    "\"It's time to intensify the pressure on Russia to bring about the ceasefire,\" she said on X, after a phone call with Ukrainian President Volodymyr Zelenskyy.",
+    "These new sanctions are being imposed to ratchet up pressure on Mr Putin after Russia fired 273 drones at Ukrainian cities on Saturday, the biggest drone attack since it invaded Ukraine in February 2022.",
+    "Foreign Secretary David Lammy said: \"Putin's latest strikes once again show his true colours as a warmonger.",
+    "\"We urge him to agree a full, unconditional ceasefire right away so there can be talks on a just and lasting peace.",
+    "\"We have been clear that delaying peace efforts will only redouble our resolve to help Ukraine to defend itself and use our sanctions to restrict Putin's war machine.\"",
+    "Be the first to get Breaking News Install the Sky News app for free Following Donald Trump's two-hour call with Mr Putin on Monday, the US president said Russia and Ukraine will immediately start negotiations for a ceasefire; however, the Kremlin gave no timeline despite Mr Zelenskyy agreeing to one months ago.",
+    "The call prompted the UK and EU's new sanctions.",
+    "Read more: Is Trump walking away from peace in Ukraine?",
+    "Russia bans Amnesty International as an 'undesirable organistion' New British sanctions have also been placed on 14 more members of the Social Design Agency (SDA), which carries out Kremlin-funded information operations to undermine sovereignty, democracy and the rule of law in Ukraine and across the world.",
+    "The UK had previously sanctioned the SDA and several of its leaders last year, but all levels of the organisation are now being targeted.",
+    "Another 46 financial institutions that help Russia evade sanctions have also been targeted.",
+    "Sanctions have also been placed on a further 18 ships, following 110 earlier this month, in Russia's \"shadow fleet\", which carry Russian oil under different flags (often Liberian) to continue shipping oil around the world despite sanctions that have placed a price cap on Russian oil.",
+    "👉 Follow Trump100 on your podcast app 👈 John Ormerod, a British national who procured ships for Russia's shadow fleet has been sanctioned, and two Russian captains of shadow fleet tankers.",
+    "The UK and Western allies are looking to lower the price cap of Russian crude oil from $60 a barrel to prevent profits from being used to fund the war.",
+    "The Foreign Office said UK and other Western sanctions have severely hit Russia's economy, with its GDP shrinking in the first quarter of the year and the non-defence economy in recession for some time.",
+    "It said security and defence spending now accounts for more than 40% of Russia's federal budget, with Mr Putin raising taxes and cutting social spending to continue the war."
+  ],
+  "topics": {
+    "Economy": 0.8034272193908691,
+    "Conflict": 0.8016332983970642,
+    "Politics": 0.7294782400131226,
+    "Energy": 0.6441081762313843,
+    "Diplomacy": 0.6181619763374329,
+    "Culture": 0.6048953533172607,
+    "Military": 0.5894722938537598,
+    "Technology": 0.5802123546600342,
+    "Transport": 0.5500783920288086,
+    "Health": 0.3911377787590027,
+    "Environment": 0.3165384531021118,
+    "Crime": 0.3128637671470642,
+    "Elections": 0.278421550989151,
+    "Education": 0.1846679151058197
+  },
+  "sentiment": {
+    "positive": 0.136,
+    "negative": 0.864,
+    "neutral": 0.0
+  }
+}

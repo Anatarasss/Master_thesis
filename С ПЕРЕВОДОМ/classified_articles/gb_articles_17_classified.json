@@ -1,0 +1,46 @@
+{
+  "title": "Finland expects Russia to build up troops at border after Ukraine war ends",
+  "published_date": null,
+  "url": "https://www.theguardian.com/world/2025/may/21/finland-expects-russia-to-build-up-troops-at-border-after-ukraine-war-ends",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Finland has said it expects Russia to further build up troops along their shared border when the war in Ukraine ends, after reports that Moscow had strengthened its military bases near the Nato frontier.",
+    "Maj Gen Sami Nurmi, the head of strategy of the Finnish defence forces, said the military is following Moscow’s manoeuvring “very closely” and that it was their job, as part of the Nato alliance, to “prepare for the worst”.",
+    "The Finnish border guard announced on Wednesday it had completed the first 35km (22 miles) of a planned 200km fence on its eastern border with Russia, which has been closed for more than a year after Helsinki accused Moscow of directing asylum seekers to Finland in a “hybrid operation”.",
+    "The fence also uses cameras and sensors to distinguish between people and animals crossing.",
+    "Satellite images, published in the New York Times, appear to show an expansion of military infrastructure near the Finnish border, including rows of tents, military vehicles, renovations to fighter jet shelters and construction on a previously unused helicopter base.",
+    "Nurmi said: “They are changing structures and we are seeing moderate preparations when it comes to building infrastructure close to our borders, meaning that they will, once the war in Ukraine hopefully ends, start to bring back the forces that have been fighting in Ukraine, especially land forces.” While this was not unexpected since Finland joined Nato at record speed in 2023 after Russia’s full-scale invasion of Ukraine, Nurmi said they were following the preparations “very closely”.",
+    "“They are doing it in phases.",
+    "I would say it is still moderate numbers.",
+    "It’s not big construction, but in certain places building new infrastructure and preparing, bringing new equipment in,” he said.",
+    "“You also have to evaluate whether they are preparing to send more troops to Ukraine or preparing to build up their forces close to our border.",
+    "But I guess they are doing both.” Responding to Russia’s changing activities, Donald Trump told reporters on Tuesday he was “not worried about it at all”, adding that Finland and Norway were “going to be very safe”.",
+    "Echoing the president’s sentiment, Nurmi said there was “no immediate military threat towards Finland or Nato from this direction”.",
+    "He added: “What happened right after the Ukrainian attack was we applied for Nato membership and then when we were accepted Russia announced they would start to change their military posture across the border.” Finnish citizens have become accustomed to the looming threat from its eastern neighbour but hundreds are still signing up for training courses to prepare for emergency situations.",
+    "The Finnish Women’s National Emergency Preparedness Association (known as Nasta) said interest in its training courses was still high since it first soared in 2022, with more than 800 women applying for its spring course and most courses filling up in three to four minutes.",
+    "But Suvi Aksela, Nasta’s communications and organisation manager, said the border buildup was not a big talking point in Helsinki.",
+    "“It is not very alarming for us,” she said.",
+    "“We are used to hearing stuff from Russia, like all these threats, and we knew once we joined Nato they said they were going to build up presence on the border, and they probably will, just because it’s Russia.”"
+  ],
+  "topics": {
+    "Politics": 0.9627571702003479,
+    "Culture": 0.9596642255783081,
+    "Conflict": 0.9547707438468933,
+    "Economy": 0.9348496794700623,
+    "Technology": 0.9346620440483093,
+    "Military": 0.9118393063545227,
+    "Environment": 0.8948887586593628,
+    "Elections": 0.8863999247550964,
+    "Energy": 0.8810654878616333,
+    "Health": 0.8732287883758545,
+    "Crime": 0.8456543684005737,
+    "Diplomacy": 0.8357784748077393,
+    "Education": 0.7960404753684998,
+    "Transport": 0.7633885145187378
+  },
+  "sentiment": {
+    "positive": 0.529,
+    "negative": 0.471,
+    "neutral": 0.0
+  }
+}

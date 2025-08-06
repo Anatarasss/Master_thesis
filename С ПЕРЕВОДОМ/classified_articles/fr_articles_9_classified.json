@@ -1,0 +1,35 @@
+{
+  "title": "Valartis détient la quasi-majorité d'ENR Russia",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/action/VALARTIS-GROUP-AG-34973405/actualite/Valartis-detient-la-quasi-majorite-d-ENR-Russia-47705689/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Zurich (AWP) - The Valartis banking group now holds 97.9% of ENR Russia Invest's actions capital, the two companies announced on Wednesday.",
+    "The Zugois establishment so far held 63.2% of the Geneva participation company.",
+    "This increase in participation is the result of the sale of the shares held by Valartis in Athris Holding to the latter.",
+    "In exchange, Valartis received 892,703 shares ENR Russia Invest, as well as a cash payment.",
+    "Athris Holding, Georg Von Opel participation company listed on the Bern BX Stock Exchange, so far held about a third of ENR Russia Invest.",
+    "The operation must be finalized in the coming days at a price of 5.59 Swiss francs per share ENR and must translate this year by an accounting profit of an amount \"in a million to a figure\"."
+  ],
+  "topics": {
+    "Economy": 0.28990018367767334,
+    "Energy": 0.19087404012680054,
+    "Culture": 0.1096329316496849,
+    "Technology": 0.06882736831903458,
+    "Conflict": 0.05402016267180443,
+    "Politics": 0.04776354134082794,
+    "Environment": 0.04361429437994957,
+    "Diplomacy": 0.03041125275194645,
+    "Transport": 0.021893825381994247,
+    "Health": 0.01768699288368225,
+    "Elections": 0.016435835510492325,
+    "Military": 0.013851035386323929,
+    "Crime": 0.007548854220658541,
+    "Education": 0.004427306819707155
+  },
+  "sentiment": {
+    "positive": 0.667,
+    "negative": 0.333,
+    "neutral": 0.0
+  }
+}

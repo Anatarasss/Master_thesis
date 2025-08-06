@@ -1,0 +1,37 @@
+{
+  "title": "Ukraine-L'armée de l'air dit avoir abattu 13 drones lancés par la Russie",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/actualite-bourse/Ukraine-L-armee-de-l-air-dit-avoir-abattu-13-drones-lances-par-la-Russie-45993519/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "February 21 (Reuters) - Russia launched 19 drones and six missiles against Ukraine overnight Tuesday to Wednesday, said the Ukrainian Air Force, adding that Ukrainian air defense systems had destroyed 13 drones and a missile.",
+    "Some of the drones that have not been destroyed did not reach their target, said the Air Force on Telegram without providing more details.",
+    "Most of the 13 slaughtered drones were above regions close to the front line.",
+    "The Air Force also claimed to have destroyed a KH-59 cruise missile in the Poltava region, in the center of Ukraine.",
+    "The army said that Russia had launched five other missiles, without specifying if the missiles not having been destroyed had reached their target.",
+    "Reuters has not been able to verify this information independently.",
+    "Russia did not immediately comment.",
+    "(Written by Lidia Kelly in Melbourne; French version Camille Raynaud)"
+  ],
+  "topics": {
+    "Conflict": 0.8971448540687561,
+    "Culture": 0.7923504710197449,
+    "Technology": 0.7912179231643677,
+    "Military": 0.7826794385910034,
+    "Politics": 0.6708047389984131,
+    "Environment": 0.5821788311004639,
+    "Health": 0.5629295706748962,
+    "Economy": 0.558927595615387,
+    "Energy": 0.4819343686103821,
+    "Transport": 0.3614988327026367,
+    "Diplomacy": 0.26694542169570923,
+    "Elections": 0.2593728303909302,
+    "Crime": 0.23910614848136902,
+    "Education": 0.2288307547569275
+  },
+  "sentiment": {
+    "positive": 0.125,
+    "negative": 0.875,
+    "neutral": 0.0
+  }
+}

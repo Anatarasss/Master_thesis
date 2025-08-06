@@ -1,0 +1,50 @@
+{
+  "title": "Le correspondant de CNews à Moscou Igor Kurashenko travaille également pour la chaîne RT financée par la Russie",
+  "published_date": null,
+  "url": "https://www.huffingtonpost.fr/medias/article/le-correspondant-de-cnews-a-moscou-igor-kurashenko-travaille-egalement-pour-la-chaine-rt-financee-par-la-russie_231777.html",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Médias - Igor Kurashenko works for CNews, but not only.",
+    "An article from the newspaper Liberation lifts the veil this Tuesday, March 26 on the double cap of the correspondent in Russia of the conservative info chain: he is also a reporter for Russia Today, audiovisual media funded by the Kremlin.",
+    "It was a first duplex on Saturday March 23 at 12:06 p.m., which alerted the daily life.",
+    "We saw Igor Kurashenko answer in duplex to the questions of the journalist of Cnews Thierry Cabannes.",
+    "Behind the ex-Russian student in Limoges' college college, the Russian chain logo, namely the black letters RT on a green background.",
+    "A few hours later, second direct.",
+    "This time, underlines Liberation, the logo has disappeared.",
+    "Igor Kurashenko is in the streets of Moscow.",
+    "Ditto in a third direct, Monday, March 25.",
+    "Did he ask him not to film himself in the enclosures of Russia TODAY?",
+    "CNews and the journalist did not follow up on the requests of the French newspaper.",
+    "His activities for the Russian state media are not a secret for anyone: some of the interviews he carried out at the time of RT in French appear on his LinkedIn profile.",
+    "And even if the signal has been cut since the start of the conflict in Ukraine and its subsidiary in France closed in 2023, Igor Kurashenko continues to work under the title of \"RT reporter in French\", as prefigures his appearances in the chain tiktok videos.",
+    "This Friday, for example, he was reporting in Moscow in front of the Crocus City Hall, where a shooting claimed by the Islamic State left 137 dead.",
+    "Igor Kurashenko, not the first The problem is that at no time CNews mentioned that he was working for RT, where Liberation pinned several remarks made by Igor Kurashenko close to those conveyed by the propaganda of the Kremlin.",
+    "On the antenna of the channel of the Canal+group, he notably assured that the bombing of the day before was not linked to the Islamic State, but to Ukrainians.",
+    "And this, even before Vladimir Putin speaks.",
+    "However, this is not the first RT journalist to collaborate with CNews.",
+    "Employee of the Russian media since 2015, Antoine Cléraux has covered several subjects, including the rebellion of the Wagner group.",
+    "The title of \"RT correspondent in French in Moscow\" was sometimes affixed to his image.",
+    "To see also on the HuffPost:"
+  ],
+  "topics": {
+    "Conflict": 0.9145990610122681,
+    "Politics": 0.800421953201294,
+    "Culture": 0.7296726703643799,
+    "Diplomacy": 0.6353846192359924,
+    "Economy": 0.600229024887085,
+    "Elections": 0.5764225125312805,
+    "Military": 0.5403277277946472,
+    "Transport": 0.5189135670661926,
+    "Technology": 0.5162898898124695,
+    "Crime": 0.513199508190155,
+    "Energy": 0.4688469469547272,
+    "Education": 0.371025949716568,
+    "Environment": 0.3660615384578705,
+    "Health": 0.3548853397369385
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

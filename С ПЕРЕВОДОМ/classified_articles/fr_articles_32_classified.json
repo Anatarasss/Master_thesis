@@ -1,0 +1,42 @@
+{
+  "title": "Russia's Magnit launches extra buyback offer after strong foreign demand -Le 10 octobre 2023 à 17:49",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/devise/US-DOLLAR-RUSSIAN-ROUBLE--2370597/actualite/Le-detaillant-russe-Magnit-lance-une-offre-de-rachat-supplementaire-apres-une-forte-demande-etra-45031098/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "The Russian retailer Magnit announced on Tuesday an additional offer of repurchase of blocked shares, thus giving more Western investors the possibility of withdrawing funds from Russia after having aroused significant interest during a previous call for tenders.",
+    "Magnit finished last month a acquisition of 48.5 billion rubles ($ 490.8 million) of approximately 21.5 % of all the actions issued and in circulation, the first operation of this type since the invasion of Ukraine by Russia in February 2022.",
+    "It is the first time that non-resident shareholders of a Russian public company have been able to sell their actions with a settlement in different currencies since the imposition of radical Western sanctions following the invasion of Ukraine by Moscow, which were followed by countermeasures on the part of Russia.",
+    "Magnit had more than doubled its initial offer and referred to this \"substantial interest on the part of non-resident shareholders\" when the new offer was announced.",
+    "\"The public purchase offer is intended to provide liquidity to shareholders who would like to monetize their participations in Magnit, but which, due to various circumstances, could not participate in the public offer of previous purchasing,\" Magnit said in a press release.",
+    "Magnit indicated that it offered 8,023,740 shares, which represents a participation of around 7.9 %.",
+    "\"The buyer stresses that the size of the public purchase offer will not be increased, even in the event of an excess request from shareholders,\" said Magnit.",
+    "The shareholders have until November 8 to participate in the offer, the results to be announced on November 15 and the operation to be closed around November 29.",
+    "The operation will be carried out again through its subsidiary 100 % Magnit Alyans, said Magnit.",
+    "The purchase price would remain set at 2,215 rubles per share, and shareholders could be paid in dollars, euros, yuan or rubles, on accounts in Russia or abroad.",
+    "The transaction has been approved by the Russian government, which requires a 50 % discount on asset sales involving foreigners.",
+    "The actions of Magnit listed in Moscow were exchanged at around 5,600 rubles per unit on Tuesday.",
+    "(1 $ = 98,8250 rubles) (report by Alexander Marrow; editorial staff of Mark Trevelyan)"
+  ],
+  "topics": {
+    "Economy": 0.6093883514404297,
+    "Politics": 0.5148652791976929,
+    "Culture": 0.34402015805244446,
+    "Conflict": 0.338931143283844,
+    "Technology": 0.31194302439689636,
+    "Diplomacy": 0.28133624792099,
+    "Health": 0.23460568487644196,
+    "Energy": 0.15729661285877228,
+    "Transport": 0.13428516685962677,
+    "Crime": 0.12020161747932434,
+    "Military": 0.11428683996200562,
+    "Elections": 0.10861671715974808,
+    "Education": 0.10111867636442184,
+    "Environment": 0.09457234293222427
+  },
+  "sentiment": {
+    "positive": 0.231,
+    "negative": 0.769,
+    "neutral": 0.0
+  }
+}

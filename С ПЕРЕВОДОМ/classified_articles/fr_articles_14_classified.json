@@ -1,0 +1,37 @@
+{
+  "title": "ENR Russia Invest essuie une perte en raison de la chute du rouble",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/devise/US-DOLLAR-RUSSIAN-ROUBLE--2370597/actualite/ENR-Russia-Invest-essuie-une-perte-en-raison-de-la-chute-du-rouble-46335236/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "ZURICH (AWP) - The participation company ENR Russia Invest wiped a net loss of 7.95 million Swiss francs last year, which it explains with the tumble of the ruble.",
+    "The Russian currency has indeed depreciated 35% compared to the franc in 2023, the company located in Geneva on Tuesday.",
+    "In 2022, the company had managed to finish the exercise at balance, with a gain of 0.18 million.",
+    "The sanctions against Russia weigh, even if Enr Russia ensures that operational activities, focused on the Russian internal market, continue to be well.",
+    "However, fund transfers are difficult due to regulatory constraints within banks and the trading in stocks and bonds remains blocked.",
+    "No dividend will be paid under the year 2023, as in 2022.",
+    "The company claims to keep the eye on the evolution of the geopolitical situation to make the necessary decisions.",
+    "ENR Russia is mainly held by Valartis with a share of 63%."
+  ],
+  "topics": {
+    "Conflict": 0.817227303981781,
+    "Environment": 0.7979905009269714,
+    "Politics": 0.7903750538825989,
+    "Economy": 0.77883380651474,
+    "Energy": 0.608034074306488,
+    "Culture": 0.45991140604019165,
+    "Technology": 0.30257120728492737,
+    "Diplomacy": 0.26537540555000305,
+    "Crime": 0.26155734062194824,
+    "Transport": 0.14482629299163818,
+    "Military": 0.13934899866580963,
+    "Elections": 0.13537049293518066,
+    "Health": 0.08409297466278076,
+    "Education": 0.04454521834850311
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

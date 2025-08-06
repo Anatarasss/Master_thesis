@@ -1,0 +1,36 @@
+{
+  "title": "L'Ukraine dit avoir abattu 11 drones russes",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/actualite-bourse/L-Ukraine-dit-avoir-abattu-11-drones-russes-45807798/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Kyiv, January 25 (Reuters) - Russia launched 14 drones and five missiles on Ukraine on the night of Wednesday to Thursday, said the Ukrainian air force on Thursday, specifying the air defense systems that destroyed 11 drones.",
+    "The Air Force said on Telegram that Russia had mainly targeted the south of Ukraine.",
+    "Two people were injured in an attack having Visé Odessa, said Oleh Kiper, the governor of the region, On Telegram.",
+    "\"Despite the effective and fruitful work of defense aerial to repel enemy attacks, an installation industrial was unfortunately affected in Odessa, and civil infrastructure and residential buildings have been damaged, \"he said.",
+    "Reuters could not verify this information in a independent.",
+    "Russia did not comment in The immediate.",
+    "(Written by Pavel Polityuk; French version Camille Raynaud)"
+  ],
+  "topics": {
+    "Conflict": 0.9228827357292175,
+    "Military": 0.7633970975875854,
+    "Technology": 0.6878441572189331,
+    "Culture": 0.6728777289390564,
+    "Politics": 0.6584053039550781,
+    "Energy": 0.44793984293937683,
+    "Environment": 0.44405800104141235,
+    "Economy": 0.4126264154911041,
+    "Health": 0.3615478277206421,
+    "Transport": 0.30817940831184387,
+    "Crime": 0.2287137657403946,
+    "Diplomacy": 0.2179071009159088,
+    "Education": 0.08591384440660477,
+    "Elections": 0.046391721814870834
+  },
+  "sentiment": {
+    "positive": 0.143,
+    "negative": 0.857,
+    "neutral": 0.0
+  }
+}

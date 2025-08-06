@@ -1,0 +1,48 @@
+{
+  "title": "Michael Clarke Ukraine war Q&A: 'Golden Domes', life after Putin and could oil price thwart Russia?",
+  "published_date": null,
+  "url": "https://news.sky.com/story/michael-clarke-ukraine-war-qanda-golden-domes-life-after-putin-and-could-oil-price-thwart-russia-13371991",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Trump's 'Golden Dome' technically and economically impossible Sky News' security and defence analyst Professor Michael Clarke says this is the fourth time he has heard the idea pitched.",
+    "Its failure in the 1960s was behind the anti-ballistic missile treaty because they knew a dome didn't work.",
+    "The idea was then resurrected under Reagan and Bush in the 1980s and 2000s without success, he adds.",
+    "\"Donald Trump is talking about the Golden Dome as if it's a version of Israel's Iron Dome.",
+    "\"Israel's land area is 22,000 square kilometres.",
+    "Britain's land area is something like 240,000 - so it's ten times bigger - and America's land area is almost 10 million.",
+    "\"America is 400 times bigger than Israel, and the Israeli Iron Dome system is the best in the world, and it is not 100% [effective].",
+    "\"The requirement is absolutely huge,\" he says, adding it would cost at least a trillion dollars.",
+    "A huge number of land-based interceptors are needed, and they have to be fired at missiles when they are launched, because otherwise the projectiles become too fast.",
+    "\"The thing that might make it different... is supposing you could have the defences in space,\" says Clarke.",
+    "\"That's heroic engineering.",
+    "Can you take what you know exists on Earth and scale it up tenfold, put it in space, maintain it, put the whole system together, and know that the first time you use that system in anger, the first time you've ever been able to test the whole thing together, it will work to 98% effectiveness?",
+    "Could it work in US or UK?",
+    "Clarke says it is \"much, much cheaper\" to put things in space than it was when this idea was previously pitched, but \"the idea of defending a big country is still economically impossible\".",
+    "\"You've still got the basic problems.",
+    "It will still be cheaper to overwhelm the system than to actually keep the system up.\"",
+    "Missile defences are best at defending small areas - a \"special dome\" is \"not technically feasible\".",
+    "The UK could do with more missile defences for its ports and major systems, but just as an element of a deterrent, says Clarke.",
+    "\"We don't have any real reliable defence at all against incoming missiles, apart from what the Navy has got in the Sea Viper system.\""
+  ],
+  "topics": {
+    "Economy": 0.9595386385917664,
+    "Technology": 0.9029717445373535,
+    "Conflict": 0.8489540219306946,
+    "Military": 0.8477455377578735,
+    "Culture": 0.6769344806671143,
+    "Politics": 0.5094806551933289,
+    "Transport": 0.46834051609039307,
+    "Environment": 0.4152545928955078,
+    "Energy": 0.3824859857559204,
+    "Diplomacy": 0.36104339361190796,
+    "Health": 0.3173707127571106,
+    "Crime": 0.27380886673927307,
+    "Elections": 0.2592850625514984,
+    "Education": 0.18037240207195282
+  },
+  "sentiment": {
+    "positive": 0.263,
+    "negative": 0.737,
+    "neutral": 0.0
+  }
+}

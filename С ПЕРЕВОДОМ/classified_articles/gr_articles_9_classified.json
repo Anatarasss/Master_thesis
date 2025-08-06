@@ -1,0 +1,35 @@
+{
+  "title": "Eurovision 2024 -Αποκάλυψη από το παρελθόν: Τι σχέση έχει η Ισραηλινή τραγουδίστρια με τη Ρωσία",
+  "published_date": null,
+  "url": "https://www.newsbomb.gr/kosmos/story/1547957/eurovision-2024-apokalypsi-apo-to-parelthon-ti-sxesi-exei-i-israilini-tragoudistria-me-ti-rosia",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "Eurovision 2024 -Revelation from the past: What does Israeli singer have to do with Russia Israeli spokesman at Eurovision 2024 had competed in the TV show \"Voice of Russia\" A largely unknown story from the recent past has come to light about Israel's finalist in Eurovision, Eden Golan.",
+    "According to a video widely released on social media, the Israeli singer had attempted to 'conquer' the Russian audience six years ago.",
+    "A video of her performance on the \"Voice of Russia\" television show appeared on the internet.",
+    "Golan has Ukrainian roots on her mother's side, but she lived almost her entire life in Moscow.",
+    "In 2016, Golan appeared at the New Wave competition in Crimea as a duet with Russian singer Nyusha.",
+    "In 2022, after the start of the war in Ukraine, Golan and her family moved to Israel."
+  ],
+  "topics": {
+    "Conflict": 0.7928465604782104,
+    "Culture": 0.7866762280464172,
+    "Politics": 0.5361340641975403,
+    "Economy": 0.5150644779205322,
+    "Technology": 0.4932766258716583,
+    "Health": 0.4069247841835022,
+    "Diplomacy": 0.3324916362762451,
+    "Energy": 0.2914927899837494,
+    "Crime": 0.2898201644420624,
+    "Environment": 0.28901904821395874,
+    "Military": 0.27178069949150085,
+    "Education": 0.25766614079475403,
+    "Transport": 0.23396901786327362,
+    "Elections": 0.21808604896068573
+  },
+  "sentiment": {
+    "positive": 0.667,
+    "negative": 0.333,
+    "neutral": 0.0
+  }
+}

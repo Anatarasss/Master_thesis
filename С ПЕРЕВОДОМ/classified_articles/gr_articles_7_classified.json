@@ -1,0 +1,42 @@
+{
+  "title": "Πόλεμος στην Ουκρανία: Η Ρωσία κατέστρεψε 210.000 σπίτια στην Ουκρανία",
+  "published_date": null,
+  "url": "https://www.iefimerida.gr/kosmos/polemos-stin-oykrania-i-rosia-katestrepse-210000-spitia",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "The New York Times has published a great study that evaluates the magnitude of the disaster in Ukraine since the beginning of the Russian invasion (What Ukraine Has Lost During Russia's Invasion).",
+    "Together with scientists, journalists have analyzed satellite images from each building in the country that has been damaged or damaged in the last two years.",
+    "\"This is the first complete picture of where the war in Ukraine and the whole disaster took place,\" the newspaper writes.",
+    "In the period between February 2022 and December 2023, about 210,000 buildings were destroyed in Ukraine, which are mainly along a line of nearly 1,300 kilometers.",
+    "This is more than if the whole Manhattan disappeared four times, the newspaper writes, noting that \"in local, Ukraine looks like Dresden or London after World War II or the Gaza Strip after six months of bombing\".",
+    "Ukraine: Mariupol and Kharkov the greatest damage Mariupol, the New York Times writes, is a city that was almost completely destroyed, suffered the greatest damage, and is rushed to hide the traces of war crimes.",
+    "Kharkov, Ukraine's second largest city, is also largely damaged - it still receives daily rockets and artillery fire from the Russian Federation.",
+    "Other cities that were completely or largely destroyed by the Russian forces are the cities of Marink, Rubisne, Bachmut, Irpin, Zaporizia, Orahov, Hersona, Novaya Kachofka, Alioski and the ports of Reni and Ista.",
+    "Ukraine's largest cities, Kiev, Dnipro, Odessa and Chernihov - have suffered significant damage to missile bumps.",
+    "More than 900 schools, hospitals and churches have been destroyed.",
+    "Are protected by Geneva conventions.",
+    "NYT estimates that at least 106 hospitals and clinics (including 18 in Mariupol), 109 religious sites (churches, temples, mosques, monasteries) and 708 educational institutions (schools, colleges and universities) have been destroyed in Ukraine.",
+    "These estimates, the newspaper points out, are deliberately conservative, adding that the actual scale of disaster is probably even greater and is still increasing."
+  ],
+  "topics": {
+    "Conflict": 0.8008413910865784,
+    "Education": 0.7438147068023682,
+    "Culture": 0.6223183870315552,
+    "Health": 0.5759001970291138,
+    "Military": 0.4827635586261749,
+    "Technology": 0.34290358424186707,
+    "Economy": 0.2828635275363922,
+    "Politics": 0.25701090693473816,
+    "Crime": 0.2035754770040512,
+    "Transport": 0.15655295550823212,
+    "Environment": 0.11316493153572083,
+    "Energy": 0.09850355237722397,
+    "Diplomacy": 0.07691212743520737,
+    "Elections": 0.019484780728816986
+  },
+  "sentiment": {
+    "positive": 0.308,
+    "negative": 0.692,
+    "neutral": 0.0
+  }
+}

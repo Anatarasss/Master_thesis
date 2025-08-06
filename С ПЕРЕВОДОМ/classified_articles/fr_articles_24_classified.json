@@ -1,0 +1,37 @@
+{
+  "title": "Russie-Des paramilitaires opposés à Poutine revendiquent une attaque",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/actualite-bourse/Russie-Des-paramilitaires-opposes-a-Poutine-revendiquent-une-attaque-45585895/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Kyiv, December 17 (Reuters) - The Legion of Russia Liberty, a paramilitary group based in Ukraine and composed of Russians opposed to President Vladimir Putin, claimed a cross -border attack on Sunday a few kilometers from the Russian region of Belgorod.",
+    "The group, appointed as a terrorist in Russia, said that he had destroyed a bastion of the Russian troops near the village of Trebreno, without specifying if he had destroyed infrastructure or killed soldiers, and said he left mines behind him.",
+    "Reuters could not verify the group's claims.",
+    "He said he was trained in the spring of 2022 to fight the forces of Putin from the ranks of the Ukrainian armed forces, which have denied in the past any involvement in attacks carried out in Belgorod by the Legion of Liberty of Russia and another Russian anti-Putin group.",
+    "Earlier on Sunday, Vyacheslav Gladkov, the governor of the Belgorod region, who is in frequent attacks by the Ukrainian forces, said Trebreno was under fire and that a \"shooting\" was underway on the outskirts of the village.",
+    "He clarified that no civilian had been injured, but that three houses and electric lines had been damaged.",
+    "On Saturday, he indicated on the Telegram messaging application that 19 villages or firm had been attacked by Ukrainian shells or explosive devices dropped by drones.",
+    "(Report Oleksandr Kozhukhar in Kyiv and Elaine Monaghan in Washington; written by Elaine Monaghan, French version Benjamin Mallet)"
+  ],
+  "topics": {
+    "Conflict": 0.9018107652664185,
+    "Military": 0.4804975688457489,
+    "Politics": 0.4672922194004059,
+    "Technology": 0.44164130091667175,
+    "Culture": 0.3948723375797272,
+    "Economy": 0.3069153428077698,
+    "Health": 0.24563762545585632,
+    "Crime": 0.23140603303909302,
+    "Energy": 0.22500979900360107,
+    "Environment": 0.21701328456401825,
+    "Transport": 0.15357942879199982,
+    "Education": 0.09099564701318741,
+    "Elections": 0.08662506937980652,
+    "Diplomacy": 0.08246761560440063
+  },
+  "sentiment": {
+    "positive": 0.125,
+    "negative": 0.875,
+    "neutral": 0.0
+  }
+}

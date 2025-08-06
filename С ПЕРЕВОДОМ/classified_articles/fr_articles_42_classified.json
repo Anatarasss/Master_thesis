@@ -1,0 +1,42 @@
+{
+  "title": "RT France perd un recours contre l'UE, Moscou met en garde contre des représailles",
+  "published_date": null,
+  "url": "https://www.boursorama.com/actualite-economique/actualites/rt-france-perd-un-recours-contre-l-ue-moscou-met-en-garde-contre-des-represailles-d34f6a73d754dcc2f9a7744503950cc3",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "RT France loses an appeal against the EU, Moscow warns against reprisals By Foo Yun Chee Brussels (Reuters) - The European Union court rejected on Wednesday rejected an appeal filed by the media Russia France France (RT France), controlled by the Russian State, against the ban on the dissemination of its content following the triggering of the war in Ukraine.",
+    "The Kremlin denounced an \"extremely negative\" decision and threatened to take similar retaliatory measures against Western media.",
+    "The European Union imposed this ban in early March, a week after the Russian invasion of Ukraine, by invoking the systematic dissemination of false information on the operation.",
+    "\"The Grande Chamber of the Tribunal rejects RT France's request to cancel the acts of the Council, adopted following the outbreak of the war in Ukraine, temporarily prohibiting it from disseminating content,\" said the Luxembourg court.",
+    "The judges recognized the latitude of the EU heads of government to take restrictive measures in this area.",
+    "They rejected the arguments of Russia Today according to which the prohibition restricted its freedom of expression.",
+    "\"The limitations to RT France's freedom of expression that the restrictive measures in question are likely to include are proportionate, in that they are appropriate and necessary, the desired goals,\" the judges said in their judges.",
+    "\"The court also concludes that the said measures, from the time of temporary and reversible, do not bring disproportionate attack to the essential content of RT France's freedom of business,\" they added.",
+    "EU sanctions apply to the English unit of RT and its activities in Great Britain, Germany, France and Spain, imply that RT content cannot be disseminated by EU operators.",
+    "The prohibition includes the suspension of RT dissemination licenses and authorization, transmission and distribution agreements with its European counterparts.",
+    "Russia Today can call on law issues to the European Union court of justice, the highest body in the EU.",
+    "This is the T-125/22 affair.",
+    "(FOO Yun Chee report; French version Charlotte Lavin, edited by Jean-Stéphane Brosse)"
+  ],
+  "topics": {
+    "Politics": 0.8425101041793823,
+    "Conflict": 0.8166642785072327,
+    "Culture": 0.7626170516014099,
+    "Economy": 0.7310926914215088,
+    "Technology": 0.5535671710968018,
+    "Transport": 0.5486213564872742,
+    "Crime": 0.5437284708023071,
+    "Military": 0.5093222856521606,
+    "Health": 0.4953288435935974,
+    "Energy": 0.4736621081829071,
+    "Diplomacy": 0.43150657415390015,
+    "Environment": 0.32954272627830505,
+    "Elections": 0.3030475080013275,
+    "Education": 0.22957868874073029
+  },
+  "sentiment": {
+    "positive": 0.154,
+    "negative": 0.846,
+    "neutral": 0.0
+  }
+}

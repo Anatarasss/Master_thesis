@@ -1,0 +1,43 @@
+{
+  "title": "Le chef de la banque centrale autrichienne voit un \"risque de queue\" dans l'opération de Raiffeisen avec Strabag",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/action/RAIFFEISEN-BANK-INTERNATI-6497717/actualite/Le-chef-de-la-banque-centrale-autrichienne-voit-un-risque-de-queue-dans-l-operation-de-Raiffeisen-46344147/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "The director of the Austrian Central Bank said that the Raiffeisen Bank International project to acquire participation in the Austrian construction company Strabag with funds currently blocked in Russia included a \"tail risk\" and that only Raiffeisen could judge whether such a risk was worth it.",
+    "Governor Robert Holzmann of the Austrian National Bank (ONB), which ensures compliance with financial sanctions, said in an interview with Reuters that the ONB estimated that the planned operation involving the largest Western bank in Russia was in accordance with the sanctions.",
+    "However, he added: \"The United States and Europe, or Austria, the Austrian National Bank, cannot give a white check.",
+    "We cannot say\" go ahead, you have the green light \".",
+    "There is a risk that remains\".",
+    "He did not want to specify what he heard by \"risk of tail\".",
+    "RBI has long been planning to sell or separate from its activities in Russia following the invasion of Ukraine.",
+    "She announced in December that she planned to buy a participation in Strabag in Rasperia, a company controlled at the time by the Russian magnate Oleg Deripaska, which is the subject of sanctions on the part of the United States and the European Union.",
+    "The RBI claims that the agreement is in accordance with all sanctions.",
+    "Rasperia and this participation, which today represents around 24 % of Strabag, have since been sold to another company, Iliadis JSC, which, according to RBI, is \"an undeniable investor\".",
+    "Reuters reported in March that Washington was pressuring RBI to give up the planned transaction of 1.1 billion euros ($ 1.2 billion).",
+    "\"As the risk exists, it is a decision for Raiffeisen to say, since there is a risk of tail, is it worth it for us to do it or not?\"",
+    "In a statement published on Tuesday, the RBI repeated that the planned operation complies with all sanctions requirements.",
+    "\"The new property structure of Rasperia should reassure RBI on the fact that no person or sanctioned entity will directly or indirectly benefit from the acquisition announced by RBI of Strabag SE shares, nor any payment linked to these actions (1 dollar = 0.9291 Euro) (Drafting: François Murphy; Complement of information: Alexandra Schwarz-Goerl;"
+  ],
+  "topics": {
+    "Conflict": 0.7186949253082275,
+    "Economy": 0.5486446619033813,
+    "Culture": 0.3821137845516205,
+    "Politics": 0.3764030933380127,
+    "Diplomacy": 0.3469019830226898,
+    "Technology": 0.33135342597961426,
+    "Transport": 0.266771525144577,
+    "Health": 0.2526804208755493,
+    "Energy": 0.23293499648571014,
+    "Military": 0.20445775985717773,
+    "Environment": 0.20402856171131134,
+    "Education": 0.1701330989599228,
+    "Elections": 0.13677337765693665,
+    "Crime": 0.12142827361822128
+  },
+  "sentiment": {
+    "positive": 0.071,
+    "negative": 0.929,
+    "neutral": 0.0
+  }
+}

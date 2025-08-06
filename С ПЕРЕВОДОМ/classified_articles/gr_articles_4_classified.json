@@ -1,0 +1,38 @@
+{
+  "title": "Meta: Απέκλεισε τα κρατικά ρωσικά ΜΜΕ από τις πλατφόρμες της",
+  "published_date": null,
+  "url": "https://www.kathimerini.gr/world/563224126/meta-apekleise-ta-kratika-rosika-mme-apo-tis-platformes-tis/",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "The US company Meta - on Facebook, Instagram and WhatsApp - announced yesterday, Monday, that it forbids Russian state media from accessing its platforms around the world in order to avoid any \"foreign intervention\" action.",
+    "The ban was announced a few days after US Secretary of State Anthony Blinken had denounced the destabilizing activities of the Russian media today (RT), which, as he had typically said, has turned into a \"offshoot\" of Russian information services.",
+    "\"After careful thought we expanded our actions to the detriment of Russian state media.",
+    "Rossiya Segodnya, RT and other entities are now excluded from our platforms worldwide because of foreign intervention actions, \"Meta said in a statement.",
+    "About 15 days ago, the US authorities presented a series of measures aimed primarily at Russian media, including criminal prosecutions and sanctions, in order to address attempts to intervene in the US elections for which they accuse Russia.",
+    "The RT, which began operating in 2005, is considered by the Western Kremlin propaganda instrument.",
+    "For its part, the network has ironically commented on US actions and has accused the US of preventing it from acting as a journalistic organization.",
+    "In a post on Telegram on Friday, Russian Foreign Ministry spokesman Maria Zaharova commented: \"I believe that a new profession in the US should be created: a sanctions specialist against Russia.\"",
+    "With information from RES-EIA, AFP and Reuters"
+  ],
+  "topics": {
+    "Conflict": 0.85158371925354,
+    "Elections": 0.7733744978904724,
+    "Politics": 0.6708971261978149,
+    "Technology": 0.6073319911956787,
+    "Economy": 0.5937014818191528,
+    "Energy": 0.5847125053405762,
+    "Diplomacy": 0.519218921661377,
+    "Culture": 0.4979141056537628,
+    "Military": 0.38651588559150696,
+    "Environment": 0.34543970227241516,
+    "Crime": 0.25321707129478455,
+    "Health": 0.23299899697303772,
+    "Transport": 0.18112413585186005,
+    "Education": 0.17757560312747955
+  },
+  "sentiment": {
+    "positive": 0.111,
+    "negative": 0.889,
+    "neutral": 0.0
+  }
+}

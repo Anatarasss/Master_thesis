@@ -1,0 +1,37 @@
+{
+  "title": "L'Ukraine abat 16 drones et un missile lors des dernières attaques russes-armée",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/actualite-bourse/L-Ukraine-abat-16-drones-et-un-missile-lors-des-dernieres-attaques-russes-armee-45371492/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Kyiv, November 16 (Reuters) - The Ukrainian army has shot down 16 of the 18 attack drones launched by Russia during from the night from Wednesday to Thursday, as well as a missile, said the air force.",
+    "Ukrainian air defenses have been activated in the Western region of Khmelnitski, said the governor assistant.",
+    "Residents were invited to take shelter as well as in the city of Starokostiiantyniv, where a Airwater base on several occasions by strikes Russian air.",
+    "The authorities did not specify where the two fell drones that have escaped their defense system.",
+    "According to Ukrainian authorities, S-300 missiles have damaged by civil infrastructure not specified in the Western region of Kharkiv, on the border with Russia, without however reporting victims or injured.",
+    "In another declaration, the Ukrainian ministry of energy said Russian shots had targeted power plant in the Donetsk region, in the east of the country, and damaged equipment.",
+    "Ukrainians fear new air strikes this winter against their electrical and energy networks, which would cause disturbances and general breakdowns.",
+    "(Dan Peleschuk report; French version Dagmarah Mackos, edited by Kate Entringer)"
+  ],
+  "topics": {
+    "Conflict": 0.9343407154083252,
+    "Energy": 0.8403481245040894,
+    "Military": 0.7030975222587585,
+    "Technology": 0.6465662121772766,
+    "Politics": 0.549074113368988,
+    "Culture": 0.5371541380882263,
+    "Economy": 0.3935909569263458,
+    "Environment": 0.365548312664032,
+    "Health": 0.20886242389678955,
+    "Crime": 0.17263132333755493,
+    "Transport": 0.1695549488067627,
+    "Diplomacy": 0.08140309154987335,
+    "Education": 0.07728710025548935,
+    "Elections": 0.0749148353934288
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Financial Times: Η συμφωνία της Ρωσίας με την Κίνα για τον αγωγό \"Δύναμη της Σιβηρίας-2\" κατέληξε σε αδιέξοδο",
+  "published_date": null,
+  "url": "https://www.iefimerida.gr/kosmos/ft-symfonia-rosia-kina-agogo-dynami-sibirias-2-adiexodo",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "Russia's efforts to conclude with China on the construction of the Siberian Gas Power Power-2 have resulted in a deadlock due to disputes regarding the prices and volumes of supplies, according to sources in the Financial Times (in the article by Russia-China Gas Pipeline Deal \").",
+    "According to sources, China intends to buy the gas that will be supplied through the pipeline at a price that will reach domestic fuel prices in Russia, whose stability is guaranteed by state subsidies.",
+    "Among other things, Beijing wants to buy only a small part of the 50 billion cubic meters of fuel, which is the potential of the pipeline.",
+    "Financial Times: The absence of Gazprom's leader was \"symbolic\" The disagreements on this issue were the reason why Gazprom chief Alexei Miller did not accompany Russian President Vladimir Putin during his visit to May to China.",
+    "Miller's absence in such important talks was \"quite symbolic\", the FT scientific collaborator at the Columbia University Policy Center, Tatrova Mitrova, told the FT. Beijing's hard stance on the gas pipeline, the newspaper points out, shows how Russia's invasion of Ukraine makes Putin grow more and more on China's financial support."
+  ],
+  "topics": {
+    "Conflict": 0.9725035429000854,
+    "Politics": 0.9438741207122803,
+    "Energy": 0.8902255892753601,
+    "Economy": 0.8635919690132141,
+    "Technology": 0.6799970269203186,
+    "Culture": 0.6589241027832031,
+    "Diplomacy": 0.594338595867157,
+    "Military": 0.5867258906364441,
+    "Transport": 0.4897151589393616,
+    "Environment": 0.3678491413593292,
+    "Health": 0.2423577606678009,
+    "Crime": 0.08809415996074677,
+    "Elections": 0.071726493537426,
+    "Education": 0.04475194215774536
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

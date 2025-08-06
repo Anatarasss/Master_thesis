@@ -1,0 +1,48 @@
+{
+  "title": "Russia accused of trying to disrupt aid to Ukraine by hacking border crossings",
+  "published_date": null,
+  "url": "https://www.theguardian.com/world/2025/may/21/russia-accused-trying-disrupt-aid-ukraine-hacking-border-crossings",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russia tried to hack into border security cameras to spy on and disrupt the flow of western aid entering Ukraine, the UK’s intelligence services and its allies have claimed.",
+    "A unit of Russia’s military intelligence services is accused of using a host of methods to target organisations delivering “foreign assistance”, by hacking into cameras at crossings and railway stations and near military installations.",
+    "GRU Unit 26165 is also accused of sending phishing emails containing pornography and fake professional information and obtaining stolen account passwords to get into systems.",
+    "It was claimed the unit – also known as APT 28 and Fancy Bear – has conducted the malicious cyber-campaign against public and private organisations in Nato states since 2022.",
+    "In its advisory note, the UK’s National Cyber Security Centre (NCSC) – part of GCHQ – called on private companies involved in the delivery of aid to “take immediate action to protect themselves”.",
+    "“In addition to targeting logistics entities, unit 26165 actors likely used access to private cameras at key locations, such as near border crossings, military installations, and rail stations, to track the movement of materials into Ukraine,” the advisory says.",
+    "“The actors also used legitimate municipal services, such as traffic cams.” About 10,000 cameras were said to have been accessed near “military installations, and rail stations, to track the movement of materials into Ukraine”, of which 80% were in Ukraine and 10% in Romania.",
+    "It is claimed 4% of the cameras targeted were in Poland, 2.8% in Hungary and 1.7% in Slovakia.",
+    "The locations of the remaining cameras targeted were not provided.",
+    "The hacking would have provided access to a “snapshot” of the cameras’ images, it is said.",
+    "Other attempts were made that were designed to gather sensitive information on shipments, such as train schedules and shipping manifests, it is claimed.",
+    "“In at least one instance, the actors attempted to use voice phishing to gain access to privileged accounts by impersonating IT staff,” says the advisory from 10 countries including the US, France and Germany.",
+    "It adds: “The subjects of spearphishing emails were diverse and ranged from professional topics to adult themes.",
+    "Phishing emails were frequently sent via compromised accounts or free webmail accounts.",
+    "The emails were typically written in the target’s native language and sent to a single targeted recipient.” Paul Chichester, the NCSC’s director of operations, said: “This malicious campaign by Russia’s military intelligence service presents a serious risk to targeted organisations, including those involved in the delivery of assistance to Ukraine.",
+    "“The UK and partners are committed to raising awareness of the tactics being deployed.",
+    "We strongly encourage organisations to familiarise themselves with the threat and mitigation advice included in the advisory to help defend their networks.” Actions suggested include increasing monitoring, using multi-factor authentication with strong factors – such as passkeys – and ensuring security updates are applied promptly to manage vulnerabilities.",
+    "The advisory was drawn up with agencies from the US, Germany, Czech Republic, Poland, Australia, Canada, Denmark, Estonia, France and the Netherlands.",
+    "The Russian unit has previously been accused of leaking World Anti-Doping Agency data, and played a key role in the 2016 cyber-attack on the Democratic National Committee in the US."
+  ],
+  "topics": {
+    "Culture": 0.8973149657249451,
+    "Conflict": 0.8678740859031677,
+    "Military": 0.8136872053146362,
+    "Economy": 0.7596481442451477,
+    "Crime": 0.7511386871337891,
+    "Environment": 0.6590272188186646,
+    "Diplomacy": 0.6433403491973877,
+    "Technology": 0.6379168033599854,
+    "Politics": 0.5311732888221741,
+    "Energy": 0.4744226932525635,
+    "Elections": 0.4211426079273224,
+    "Transport": 0.4059337377548218,
+    "Health": 0.38622161746025085,
+    "Education": 0.2946178615093231
+  },
+  "sentiment": {
+    "positive": 0.211,
+    "negative": 0.789,
+    "neutral": 0.0
+  }
+}

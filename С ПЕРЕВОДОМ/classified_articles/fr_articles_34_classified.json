@@ -1,0 +1,34 @@
+{
+  "title": "ENR Russia glisse dans le rouge, pénalisée par le rouble",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/devise/US-DOLLAR-RUSSIAN-ROUBL-2370597/actualite/ENR-Russia-glisse-dans-le-rouge-penalisee-par-le-rouble-44686887/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Geneva (AWP) - The investment company ENR Russia Invest has scored a heavy loss over the first six months of the year, penalized by a fall of 20% of the ruble compared to the franc.",
+    "The activity remains difficult due to international sanctions decreed against Russia, in response to its invasion of Ukraine a year and a half ago.",
+    "The Geneva company scored a net loss share of the group of 9.4 million Swiss francs, after a profit of 20.9 million a year earlier, detailed Thursday in Russia in its half -yearly report.",
+    "The income was divided by eight to 2.2 million, while the charges were almost multiplied by two to 8.3 million.",
+    "As a prospect, the company said \"continuing to monitor geopolitical development and the economic environment to decide the measures to be taken\", without more detail."
+  ],
+  "topics": {
+    "Conflict": 0.6828601360321045,
+    "Economy": 0.578849196434021,
+    "Environment": 0.34480205178260803,
+    "Politics": 0.3372313678264618,
+    "Culture": 0.2500230371952057,
+    "Crime": 0.17682121694087982,
+    "Diplomacy": 0.10979393869638443,
+    "Military": 0.10394861549139023,
+    "Technology": 0.06049232557415962,
+    "Elections": 0.05065431818366051,
+    "Energy": 0.04578031226992607,
+    "Transport": 0.029470471665263176,
+    "Health": 0.008863183669745922,
+    "Education": 0.004382384940981865
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

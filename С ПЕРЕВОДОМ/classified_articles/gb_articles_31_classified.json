@@ -1,0 +1,50 @@
+{
+  "title": "Ukraine war briefing: Europe proceeds with Russia sanctions after Trump-Putin talk",
+  "published_date": null,
+  "url": "https://www.theguardian.com/world/2025/may/20/ukraine-war-briefing-europe-proceeds-with-russia-sanctions-after-trump-putin-talk",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "- European leaders have agreed to increase pressure on Russia through further sanctions after Donald Trump briefed them on his call with Vladimir Putin, the German chancellor, Friedrich Merz, said late on Monday.",
+    "“Europe will increase the pressure on Moscow through sanctions.",
+    "This is what we agreed upon with [Trump] after his conversation with Putin,” Merz posted on X, saying “Europe and America are very united on this”.",
+    "After speaking with Putin, Trump held calls with the leaders of the European Union, France, Italy, Germany and Finland.",
+    "- Ukraine’s president, Volodymyr Zelenskyy, said Kyiv and its partners were considering arranging a high-level meeting between Ukraine, Russia, the US, EU countries and Britain.",
+    "The Ukrainian leader said he hoped the meeting could happen as soon as possible and that it could be hosted by Turkey, the Vatican or Switzerland.",
+    "- Zelensky said US sanctions on Russia had the power to “determine” Moscow’s ability to continue its invasion.",
+    "“The European package will be there, and it will be strong,” Zelenskyy said.",
+    "“As for the United States package, that is a different story.",
+    "Here, we all need to work hard with the United States of America so that at some point, when they are able to, they will impose appropriate sanctions.” Last week, Merz said new sanctions against Russia would be adopted in Brussels on Tuesday 20 May.",
+    "Trump said on Monday that he would not impose further sanctions on Russia – “I think there’s a chance of getting something done, and if you do that, you could also make it much worse.” - Trump claimed after his Putin call that Russia and Ukraine will immediately start ceasefire negotiations but did not appear to have secured major concessions.",
+    "The Kremlin said Putin and Trump had not discussed a timeline for a ceasefire but that Trump had stressed his interest in reaching agreements quickly.",
+    "- Putin said after the call that Russia was ready to work toward ending the fighting, starting with Ukraine and Russia setting out a “memorandum on a possible future peace accord”.",
+    "The Russian leader said Istanbul talks last week between Moscow and Kyiv put the world on the “right path” towards ending the conflict – which began with Moscow’s full-scale 2022 offensive.",
+    "- European and US leaders welcomed Pope Leo XIV’s readiness to host Russia-Ukraine talks at the Vatican, said the Italian prime minister, Giorgia Meloni.",
+    "“Italy is ready to do its part to facilitate contacts and work for peace,” Meloni added.",
+    "- Zelenskyy ruled out withdrawing troops from land claimed by Russia, rejecting demands put forward by Russia.",
+    "“No one will withdraw our troops from our territories,” Zelenskyy told reporters in Kyiv when asked about Moscow’s demands for Ukraine to fully abandon the Donetsk, Luhansk, Kherson and Zaporizhzhia regions – four regions that Russia claims to have annexed but does not fully control.",
+    "- Amnesty International said it would keep up investigations on Russia despite Moscow declaring the rights group an “undesirable organisation”, effectively banning its operations and exposing supporters to prosecution.",
+    "Amnesty said the Kremlin would not deter its efforts to document rights abuses, including alleged war crimes by Russian forces in Ukraine.",
+    "“This decision is part of the Russian government’s broader effort to silence dissent and isolate civil society,” said the Amnesty secretary general, Agnès Callamard."
+  ],
+  "topics": {
+    "Conflict": 0.9763028025627136,
+    "Crime": 0.9109918475151062,
+    "Politics": 0.8868964910507202,
+    "Culture": 0.8662799000740051,
+    "Economy": 0.8602378964424133,
+    "Environment": 0.8154847621917725,
+    "Elections": 0.7770832777023315,
+    "Health": 0.75277179479599,
+    "Technology": 0.7520246505737305,
+    "Education": 0.7394919395446777,
+    "Diplomacy": 0.73260897397995,
+    "Energy": 0.7301515340805054,
+    "Military": 0.7190974354743958,
+    "Transport": 0.5693193078041077
+  },
+  "sentiment": {
+    "positive": 0.571,
+    "negative": 0.429,
+    "neutral": 0.0
+  }
+}

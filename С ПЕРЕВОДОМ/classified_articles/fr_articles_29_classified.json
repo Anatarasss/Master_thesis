@@ -1,0 +1,37 @@
+{
+  "title": "Valeo annonce la vente de son activité de systèmes thermiques en Russie à NPK Avtopribor",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/action/VALEO-27891158/actualite/Valeo-annonce-la-vente-de-son-activite-de-systemes-thermiques-en-Russie-a-NPK-Avtopribor-45202056/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "The French automotive supplier Valeo announced Tuesday that it had signed an agreement to sell its assets of production of thermal systems in Russia at NPK Avtopribor for an undisclosed amount.",
+    "Valeo said in a statement that the sale would not lead to no capital gain or loss of value and that the finalization of the transaction was subject to the approval of the regulatory authorities.",
+    "This \"will allow the 123 Russian employees of this activity to keep their jobs,\" added the company.",
+    "Valeo will also have a 10 -year buyout option, which can be activated from the sixth year.",
+    "The company said that sales in Russia previously represented less than 1 % of the group's turnover, and that the assets sold were amortized in 2022 for 43 million euros ($ 47 million).",
+    "At the beginning of September, Valeo said they were in advanced talks for the sale of the activity.",
+    "In August, Valeo sold its activity of transmission systems in Russia at NPK Avtopribor.",
+    "(Report by Pierre John Felcenloben, edition of Mark Potter)"
+  ],
+  "topics": {
+    "Technology": 0.5513864755630493,
+    "Economy": 0.4975341856479645,
+    "Conflict": 0.4822371006011963,
+    "Culture": 0.3508134186267853,
+    "Energy": 0.1513078212738037,
+    "Environment": 0.13815051317214966,
+    "Politics": 0.1313789039850235,
+    "Crime": 0.1173616275191307,
+    "Transport": 0.09909618645906448,
+    "Diplomacy": 0.07823991775512695,
+    "Elections": 0.07698982208967209,
+    "Health": 0.0396927185356617,
+    "Military": 0.039629656821489334,
+    "Education": 0.011343915946781635
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

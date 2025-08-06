@@ -1,0 +1,33 @@
+{
+  "title": "RT France annonce sa \"fermeture\" après le gel de ses comptes bancaires",
+  "published_date": null,
+  "url": "https://www.boursorama.com/actualite-economique/actualites/rt-france-annonce-sa-fermeture-apres-le-gel-de-ses-comptes-bancaires-a4007f4d69a972903d0033778e73ed98",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Archives photo of a microphone with the RT France logo, in Paris (Reuters) - The media Russia Today France (RT France), controlled by the Russian State, announced on Saturday its \"closure\" after the freeze of its bank accounts.",
+    "\"Under the cover of the 9th package of sanctions against Russia - which is not aimed at our channel, but our shareholder and parent company - The General Directorate of the Treasury has decided to freeze the bank accounts of RT France, making it impossible for the continuation of our activity,\" said RT France in a statement published on its website.",
+    "The members of the European Union (EU) agreed in December on a ninth train of sanctions against Russia because of its invasion of Ukraine.",
+    "(Written by Camille Raynaud)"
+  ],
+  "topics": {
+    "Conflict": 0.878247082233429,
+    "Economy": 0.6947912573814392,
+    "Politics": 0.6385322213172913,
+    "Culture": 0.46003457903862,
+    "Crime": 0.3520931899547577,
+    "Technology": 0.3069879412651062,
+    "Military": 0.1632339358329773,
+    "Transport": 0.14554639160633087,
+    "Diplomacy": 0.1350620985031128,
+    "Health": 0.12536762654781342,
+    "Elections": 0.0646921768784523,
+    "Energy": 0.06355387717485428,
+    "Environment": 0.05563561990857124,
+    "Education": 0.012449704110622406
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

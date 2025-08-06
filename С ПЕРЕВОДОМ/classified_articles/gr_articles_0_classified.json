@@ -1,0 +1,34 @@
+{
+  "title": "Αρνητικές οι πρώτες αντιδράσεις από την Μόσχα για τη συμφωνία ΗΠΑ-Ουκρανίας",
+  "published_date": null,
+  "url": "https://eleftherostypos.gr/diethni/arnitikes-oi-protes-antidraseis-apo-tin-moscha-gia-ti-symfonia-ipa-oukranias",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "Viktor Sobolev (Victor Sobolf), a member of the Russian Parliament's defense committee, said the temporary ceasefire was \"completely unacceptable\".",
+    "Specifically, in his personal statement, he states that such a truce would \"only play in the hands of the Ukrainian fascists\", allowing them to \"rebuild and re-arrange the RT (Russia Today) made a caustic comment after the US-Ukraine agreement announced.",
+    "He specifically states: \"Less than 24 hours before, Ukraine launched the largest attack by unmanned 2025 aircraft against Russia.",
+    "The Russian defense shot down 337 Ukrainian unmanned aircraft.",
+    "Do you think Ukraine is ready for peace? \""
+  ],
+  "topics": {
+    "Conflict": 0.9533849358558655,
+    "Politics": 0.8887673020362854,
+    "Military": 0.761616587638855,
+    "Technology": 0.5378698110580444,
+    "Transport": 0.49221909046173096,
+    "Crime": 0.4615626037120819,
+    "Culture": 0.3211093246936798,
+    "Energy": 0.2483529895544052,
+    "Diplomacy": 0.23479729890823364,
+    "Health": 0.23074458539485931,
+    "Environment": 0.2141474336385727,
+    "Economy": 0.15310029685497284,
+    "Elections": 0.06564971804618835,
+    "Education": 0.019595474004745483
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

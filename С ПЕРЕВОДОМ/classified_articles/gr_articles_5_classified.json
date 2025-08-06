@@ -1,0 +1,36 @@
+{
+  "title": "Ο Πούτιν δώρισε στον Κιμ λιμουζίνα… made in Russia",
+  "published_date": null,
+  "url": "https://www.kathimerini.gr/world/563086687/o-poytin-dorise-ston-kim-limoyzina-made-in-russia/",
+  "original_language": "el",
+  "cleaned_sentences": [
+    "Russian President Vladimir Putin did not go with ... empty hands to North Korea.",
+    "According to the Russian news agency TASS today, citing Yuri Usakov, a Putin adviser, Russia's leader donated to his northern counterpart, Kim Jong Un, a Russian -made limousine of Aurus, a set of tea.",
+    "Putin received various works of art as a gift, Usakov allegedly said.",
+    "The Russian president, who today was accepted to Pyongyang by thousands of enthusiastic residents of the Korean capital, met with North Korean leader Kim Jong Un during his official visit to the country, the first after 24 years.",
+    "The purpose of the visit is to strengthen the links to dealing with US pressures and sanctions.",
+    "A few hours after Putin's arrival, Kim stressed that he fully supports Russia's \"military operation\" in Ukraine.",
+    "The two leaders signed a comprehensive component of a comprehensive corporate relationship strategy, as reported by the Interfax News Agency, while having individual talks that lasted about two hours."
+  ],
+  "topics": {
+    "Politics": 0.7643709778785706,
+    "Conflict": 0.6484658718109131,
+    "Transport": 0.6121536493301392,
+    "Diplomacy": 0.59068363904953,
+    "Military": 0.38884833455085754,
+    "Culture": 0.3484446108341217,
+    "Economy": 0.16249364614486694,
+    "Technology": 0.12884195148944855,
+    "Environment": 0.08741788566112518,
+    "Health": 0.07349205017089844,
+    "Energy": 0.0478980652987957,
+    "Elections": 0.03290089964866638,
+    "Crime": 0.03258794918656349,
+    "Education": 0.020201414823532104
+  },
+  "sentiment": {
+    "positive": 0.571,
+    "negative": 0.429,
+    "neutral": 0.0
+  }
+}

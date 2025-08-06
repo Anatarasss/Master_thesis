@@ -1,0 +1,39 @@
+{
+  "title": "Le GNL russe représente un quart des importations de gaz espagnoles en mars",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/action/ENAG-S-S-A-409361/actualite/Le-GNL-russe-represente-un-quart-des-importations-de-gaz-espagnoles-en-mars-46407841/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Liquefied natural gas (LNG) from Russia represented almost 26 % of Spain gas imports in March, against 14.4 % a year earlier, which confirms that the Iberian country is an essential hub for the delivery of Russian gas to Europe.",
+    "Data from the Spanish operator Enagas showed on Wednesday that Russia was the country's second gas supplier last month after Algeria.",
+    "LNG deliveries represented 65.5 % of Spanish imports, the rest being sent by gas pipeline.",
+    "Thanks to the greatest number of European Union import terminals, Spain has become Spain has become the first Russian gas re-exporter transported by sea, which represented 23 % of all Spanish gas imports in January-March.",
+    "Spain's natural gas imports fell 23.2 % in the month compared to the same month of the previous year, which corresponds to 29,129 gigawatt hours, Enagas said in a statement.",
+    "Total gas imports from Algeria represented 42 %.",
+    "Spain's storage facilities were 81% at the end of March.",
+    "In March, the Spanish Minister of Energy, Teresa Ribera, called on the European Commission to adopt a common approach to ban Russian gas, including maritime LNG, following the invasion of Ukraine by Russia in 2022.",
+    "Lithuania had declared The EU should include in the law its Ukraine abandonment project by 2027.",
+    "Nevertheless, the oil and gas revenues of Russia, which represent approximately a third of total budgetary revenue, increased by 90 %, increased by 90 % Last month compared to March 2023."
+  ],
+  "topics": {
+    "Energy": 0.7453330755233765,
+    "Politics": 0.5636677742004395,
+    "Economy": 0.5096129775047302,
+    "Conflict": 0.4264157712459564,
+    "Technology": 0.36670657992362976,
+    "Transport": 0.2827821373939514,
+    "Diplomacy": 0.2742185592651367,
+    "Environment": 0.2399049550294876,
+    "Culture": 0.201584130525589,
+    "Elections": 0.0710272341966629,
+    "Military": 0.0693030133843422,
+    "Health": 0.05376620590686798,
+    "Crime": 0.034122034907341,
+    "Education": 0.021779010072350502
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

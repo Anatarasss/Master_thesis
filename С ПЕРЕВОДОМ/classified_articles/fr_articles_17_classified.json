@@ -1,0 +1,35 @@
+{
+  "title": "Incendie dans une raffinerie de pétrole russe après une attaque de drones ukrainienne-gouverneur",
+  "published_date": null,
+  "url": "https://www.zonebourse.com/cours/devise/US-DOLLAR-RUSSIAN-ROUBLE--2370597/actualite/Incendie-dans-une-raffinerie-de-petrole-russe-apres-une-attaque-de-drones-ukrainienne-gouverneur-46213902/",
+  "original_language": "fr",
+  "cleaned_sentences": [
+    "Moscow, March 16 (Reuters) - A drone attack Ukrainians targeted two oil refineries in the region of Samara, said the governor of the region on Saturday, adding That a fire had declared itself in one of the infrastructure.",
+    "Dmitry Azarov said in a statement published on Telegram that the Syzran refinery was on fire, but that a Attack on the Novokoubychev refinery had been thwarted.",
+    "He added that the employees of the two factories had been evacuated and that there were no victims.",
+    "Images published online, which could not be verified, showed what seemed to be an important fire in the Syzran refinery, while emergency services were at work on site.",
+    "In recent weeks, Ukraine has targeted infrastructure Russian oils, notably striking refineries in West Russia.",
+    "(Reuters report, written by Felix Light; French version Camille Raynaud)"
+  ],
+  "topics": {
+    "Conflict": 0.8466587662696838,
+    "Energy": 0.6524523496627808,
+    "Economy": 0.5195572376251221,
+    "Technology": 0.4929860532283783,
+    "Politics": 0.46216148138046265,
+    "Culture": 0.4482423961162567,
+    "Military": 0.3959677219390869,
+    "Environment": 0.370547890663147,
+    "Crime": 0.3007305860519409,
+    "Health": 0.18522708117961884,
+    "Transport": 0.17212165892124176,
+    "Diplomacy": 0.11549539119005203,
+    "Elections": 0.04966602474451065,
+    "Education": 0.04805164039134979
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

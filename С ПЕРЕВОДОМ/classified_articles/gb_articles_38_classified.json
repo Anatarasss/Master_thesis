@@ -1,0 +1,42 @@
+{
+  "title": "Amnesty International vows to continue its work after Russia ban",
+  "published_date": null,
+  "url": "https://www.theguardian.com/world/2025/may/19/amnesty-international-vows-to-continue-its-work-after-russia-ban",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Amnesty International has said it will not halt its work after Russia declared the rights group an “undesirable organisation”, in effect banning its operations in the country and exposing supporters to prosecution.",
+    "“This decision is part of the Russian government’s broader effort to silence dissent and isolate civil society,” Agnès Callamard, Amnesty International’s secretary general, said.",
+    "“We will redouble our efforts to expose Russia’s egregious human rights violations both at home and abroad.” The decision by the Russian prosecutor general’s office, announced in an online statement on Monday, is the latest act in the unrelenting crackdown on Kremlin critics, journalists and activists that has intensified to unprecedented levels since Russia invaded Ukraine in February 2022.",
+    "The designation means Amnesty must stop any work in Russia.",
+    "It subjects those who cooperate with the rights group or support it to prosecution, including if anyone shares Amnesty’s reports on social media.",
+    "Russia’s list of “undesirable organisations” covers 223 entities, including prominent independent news outlets and rights groups.",
+    "Among them: Radio Free Europe/Radio Liberty and the independent Russian news outlet Meduza; thinktanks including Chatham House; the anti-corruption group Transparency International; and Open Russia, an opposition group founded by the exiled tycoon and Kremlin critic Mikhail Khodorkovsky.",
+    "Amnesty International was launched in 1961, documenting and reporting human rights violations around the world and campaigning for the release of those it deems unjustly imprisoned.",
+    "It has released reports on Russia’s war in Ukraine, accusing Moscow of crimes against humanity, and has spoken out against the Kremlin’s crackdown on dissent that has swept up thousands of people in recent years.",
+    "Amnesty’s recent statements on Russia included decrying a prison sentence handed to the prominent election monitoring activist Grigory Melkonyants as a “brazen and politically motivated clampdown on peaceful activism”.",
+    "It also spoke out against a series of arrests of publishing professionals in Russia last week over alleged “LGBTQ+ propaganda” in books.",
+    "In its statement, the prosecutor general’s office accused Amnesty International of running “Russophobic projects” and activities aimed at Russia’s “political and economic isolation”.",
+    "Agence France-Presse and Associated Press contributed to this report"
+  ],
+  "topics": {
+    "Elections": 0.8278530240058899,
+    "Conflict": 0.7810580134391785,
+    "Politics": 0.7128493785858154,
+    "Economy": 0.5892924666404724,
+    "Culture": 0.5748046040534973,
+    "Technology": 0.5598936676979065,
+    "Crime": 0.48304876685142517,
+    "Energy": 0.43536821007728577,
+    "Military": 0.41786956787109375,
+    "Diplomacy": 0.3605969250202179,
+    "Health": 0.342492014169693,
+    "Environment": 0.3182775378227234,
+    "Transport": 0.2820790410041809,
+    "Education": 0.26707544922828674
+  },
+  "sentiment": {
+    "positive": 0.538,
+    "negative": 0.462,
+    "neutral": 0.0
+  }
+}
