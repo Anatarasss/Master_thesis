@@ -1,0 +1,1323 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "a0d0b432",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import json\n",
+    "import urllib.request\n",
+    "import time\n",
+    "import ssl\n",
+    "import certifi\n",
+    "ssl._create_default_https_context = lambda: ssl.create_default_context(cafile=certifi.where())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "647740d0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "API_KEY = \"66a57d362d6c40b0274b00848bb8f05e\"\n",
+    "QUERY = \"brics\"\n",
+    "LANG = \"en\"\n",
+    "MAX_ARTICLES = 100\n",
+    "BASE_URL = \"https://gnews.io/api/v4/search\"\n",
+    "\n",
+    "COUNTRY_CODES = {\n",
+    "    \"Australia\": \"au\", \"Brazil\": \"br\", \"Canada\": \"ca\", \"China\": \"cn\",\n",
+    "    \"Egypt\": \"eg\", \"France\": \"fr\", \"Germany\": \"de\", \"Greece\": \"gr\",\n",
+    "    \"Hong Kong\": \"hk\", \"India\": \"in\", \"Ireland\": \"ie\", \"Israel\": \"il\",\n",
+    "    \"Italy\": \"it\", \"Japan\": \"jp\", \"Netherlands\": \"nl\", \"Norway\": \"no\",\n",
+    "    \"Pakistan\": \"pk\", \"Peru\": \"pe\", \"Philippines\": \"ph\", \"Portugal\": \"pt\",\n",
+    "    \"Romania\": \"ro\", \"Russian Federation\": \"ru\", \"Singapore\": \"sg\", \"Spain\": \"es\",\n",
+    "    \"Sweden\": \"se\", \"Switzerland\": \"ch\", \"Taiwan\": \"tw\", \"Ukraine\": \"ua\",\n",
+    "    \"United Kingdom\": \"gb\", \"United States\": \"us\"\n",
+    "}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4a4673b1",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Australia: 38 articles fetched.\n",
+      "Brazil: No articles found, nothing saved.\n",
+      "Canada: 50 articles fetched.\n",
+      "China: No articles found, nothing saved.\n",
+      "Egypt: No articles found, nothing saved.\n",
+      "France: No articles found, nothing saved.\n",
+      "Germany: No articles found, nothing saved.\n",
+      "Greece: No articles found, nothing saved.\n",
+      "Hong Kong: No articles found, nothing saved.\n",
+      "India: 50 articles fetched.\n",
+      "Ireland: 22 articles fetched.\n",
+      "Israel: No articles found, nothing saved.\n",
+      "Italy: No articles found, nothing saved.\n",
+      "Japan: No articles found, nothing saved.\n",
+      "Netherlands: No articles found, nothing saved.\n",
+      "Norway: No articles found, nothing saved.\n",
+      "Pakistan: 26 articles fetched.\n",
+      "Peru: No articles found, nothing saved.\n",
+      "Philippines: 7 articles fetched.\n",
+      "Portugal: No articles found, nothing saved.\n",
+      "Romania: No articles found, nothing saved.\n",
+      "Russian Federation: No articles found, nothing saved.\n",
+      "Singapore: 10 articles fetched.\n",
+      "Spain: No articles found, nothing saved.\n",
+      "Sweden: No articles found, nothing saved.\n",
+      "Switzerland: 1 articles fetched.\n",
+      "Taiwan: No articles found, nothing saved.\n",
+      "Ukraine: No articles found, nothing saved.\n",
+      "United Kingdom: 48 articles fetched.\n",
+      "United States: 50 articles fetched.\n"
+     ]
+    }
+   ],
+   "source": [
+    "for country_name, country_code in COUNTRY_CODES.items():\n",
+    "    url = f\"{BASE_URL}?q={QUERY}&lang={LANG}&country={country_code}&max={MAX_ARTICLES}&apikey={API_KEY}\"\n",
+    "\n",
+    "    try:\n",
+    "        with urllib.request.urlopen(url) as response:\n",
+    "            data = json.loads(response.read().decode(\"utf-8\"))\n",
+    "            articles = data.get(\"articles\", [])\n",
+    "            \n",
+    "            if articles:\n",
+    "                print(f\"{country_name}: {len(articles)} articles fetched.\")\n",
+    "                filename = f\"{country_code}_articles.json\"\n",
+    "                with open(filename, \"w\", encoding=\"utf-8\") as f:\n",
+    "                    json.dump(articles, f, indent=4, ensure_ascii=False)\n",
+    "            else:\n",
+    "                print(f\"{country_name}: No articles found, nothing saved.\")\n",
+    "\n",
+    "        time.sleep(1.2)\n",
+    "\n",
+    "    except Exception as e:\n",
+    "        print(f\"Error fetching data for {country_name} ({country_code}): {e}\")"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.10"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
+
+
+
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "a9daebaa",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import os\n",
+    "import json\n",
+    "from newspaper import Article\n",
+    "from tqdm import tqdm"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "e62fc3a9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def extract_full_text_from_url(url):\n",
+    "    try:\n",
+    "        article = Article(url)\n",
+    "        article.download()\n",
+    "        article.parse()\n",
+    "        return article.text\n",
+    "    except Exception as e:\n",
+    "        return f\"[ERROR] Could not extract full text: {e}\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7b1e4933",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Processing au_articles.json...\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Extracting full text: 100%|██████████| 38/38 [00:33<00:00,  1.12it/s]\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Processing ca_articles.json...\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Extracting full text: 100%|██████████| 50/50 [01:17<00:00,  1.55s/it]\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Processing ch_articles.json...\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Extracting full text: 100%|██████████| 1/1 [00:00<00:00,  2.64it/s]\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Processing gb_articles.json...\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Extracting full text: 100%|██████████| 48/48 [00:35<00:00,  1.37it/s]\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Processing ie_articles.json...\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Extracting full text: 100%|██████████| 22/22 [02:01<00:00,  5.55s/it]\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Processing in_articles.json...\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Extracting full text: 100%|██████████| 50/50 [01:09<00:00,  1.39s/it]\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Processing ph_articles.json...\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Extracting full text: 100%|██████████| 7/7 [00:19<00:00,  2.75s/it]\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Processing pk_articles.json...\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Extracting full text: 100%|██████████| 26/26 [00:52<00:00,  2.03s/it]\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Processing sg_articles.json...\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Extracting full text: 100%|██████████| 10/10 [00:07<00:00,  1.30it/s]\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Processing us_articles.json...\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "Extracting full text: 100%|██████████| 50/50 [00:54<00:00,  1.09s/it]"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "✅ Готово: все статьи дополнены полными текстами.\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "\n"
+     ]
+    }
+   ],
+   "source": [
+    "for filename in os.listdir():\n",
+    "    if filename.endswith(\"_articles.json\"):\n",
+    "        print(f\"Processing {filename}...\")\n",
+    "        with open(filename, \"r\", encoding=\"utf-8\") as f:\n",
+    "            articles = json.load(f)\n",
+    "\n",
+    "        for article in tqdm(articles, desc=f\"Extracting full text\"):\n",
+    "            url = article.get(\"url\")\n",
+    "            if url:\n",
+    "                full_text = extract_full_text_from_url(url)\n",
+    "                article[\"full_content\"] = full_text\n",
+    "\n",
+    "        with open(filename, \"w\", encoding=\"utf-8\") as f:\n",
+    "            json.dump(articles, f, indent=4, ensure_ascii=False)\n",
+    "\n",
+    "print(\"Все статьи дополнены полными текстами.\")"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.10"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
+
+
+
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "b3eb589d",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "[nltk_data] Downloading package punkt to\n",
+      "[nltk_data]     C:\\Users\\Олег\\AppData\\Roaming\\nltk_data...\n",
+      "[nltk_data]   Package punkt is already up-to-date!\n",
+      "[nltk_data] Downloading package stopwords to\n",
+      "[nltk_data]     C:\\Users\\Олег\\AppData\\Roaming\\nltk_data...\n",
+      "[nltk_data]   Package stopwords is already up-to-date!\n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "True"
+      ]
+     },
+     "execution_count": 1,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "import os\n",
+    "import json\n",
+    "import requests\n",
+    "from bs4 import BeautifulSoup\n",
+    "import nltk\n",
+    "from nltk.tokenize import sent_tokenize, word_tokenize\n",
+    "from nltk.corpus import stopwords\n",
+    "from collections import Counter\n",
+    "import re\n",
+    "\n",
+    "nltk.download(\"punkt\")\n",
+    "nltk.download(\"stopwords\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "de534b66",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "INPUT_DIR = \".\"  # каталог с json-файлами\n",
+    "OUTPUT_DIR = \"parsed_articles\"\n",
+    "os.makedirs(OUTPUT_DIR, exist_ok=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "6efd9047",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "stop_words = set(stopwords.words(\"english\"))\n",
+    "def clean_text(text): # очистка текста от лишних символов и ссылок\n",
+    "    text = re.sub(r\"\\s+\", \" \", text)\n",
+    "    text = re.sub(r\"https?://\\S+\", \"\", text)\n",
+    "    return text.strip()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "98defa62",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def extract_main_text_from_url(url): # извлечение главного текста из статей\n",
+    "    try:\n",
+    "        headers = {\"User-Agent\": \"Mozilla/5.0\"}\n",
+    "        response = requests.get(url, headers=headers, timeout=10)\n",
+    "        soup = BeautifulSoup(response.content, \"html.parser\")\n",
+    "\n",
+    "        # Убираем скрипты и стили\n",
+    "        for tag in soup([\"script\", \"style\", \"noscript\", \"header\", \"footer\", \"nav\", \"form\"]):\n",
+    "            tag.decompose()\n",
+    "\n",
+    "        # Пробуем найти основной текст\n",
+    "        paragraphs = soup.find_all(\"p\")\n",
+    "        text = \" \".join(p.get_text() for p in paragraphs)\n",
+    "        return clean_text(text)\n",
+    "    \n",
+    "\n",
+    "    except Exception as e:\n",
+    "        print(f\"Ошибка при извлечении текста: {e}\")\n",
+    "        return \"\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "21d80764",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def extract_topics(text, top_n=10): # извлечение главных тем\n",
+    "    words = word_tokenize(text.lower())\n",
+    "    words = [w for w in words if w.isalnum() and w not in stop_words]\n",
+    "    bigrams = zip(words, words[1:])\n",
+    "    phrases = [\" \".join(b) for b in bigrams]\n",
+    "    counter = Counter(phrases)\n",
+    "    return [phrase for phrase, _ in counter.most_common(top_n)]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "4c126eed",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Сохранено: parsed_articles\\au_parsed.json\n",
+      "Сохранено: parsed_articles\\ca_parsed.json\n",
+      "Сохранено: parsed_articles\\ch_parsed.json\n",
+      "Сохранено: parsed_articles\\gb_parsed.json\n",
+      "Ошибка при извлечении текста: HTTPSConnectionPool(host='www.breakingnews.ie', port=443): Max retries exceeded with url: /us-election/trump-mistakes-spain-for-brics-member-and-repeats-tariffs-threat-1720450.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))\n",
+      "Ошибка при извлечении текста: HTTPSConnectionPool(host='www.breakingnews.ie', port=443): Max retries exceeded with url: /world/putin-presides-over-brics-summit-seeking-to-expand-russias-clout-1687001.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))\n",
+      "Ошибка при извлечении текста: HTTPSConnectionPool(host='www.breakingnews.ie', port=443): Max retries exceeded with url: /world/financial-co-operation-and-brics-expansion-on-table-as-putin-hosts-leaders-1686361.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))\n",
+      "Ошибка при извлечении текста: HTTPSConnectionPool(host='www.breakingnews.ie', port=443): Max retries exceeded with url: /world/putin-hosts-brics-summit-to-show-the-west-it-cant-keep-russia-off-global-stage-1685790.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))\n",
+      "Ошибка при извлечении текста: HTTPSConnectionPool(host='www.breakingnews.ie', port=443): Max retries exceeded with url: /world/putin-hosts-global-south-leaders-at-brics-summit-intended-to-counter-west-1685819.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))\n",
+      "Ошибка при извлечении текста: HTTPSConnectionPool(host='www.breakingnews.ie', port=443): Max retries exceeded with url: /world/argentina-announces-it-will-not-join-economic-bloc-in-latest-policy-shift-1570058.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))\n",
+      "Ошибка при извлечении текста: HTTPSConnectionPool(host='www.irishtimes.com', port=443): Max retries exceeded with url: /opinion/editorials/2023/08/27/the-irish-times-view-on-the-brics-summit-a-new-world-order-in-the-making/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))\n",
+      "Ошибка при извлечении текста: HTTPSConnectionPool(host='www.irishtimes.com', port=443): Max retries exceeded with url: /world/africa/2023/04/28/wanted-war-criminal-putins-planned-visit-to-durban-poses-a-geopolitical-dilemma-for-south-africa/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))\n",
+      "Сохранено: parsed_articles\\ie_parsed.json\n",
+      "Сохранено: parsed_articles\\in_parsed.json\n",
+      "Ошибка при извлечении текста: HTTPSConnectionPool(host='www.cnnphilippines.com', port=443): Max retries exceeded with url: /business/2023/8/25/saudi-arabia-uae-iran-brics-invitation.html (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cnnphilippines.com'. (_ssl.c:1000)\")))\n",
+      "Сохранено: parsed_articles\\ph_parsed.json\n",
+      "Сохранено: parsed_articles\\pk_parsed.json\n",
+      "Сохранено: parsed_articles\\sg_parsed.json\n",
+      "Сохранено: parsed_articles\\us_parsed.json\n"
+     ]
+    }
+   ],
+   "source": [
+    "for filename in os.listdir(INPUT_DIR):\n",
+    "    if filename.endswith(\"_articles.json\"):\n",
+    "        with open(os.path.join(INPUT_DIR, filename), encoding=\"utf-8\") as f:\n",
+    "            articles = json.load(f)\n",
+    "\n",
+    "        parsed = []\n",
+    "        for article in articles:\n",
+    "            url = article.get(\"url\")\n",
+    "            if not url:\n",
+    "                continue\n",
+    "\n",
+    "            full_text = extract_main_text_from_url(url)\n",
+    "            if not full_text or len(full_text) < 300:\n",
+    "                continue\n",
+    "\n",
+    "            sentences = sent_tokenize(full_text)\n",
+    "            topics = extract_topics(full_text)\n",
+    "\n",
+    "            parsed.append({\n",
+    "                \"title\": article.get(\"title\"),\n",
+    "                \"source\": article.get(\"source\", {}).get(\"name\"),\n",
+    "                \"url\": url,\n",
+    "                \"publishedAt\": article.get(\"publishedAt\"),\n",
+    "                \"sentences\": sentences,\n",
+    "                \"topics\": topics,\n",
+    "            })\n",
+    "\n",
+    "        output_path = os.path.join(OUTPUT_DIR, filename.replace(\"_articles.json\", \"_parsed.json\"))\n",
+    "        with open(output_path, \"w\", encoding=\"utf-8\") as f_out:\n",
+    "            json.dump(parsed, f_out, indent=2, ensure_ascii=False)\n",
+    "\n",
+    "        print(f\"Сохранено: {output_path}\")\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
+
+
+
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "32b4c95c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import os\n",
+    "import json\n",
+    "import re\n",
+    "import nltk\n",
+    "from textblob import TextBlob\n",
+    "from collections import Counter"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "a8533045",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "[nltk_data] Downloading package punkt to\n",
+      "[nltk_data]     C:\\Users\\Олег\\AppData\\Roaming\\nltk_data...\n",
+      "[nltk_data]   Package punkt is already up-to-date!\n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "True"
+      ]
+     },
+     "execution_count": 2,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "nltk.download('punkt')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "78179741",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Каталог с JSON-файлами\n",
+    "DATA_DIR = \"./\"\n",
+    "THEMES = {\n",
+    "    \"finance\": [\"bank\", \"finance\", \"investment\", \"debt\", \"loan\", \"currency\", \"development\"],\n",
+    "    \"geopolitics\": [\"un\", \"security council\", \"usa\", \"russia\", \"china\", \"diplomacy\", \"alliances\", \"nato\"],\n",
+    "    \"technology\": [\"blockchain\", \"ai\", \"robotics\", \"technology\", \"5g\", \"nanotech\", \"innovation\", \"infrastructure\"],\n",
+    "    \"trade\": [\"exports\", \"imports\", \"trade\", \"sanctions\", \"tariffs\", \"market\", \"deal\"],\n",
+    "    \"energy\": [\"oil\", \"gas\", \"energy\", \"hydrocarbons\", \"solar\", \"renewable\", \"electricity\"],\n",
+    "    \"military\": [\"military\", \"army\", \"defense\", \"arms\", \"weapons\", \"nuclear\"]\n",
+    "}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "14f04a4b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def clean_text(text):\n",
+    "    text = re.sub(r\"http\\S+\", \"\", text)  # remove URLs\n",
+    "    text = re.sub(r\"\\s+\", \" \", text).strip()\n",
+    "    return text"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "25d563f5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def classify_themes(text):\n",
+    "    text_lower = text.lower()\n",
+    "    found_themes = []\n",
+    "    for theme, keywords in THEMES.items():\n",
+    "        if any(word in text_lower for word in keywords):\n",
+    "            found_themes.append(theme)\n",
+    "    return found_themes if found_themes else [\"other\"]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "166a12fe",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def analyze_sentiment(text):\n",
+    "    blob = TextBlob(text)\n",
+    "    polarity = blob.sentiment.polarity\n",
+    "    if polarity > 0.1:\n",
+    "        return \"positive\"\n",
+    "    elif polarity < -0.1:\n",
+    "        return \"negative\"\n",
+    "    else:\n",
+    "        return \"neutral\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "de0cc140",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def process_file(filepath):\n",
+    "    with open(filepath, \"r\", encoding=\"utf-8\") as f:\n",
+    "        articles = json.load(f)\n",
+    "\n",
+    "    results = []\n",
+    "    for article in articles:\n",
+    "        full_text = article.get(\"full_content\") or article.get(\"content\") or \"\"\n",
+    "        if not full_text:\n",
+    "            continue\n",
+    "\n",
+    "        clean = clean_text(full_text)\n",
+    "        sentences = nltk.sent_tokenize(clean)\n",
+    "        text_joined = \" \".join(sentences)\n",
+    "\n",
+    "        sentiment = analyze_sentiment(text_joined)\n",
+    "        themes = classify_themes(text_joined)\n",
+    "\n",
+    "        results.append({\n",
+    "            \"title\": article.get(\"title\"),\n",
+    "            \"url\": article.get(\"url\"),\n",
+    "            \"sentiment\": sentiment,\n",
+    "            \"themes\": themes\n",
+    "        })\n",
+    "\n",
+    "    return results"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "f61bfb5f",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Processing: au\n",
+      "Processing: ca\n",
+      "Processing: ch\n",
+      "Processing: gb\n",
+      "Processing: ie\n",
+      "Processing: in\n",
+      "Processing: ph\n",
+      "Processing: pk\n",
+      "Processing: sg\n",
+      "Processing: us\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Обработка всех файлов в каталоге\n",
+    "all_results = []\n",
+    "for filename in os.listdir(DATA_DIR):\n",
+    "    if filename.endswith(\"_articles.json\"):\n",
+    "        filepath = os.path.join(DATA_DIR, filename)\n",
+    "        country = filename.split(\"_\")[0]\n",
+    "        print(f\"Processing: {country}\")\n",
+    "        res = process_file(filepath)\n",
+    "        for r in res:\n",
+    "            r[\"country\"] = country\n",
+    "        all_results.extend(res)\n",
+    "\n",
+    "# Сохраняем результаты\n",
+    "with open(\"classified_articles.json\", \"w\", encoding=\"utf-8\") as f:\n",
+    "    json.dump(all_results, f, indent=4, ensure_ascii=False)\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
+
+
+
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "2cb67d22",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import json\n",
+    "import os\n",
+    "from collections import defaultdict\n",
+    "import statistics"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "47fb3318",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Папка с результатами классификации\n",
+    "INPUT_FILE = \"classified_articles.json\"\n",
+    "OUTPUT_FILE = \"aggregated_statistics.json\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "928da3c9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Загрузка статей\n",
+    "with open(INPUT_FILE, \"r\", encoding=\"utf-8\") as f:\n",
+    "    articles = json.load(f)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "4f13a771",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Структуры агрегации\n",
+    "country_stats = defaultdict(lambda: {\n",
+    "    \"total_articles\": 0,\n",
+    "    \"theme_counts\": defaultdict(int),\n",
+    "    \"sentiments\": [],\n",
+    "})"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "91d97d2b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Маппинг тональности в числовую шкалу\n",
+    "sentiment_scores = {\n",
+    "    \"positive\": 1,\n",
+    "    \"neutral\": 0,\n",
+    "    \"negative\": -1\n",
+    "}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "7b2338b9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Обработка статей\n",
+    "for article in articles:\n",
+    "    country = article.get(\"country\", \"unknown\")\n",
+    "    sentiment = article.get(\"sentiment\", \"neutral\")\n",
+    "    themes = article.get(\"themes\", [])\n",
+    "\n",
+    "    # Обновление статистики\n",
+    "    country_stats[country][\"total_articles\"] += 1\n",
+    "    country_stats[country][\"sentiments\"].append(sentiment_scores.get(sentiment, 0))\n",
+    "    for theme in themes:\n",
+    "        country_stats[country][\"theme_counts\"][theme] += 1"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "9357a196",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Финальный подсчёт по каждой стране\n",
+    "aggregated = {}\n",
+    "for country, stats in country_stats.items():\n",
+    "    total = stats[\"total_articles\"]\n",
+    "    sentiment_avg = round(statistics.mean(stats[\"sentiments\"]), 3) if stats[\"sentiments\"] else 0.0\n",
+    "\n",
+    "    # Преобразование счётчиков тем в доли\n",
+    "    theme_distribution = {\n",
+    "        theme: round(count / total, 3)\n",
+    "        for theme, count in stats[\"theme_counts\"].items()\n",
+    "    }\n",
+    "\n",
+    "    aggregated[country] = {\n",
+    "        \"total_articles\": total,\n",
+    "        \"average_sentiment\": sentiment_avg,\n",
+    "        \"theme_distribution\": theme_distribution\n",
+    "    }"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "a6fce29f",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Агрегация завершена. Результаты сохранены в aggregated_statistics.json\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Сохранение результата\n",
+    "with open(OUTPUT_FILE, \"w\", encoding=\"utf-8\") as f:\n",
+    "    json.dump(aggregated, f, indent=4, ensure_ascii=False)\n",
+    "\n",
+    "print(\"Агрегация завершена. Результаты сохранены в\", OUTPUT_FILE)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
+
+
+
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "2090485e",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import json\n",
+    "import matplotlib.pyplot as plt\n",
+    "import seaborn as sns\n",
+    "import pandas as pd"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "cb3937a2",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Настройки\n",
+    "sns.set(style=\"whitegrid\", font_scale=1.2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "d7ce6366",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Загрузка агрегированных данных\n",
+    "with open(\"aggregated_statistics.json\", \"r\", encoding=\"utf-8\") as f:\n",
+    "    data = json.load(f)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "73b64f3d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Преобразование в DataFrame\n",
+    "rows = []\n",
+    "for country, stats in data.items():\n",
+    "    for theme, share in stats[\"theme_distribution\"].items():\n",
+    "        rows.append({\n",
+    "            \"Country\": country,\n",
+    "            \"Total Articles\": stats[\"total_articles\"],\n",
+    "            \"Avg Sentiment\": stats[\"average_sentiment\"],\n",
+    "            \"Theme\": theme,\n",
+    "            \"Theme Share\": share\n",
+    "        })\n",
+    "\n",
+    "df = pd.DataFrame(rows)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "df246135",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "C:\\Users\\Олег\\AppData\\Local\\Temp\\ipykernel_2876\\988158386.py:3: FutureWarning: \n",
+      "\n",
+      "Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.\n",
+      "\n",
+      "  sns.barplot(x=\"Total Articles\", y=\"Country\", data=df.drop_duplicates(\"Country\"), palette=\"Blues_d\")\n"
+     ]
+    }
+   ],
+   "source": [
+    "# График 1: Кол-во статей по странам\n",
+    "plt.figure(figsize=(10, 6))\n",
+    "sns.barplot(x=\"Total Articles\", y=\"Country\", data=df.drop_duplicates(\"Country\"), palette=\"Blues_d\")\n",
+    "plt.title(\"Number of Articles per Country\")\n",
+    "plt.tight_layout()\n",
+    "plt.savefig(\"articles_per_country.png\")\n",
+    "plt.close()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "825e96e1",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "C:\\Users\\Олег\\AppData\\Local\\Temp\\ipykernel_2876\\246651743.py:3: FutureWarning: \n",
+      "\n",
+      "Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.\n",
+      "\n",
+      "  sns.barplot(x=\"Avg Sentiment\", y=\"Country\", data=df.drop_duplicates(\"Country\"), palette=\"coolwarm\")\n"
+     ]
+    }
+   ],
+   "source": [
+    "# График 2: Средняя тональность\n",
+    "plt.figure(figsize=(10, 6))\n",
+    "sns.barplot(x=\"Avg Sentiment\", y=\"Country\", data=df.drop_duplicates(\"Country\"), palette=\"coolwarm\")\n",
+    "plt.title(\"Average Sentiment per Country\")\n",
+    "plt.axvline(0, color='gray', linestyle='--')\n",
+    "plt.tight_layout()\n",
+    "plt.savefig(\"sentiment_per_country.png\")\n",
+    "plt.close()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "30e76a88",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# График 3: Распределение тем (Stacked Bar Chart)\n",
+    "theme_pivot = df.pivot_table(index=\"Country\", columns=\"Theme\", values=\"Theme Share\", aggfunc=\"first\").fillna(0)\n",
+    "theme_pivot.plot(kind='barh', stacked=True, figsize=(12, 8), colormap='tab20')\n",
+    "plt.title(\"Theme Distribution per Country\")\n",
+    "plt.xlabel(\"Proportion of Themes\")\n",
+    "plt.legend(title=\"Themes\", bbox_to_anchor=(1.05, 1), loc='upper left')\n",
+    "plt.tight_layout()\n",
+    "plt.savefig(\"themes_stacked_bar.png\")\n",
+    "plt.close()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1a480b38",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
+
+
+
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "id": "e955c876",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import json\n",
+    "import geopandas as gpd\n",
+    "import matplotlib.pyplot as plt\n",
+    "import pandas as pd"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "eddda8c0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "with open(\"aggregated_statistics.json\", \"r\", encoding=\"utf-8\") as f:\n",
+    "    data = json.load(f)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "1ca06b9f",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "shapefile_path = \"data/ne_110m_admin_0_countries/ne_110m_admin_0_countries.shp\"\n",
+    "\n",
+    "# Загрузка геоданных\n",
+    "world = gpd.read_file(shapefile_path)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "16a841c5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Маппинг кодов стран (ISO A2) на количество статей\n",
+    "article_counts = {\n",
+    "    country: stats[\"total_articles\"]\n",
+    "    for country, stats in data.items()\n",
+    "}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "4742a235",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Преобразуем коды стран (ISO A2 → ISO A3, которые в shapefile)\n",
+    "code_map = {\n",
+    "    \"au\": \"AUS\", \n",
+    "    \"ca\": \"CAN\", \n",
+    "    \"ch\": \"CHE\", \n",
+    "    \"gb\": \"GBR\", \n",
+    "    \"ie\": \"IRL\", \n",
+    "    \"in\": \"IND\", \n",
+    "    \"ph\": \"PHL\", \n",
+    "    \"pk\": \"PAK\", \n",
+    "    \"sg\": \"SGP\",\n",
+    "    \"us\": \"USA\"\n",
+    "}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "6818fc34",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Обратный маппинг: ISO A3 → article count\n",
+    "country_article_map = {}\n",
+    "for code2, count in article_counts.items():\n",
+    "    code3 = code_map.get(code2)\n",
+    "    if code3:\n",
+    "        country_article_map[code3] = count"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "id": "99eafaa2",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "world[\"articles\"] = world[\"ADM0_A3\"].map(country_article_map)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4e41f643",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "🗺️ Географическая карта сохранена: geographic_coverage_map.png\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Построение карты\n",
+    "fig, ax = plt.subplots(1, 1, figsize=(15, 10))\n",
+    "world.boundary.plot(ax=ax, linewidth=0.8, color=\"black\")\n",
+    "world.plot(column=\"articles\", ax=ax, cmap=\"OrRd\", legend=True,\n",
+    "           legend_kwds={'label': \"Number of Articles\", 'orientation': \"vertical\"},\n",
+    "           missing_kwds={\"color\": \"lightgrey\", \"label\": \"No data\"})\n",
+    "\n",
+    "ax.set_title(\"Geographic Coverage of News Articles by Country\")\n",
+    "ax.axis('off')\n",
+    "plt.tight_layout()\n",
+    "plt.savefig(\"geographic_coverage_map.png\")\n",
+    "plt.close()\n",
+    "\n",
+    "print(\"Географическая карта сохранена: geographic_coverage_map.png\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 34,
+   "id": "a91c7124",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Карта сохранена: sentiment_map_by_country.png\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Присвоение средних значений тональности\n",
+    "world[\"sentiment\"] = world[\"ADM0_A3\"].map(country_article_map)\n",
+    "\n",
+    "# Шаг 4: Построение карты\n",
+    "fig, ax = plt.subplots(1, 1, figsize=(15, 10))\n",
+    "world.boundary.plot(ax=ax, linewidth=0.5, color=\"black\")\n",
+    "world.plot(\n",
+    "    column=\"sentiment\", ax=ax, cmap=\"RdYlGn\", legend=True,\n",
+    "    legend_kwds={\n",
+    "        'label': \"Средняя тональность по странам\",\n",
+    "        'orientation': \"vertical\"\n",
+    "    },\n",
+    "    missing_kwds={\n",
+    "        \"color\": \"lightgrey\",\n",
+    "        \"label\": \"Нет данных\"\n",
+    "    }\n",
+    ")\n",
+    "\n",
+    "ax.set_title(\"Geographical distribution of news sentiment\", fontsize=18)\n",
+    "ax.axis('off')\n",
+    "plt.tight_layout()\n",
+    "plt.savefig(\"sentiment_map_by_country.png\")\n",
+    "plt.close()\n",
+    "\n",
+    "print(\"Карта сохранена: sentiment_map_by_country.png\")"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

@@ -1,0 +1,118 @@
+{
+    "au": {
+        "total_articles": 30,
+        "average_sentiment": 0.267,
+        "theme_distribution": {
+            "finance": 0.6,
+            "geopolitics": 0.833,
+            "technology": 0.933,
+            "trade": 0.667,
+            "energy": 0.3,
+            "military": 0.367
+        }
+    },
+    "ca": {
+        "total_articles": 50,
+        "average_sentiment": 0.12,
+        "theme_distribution": {
+            "geopolitics": 0.78,
+            "technology": 0.9,
+            "trade": 0.46,
+            "finance": 0.4,
+            "energy": 0.18,
+            "military": 0.22
+        }
+    },
+    "ch": {
+        "total_articles": 1,
+        "average_sentiment": -1,
+        "theme_distribution": {
+            "technology": 1.0
+        }
+    },
+    "gb": {
+        "total_articles": 48,
+        "average_sentiment": -0.104,
+        "theme_distribution": {
+            "finance": 0.375,
+            "geopolitics": 0.979,
+            "technology": 0.979,
+            "trade": 0.625,
+            "energy": 0.271,
+            "military": 0.417,
+            "other": 0.021
+        }
+    },
+    "ie": {
+        "total_articles": 22,
+        "average_sentiment": 0.136,
+        "theme_distribution": {
+            "geopolitics": 0.273,
+            "technology": 1.0,
+            "trade": 0.273,
+            "military": 0.136,
+            "finance": 0.227,
+            "energy": 0.136
+        }
+    },
+    "in": {
+        "total_articles": 50,
+        "average_sentiment": 0.1,
+        "theme_distribution": {
+            "finance": 0.72,
+            "geopolitics": 0.98,
+            "technology": 0.96,
+            "trade": 0.8,
+            "energy": 0.2,
+            "military": 0.16
+        }
+    },
+    "ph": {
+        "total_articles": 7,
+        "average_sentiment": 0.143,
+        "theme_distribution": {
+            "geopolitics": 0.571,
+            "technology": 0.857,
+            "trade": 0.429,
+            "finance": 0.429,
+            "military": 0.143,
+            "other": 0.143
+        }
+    },
+    "pk": {
+        "total_articles": 26,
+        "average_sentiment": 0.231,
+        "theme_distribution": {
+            "finance": 0.731,
+            "geopolitics": 1.0,
+            "technology": 0.923,
+            "trade": 0.654,
+            "military": 0.385,
+            "energy": 0.423
+        }
+    },
+    "sg": {
+        "total_articles": 10,
+        "average_sentiment": 0.3,
+        "theme_distribution": {
+            "finance": 0.5,
+            "geopolitics": 0.9,
+            "technology": 0.8,
+            "trade": 0.7,
+            "military": 0.3,
+            "energy": 0.2
+        }
+    },
+    "us": {
+        "total_articles": 50,
+        "average_sentiment": -0.02,
+        "theme_distribution": {
+            "geopolitics": 0.66,
+            "technology": 0.98,
+            "trade": 0.48,
+            "military": 0.22,
+            "finance": 0.42,
+            "energy": 0.16
+        }
+    }
+}
