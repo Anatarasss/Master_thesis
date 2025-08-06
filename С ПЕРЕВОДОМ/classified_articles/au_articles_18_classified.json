@@ -1,0 +1,50 @@
+{
+  "title": "Australian Oscar Jenkins sentenced to 13 years in jail by Russia for fighting alongside Ukrainian forces",
+  "published_date": null,
+  "url": "https://www.abc.net.au/news/2025-05-16/oscar-jenkins-sentence-13-years-maximum-security-russia-ukraine/105304126",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Australian Oscar Jenkins sentenced to 13 years in jail by Russia for fighting alongside Ukrainian forces Russia has sentenced Australian Oscar Jenkins to 13 years in a maximum-security prison for fighting alongside Ukrainian forces, according to prosecutors in the Russian-controlled part of eastern Ukraine.",
+    "The 33-year-old Melbourne man was found guilty of participating in an armed conflict as a mercenary, the prosecutors said, after a court ruled he had fought against Russian troops between March and December last year.",
+    "He is to serve his sentence \"in a strict regime penal colony\", according to the ruling.",
+    "In a statement, Foreign Affairs Minister Penny Wong said the Australian government was \"appalled\" by the \"sham trial\" and sentence given to Mr Jenkins.",
+    "\"We continue to hold serious concerns for Mr Jenkins,\"she said.",
+    "\"We are working with Ukraine and other partners, including the International Committee of the Red Cross, to advocate for his welfare and release.\"",
+    "Ms Wong said as a prisoner of war, Mr Jenkins must be given \"the protections afforded to him\".",
+    "\"Russia is obligated to treat him in accordance with international humanitarian law, including humane treatment,\" she said.",
+    "\"The Department of Foreign Affairs and Trade continues to provide consular support to Mr Jenkins' family.\"",
+    "Jenkins charged in April Mr Jenkins, a former biology teacher who the Australian government has repeatedly called on Russia to release, was captured in December while serving alongside Ukraine's military in the Donbas region.",
+    "Russia and its eastern Ukrainian proxies consider foreigners who have travelled to fight in Ukraine to be mercenaries, which enables them to be prosecuted under Russia's criminal code rather than having to be treated as prisoners of war — which would entitle them to rights under the Geneva Convention.",
+    "In the same month he was captured, Mr Jenkins was filmed being roughly interrogated and slapped in the face, with the video then being shared online by a Russian military blogger.",
+    "The following month, the Australian government summoned the Russian ambassador over reports he had been killed while in captivity.",
+    "However, in February, new videos of Mr Jenkins were posted online showing him alive and in Russian captivity, but looking frail and potentially suffering from a broken arm.",
+    "He was charged in April, and prosecutors later posted a video of him standing in court in a glass cage, with his hands behind his back and his expression despondent.",
+    "The prosecution alleged he had signed a contract with the Ukrainian Defence Ministry to fight against the Russian army for between 600,000 and 800,000 roubles ($11,000 and $15,000) a month.",
+    "Shortly after Mr Jenkins was charged, Prime Minister Anthony Albanese said Australia had not abandoned him.",
+    "\"We'll continue to make representations to the reprehensible regime of Vladimir Putin on behalf of Mr Jenkins.",
+    "We will stand up and use whatever avenues we have at our disposal to continue to make those representations,\" Mr Albanese said last month.",
+    "A Moscow-based human rights group — whose public statements regularly align with those of senior Kremlin officials — has also suggested Mr Jenkins could be released as part of a prisoner swap between Australia and Russia.",
+    "The swap could involve accused Russian spies Kira and Igor Korolev as well as Sydney fugitive Simion Boikov, known as the \"Aussie Cossack\", the group suggested."
+  ],
+  "topics": {
+    "Conflict": 0.8724067807197571,
+    "Politics": 0.825317919254303,
+    "Culture": 0.8037644028663635,
+    "Crime": 0.7179535031318665,
+    "Environment": 0.6986264586448669,
+    "Diplomacy": 0.6896392107009888,
+    "Health": 0.6651021838188171,
+    "Transport": 0.6616135239601135,
+    "Military": 0.6573096513748169,
+    "Economy": 0.6004425883293152,
+    "Energy": 0.5846121907234192,
+    "Technology": 0.5551219582557678,
+    "Elections": 0.4788433015346527,
+    "Education": 0.39071303606033325
+  },
+  "sentiment": {
+    "positive": 0.381,
+    "negative": 0.619,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Ukraine accuses Russia of deadly attack on bus hours after peace talks",
+  "published_date": null,
+  "url": "https://www.abc.net.au/news/2025-05-17/ukraine-accuses-russia-of-deadly-attack-on-bus-after-peace-talks/105305262",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Ukrainian officials say a Russian drone strike has hit a bus, killing at least nine people and injuring four more, in the country's north-eastern Sumy region.",
+    "The attack came just hours after Moscow and Kyiv held their first direct peace talks in years, in diplomatic discussions held in Istanbul, Türkiye.",
+    "The peace talks failed to produce a ceasefire deal, but Russia and Ukraine agreed to exchange 1,000 prisoners of war and to meet again for further negotiations.",
+    "Ukrainian officials say a Russian drone strike has hit a bus, killing at least nine people and injuring four more, in the country's north-eastern Sumy region, in an attack that took place hours after Moscow and Kyiv held their first direct peace talks in years.",
+    "\"Unfortunately, as a result of a cynical attack by Russians on a bus with civilians, there are dead,\" the administration said in a Telegram post on Saturday.",
+    "\"Unfortunately, the death toll has risen to nine.\"",
+    "The bus, which was attacked near the city of Bilopillya while travelling towards Sumy, was \"targeted by the Russians\", the military administration said.",
+    "Local media outlet Suspilne said the passengers on the bus were being evacuated from Bilopillia when the strike occurred.",
+    "Authorities are working to identify some of the victims, most of them elderly women.",
+    "A period of mourning has been declared in the city, with local community chief Yurii Zarko calling the attack \"Black Saturday\".",
+    "Ukraine's police posted photos of a nearly destroyed dark blue passenger van, with the roof torn off and the windows blown out.",
+    "\"This is not just another shelling — it is a cynical war crime,\" Ukraine's National Police said in a post on the Telegram messaging app.",
+    "Ihor Tkachenko, head of Sumy's military administration, said on Telegram that a rescue operation was underway.",
+    "Reuters was unable to independently verify the Ukrainian report, but Russia's TASS state news agency reported, citing a statement from the defence ministry, that Russian forces struck a Ukrainian military equipment staging area in the Sumy region with drones.",
+    "Both sides deny targeting civilians in their attacks, but thousands have died in the conflict, the vast majority of them Ukrainians.",
+    "It was the first direct dialogue between the two sides since the early months of the war that Russia launched in February 2022.",
+    "During the exchange, Russia and Ukraine decided on an exchange of 1,000 prisoners of war each and agreed in principle to meet again for further negotiations aimed at brokering a ceasefire deal.",
+    "Ukraine says the next step should be a face-to-face meeting between Ukrainian President Volodymyr Zelenskyy and Russian President Vladimir Putin.",
+    "Mr Zelenskyy has called for tougher sanctions on Russia should it reject a US-backed proposal for a 30-day ceasefire.",
+    "Meanwhile, Russia said it was satisfied with the talks and was ready to keep talking.",
+    "Vladimir Medinsky, the head of Russia's delegation, said the prisoner exchange was one of the largest such swaps since the beginning of the conflict.",
+    "Both Moscow and the United States government have also talked up the need for a meeting on the conflict between Mr Putin and President Donald Trump.",
+    "Mr Trump, who is growing increasingly frustrated with both Russia and Ukraine as he tries to push them towards a peace settlement, said he was \"always considering\" secondary sanctions against Moscow if he thought it was blocking the process.",
+    "US officials have spoken about possible financial sanctions as well as potential secondary sanctions on buyers of Russian oil."
+  ],
+  "topics": {
+    "Conflict": 0.9911894202232361,
+    "Diplomacy": 0.9496364593505859,
+    "Politics": 0.9262062907218933,
+    "Economy": 0.9202529191970825,
+    "Culture": 0.918441891670227,
+    "Military": 0.9017738699913025,
+    "Health": 0.890282154083252,
+    "Technology": 0.8888822197914124,
+    "Crime": 0.856163740158081,
+    "Transport": 0.8327926993370056,
+    "Elections": 0.8106427192687988,
+    "Energy": 0.7740538716316223,
+    "Environment": 0.745148241519928,
+    "Education": 0.626821756362915
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

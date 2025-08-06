@@ -1,0 +1,42 @@
+{
+  "title": "Se a Rússia estivesse no G8, talvez não houvesse guerra, diz Trump",
+  "published_date": null,
+  "url": "https://www.poder360.com.br/poder-internacional/se-a-russia-estivesse-no-g8-talvez-nao-houvesse-guerra-diz-trump/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "If Russia were in the G8, there may be no war, says Trump President of the US criticized the “expulsion” of the Russians of the world's most industrialized economies in 2014 United States President Donald Trump (Republican Party) said on Wednesday (21.MAI.2025) that the war between Russia and Ukraine could not have started if the Russians had not been expelled from G8 in 2014.",
+    "The statement was given at the White House during a meeting with South Africa President Cyril Ramaphosa.",
+    "\"It used to be the G8 before Russia was expelled.",
+    "[…] It would have been much better if Russia was still there,\" Trump said.",
+    "\"We would probably not have had a war,\" he added, referring to Russia's invasion of the Ukrainian territory on February 24, 2022.",
+    "The war has lasted more than 3 years.",
+    "Trump did not comment, however, that Russia was expelled from the G8 in 2014 after taking Crimea, a Ukrainian peninsula.",
+    "That is, even when Moscow was part of the group of the most industrialized economies in the world, it did not stop invading the neighboring country.",
+    "After the departure of Russia, the block was renamed G7.",
+    "In addition to the US, the group of Germany, Canada, France, Italy, the United Kingdom and Japan are part of the US group.",
+    "The European Union represents the other countries of the continental bloc.",
+    "The next Summit of G7 Government Leaders will be held from June 15 to 17 in Kananaskis, Canada.",
+    "The newly elected Canadian Prime Minister, Mark Carney (Liberal Party, Center left), will be the host."
+  ],
+  "topics": {
+    "Conflict": 0.9342252612113953,
+    "Politics": 0.8912249803543091,
+    "Military": 0.8677140474319458,
+    "Economy": 0.8424007296562195,
+    "Crime": 0.7935617566108704,
+    "Culture": 0.6602261662483215,
+    "Diplomacy": 0.41599640250205994,
+    "Energy": 0.3559889793395996,
+    "Transport": 0.32832932472229004,
+    "Technology": 0.3075697720050812,
+    "Health": 0.28096824884414673,
+    "Environment": 0.25510892271995544,
+    "Elections": 0.138411283493042,
+    "Education": 0.09779345989227295
+  },
+  "sentiment": {
+    "positive": 0.462,
+    "negative": 0.538,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Ativistas pró-Rússia aproveitaram as enchentes para tentar criar uma imagem de 'caos' na Espanha",
+  "published_date": null,
+  "url": "https://www.em.com.br/internacional/2025/05/7153742-ativistas-pro-russia-aproveitaram-as-enchentes-para-tentar-criar-uma-imagem-de-caos-na-espanha.html",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Pro-Russian activists took the floods to try to create an image of 'chaos' in Spain share Following Pró-Kremlin atativists fueled the perception that Spain was a country \"plunged into chaos\" after the floods that hit Valencia and other regions last October, according to a report by the internal security department released on Thursday (22).",
+    "\"During the crisis that occurred in our country after the approval of Dana on October 29, 2024, the Pro-Kremlin Propaganda and Disinformation ecosystem amplified and adapted an opportunistic disinformation narratives,\" says the 2024 National Security report.",
+    "The Pro-Russian activist campaign spread messages claiming that the government of socialist leader Pedro Sánchez was using public funds to help Ukraine against the Russian invasion, rather than meeting \"the real need for help\" in the areas affected by the rains, says the text.",
+    "Finally, they tried to \"design an image of a country plunged into chaos\" after flooding in late October, which left 235 dead and great destruction, especially in the Valencia region.",
+    "The Department of Internal Security is an agency focused on preventing threats such as terrorism and cyber attacks and is linked to the Ministry of Spanish Presidency.",
+    "According to their annual report, Pro-Russian activists also intensified their activity before the elections for the European Parliament in June 2024, seeking to sow distrust in the electoral system.",
+    "The intelligence report identifies Russia as the main source of hybrid threat to Spain."
+  ],
+  "topics": {
+    "Elections": 0.9008445143699646,
+    "Conflict": 0.8209898471832275,
+    "Politics": 0.6932525038719177,
+    "Military": 0.2658521831035614,
+    "Economy": 0.22692014276981354,
+    "Technology": 0.19982515275478363,
+    "Crime": 0.19553880393505096,
+    "Transport": 0.17333737015724182,
+    "Diplomacy": 0.16059546172618866,
+    "Environment": 0.1425790935754776,
+    "Energy": 0.13728566467761993,
+    "Culture": 0.13561135530471802,
+    "Health": 0.07179843634366989,
+    "Education": 0.04624214023351669
+  },
+  "sentiment": {
+    "positive": 0.286,
+    "negative": 0.714,
+    "neutral": 0.0
+  }
+}

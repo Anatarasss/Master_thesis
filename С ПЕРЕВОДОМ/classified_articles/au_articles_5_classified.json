@@ -1,0 +1,52 @@
+{
+  "title": "Russia and Ukraine will hold direct ceasefire talks, Trump says after call with Putin",
+  "published_date": null,
+  "url": "https://www.abc.net.au/news/2025-05-20/donald-trump-vladimir-putin-ukraine-war-ceasefire-phone-call/105312068",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "After a two-hour call with Vladimir Putin, Donald Trump said Russia and Ukraine would hold talks about a ceasefire and ending the war.",
+    "The US president said the Vatican was \"very interested in hosting the negotiations\".",
+    "The Vatican has not commented.",
+    "Neither Russia nor the US have outlined specific details about how future talks will work.",
+    "Mr Trump said they would start immediately.",
+    "Donald Trump and Vladimir Putin have held another lengthy phone call about Russia's invasion of Ukraine, but again failed to reach any breakthrough agreement on a ceasefire.",
+    "Instead, the US president said Russia and Ukraine would now hold direct talks because \"they know details of a negotiation that nobody else would be aware of\".",
+    "\"The tone and spirit of the conversation were excellent,\" Mr Trump posted online after the two-hour call with his Russian counterpart.",
+    "\"If it wasn't, I would say so now, rather than later.\"",
+    "Mr Trump, who repeatedly pledged to end the war quickly during his election run, has been pushing both Mr Putin and Ukrainian President Volodymyr Zelenskyy to make a deal.",
+    "Under pressure from the US president, Mr Zelenskyy agreed to an American proposal for a 30-day ceasefire in March.",
+    "But Mr Putin rejected the terms during a subsequent phone call with Mr Trump.",
+    "None of the parties has outlined specific details about how the future negotiations will work, but Mr Trump suggested the Vatican could host them.",
+    "Later, when Mr Trump was asked if he thought Pope Leo could help broker peace, he said: \"I do.\"",
+    "Officials from Russia and Ukraine last week held their first direct talks since 2022.",
+    "The talks, in Türkiye, led to a prisoner-swap agreement but little other progress.",
+    "Mr Zelenskyy said he spoke to Mr Trump before his call with Mr Putin, and again afterwards in a conversation that included the leaders of France, Finland, Germany, Italy and the European Union.",
+    "He said Kyiv and its partners were considering arranging a high-level meeting between Ukraine, Russia, the United States, European Union countries and Britain.",
+    "After Monday's call, Mr Putin reiterated that his top priority was to \"eliminate the root causes\" of the conflict, in which Russian forces have killed thousands of Ukrainians since invading more than three years ago.",
+    "\"We have agreed with the president of the United States that Russia will propose and is ready to work with the Ukrainian side on a memorandum on a possible future peace accord,\" Mr Putin said, according to a translation by the Reuters news agency.",
+    "The memorandum would set out \"a number of positions, such as, for example, the principles of settlement, the timing of a possible peace agreement\", Mr Putin said.",
+    "\"We just need to determine the most effective ways to move towards peace.\"",
+    "Before the call, the White House warned Mr Trump had grown \"weary and frustrated with both sides of the conflict\", and Vice-President JD Vance said America was \"more than open to walking away\"."
+  ],
+  "topics": {
+    "Conflict": 0.8955729603767395,
+    "Culture": 0.8945301175117493,
+    "Politics": 0.8127391934394836,
+    "Technology": 0.7071107625961304,
+    "Military": 0.6172550916671753,
+    "Diplomacy": 0.6074280142784119,
+    "Health": 0.5872493982315063,
+    "Economy": 0.5726624727249146,
+    "Transport": 0.5197049379348755,
+    "Energy": 0.5027695298194885,
+    "Elections": 0.48214390873908997,
+    "Education": 0.429202675819397,
+    "Environment": 0.41701987385749817,
+    "Crime": 0.3870975077152252
+  },
+  "sentiment": {
+    "positive": 0.435,
+    "negative": 0.565,
+    "neutral": 0.0
+  }
+}

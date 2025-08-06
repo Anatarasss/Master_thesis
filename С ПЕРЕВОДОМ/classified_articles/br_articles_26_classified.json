@@ -1,0 +1,42 @@
+{
+  "title": "Rússia e outros 3 países reduzem embargo ao Brasil",
+  "published_date": null,
+  "url": "https://www1.folha.uol.com.br/mercado/2025/05/russia-e-outros-3-paises-reduzem-embargo-a-carne-de-frango-do-brasil.shtml",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Russia, Belarus, Armenia and Kyrguistan have decided that they will restrict the suspension to Brazilian chicken meat only to the state of Rio Grande do Sul, a focus of a case of commercial granja influenza last week, the Ministry of Agriculture said on Thursday (22).",
+    "Previously, the suspension of these countries was for all of Brazil, which faces total or partial embargoes of dozens of destinations.",
+    "Belarus, Armenia and Quirgistan do not appear among the main destinations of Brazilian chicken meat, while Russia was the 25th buyer in 2024, according to industry data.",
+    "On Wednesday, Colombia informed the suspension of Brazilian chicken meat across the country, according to a note from the Colombian Agricultural Institute.",
+    "The country, however, is not in a relationship released by the Brazilian Ministry of Agriculture.",
+    "The ministry reported on Thursday the inclusion of Türkiye among those countries that embargo only the meat of Rio Grande do Sul.",
+    "Türkiye and Colombia are not among the main importers.",
+    "The ministry's note reiterated that China (largest importer), European Union, Mexico, Iraq, South Korea, Chile, Philippines, South Africa, Jordan, Peru, Canada, Dominican Republic, Uruguay, Malaysia, Argentina, Timor-Leste, Morocco, Bolivia, Sri Lanka and Pakistano follow prohibition for the country.",
+    "Of these, China, European Union, Mexico, Iraq, South Korea, South Africa and Philippines were among the top ten destinations of Brazilian chicken meat exports in 2024, according to data from ABPA (Brazilian Association of Animal Protein).",
+    "According to the ministry note on Thursday, the countries that restrict the suspension only to the state of Rio Grande do Sul are: Saudi Arabia, United Kingdom, Bahrain, Cuba, Macedonia, Montenegro, Kazakhstan, Bosnia and Herzegovina, Tajiquistan and Ukraine, besides Turkey.",
+    "The day before, Saudi Arabia - a quarter destination for Brazilian chicken exports - appeared as restricting only the product of the municipality of Montenegro, according to a relationship released by the ministry, which did not explain the change.",
+    "In Thursday's note, the ministry's note included the United Arab Emirates, according to a destination for Brazilian export in 2024, with an embargo only for the product of Montenegro-the day before, the Arab nation was absent from the official note.",
+    "In addition to the United Arab Emirates, Japan, the third importer of chicken meat in Brazil in 2024, also restricts only Montenegro's product, according to sanitary protocol."
+  ],
+  "topics": {
+    "Conflict": 0.5447731614112854,
+    "Culture": 0.5012905597686768,
+    "Economy": 0.46796169877052307,
+    "Politics": 0.4549310505390167,
+    "Health": 0.3273257911205292,
+    "Diplomacy": 0.29878661036491394,
+    "Technology": 0.2784542739391327,
+    "Military": 0.18768565356731415,
+    "Transport": 0.18003486096858978,
+    "Environment": 0.1572243869304657,
+    "Elections": 0.1532154083251953,
+    "Energy": 0.11546266078948975,
+    "Crime": 0.09299740195274353,
+    "Education": 0.05213119089603424
+  },
+  "sentiment": {
+    "positive": 0.154,
+    "negative": 0.846,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Novo reator nuclear da Rússia vai revolucionar comércio marítimo",
+  "published_date": null,
+  "url": "https://olhardigital.com.br/2025/05/23/carros-e-tecnologia/novo-reator-nuclear-da-russia-pode-revolucionar-comercio-maritimo/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Climate change is negative, but they are also opening new economic possibilities.",
+    "One is navigation in previously frozen locations.",
+    "But for this, the so-called icebreaker, ships that open the way so that other vessels can pass the places.",
+    "Russia has been a pioneer in this regard, as it has the largest frottime fleet in the world.",
+    "And the country has just taken another important step, revealing the first nuclear reactor to feed these vessels.",
+    "Equipment will be installed on the Rossiya ship According to Russian authorities, the RITM-400 reactor is an enhanced version of the RITM-200 and can produce 315 MWT and 120 MW of propeller power.",
+    "A new unit should be completed in the coming months.",
+    "The information is from Portal Interesting Engineering.",
+    "Both equipment will be installed on the Rossiya ship.",
+    "Once operational, the vessel will become the most powerful nuclear icebreaker in the world and can penetrate the ice up to 4.3 meters thick and clean a channel up to 50 meters wide.",
+    "Despite their high operating costs, waterbreaks offer significant advantages over diesel vessels.",
+    "Their onboard reactors can operate for several years without replenishment, something fundamental in remote areas of the Arctic.",
+    "Also, these machines can break more ice and at a higher speed.",
+    "read more - Russia used Brazil to 'manufacture' spies, reveals newspaper - RS-25 YARS: Meet the Russian missile capable of reaching 11 thousand km - Putin wants Mars!",
+    "Russia may be back to the space race Breaks are opening new routes for maritime trade - Russia currently has 34 ships moved to diesel and eight nuclear propulsion.",
+    "- In addition, the country is building two other nuclear vessels.",
+    "- They should already use the new reactor, which will make ships the most powerful in the world.",
+    "- The Russian fleet is considered fundamental for the development of a new sea route in the North Sea.",
+    "- Without the ice, this route would substantially decrease the travel time between Europe and Asia.",
+    "- The most common crossing passes through the Suez Canal in Egypt, and takes an average of 35 days from Murmansk, Russia, to the port of Shanghai, China.",
+    "- The new option would save 10 to 12 days of travel."
+  ],
+  "topics": {
+    "Economy": 0.9932541251182556,
+    "Environment": 0.9601622819900513,
+    "Technology": 0.9400771856307983,
+    "Transport": 0.9266246557235718,
+    "Energy": 0.8296226263046265,
+    "Culture": 0.7808274030685425,
+    "Conflict": 0.6024380922317505,
+    "Military": 0.5768729448318481,
+    "Health": 0.5639696717262268,
+    "Diplomacy": 0.5568551421165466,
+    "Politics": 0.515706479549408,
+    "Elections": 0.48962727189064026,
+    "Education": 0.3330581486225128,
+    "Crime": 0.12022668123245239
+  },
+  "sentiment": {
+    "positive": 0.619,
+    "negative": 0.381,
+    "neutral": 0.0
+  }
+}

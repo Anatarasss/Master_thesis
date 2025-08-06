@@ -1,0 +1,47 @@
+{
+  "title": "Rússia questiona escolha do Vaticano para negociação sobre Ucrânia",
+  "published_date": null,
+  "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2025-05/russia-questiona-escolha-do-vaticano-para-negociacao-sobre-ucrania",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Russia questions Vatican choice for negotiation about Ukraine Russian Foreign Minister Sergei Lavrov launched doubts on Friday (23) about the Vatican as a potential place for peace negotiations between Russia and Ukraine.",
+    "He said the Holy See herself would find it uncomfortable to receive two nations of an orthodox Christian majority.",
+    "The Italian Prime Minister Giorgia Meloni said on Tuesday that Pope Leo XIV had confirmed the willingness to host the talks during a telephone call with her.",
+    "The Vatican press office did not want to make comments.",
+    "Pope Lion, the first pontiff born in the United States, said shortly after his election this month that the Vatican could act as a mediator in global conflicts, not specifically mentioned Russia and Ukraine.",
+    "Lavrov, speaking today at the Diplomatic Academy in Moscow, minimized the Vatican's idea as next place, and Kremlin said there was no agreement on where a new round of negotiations would be held.",
+    "\"Many people are fantasizing about when and where she [the meeting] will be held.",
+    "We have no idea right now,\" Lavrov said.",
+    "\"But imagine the Vatican as a place for negotiations.",
+    "It would be a little inelegant for orthodox countries to use a Catholic platform to discuss issues on how to remove basic causes ([the conflict].\"",
+    "\"I think it would not be very comfortable for the Vatican himself to receive delegations from two Orthodox countries under these circumstances,\" Lavrov added.",
+    "Ukrainian and Russian negotiators held their first direct conversations in more than three years this month in Istanbul.",
+    "Discrimination Lavrov also said Moscow would not allow people who speak the Russian language in Ukraine remained under the domain of what he called the \"joint,\" led by Ukrainian President Volodymyr Zelensky.",
+    "It would be a \"crime\" for Russia to allow this to happen, he said, adding that the simplest way to resolve the conflict would be the international community to demand that Ukraine cancel what he said are laws that discriminate against people who speak the Russian language.",
+    "Kiev denies any kind of discrimination.",
+    "Lavrov reiterated an earlier Russian idea that it would be good if presidential elections were held in Ukraine so that Moscow could sign a possible peace agreement with someone considered legitimate.",
+    "Zelensky rejects Russia's idea that he is not legitimate.",
+    "The elections were not held when his five -year term technically expired in May 2024 because Ukraine remained - and remains - under martial law, which suspends the normal electoral cycle."
+  ],
+  "topics": {
+    "Conflict": 0.9818646311759949,
+    "Diplomacy": 0.910966157913208,
+    "Elections": 0.8967768549919128,
+    "Culture": 0.8262407183647156,
+    "Politics": 0.7808353304862976,
+    "Military": 0.643360435962677,
+    "Health": 0.6220086812973022,
+    "Technology": 0.6196193695068359,
+    "Crime": 0.5372588038444519,
+    "Economy": 0.5226194262504578,
+    "Energy": 0.5181878209114075,
+    "Transport": 0.4237699806690216,
+    "Environment": 0.4201476573944092,
+    "Education": 0.40790146589279175
+  },
+  "sentiment": {
+    "positive": 0.222,
+    "negative": 0.778,
+    "neutral": 0.0
+  }
+}

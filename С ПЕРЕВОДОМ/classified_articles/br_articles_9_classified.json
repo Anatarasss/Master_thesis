@@ -1,0 +1,42 @@
+{
+  "title": "Rússia questiona eventuais negociações sobre a Ucrânia no Vaticano",
+  "published_date": null,
+  "url": "https://jornaldebrasilia.com.br/noticias/mundo/russia-questiona-eventuais-negociacoes-sobre-a-ucrania-no-vaticano/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Russian Foreign Minister Sergey Lavrov expressed doubts on Friday (23) about a possible negotiation with Ukraine in the Vatican, after United States, Italy and Pope Leo XIV expressed the hope that the city-state will receive the talks.",
+    "\"It would not be very elegant for orthodox countries to discuss in Catholic territory topics related to eliminating the fundamental causes (of conflict),\" Lavrov said.",
+    "\"For the Vatican himself would not be very comfortable, in current circumstances, to receive delegations from orthodox countries,\" he added.",
+    "Kremlin spokesman Dmitri Peskov said shortly after, \"so far, no decision or agreement has been made about the next location of the negotiations.\"",
+    "Representatives of Kiev and Moscow participated in Turkey last week of the first direct conversations since 2022, the year when the large -scale Russian offensive began against Ukraine.",
+    "The meeting had a strong symbolic range, but did not lead to the announcement of a ceasefire, nor to any important advance.",
+    "Since then, many sources have speculated about the possibility of a second round of discussions, which has not been confirmed.",
+    "According to Wall Street Journal (WSJ), US President Donald Trump told European leaders on May 19 that the next dialogues between Russians and Ukrainians would take place in the Vatican.",
+    "The Italian Prime Minister Giorgia Meloni said on Tuesday that Pope Leo XIV confirmed that he was willing to receive negotiations on Ukraine in the Vatican.",
+    "On Thursday, AFP questioned Ukrainian presidency spokesman Serguii Nikiforov on the subject, but he refused to comment.",
+    "Ukrainian President Volodimir Zelensky said on Monday that Kiev \"examined all possibilities\" about the place of a new bilateral meeting with the Russians, including \"Turkey, Vatican, Switzerland.\"",
+    "The Russian offensive in Ukraine caused a shake in the relations between the Holy See and the Russian Orthodox Patriarch Cyril, which vehemently supports the campaign and Russian President Vladimir Putin.",
+    "© AGENCE FRANCE-PRESSE"
+  ],
+  "topics": {
+    "Conflict": 0.9654216766357422,
+    "Politics": 0.8770838975906372,
+    "Diplomacy": 0.8339580297470093,
+    "Culture": 0.6649787425994873,
+    "Military": 0.5667060017585754,
+    "Economy": 0.44485801458358765,
+    "Health": 0.41968536376953125,
+    "Crime": 0.36465466022491455,
+    "Technology": 0.3553386330604553,
+    "Transport": 0.34838008880615234,
+    "Energy": 0.31453418731689453,
+    "Education": 0.2626236081123352,
+    "Environment": 0.23392930626869202,
+    "Elections": 0.22222372889518738
+  },
+  "sentiment": {
+    "positive": 0.308,
+    "negative": 0.692,
+    "neutral": 0.0
+  }
+}

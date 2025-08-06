@@ -1,0 +1,48 @@
+{
+  "title": "Russia, Ukraine in first direct peace talks since 2022",
+  "published_date": null,
+  "url": "https://www.perthnow.com.au/news/conflict/rubio-suggests-russia-ukraine-talks-at-logjam-c-18709173",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russian and Ukrainian negotiators have met in Istanbul at their first direct peace talks in more than three years, under pressure from US President Donald Trump to end Europe's deadliest conflict since World War II.",
+    "Live Turkish television pictures on Friday showed Russian and Ukrainian negotiators holding discussions together with a Turkish delegation.",
+    "Turkish Foreign Minister Hakan Fidan was making a speech at the start of the meeting.",
+    "The meeting at the Dolmabahce Palace on the Bosphorus marks a rare sign of diplomatic progress between the warring sides, who had not met face-to-face since March 2022, the month after Russia's invasion.",
+    "Expectations for a major breakthrough, already low, were dented further on Thursday when Trump said there would be no movement without a meeting between himself and Russia's President Vladimir Putin.",
+    "Trump, winding up a Middle East tour and heading back to Washington, said on Friday he would meet the Russian leader \"as soon as we can set it up\".",
+    "Setting out Kyiv's priorities, the head of Ukraine's delegation said peace was only possible if Russia agreed to a 30-day ceasefire, the return of abducted Ukrainian children and an exchange of all prisoners of war.",
+    "Russia says it wants to end the war by diplomatic means and is ready to discuss a ceasefire.",
+    "But it has raised a list of questions and concerns, saying Ukraine could use the pause to rest its forces, mobilise extra troops and acquire more western weapons.",
+    "Ukraine and its allies accuse Putin of stalling, and say he is not serious about wanting peace.",
+    "It was Putin who proposed the direct talks in Turkey, but he spurned a challenge from Ukrainian President Volodymyr Zelenskiy to meet him there in person.",
+    "Instead, he sent a team of mid-level officials, and Ukraine responded by naming negotiators of similar rank.",
+    "US Secretary of State Marco Rubio and Trump's Ukraine envoy Keith Kellogg were also in Istanbul, where a flurry of separate meetings took place earlier on Friday.",
+    "Rubio told reporters on Thursday night that, based on the level of the negotiating teams, a major breakthrough was unlikely.",
+    "I hope I'm 100 per cent wrong,\" he said.",
+    "\"I hope tomorrow the news says they've agreed to a ceasefire; they've agreed to enter serious negotiations.",
+    "But I'm just giving you my assessment, honestly.\"",
+    "Russia said on Friday it had captured another village in its slow, grinding advance in eastern Ukraine.",
+    "Minutes before the start of the Istanbul meeting, Ukrainian media reported an air alert and explosions in the city of Dnipro."
+  ],
+  "topics": {
+    "Conflict": 0.9172680377960205,
+    "Politics": 0.8468793034553528,
+    "Diplomacy": 0.762312114238739,
+    "Technology": 0.7411421537399292,
+    "Culture": 0.7246854901313782,
+    "Military": 0.6036005616188049,
+    "Economy": 0.5762970447540283,
+    "Environment": 0.5388176441192627,
+    "Energy": 0.5171323418617249,
+    "Health": 0.5069183707237244,
+    "Elections": 0.47932296991348267,
+    "Education": 0.4639698266983032,
+    "Transport": 0.33199048042297363,
+    "Crime": 0.22039975225925446
+  },
+  "sentiment": {
+    "positive": 0.368,
+    "negative": 0.632,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Russia launches largest drone attack of war after deadlocked peace talks, killing woman near Kyiv and injuring child",
+  "published_date": null,
+  "url": "https://7news.com.au/news/russia-launches-largest-drone-attack-of-war-after-deadlocked-peace-talks-killing-woman-near-kyiv-and-injuring-child-c-18734058",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "The largest known Russian drone attack since full-scale war began in 2022 killed a woman in the Kyiv region and injured at least three people, Ukrainian authorities say, as Moscow steps up strikes following peace talks on Friday.",
+    "Russia had launched 273 drones by 8am on Sunday local time (0500 GMT), targeting chiefly the central Kyiv region and the Dnipropetrovsk and Donetsk regions in the country’s east, Ukraine’s air force said.",
+    "Based on data provided by the air force, this was Russia’s largest drone attack on Ukraine during the war.",
+    "Know the news with the 7NEWS app: Download today On the eve of the third anniversary of Russia’s full-scale invasion of Ukraine on February 23, Moscow launched a then-record 267 drones.",
+    "The first direct talks in three years between Russia and Ukraine on Friday failed to broker the temporary ceasefire Kyiv and its allies have been urging.",
+    "The 100 minutes of talks in Istanbul yielded an agreement to trade 1000 prisoners of war on each side.",
+    "US President Donald Trump said he would speak to Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskiy on Monday.",
+    "The sustained overnight Russian drone attack on Sunday killed a 28-year-old woman in the capital region and injured at least three people, including a four-year-old, Ukrainian authorities said.",
+    "“Unfortunately, as a result of the enemy attack in the Obukhiv district, a woman died from her injuries,” Mykola Kalashnik, governor of the Kyiv region, posted on Telegram.",
+    "Kyiv, the region around it and the eastern part of Ukraine were under raid warnings for nine hours overnight before they were called off about 9am local time (0600 GMT).",
+    "Air defence units were engaged several times trying to repel attacks, the military said on Telegram.",
+    "“It’s been a tough night.",
+    "The Russians have always used war and attacks to intimidate everyone in negotiations,” Andriy Kovalenko, head of Ukraine’s Centre for Countering Disinformation, said on Telegram of Sunday’s attack.",
+    "Air defence units destroyed 88 of the drones overnight.",
+    "The attack also included 128 simulator drones that were lost along the way without hitting anything, Ukraine’s air force said in a statement on Telegram.",
+    "On Saturday, a Russian drone attack killed nine civilians after hitting a shuttle bus in the Sumy region in northeast Ukraine, Kyiv said.",
+    "Zelenskiy called the attack “deliberate” and urged stronger sanctions on Moscow, which said it had attacked a military facility.",
+    "All of those injured in the Obukhiv district just south of Kyiv city were taken to hospital, Kalashnik said.",
+    "He said several residential buildings in the area were damaged.",
+    "In the city of Kyiv, fragments of a destroyed drone damaged the roof of a non-residential building, the city’s military administration said on Telegram.",
+    "Reuters witnesses in and around Kyiv heard blasts that sounded like air defence units in operation.",
+    "There was no immediate comment from Russia.",
+    "Both sides deny targeting civilians in the war, but thousands have been killed in the conflict, the vast majority of them Ukrainian."
+  ],
+  "topics": {
+    "Conflict": 0.9590359926223755,
+    "Technology": 0.8779042363166809,
+    "Politics": 0.8641205430030823,
+    "Military": 0.8570102453231812,
+    "Health": 0.813208281993866,
+    "Culture": 0.7855105400085449,
+    "Environment": 0.7582635879516602,
+    "Economy": 0.704688310623169,
+    "Diplomacy": 0.6452991962432861,
+    "Energy": 0.6336833238601685,
+    "Education": 0.6101223230361938,
+    "Transport": 0.603688657283783,
+    "Crime": 0.5980637669563293,
+    "Elections": 0.3863072693347931
+  },
+  "sentiment": {
+    "positive": 0.087,
+    "negative": 0.913,
+    "neutral": 0.0
+  }
+}

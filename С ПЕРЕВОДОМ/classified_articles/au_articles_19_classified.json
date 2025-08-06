@@ -1,0 +1,36 @@
+{
+  "title": "Russia jails Australian man for fighting for Ukraine",
+  "published_date": null,
+  "url": "https://www.perthnow.com.au/news/crime/russia-jails-australian-man-for-fighting-for-ukraine-c-18718884",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russia has sentenced an Australian citizen to 13 years in a maximum-security prison for fighting alongside Ukrainian forces, state prosecutors in a part of eastern Ukraine controlled by Russia say.",
+    "Oscar Jenkins, 33, was found guilty by a court of taking part in an armed conflict as a mercenary, a statement from the prosecutors said on Friday.",
+    "The court had ruled he had taken part in combat operations against Russian troops between March and December 2024.",
+    "Australian media reported in 2024 that Jenkins, a teacher from Melbourne, was serving alongside Ukraine's military when he was captured by Russian forces.",
+    "In January, Australia summoned the Russian ambassador over what turned out to be false reports that Jenkins had been killed after being captured by Russia.",
+    "Ukrainian ambassador to Australia Vasyl Myroshnychenko has previously said his government added Jenkins to its list of prisoners of war and would negotiate for his release in an exchange.",
+    "Prime Minister Anthony Albanese has said Australia has made representations to Ukraine, including a one-on-one discussion he had with Ukrainian President Volodymyr Zelenskiy."
+  ],
+  "topics": {
+    "Conflict": 0.9341345429420471,
+    "Culture": 0.8167554140090942,
+    "Military": 0.7589364647865295,
+    "Crime": 0.7446447610855103,
+    "Politics": 0.6449567675590515,
+    "Economy": 0.5848744511604309,
+    "Technology": 0.5791477560997009,
+    "Health": 0.5263493061065674,
+    "Diplomacy": 0.4901655614376068,
+    "Transport": 0.3795697093009949,
+    "Energy": 0.35547032952308655,
+    "Education": 0.34484344720840454,
+    "Environment": 0.33196401596069336,
+    "Elections": 0.2531326711177826
+  },
+  "sentiment": {
+    "positive": 0.286,
+    "negative": 0.714,
+    "neutral": 0.0
+  }
+}

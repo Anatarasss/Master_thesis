@@ -1,0 +1,48 @@
+{
+  "title": "Ex-deputado ucraniano próximo à Rússia é assassinado perto de Madri",
+  "published_date": null,
+  "url": "https://jornaldebrasilia.com.br/noticias/mundo/ex-deputado-ucraniano-proximo-a-russia-e-assassinado-perto-de-madri/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Andrii Portnov, former chief-in-chief of the Ukrainian presidential administration during the government of Viktor Yanukovych, Russia, was shot dead on Wednesday morning near Madrid outside a school, a police source told AFP.",
+    "\"The victim was shot several times as he got into a vehicle.",
+    "Several people shot his back and head and then fled to a wooded area,\" the source said, who confirmed that the victim was Andrii Portnov.",
+    "According to Spanish media, Portnov had just left his children in an American school in this residential area when he was murdered.",
+    "Asked by AFP, an employee of the Ukrainian Military Intelligence Service (Gur) merely confirmed the death of Portnov.",
+    "\"According to the information available, Portnov was shot dead,\" the authority said, speaking on condition of anonymity, without providing further details.",
+    "The body, covered by a white cloth, was removed shortly before 2 pm, local time, according to reporters.",
+    "\"It's a little shocking that these things happen here .... We usually see them in the news, or see them in other countries,\" said Álvaro Fernández García, a 22 -year -old student and resident.",
+    "- Ukraine escape in 2022 - Jurist and former high-ranking employee in Ukraine, Portnov, 51, was a member of Parliament in the 2000s before becoming a minimum chief of the presidential administration of Yanukovych, the pro-Russian leader who fled from Ukraine to Russia after violent repression of pro-European demonstrations known as Maidan Revolution in 2014.",
+    "Following the fall of Yanukovych, Portnov also fled from the country and settled in Russia and then in Austria before returning to Ukraine after the presidential election of Volodimir Zelensky in 2019.",
+    "According to Ukrainian press, thanks to his high -ranking connections, Portnov was able to escape Ukraine in June 2022, after the start of the Russian invasion, although men aged 18 to 60 were banned from leaving the country, with some exceptions.",
+    "His murder was no surprise in Ukraine, where he had a reputation for being an unscrupulous man.",
+    "Portnov “had such a life that today many people… open their best bottles of champagne,” said influential journalist Sonia Kochkina.",
+    "“It is difficult to overestimate Portnov's role in the intimidation of Ukrainian journalists and the destruction of freedom of expression in Ukraine,” wrote on Facebook Anna Babinets, founder of the investigative site Slidstvo.info.",
+    "- Sanctioned by “corruption” by the US - Portnov was also sanctioned by the United States for \"corruption\" in December 2021.",
+    "According to the US Treasury Department, Portnov cultivated \"deep connections to the Judiciary and Ukraine security agencies through bribery.\"",
+    "The United States accuses him of \"using his influence to buy access to Ukrainian courts and influence his decisions, as well as sabotage reform efforts.\"",
+    "They believe that \"in 2019, Portnov took steps to control the Ukrainian judiciary, influence the corresponding legislation, try to place loyal employees in high positions in the judicial system and buy court decisions.\"",
+    "© AGENCE FRANCE-PRESSE"
+  ],
+  "topics": {
+    "Conflict": 0.8720660209655762,
+    "Military": 0.8585177659988403,
+    "Politics": 0.8365924954414368,
+    "Crime": 0.7546762228012085,
+    "Culture": 0.7412213683128357,
+    "Economy": 0.7230884432792664,
+    "Elections": 0.6509608030319214,
+    "Health": 0.649590015411377,
+    "Technology": 0.6405768990516663,
+    "Energy": 0.5856651067733765,
+    "Transport": 0.5688016414642334,
+    "Environment": 0.5596144795417786,
+    "Diplomacy": 0.554374635219574,
+    "Education": 0.47176188230514526
+  },
+  "sentiment": {
+    "positive": 0.316,
+    "negative": 0.684,
+    "neutral": 0.0
+  }
+}

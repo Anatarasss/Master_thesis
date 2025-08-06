@@ -1,0 +1,37 @@
+{
+  "title": "Russia jails Australian man for fighting for Ukraine",
+  "published_date": null,
+  "url": "https://7news.com.au/news/russia-jails-australian-man-for-fighting-for-ukraine-c-18718879",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russia has sentenced an Australian citizen to 13 years in a maximum-security prison for fighting alongside Ukrainian forces, state prosecutors in a part of eastern Ukraine controlled by Russia say.",
+    "Oscar Jenkins, 33, was found guilty by a court of taking part in an armed conflict as a mercenary, a statement from the prosecutors said on Friday.",
+    "The court had ruled he had taken part in combat operations against Russian troops between March and December 2024.",
+    "Know the news with the 7NEWS app: Download today Australian media reported in 2024 that Jenkins, a teacher from Melbourne, was serving alongside Ukraine’s military when he was captured by Russian forces.",
+    "In January, Australia summoned the Russian ambassador over what turned out to be false reports that Jenkins had been killed after being captured by Russia.",
+    "Ukrainian ambassador to Australia Vasyl Myroshnychenko has previously said his government added Jenkins to its list of prisoners of war and would negotiate for his release in an exchange.",
+    "Prime Minister Anthony Albanese has said Australia has made representations to Ukraine, including a one-on-one discussion he had with Ukrainian President Volodymyr Zelenskiy.",
+    "with AAP Stream free on"
+  ],
+  "topics": {
+    "Conflict": 0.9078345894813538,
+    "Technology": 0.8299726247787476,
+    "Crime": 0.7860841155052185,
+    "Military": 0.7673176527023315,
+    "Culture": 0.725316047668457,
+    "Politics": 0.687339186668396,
+    "Transport": 0.6679410338401794,
+    "Health": 0.6185325980186462,
+    "Education": 0.600853443145752,
+    "Economy": 0.568706750869751,
+    "Elections": 0.507409393787384,
+    "Energy": 0.483331561088562,
+    "Diplomacy": 0.48147714138031006,
+    "Environment": 0.45258405804634094
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

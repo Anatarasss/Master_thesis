@@ -1,0 +1,46 @@
+{
+  "title": "International Civil Aviation Organization rules Russia downed flight MH17 in 2014",
+  "published_date": null,
+  "url": "https://www.abc.net.au/news/2025-05-13/russia-responsible-for-downing-of-flight-mh17/105285364",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "The International Civil Aviation Organization (ICAO) council has ruled that Russia was responsible for the downing of a Malaysian airliner over Ukraine in 2014.",
+    "It found that Russia breached the prohibition under international law on the use of weapons against civil aircraft in flight and is responsible for the loss of 298 innocent lives.",
+    "Australia and the Netherlands want the ICAO council to order Russia to enter into negotiations over reparations.",
+    "The International Civil Aviation Organization (ICAO) council has ruled that Russia was responsible for the downing of a Malaysian airliner over Ukraine that killed all 298 people on board, including 38 Australians citizens or residents.",
+    "The council found that Russia breached the prohibition under international law on the use of weapons against civil aircraft in flight and is responsible for the loss of life.",
+    "Malaysian Airlines Flight MH17 departed from Amsterdam for Kuala Lumpur on July 17, 2014, and was shot down over eastern Ukraine as fighting raged between pro-Russian separatists and Ukrainian forces.",
+    "Moscow called the ruling \"scandalous\" and said it would not extradite its citizens.",
+    "The case with the ICAO was launched in 2022 by Australia and the Netherlands.",
+    "Both governments said the council would in the coming weeks consider what form of reparation was in order.",
+    "Australia Foreign Minister Penny Wong said the government welcomed the decision and urged ICAO to move swiftly to determine remedies.",
+    "\"This is a historic moment in the pursuit of truth, justice and accountability for the victims of the downing of Flight MH17, and their families and loved ones,\" she said in a statement.",
+    "\"We call upon Russia to finally face up to its responsibility for this horrific act of violence and make reparations for its egregious conduct, as required under international law.",
+    "\"Our thoughts remain with those who lost their lives as a result of Russia's actions, their families and loved ones.\"",
+    "Dutch Foreign Minister Caspar Veldkamp wants the ICAO council to order Russia to enter into negotiations over reparations.",
+    "\"The decision is an important step towards establishing the truth and achieving justice and accountability for all victims of Flight MH17, and their families and loved ones,\" he said.",
+    "\"This decision also sends a clear message to the international community: states cannot violate international law with impunity.\"",
+    "ICAO lacks regulatory power but holds moral suasion and sets global aviation standards overwhelmingly adopted by its 193-member states."
+  ],
+  "topics": {
+    "Conflict": 0.8641682267189026,
+    "Culture": 0.8521126508712769,
+    "Diplomacy": 0.8133651614189148,
+    "Politics": 0.8049505949020386,
+    "Technology": 0.7747196555137634,
+    "Transport": 0.7384669780731201,
+    "Economy": 0.7298352122306824,
+    "Health": 0.6989797353744507,
+    "Environment": 0.6761663556098938,
+    "Crime": 0.6478506922721863,
+    "Military": 0.608933687210083,
+    "Energy": 0.5784078240394592,
+    "Elections": 0.44701164960861206,
+    "Education": 0.442602276802063
+  },
+  "sentiment": {
+    "positive": 0.471,
+    "negative": 0.529,
+    "neutral": 0.0
+  }
+}

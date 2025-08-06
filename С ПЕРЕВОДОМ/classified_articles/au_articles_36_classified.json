@@ -1,0 +1,32 @@
+{
+  "title": "Russia holds Victory Day parade featuring Xi Jinping",
+  "published_date": null,
+  "url": "https://www.afr.com/world/europe/russia-holds-victory-day-parade-featuring-xi-jinping-20250509-p5ly2m",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Moscow | Russia on Friday celebrated the 80th anniversary of the defeat of Nazi Germany in World War II, as President Vladimir Putin presided over a massive parade of tanks, missiles and troops through Red Square and welcomed over two dozen world leaders — the most since Moscow sent troops into Ukraine.",
+    "Victory Day, which Russia marks on May 9, is the country’s most important secular holiday.",
+    "The parade and other festivities underline Moscow’s efforts to project its global power and cement the alliances it has forged while seeking a counterbalance to the West amid the conflict in Ukraine that is grinding through a fourth year."
+  ],
+  "topics": {
+    "Conflict": 0.8078010678291321,
+    "Culture": 0.7947569489479065,
+    "Military": 0.7898797392845154,
+    "Politics": 0.7634759545326233,
+    "Economy": 0.5151776671409607,
+    "Technology": 0.452129989862442,
+    "Health": 0.3506529927253723,
+    "Energy": 0.33397698402404785,
+    "Transport": 0.3337955176830292,
+    "Environment": 0.259706974029541,
+    "Diplomacy": 0.19998326897621155,
+    "Crime": 0.19340622425079346,
+    "Education": 0.08535962551832199,
+    "Elections": 0.06590348482131958
+  },
+  "sentiment": {
+    "positive": 1.0,
+    "negative": 0.0,
+    "neutral": 0.0
+  }
+}

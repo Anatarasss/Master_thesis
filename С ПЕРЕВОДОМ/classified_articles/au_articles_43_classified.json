@@ -1,0 +1,53 @@
+{
+  "title": "United States, Ukraine sign critical mineral deal as Donald Trump moves to secure peace with Russia",
+  "published_date": null,
+  "url": "https://www.perthnow.com.au/politics/world-politics/us-ukraine-mineral-deal-trump-says-he-is-ready-to-sign-this-afternoon-as-last-minute-changes-hold-off-peace-c-18543518",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "The United States and Ukraine have signed a historic economic deal that will give the United States access to Ukraine’s rare minerals, something US President Donald Trump thinks will help establish peace in the region.",
+    "The deal comes after Mr Trump called on Kyiv to repay the United States for billions spent on assistance given to repel Russian invasion.",
+    "Treasury Secretary Scott Bessent said in a video posted to X that “this partnership allows the United States to invest alongside Ukraine, to unlock Ukraine’s growth assets, mobilise American talent, capital and governance standards that will improve Ukraine’s investment climate and accelerate Ukraine’s economic recovery”.",
+    "Taking to social media, Ukraine’s Economy Minister Yulia Svyrydenko shared an image alongside US officials, also confirming the signing.",
+    "“Thanks to the leadership and agreements between President Volodymyr Zelensky and President Donald Trump, Secretary of the Treasury Scott Bessant and I signed the agreement between Ukraine and the United States to establish the United States–Ukraine-Ukraine Reconstruction Investment Fund,” she wrote on X.",
+    "“I thank everyone who contributed to this Agreement and helped make it stronger.",
+    "“This document is capable of delivering success for both our countries — Ukraine and the United States.",
+    "“God bless Ukraine and God bless the United States of America.",
+    "Mr Trump indicated in February that he wanted access to Ukraine’s rare earth materials as a condition for continuing United States support in the war, describing it as reimbursement for the billions of dollars in aid the United States has given to Kyiv.",
+    "But talks stalled after a tense Oval Office meeting of United States and Ukrainian leaders, and reaching an agreement since then has proven difficult and strained relations between Washington and Kyiv.",
+    "Mr Bessent said during a cabinet meeting at the White House that the Trump Administration was ready to sign a deal, but that there was still work to do.",
+    "“The Ukrainians decided last night to make some last-minute changes,” Bessent said when asked about reports that Ukraine was ready to agree to the pact.",
+    "“We’re sure that they will reconsider that.",
+    "And we are ready to sign this afternoon if they are.” He did not elaborate as to the late changes he said Ukraine had made.",
+    "The United States is seeking access to more than 20 raw materials deemed strategically critical to its interests, including some non-minerals such as oil and natural gas.",
+    "Among them are Ukraine’s deposits of titanium, which is used for making aircraft wings and other aerospace manufacturing, and uranium, which is used for nuclear power, medical equipment and weapons.",
+    "Ukraine also has lithium, graphite and manganese, which are used in electric vehicle batteries.",
+    "For Ukraine, the deal is seen as possibly key in getting future military aid from the United States.",
+    "The Ukrainian cabinet approved the agreement on Wednesday, empowering Svyrydenko to sign it in Washington.",
+    "Once signed by both sides, the deal would need to be ratified by the Ukrainian parliament before it could take effect.",
+    "In Moscow, a senior Kremlin official said on Wednesday that clinching a deal to end the Russia-Ukraine war “is far too complex to be done quickly”, as the United States labours to bring momentum to peace efforts and expresses frustration over the slow progress.",
+    "The negotiations come amid rocky progress in Washington’s push to stop the war.",
+    "Russian President Vladimir Putin backs calls for a ceasefire before peace negotiations, “but before it’s done, it’s necessary to answer a few questions and sort out a few nuances,” Kremlin spokesman Dmitry Peskov said.",
+    "Meanwhile, a night-time Russian drone attack on Kharkiv, Ukraine’s second-largest city, wounded at least 45 civilians, officials said."
+  ],
+  "topics": {
+    "Economy": 0.9768564105033875,
+    "Conflict": 0.9663482904434204,
+    "Military": 0.9126561284065247,
+    "Politics": 0.9112208485603333,
+    "Technology": 0.8939663767814636,
+    "Elections": 0.8624503016471863,
+    "Diplomacy": 0.8560180068016052,
+    "Health": 0.837622880935669,
+    "Culture": 0.8199096918106079,
+    "Energy": 0.8168569803237915,
+    "Environment": 0.7584739923477173,
+    "Transport": 0.7523241639137268,
+    "Education": 0.72887122631073,
+    "Crime": 0.5446406006813049
+  },
+  "sentiment": {
+    "positive": 0.458,
+    "negative": 0.542,
+    "neutral": 0.0
+  }
+}

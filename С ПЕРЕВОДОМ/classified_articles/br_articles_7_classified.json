@@ -1,0 +1,53 @@
+{
+  "title": "Trump anuncia primeira troca de prisioneiros entre Rússia e Ucrânia após negociações indiretas",
+  "published_date": null,
+  "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2025/05/23/trump-anuncia-primeira-troca-de-prisioneiros-entre-russia-e-ucrania-apos-negociacoes-indiretas.htm",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Trump announces the first exchange of prisoners between Russia and Ukraine after indirect negotiations US President Donald Trump said on Friday (23) that Russia and Ukraine have reached an agreement for a \"great change of prisoners.\"",
+    "In a message published on the Truth Social Network, the White House chief congratulated both countries and suggested that the gesture could indicate \"something huge\" in their own words in a possible reference to peace negotiations between the two countries.",
+    "\"A large prisoner exchange agreement has just been completed between Russia and Ukraine.",
+    "It will come into force soon.",
+    "Congratulations to both parties.",
+    "This can lead to something huge ?",
+    "Trump wrote on his social network, without giving further details.",
+    "Moscow and Kiev have not confirmed the information so far.",
+    "Was the agreement on prisoners discussed on May 16 during negotiations in Istanbul?",
+    "The first direct conversations between the two countries since 2022.",
+    "At the time, there was no consensus on a truce, but an exchange of a thousand prisoners on each side was proposed.",
+    "According to Ukrainian President Volodymyr Zelensky, the main Russian and Ukrainian negotiators talked by phone on Monday (19) about the topic.",
+    "During his campaign, Trump promised to quickly end the war began by the Russian invasion in 2022.",
+    "In recent weeks, he has been pressured to obtain a ceasefire, but also threatened to withdraw from the process if there is no advances.",
+    "Russia says he has slaughtered 112 Ukrainian drones The Russian Ministry of Defense reported on Friday that it slaughtered 112 Ukrainian drones at night, including 24 that went to the Moscow region.",
+    "This was the third consecutive day of air attacks against Russian territory, which affected the operation of various airports.",
+    "In the Lipetsk region, about 450 km southeast of the capital, the fall of a drone in an industrial area of ​​the city of Ielets caused a fire that left eight injured, according to local governor, Igor Artamonov.",
+    "Since the beginning of the war, for over three years, Russia and Ukraine have used explosive drones almost daily.",
+    "In recent days, have the attacks intensified, with Ukrainian drones reaching Moscow?",
+    "Something rare until then.",
+    "Russian President Vladimir Putin has rejected requests from Kiev, Washington and European leaders for a lasting ceasefire.",
+    "Russia, which has retreated on some fronts, has gaining ground since last year and currently controls about 20% of the Ukrainian territory, including Crimea, attached in 2014.",
+    "With information from AFP See also Leave your comment The author of the message, not UOL, is responsible for the comment.",
+    "Read the rules of use of UOL."
+  ],
+  "topics": {
+    "Conflict": 0.9441760182380676,
+    "Politics": 0.8738953471183777,
+    "Technology": 0.8465427756309509,
+    "Culture": 0.8282808661460876,
+    "Diplomacy": 0.7664022445678711,
+    "Health": 0.7480430603027344,
+    "Military": 0.7457643747329712,
+    "Economy": 0.7106902003288269,
+    "Environment": 0.6998546123504639,
+    "Transport": 0.6928276419639587,
+    "Elections": 0.6837325692176819,
+    "Education": 0.6654510498046875,
+    "Crime": 0.6328471302986145,
+    "Energy": 0.614163339138031
+  },
+  "sentiment": {
+    "positive": 0.375,
+    "negative": 0.625,
+    "neutral": 0.0
+  }
+}

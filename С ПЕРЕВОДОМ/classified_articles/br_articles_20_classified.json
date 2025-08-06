@@ -1,0 +1,32 @@
+{
+  "title": "G7 vai 'maximizar a pressão' se a Rússia rejeitar um cessar-fogo na Ucrânia",
+  "published_date": null,
+  "url": "https://www.em.com.br/internacional/2025/05/7153875-g7-vai-maximizar-a-pressao-se-a-russia-rejeitar-um-cessar-fogo-na-ucrania.html",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "G7 will maximize the pressure 'if Russia rejects a ceasefire in Ukraine share Follow in the G7 finance ministers agreed on Thursday (22) in \"maximizing the pressure\" over Russia, including the application of new sanctions, it is moscow to resist seeking a ceasefire in Ukraine.",
+    "\"If this ceasefire is not awake, we will continue to explore all possible options, including options to maximize pressure, such as a expansion of sanctions,\" said a final statement after the world's most advanced seven economies meeting (Canada, France, Germany, Italy, Japan, the United Kingdom and the United States).",
+    "BYS/SST/AD/MAR/IC/MVV"
+  ],
+  "topics": {
+    "Crime": 0.9981590509414673,
+    "Conflict": 0.941570520401001,
+    "Politics": 0.896395742893219,
+    "Economy": 0.7968649864196777,
+    "Diplomacy": 0.6946577429771423,
+    "Culture": 0.6693087220191956,
+    "Military": 0.589148223400116,
+    "Transport": 0.4483891725540161,
+    "Technology": 0.4170108735561371,
+    "Health": 0.2446826845407486,
+    "Energy": 0.22354763746261597,
+    "Elections": 0.1699177324771881,
+    "Environment": 0.14972282946109772,
+    "Education": 0.13491453230381012
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

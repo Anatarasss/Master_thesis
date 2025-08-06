@@ -1,0 +1,38 @@
+{
+  "title": "Rússia transmitirá à Ucrânia condições para fim do conflito após troca de prisioneiros, diz ministro",
+  "published_date": null,
+  "url": "https://jornaldebrasilia.com.br/noticias/mundo/russia-transmitira-a-ucrania-condicoes-para-fim-do-conflito-apos-troca-de-prisioneiros-diz-ministro/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Russia will transmit to Ukraine a document that will expose its conditions to end its offensive launched in 2022 as soon as the prisoners' exchange with Kiev end, the head of Russian diplomacy announced on Friday (23).",
+    "\"Once the change of prisoners of war is completed, we will be ready to send the draft of the document that the Russian side is ending,\" said Sergei Lavrov, quoted by the Russian Ministry of Foreign Affairs.",
+    "According to Lavrov, the “document project establishes conditions for a lasting, global and long term agreement” to end the conflict in Ukraine.",
+    "Ukraine should also draft such a document, as agreed during direct conversations between Kiev and Moscow in Istanbul in mid -May.",
+    "Both sides began on Friday the first phase of a prisoners exchange.",
+    "The agreement, which was also signed in Istanbul, provides for the exchange of 1,000 prisoners on each side.",
+    "This Friday, 270 soldiers and 120 civilians on each side were exchanged.",
+    "The exchange should continue on Saturday and Sunday, both parties indicated.",
+    "© AGENCE FRANCE-PRESSE"
+  ],
+  "topics": {
+    "Diplomacy": 0.9363324046134949,
+    "Conflict": 0.9249914288520813,
+    "Military": 0.6673554182052612,
+    "Politics": 0.6005346775054932,
+    "Culture": 0.5935174822807312,
+    "Technology": 0.5066055655479431,
+    "Economy": 0.42104020714759827,
+    "Health": 0.32168227434158325,
+    "Transport": 0.318222314119339,
+    "Environment": 0.3126498758792877,
+    "Energy": 0.28003260493278503,
+    "Crime": 0.2788347005844116,
+    "Elections": 0.17355841398239136,
+    "Education": 0.1641257256269455
+  },
+  "sentiment": {
+    "positive": 0.556,
+    "negative": 0.444,
+    "neutral": 0.0
+  }
+}

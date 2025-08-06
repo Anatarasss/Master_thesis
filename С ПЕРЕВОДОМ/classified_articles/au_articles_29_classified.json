@@ -1,0 +1,36 @@
+{
+  "title": "MH17: International Civil Aviation Organisation finds Russia responsible for downing Malaysia Airlines flight",
+  "published_date": null,
+  "url": "https://www.perthnow.com.au/news/australia/mh17-international-civil-aviation-organisation-finds-russia-responsible-for-downing-malaysia-airlines-flight-c-18672356",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "The International Civil Aviation Organisation (ICAO) has issued a historic ruling, finding Russia responsible for downing Malaysian Airlines Flight MH17 which killed 298 people, including Australians.",
+    "MH17, scheduled to fly from Amsterdam to Kuala Lumpur on 17 July 2014 was shot down by a surface-to-air missile while flying over eastern Ukraine.",
+    "Of the 283 passengers and 15 crew, there were no survivors.",
+    "“This is a historic moment in the pursuit of truth, justice and accountability for the victims of the downing of Flight MH17, and their families and loved ones,” Foreign Minister Penny Wong said.",
+    "“The ICAO Council found that Russia breached the prohibition under international law on the use of weapons against civil aircraft in flight and is responsible for the loss of 298 innocent lives, including 38 who called Australia home.” Senator Wong said the Government “welcomes the ICAO Council’s decision”, highlighting that the “fundamental principle that weapons should not be used again civil aircraft” had been upheld, but the group to “move swiftly to determine remedies for this violation.” “We call upon Russia to finally face up to its responsibility for this horrific act of violence and make reparations for its egregious conduct, as required under international law.” Senator Wong offered the Government’s thoughts to those impacted by the tragedy,.",
+    "“Our thoughts remain with those who lost their lives as a result of Russia’s actions, their families and loved ones,” she said.",
+    "“While we cannot take away the grief of those left behind, we will continue to stand with them in that grief and pursue justice for this horrific act.”"
+  ],
+  "topics": {
+    "Diplomacy": 0.7368014454841614,
+    "Conflict": 0.691318690776825,
+    "Culture": 0.634665310382843,
+    "Transport": 0.6321343183517456,
+    "Economy": 0.44579797983169556,
+    "Crime": 0.42016303539276123,
+    "Technology": 0.4086732566356659,
+    "Politics": 0.34848856925964355,
+    "Health": 0.32482320070266724,
+    "Environment": 0.30455341935157776,
+    "Military": 0.28465864062309265,
+    "Energy": 0.23823219537734985,
+    "Education": 0.13322077691555023,
+    "Elections": 0.09515327215194702
+  },
+  "sentiment": {
+    "positive": 0.571,
+    "negative": 0.429,
+    "neutral": 0.0
+  }
+}

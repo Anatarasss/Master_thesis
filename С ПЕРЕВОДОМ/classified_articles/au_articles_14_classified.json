@@ -1,0 +1,32 @@
+{
+  "title": "Russia-Ukraine agree to swap POWs",
+  "published_date": null,
+  "url": "https://www.afr.com/world/europe/russia-ukraine-agree-to-swap-pows-20250517-p5lzz0",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Istanbul, Turkey | The first direct Russia-Ukraine peace talks since the early weeks of Moscow’s 2022 invasion ended after less than two hours on Friday, and while both sides agreed on a large prisoner swap, they clearly remained far apart on key conditions for ending the fighting.",
+    "Ukrainian President Volodymyr Zelensky said he discussed the results of the talks with US President Donald Trump and the leaders of France, Germany, the UK and Poland.",
+    "In a post on X from a European leadership meeting in Albania, he urged “tough sanctions” against Moscow if it rejects “a full and unconditional ceasefire and an end to killings”."
+  ],
+  "topics": {
+    "Conflict": 0.9217286705970764,
+    "Politics": 0.7158737182617188,
+    "Culture": 0.5986188650131226,
+    "Military": 0.5271957516670227,
+    "Diplomacy": 0.3586774170398712,
+    "Economy": 0.34840255975723267,
+    "Technology": 0.2922668755054474,
+    "Health": 0.28090953826904297,
+    "Crime": 0.2080255001783371,
+    "Transport": 0.19766105711460114,
+    "Environment": 0.14694887399673462,
+    "Energy": 0.12933237850666046,
+    "Education": 0.08871905505657196,
+    "Elections": 0.05889124050736427
+  },
+  "sentiment": {
+    "positive": 0.667,
+    "negative": 0.333,
+    "neutral": 0.0
+  }
+}

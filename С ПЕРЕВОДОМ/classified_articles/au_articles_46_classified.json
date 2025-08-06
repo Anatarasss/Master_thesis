@@ -1,0 +1,41 @@
+{
+  "title": "France accuses Russia of a decade’s worth of high-profile cyberattacks",
+  "published_date": null,
+  "url": "https://www.theverge.com/politics/658222/france-russia-cyberattacks-fancy-bear-apt28-macron-leaks",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "In an unprecedented display of diplomatic aggression, French authorities publicly accused Russia of sponsoring several high-profile cyber attacks on French entities for over a decade to gather intelligence and destabilize the country.",
+    "The incidents include everything from a faked Islamic State takeover of a French television broadcast signal in 2015 to the leak of President Emmanuel Macron’s emails in 2017.",
+    "On Tuesday, France’s Foreign Ministry formally attributed those cyberattacks and several others to APT28, a Russian military intelligence (GRU) hacking unit also known as Fancy Bear, best known in America for leaking Hillary Clinton’s emails during the 2016 U.S. presidential election and sustained cyberattacks on U.S. political operations.",
+    "APT28’s activities in France followed the same playbook: the “Macron leaks” were published the day before France’s presidential election in the hopes of swaying voters, and the faked ISIS broadcast hijacking, which took place in the wake of the 2015 Bataclan terrorist attacks, were intended to “create a panic in France.” According to the French government, the GRU has escalated its cyberattacks against France and other members of the European Union since 2021, shortly before Russia invaded Ukraine.",
+    "(Ukraine itself has been a longtime frequent target of Russian cyberwarfare.)",
+    "The intrusions targeted entities not just in government, but also in finance, aerospace and defense, sports organizations affiliated with the 2024 Paris Olympics, think tanks, and the media.",
+    "To display its own cyber defense capacities, France revealed the geographical location of one of APT28’s units – a signal that its operators were able to trace the origins of Russian cyber incursions.",
+    "This is the first time France has publicly attributed a cyber attack to a foreign government’s intelligence service, according to Le Monde.",
+    "The diplomatic environment has shifted profoundly, however: Vladimir Putin refuses to end his years-long invasion of Ukraine without getting to keep the territory he’s seized – an untenable position for both Ukraine and the EU, which views Russian territorial gains as a threat to the EU’s geopolitical integrity.",
+    "Russian cyberattacks pose an additional threat, both to their national security apparatus and election integrity.In an interview the day before the Ministry’s public declaration, Macron told the media that he believed that France and their Western allies – including President Donald Trump – would increase pressure on Russia “over the next eight to ten days” to accept their terms.",
+    "He also announced that France and Poland would soon sign a “friendship treaty” that will include joint efforts to combat Russian election interference via cyberattacks and misinformation campaigns in both countries.",
+    "Most Popular - Valve’s huge Steam Deck update is now ready for everyone, including rival AMD handhelds - Amazon has canceled its Wheel of Time series - Nvidia’s RTX 5060 review debacle should be a wake-up call for gamers and reviewers - So long, EV tax credits - Trump threatens Apple, Samsung and others with a 25 percent iPhone tariff"
+  ],
+  "topics": {
+    "Diplomacy": 0.9627389907836914,
+    "Elections": 0.853886067867279,
+    "Conflict": 0.8471624851226807,
+    "Politics": 0.8260623216629028,
+    "Culture": 0.7705791592597961,
+    "Military": 0.7231267094612122,
+    "Technology": 0.6786996126174927,
+    "Environment": 0.6228110790252686,
+    "Economy": 0.5891408920288086,
+    "Crime": 0.5693815350532532,
+    "Health": 0.409464567899704,
+    "Transport": 0.379009485244751,
+    "Energy": 0.2510942220687866,
+    "Education": 0.08980745822191238
+  },
+  "sentiment": {
+    "positive": 0.083,
+    "negative": 0.917,
+    "neutral": 0.0
+  }
+}

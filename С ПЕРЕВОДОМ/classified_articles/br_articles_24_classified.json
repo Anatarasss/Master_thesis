@@ -1,0 +1,37 @@
+{
+  "title": "Rússia e mais quatro países aliviam as restrições ao frango brasileiro",
+  "published_date": null,
+  "url": "https://www.canalrural.com.br/agricultura/russia-e-mais-quatro-paises-aliviam-as-restricoes-ao-frango-brasileiro/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Russia, Belarus, Armenia and Kyirguistan have decided to restrict chickens and derived only to the state of Rio Grande do Sul, the Ministry of Agriculture and Livestock (Mapa) said on Thursday (22).",
+    "Previously, these nations were not exporting products from all over the country due to the detection of high pathogenicity (IAAP) avianza influenza in the municipality of Montenegro, in the metropolitan region of Porto Alegre, Rio Grande do Sul.",
+    "- See firsthand all about agriculture, livestock, economy and weather forecast: Follow the rural channel on Google News!",
+    "However, the following countries still maintain a suspension throughout Brazil: - China; - European Union; - Mexico; - Iraq; - South Korea; - Chile; - Philippines; - South Africa; - Jordan; - Peru; - Canada; - Dominican Republic; - Uruguay; - Malaysia; - Argentina; - Timor-Leste; - Morocco; - Bolivia; - Sri Lanka; and - Pakistan Another 11 countries have restricted poultry and derivatives to the entire state of Rio Grande do Sul, as well as the aforementioned Russia, Belarus, Armenia and Kyrguistan.",
+    "They are: - Saudi Arabia; - Türkiye; - United Kingdom; - Bahrain; - Cuba; - Macedonia; - Montenegro; - Kazakhstan; - Bosnia and Herzegovina; - Tajiquistan; and - Ukraine Two other nations maintains a milder suspension, focused only on the municipality of Montenegro: United Arab Emirates and Japan.",
+    "In a statement, the map points out remain in articulation with the health authorities of importing countries, providing all the necessary technical information about the case.",
+    "\"The actions adopted aim to ensure health security and the safe resumption of exports as soon as possible,\" says the text.",
+    "For consumers, the folder reiterates the clarification that the consumption of poultry and egg meat is not at risk for health."
+  ],
+  "topics": {
+    "Economy": 0.5718253254890442,
+    "Health": 0.4967283606529236,
+    "Culture": 0.44258877635002136,
+    "Conflict": 0.3122837245464325,
+    "Environment": 0.19673296809196472,
+    "Technology": 0.1827935129404068,
+    "Military": 0.1502753347158432,
+    "Transport": 0.10761500149965286,
+    "Politics": 0.10369233787059784,
+    "Diplomacy": 0.08580125868320465,
+    "Education": 0.061660286039114,
+    "Energy": 0.05937052145600319,
+    "Elections": 0.05884049832820892,
+    "Crime": 0.019433749839663506
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

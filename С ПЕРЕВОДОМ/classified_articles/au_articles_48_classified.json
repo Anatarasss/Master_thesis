@@ -1,0 +1,51 @@
+{
+  "title": "Putin announces unilateral three-day ceasefire in Ukraine",
+  "published_date": null,
+  "url": "https://7news.com.au/news/putin-announces-unilateral-three-day-ceasefire-in-ukraine-c-18506446",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russian President Vladimir Putin has declared a three-day ceasefire in the war with Ukraine next month to mark the 80th anniversary of the victory of the Soviet Union and its allies in World War II.",
+    "The Kremlin said the 72-hour ceasefire would run from the start of May 8 to the end of May 10, and Russia called on Ukraine to join it as well.",
+    "The Kremlin said Russian President Vladimir Putin ordered the full cessation of hostilities on “humanitarian grounds” for the Victory Day on May 9.",
+    "Know the news with the 7NEWS app: Download today In the event of violations by the Ukrainian side, Russia’s armed forces would give an “adequate and effective response”, the statement said.",
+    "It comes as US President Donald Trump scaled up efforts to broker a peace deal in Ukraine.",
+    "Moscow and Kyiv have not held direct negotiations since March 2022, soon after the start of Russia’s full-scale war in Ukraine.",
+    "Later that year, Ukrainian President Volodymyr Zelensky adopted a decree that ruled out negotiations with Putin, after Russia claimed four regions of Ukraine as its own.",
+    "Zelensky, who met Trump on the sidelines of Pope Francis’ funeral, has said Kyiv would be ready to hold talks with Moscow once a ceasefire deal has stopped the fighting.",
+    "Zelensky’s chief of staff, Andriy Yermak, said on Monday that continuing Russian attacks contradicted the Kremlin’s statements about wanting peace.",
+    "“Russia is not ceasing fire at the front and is attacking Ukraine with Shaheds right now,” Yermak wrote on Telegram, referring to Iranian-made drones widely used by Russian forces.",
+    "“All the Russians’ statements about peace without ceasing fire are just plain lies.” Asked by a reporter if the signal for direct talks should come from Ukraine or the United States, Kremlin spokesman Dmitry Peskov said: “Well, from Kyiv, at least Kyiv should take some actions in this regard.",
+    "They have a legal ban on this.",
+    "But so far we don’t see any action.” Meanwhile, Moscow would continue its “special military operation”, he said.",
+    "Moscow and Kyiv are under pressure from the US to find a settlement to end the war, the deadliest in Europe since WWII.",
+    "Ukraine accuses Russia of playing for time in order to try to seize more of its territory, and has urged greater international pressure to get Moscow to stop fighting.",
+    "Russia accuses Ukraine of being unwilling to make any concessions and of seeking a ceasefire only on its own terms.",
+    "Putin told Witkoff on Friday that Russia was ready for talks with Kyiv without preconditions, according to a Kremlin aide.",
+    "Trump said on Friday the two sides were “very close to a deal”.",
+    "In recent days he has been more critical than usual of Moscow, saying there was no reason for it to fire missiles into civilian areas and voicing concern that Putin was “just tapping me along”.",
+    "On Sunday, US Secretary of State Marco Rubio said the Trump administration might abandon its attempts to broker a deal if Russia and Ukraine do not make headway.",
+    "“It needs to happen soon,” Rubio told the NBC program Meet the Press.",
+    "“We cannot continue to dedicate time and resources to this effort if it’s not going to come to fruition.” Stream free on"
+  ],
+  "topics": {
+    "Politics": 0.9836944341659546,
+    "Technology": 0.9836599230766296,
+    "Conflict": 0.9776921272277832,
+    "Military": 0.971875011920929,
+    "Health": 0.9688065648078918,
+    "Energy": 0.9530910849571228,
+    "Economy": 0.9496474266052246,
+    "Transport": 0.9449398517608643,
+    "Culture": 0.9385568499565125,
+    "Education": 0.9330973029136658,
+    "Environment": 0.921780526638031,
+    "Diplomacy": 0.8964771032333374,
+    "Elections": 0.8721560835838318,
+    "Crime": 0.8218979835510254
+  },
+  "sentiment": {
+    "positive": 0.136,
+    "negative": 0.864,
+    "neutral": 0.0
+  }
+}

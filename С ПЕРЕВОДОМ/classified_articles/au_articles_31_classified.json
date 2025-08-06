@@ -1,0 +1,31 @@
+{
+  "title": "Trump offers to join potential Russia-Ukraine talks in Turkey",
+  "published_date": null,
+  "url": "https://www.afr.com/world/europe/trump-offers-to-join-potential-russia-ukraine-talks-in-turkey-20250513-p5lym8",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Kyiv/Washington | US President Donald Trump offered on Monday (Tuesday AEST) to join prospective Ukraine-Russia talks in Turkey later this week as European countries pushed to get the Kremlin to accept their demand for a 30-day ceasefire in the war in Ukraine.",
+    "Trump spoke a day after Ukrainian President Volodymyr Zelensky, in a fresh twist to the stop-start peace talks process, said he would travel to Istanbul where he would be waiting to meet Russian counterpart Vladimir Putin."
+  ],
+  "topics": {
+    "Conflict": 0.963893711566925,
+    "Diplomacy": 0.9023303985595703,
+    "Politics": 0.8524882793426514,
+    "Culture": 0.8198376297950745,
+    "Military": 0.6253578662872314,
+    "Technology": 0.5331937074661255,
+    "Economy": 0.4522601068019867,
+    "Transport": 0.3478468060493469,
+    "Health": 0.3421775996685028,
+    "Environment": 0.24093486368656158,
+    "Elections": 0.22204670310020447,
+    "Energy": 0.22021979093551636,
+    "Crime": 0.18585304915905,
+    "Education": 0.15108142793178558
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

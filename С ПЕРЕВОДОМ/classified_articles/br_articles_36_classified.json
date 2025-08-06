@@ -1,0 +1,37 @@
+{
+  "title": "Cúpula entre Rússia e Ucrânia no Vaticano poderá ser em junho",
+  "published_date": null,
+  "url": "https://istoe.com.br/cupula-entre-russia-e-ucrania-no-vaticano-podera-ser-em-junho",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "A new round of negotiations between the Russian and Ukraine delegations could be held at the Vatican in mid-June, the US Wall Street Journal revealed, citing well-informed sources on Thursday (22).",
+    "According to the publication, the summit should also be attended by a US delegation, composed by the US Secretary of State and National Security Counselor, Marco Rubio, and the presidential envoy to Ukraine, Keith Kellogg.",
+    "Nevertheless, so far, there is no certainty of the presence of Russian presidents Vladimir Putin, and Ukrainian, Volodymyr Zelensky.",
+    "According to the newspaper, US President Donald Trump said European leaders early in the week that Putin was not ready to end the war, because he believes he is winning.",
+    "However, the Russian government did not confirm the information.",
+    "\"There are no specific agreements on the next meetings yet, this still needs to be defined, the work is underway to implement the agreements achieved in Istanbul,\" said Kremlin spokesman Dmitry Peskov.",
+    "In recent days, Trump has revealed that Pope Leo XIV has confirmed his availability in hosting the next negotiations on the Eastern European conflict in the attempt by Russia and Ukraine to \"just and lasting peace.\"",
+    "Moscow, however, said he has not received any proposal from the Holy See for this possible mediation in the conflict."
+  ],
+  "topics": {
+    "Conflict": 0.9204491972923279,
+    "Politics": 0.8087047338485718,
+    "Diplomacy": 0.7151181697845459,
+    "Culture": 0.5912190079689026,
+    "Military": 0.3954896330833435,
+    "Technology": 0.3910565674304962,
+    "Economy": 0.3679903447628021,
+    "Health": 0.24404306709766388,
+    "Crime": 0.17394447326660156,
+    "Environment": 0.17141230404376984,
+    "Transport": 0.15451429784297943,
+    "Education": 0.11739035695791245,
+    "Energy": 0.07838139683008194,
+    "Elections": 0.07261665910482407
+  },
+  "sentiment": {
+    "positive": 0.375,
+    "negative": 0.625,
+    "neutral": 0.0
+  }
+}

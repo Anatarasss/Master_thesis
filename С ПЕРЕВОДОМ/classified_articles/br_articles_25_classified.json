@@ -1,0 +1,44 @@
+{
+  "title": "Quatro países reduzem restrição da importação de frangos do Brasil",
+  "published_date": null,
+  "url": "https://jornaldebrasilia.com.br/noticias/economia/quatro-paises-reduzem-restricao-da-importacao-de-frangos-do-brasil/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Russia, Belarus, Armenia, and Kyrguistan have reduced the geographical restriction for the importation of Brazilian poultry meat, a preventive measure adopted to prevent the purchase of chicken meat that could be contaminated by high pathogenicity (IAAP) aviary influenza - better known as avian flu.",
+    "The four countries removed the suspension of products that would be purchased from Brazil, now covers the chicken meat produced only in the state of Rio Grande do Sul.",
+    "The change in position is in a balance sheet released on Thursday (22), in Brasilia, by the Ministry of Agriculture and Livestock (Mapa).",
+    "Saudi Arabia, which restricted the suspension only for the municipality where the focus had been identified, expanded the restriction to the state.",
+    "Already Türkiye and United Arab Emirates, which still maintained the importation, began to restrict the purchase of chicken.",
+    "In the case of the Emirates, the suspension is restricted to the municipality of Montenegro.",
+    "Already Turkey suspended chicken meat produced throughout the state of Rio Grande do Sul.",
+    "Current framework The current situation is as follows: Countries that adopted the total suspension of poultry exports in Brazil: China, European Union, Mexico, Iraq, South Korea, Chile, Philippines, South Africa, Jordan, Peru, Canada, Dominican Republic, Uruguay, Malaysia, Argentina, Timor-Leste, Morocco, Bolivia, Sri Lanka and Pakistan.",
+    "Suspension to the state of Rio Grande do Sul: Saudi Arabia, Türkiye, United Kingdom, Bahrain, Cuba, Macedonia, Montenegro, Kazakhstan, Bosnia and Herzegovina, Tajiquistan and Ukraine.",
+    "(Russia, Belarus, Armenia, and Kyirguistan decided to remove the suspension from all over the country and reduced the geographical restriction to the state of Rio Grande do Sul).",
+    "Suspension for the municipality of Montenegro (RS): United Arab Emirates and Japan.",
+    "The Ministry of Agriculture remains in articulation with sanitary authorities of importing countries providing - agile and transparently - all the necessary technical information about the case.",
+    "The actions adopted aim to ensure health security and safe resumption of exports as soon as possible.",
+    "For consumers, the Ministry reiterates the clarification that the consumption of poultry and egg meat is not at risk for health.",
+    "With information from Agência Brasil"
+  ],
+  "topics": {
+    "Health": 0.7960492372512817,
+    "Culture": 0.6009689569473267,
+    "Environment": 0.5883536338806152,
+    "Conflict": 0.5244141221046448,
+    "Politics": 0.4927136301994324,
+    "Technology": 0.48534443974494934,
+    "Economy": 0.47684580087661743,
+    "Military": 0.3211592733860016,
+    "Transport": 0.307295560836792,
+    "Diplomacy": 0.302377849817276,
+    "Elections": 0.22392454743385315,
+    "Energy": 0.18109272420406342,
+    "Crime": 0.15231890976428986,
+    "Education": 0.1452973484992981
+  },
+  "sentiment": {
+    "positive": 0.267,
+    "negative": 0.733,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Ukraine ready to sign rare-minerals deal sought by Trump",
+  "published_date": null,
+  "url": "https://www.afr.com/politics/federal/ukraine-ready-to-sign-rare-minerals-deal-sought-by-trump-20250501-p5lvk3",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "‘Con job’: Chalmers dismisses Coalition election costings Key Posts Advertisement That’s a wrap That’s a wrap.",
+    "Thanks for following The Australian Financial Review’s live coverage this Thursday, May 1, 2025.",
+    "We will have more for you in our next coverage.",
+    "Here are some of the stories we covered today: - Taylor says Coalition will deliver biggest improvement in budget position in 15 years | The shadow treasurer says the federal budget deficit will worsen in the next two years before improving significantly in the second half of the four-year forward estimates by nearly $14 billion.",
+    "- Liberals more right-wing under Dutton, PM says | Anthony Albanese was asked what he thinks of the Liberal Party potentially getting advice from Donald Trump’s 2024 campaign co-manager, Chris LaCivita.",
+    "- Trump campaign manager advised Liberal Party: reports | One of the US president’s top campaign advisers advised the Liberals in the early days of the Australian election campaign, according to an environmental advocacy group.",
+    "- Labor to win clear majority, Coalition in trouble: poll | The Liberal-Nationals side will suffer its worst election result in 80 years if YouGov’s final poll before voting day comes true.",
+    "- PM promises to look into Palmer election texts | Anthony Albanese said that he has not received any text messages from the Trump of Patriots chairman but has pledged to investigate if he is re-elected.",
+    "1 / 3 Latest In Federal Fetching latest articles"
+  ],
+  "topics": {
+    "Environment": 0.9126851558685303,
+    "Politics": 0.9088034629821777,
+    "Elections": 0.850841224193573,
+    "Conflict": 0.8413998484611511,
+    "Culture": 0.7754573822021484,
+    "Economy": 0.7730737328529358,
+    "Technology": 0.6922582983970642,
+    "Energy": 0.6527603268623352,
+    "Crime": 0.6014920473098755,
+    "Transport": 0.5897504687309265,
+    "Health": 0.5627245903015137,
+    "Diplomacy": 0.5357328057289124,
+    "Education": 0.4915526211261749,
+    "Military": 0.3900045156478882
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

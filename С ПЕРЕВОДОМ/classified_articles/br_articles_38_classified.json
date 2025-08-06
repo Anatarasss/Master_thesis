@@ -1,0 +1,37 @@
+{
+  "title": "Rússia designa comandante do cerco de Mariupol como chefe das forças terrestres",
+  "published_date": null,
+  "url": "https://www.em.com.br/internacional/2025/05/7153288-russia-designa-comandante-do-cerco-de-mariupol-como-chefe-das-forcas-terrestres.html",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Russia designates commander of the siege of Mariupol as chief of land forces share Follow Noandrei Mordvichev, one of the commanders of the devastating siege of the Ukrainian city of Mariupol in 2022, was appointed on Thursday (21) as chief of land forces of the Russian army.",
+    "\"Russian Defense Minister Andrei Belusov presented to the troops the commander of land forces, General Andrei Mordvichev,\" the Ministry of Defense announced on Telegram.",
+    "Mordvichev, 49, is a career military man who directed the siege of the port city of Mariupol, in southern Ukraine, in the first weeks of the Russian offensive, which began in late February 2022.",
+    "The operation left a balance of dead still unknown.",
+    "According to Ukrainian security services, SBU, General Mordvichev was the one who \"gave the order to take Mariupol\" and who commanded the siege to the Azovstal factory, where the latest Ukrainian defenders were entrenched to surrender.",
+    "In March 2022, Ukraine announced that it killed Mordvichev in a bombing.",
+    "His predecessor in the position of commander of Russian land forces, Oleg Saliukov, was deprived last week.",
+    "According to the Russian press, he reached the age limit of 70 years to hold the position."
+  ],
+  "topics": {
+    "Conflict": 0.8983179926872253,
+    "Politics": 0.8215235471725464,
+    "Military": 0.8087925314903259,
+    "Culture": 0.5643842816352844,
+    "Technology": 0.43142035603523254,
+    "Health": 0.20931479334831238,
+    "Diplomacy": 0.20295673608779907,
+    "Environment": 0.1905311942100525,
+    "Crime": 0.1568986177444458,
+    "Energy": 0.15542396903038025,
+    "Economy": 0.14969903230667114,
+    "Transport": 0.14854788780212402,
+    "Education": 0.06303767114877701,
+    "Elections": 0.052782945334911346
+  },
+  "sentiment": {
+    "positive": 0.375,
+    "negative": 0.625,
+    "neutral": 0.0
+  }
+}

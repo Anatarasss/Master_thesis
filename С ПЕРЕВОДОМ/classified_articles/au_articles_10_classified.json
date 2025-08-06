@@ -1,0 +1,37 @@
+{
+  "title": "Donald Trump will call Putin, then Zelensky, to push for ceasefire",
+  "published_date": null,
+  "url": "https://www.afr.com/politics/federal/trump-to-call-putin-about-stopping-ukraine-bloodbath-20250518-p5m03d",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Children to have free public transport in Victoria Key Posts Mexican navy ship hits New York’s Brooklyn Bridge Bomb kills one near California fertility clinic; FBI calls it ‘terrorism’ Victorian budget gives kids free public transport Watt promises to get offshore gas through Senate Some former state premiers and MPs won’t pay $3m super tax Trump says Walmart shouldn’t blame tariffs for higher prices That’s a wrap That’s a wrap.",
+    "Thanks for following The Australian Financial Review’s live news coverage this Sunday, May 18, 2025.",
+    "We will have more for you in the next live news coverage.",
+    "Here are some of the stories we covered today: Bomb near California fertility clinic; FBI calls it ‘terrorism’ | An explosion near a reproductive health facility in Palm Springs, California on Saturday (Sunday AEST) killed one person and injured at least four in an incident the FBI called an “intentional act”.",
+    "Victorian budget gives kids free public transport | Children will be able to travel at no cost from next year as a state cost-of-living sweetener.",
+    "Watt promises to get offshore gas through Senate | Environment Minister Murray Watt says he will get the job done, as he did with the CFMEU laws.",
+    "Some former state premiers and MPs won’t pay $3m super tax | Those receiving generous defined benefit pensions will not be required to pay the federal government’s controversial new levy.",
+    "Latest In Federal Fetching latest articles"
+  ],
+  "topics": {
+    "Transport": 0.9258547425270081,
+    "Politics": 0.9000256061553955,
+    "Conflict": 0.8875653147697449,
+    "Environment": 0.8778683543205261,
+    "Economy": 0.7583156824111938,
+    "Culture": 0.6529698371887207,
+    "Energy": 0.6529507040977478,
+    "Technology": 0.6184755563735962,
+    "Crime": 0.5741294026374817,
+    "Health": 0.5268739461898804,
+    "Military": 0.5044522285461426,
+    "Elections": 0.4683244228363037,
+    "Education": 0.4646190106868744,
+    "Diplomacy": 0.4092681407928467
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

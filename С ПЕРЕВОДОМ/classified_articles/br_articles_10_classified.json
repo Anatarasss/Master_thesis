@@ -1,0 +1,37 @@
+{
+  "title": "Trump diz que Rússia e Ucrânia concluíram grande troca de prisioneiros",
+  "published_date": null,
+  "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2025/05/23/trump-diz-que-russia-e-ucrania-concluiram-grande-troca-de-prisioneiros.htm",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Trump says Russia and Ukraine have completed a great exchange of prisoners United States President Donald Trump said on Friday that a large exchange of prisoners was completed between Russia and Ukraine.",
+    "\"A great exchange of prisoners has just been completed between Russia and Ukraine ... Congratulations to both sides for this negotiation.",
+    "This can lead to something big ?",
+    "\", Trump said in a post on the social Truth.",
+    "Ukraine sent a list of 1,000 prisoners of war to Russia in preparation for a great future exchange, a Ukrainian military intelligence authority said on Thursday.",
+    "An agreement to make this exchange was reached earlier this month in Istanbul during the first direct conversations between Russia and Ukraine in more than three years.",
+    "See also Leave your comment The author of the message, not UOL, is responsible for the comment.",
+    "Read the rules of use of UOL."
+  ],
+  "topics": {
+    "Conflict": 0.807508111000061,
+    "Culture": 0.5926058888435364,
+    "Health": 0.5391101837158203,
+    "Technology": 0.5232481956481934,
+    "Politics": 0.4753958284854889,
+    "Economy": 0.441710889339447,
+    "Transport": 0.4408324956893921,
+    "Military": 0.3988248407840729,
+    "Energy": 0.38858070969581604,
+    "Diplomacy": 0.36740121245384216,
+    "Environment": 0.3664863109588623,
+    "Education": 0.2935934364795685,
+    "Crime": 0.2893523871898651,
+    "Elections": 0.22861526906490326
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

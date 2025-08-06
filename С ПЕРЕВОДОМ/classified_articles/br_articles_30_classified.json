@@ -1,0 +1,41 @@
+{
+  "title": "Chanceler alemão acusa Rússia de ameaçar 'segurança na Europa'",
+  "published_date": null,
+  "url": "https://www.em.com.br/internacional/2025/05/7153490-chanceler-alemao-acusa-russia-de-ameacar-seguranca-na-europa.html",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "German Chancellor accuses Russia of threatening 'safety in Europe' share Follow Noo German Chancellor Friedrich Merz accused Russia of threatening \"safety in Europe\" during a visit on Thursday (22) to Lithuania, where a German armored brigade designed to reinforce Otan's eastern flank began its operations.",
+    "The decision to build such a brigade with 5,000 soldiers in Lithuania in the coming years is a response to the Ukraine invasion of Russia in 2022.",
+    "\"Russia, as it presents today, is a threat to all of us.",
+    "It's against this threat that we protect us, which is why we are here today,\" Merz said in Vilnius, alongside Lithuanian President Gitanas Nauseda.",
+    "The ceremony was also attended by Germany's Minister of Defense, Boris Pistorius.",
+    "The German detachment seeks to prevent a possible Russian aggression against Lithuania and the other Baltic, Estonia and Latvia, former Soviet republics who are now members of NATO and the European Union today and fear being the target of Moscow.",
+    "Although Germany participated in multinational military missions, such as in Afghanistan and Mali, its pacifist tradition, derived from its dark past in World War II, caused Berlin to be reluctant to go further.",
+    "Now, under Merz, the country claims to be determined to significantly increase its defense spending and even to equip itself with the most powerful army in Europe.",
+    "This is the first time in the postwar era that the German army permanently mobilizes a complete brigade abroad.",
+    "Lithuania, which has a population of 2.8 million, borders the Russian enclave of Kaliningrad and Bellarus, ally of Moscow, which makes it the \"state most threatened in NATO's eastern flank.\"",
+    "The German Armored Brigade, which has been in Lithuania since early April, currently has 400 soldiers, but this number is expected to increase to 5,000, including 200 civilians by 2027.",
+    "Pyv/SMK/LPT/PHS/MAB/JVB/YR"
+  ],
+  "topics": {
+    "Conflict": 0.8578025102615356,
+    "Politics": 0.8499888777732849,
+    "Military": 0.8157972097396851,
+    "Technology": 0.5853526592254639,
+    "Culture": 0.5278356075286865,
+    "Economy": 0.5126336812973022,
+    "Transport": 0.41081562638282776,
+    "Crime": 0.3823390305042267,
+    "Environment": 0.37665924429893494,
+    "Diplomacy": 0.34704282879829407,
+    "Health": 0.3439508378505707,
+    "Energy": 0.23180782794952393,
+    "Elections": 0.18615342676639557,
+    "Education": 0.0621231347322464
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

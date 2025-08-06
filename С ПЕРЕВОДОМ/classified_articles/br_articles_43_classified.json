@@ -1,0 +1,51 @@
+{
+  "title": "Espanha quer Israel fora da Uefa",
+  "published_date": null,
+  "url": "https://www1.folha.uol.com.br/colunas/jucakfouri/2025/05/espanha-quer-israel-fora-da-uefa.shtml",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Further than Spain Prime Minister Pedro Sánchez, impossible: \"If Russia was forced to withdraw from international competitions (…), Israel should also be.",
+    "We cannot allow two weights and two measures.\"",
+    "On the same Monday (19), former Israeli deputy Moshe Feiglin said on Israeli channel 14: \"Every child, every baby in Gaza is an enemy.",
+    "The enemy is not Hamas.",
+    "We have to conquer Gaza and colonize her.",
+    "And not leave a child there.",
+    "There is no other victory,\" said Zionist party leader Zehut.",
+    "He is not a candidate for 21st century Herod because Bibi Netanyahu already plays the role by matching the Nazi terror in the killing of children during World War II, a timely reminder in which the inauguration of Auschwitz hell, 85 years ago, when, on May 20, 1940, the first Jewish prisoners reached the concentration camp.",
+    "Are pain and indignation with the death of 1,200 people by Hamas terrorists on October 7, 2023 greater than pain and indignation with the death of children and women and civilians in Palestine?",
+    "How long will the civilized world summarize its horror to the grades of protests and diplomatic acts?",
+    "Hence the importance of Sánchez's attitude by proposing that Israeli football will be banned from European tournaments until the genocide ceases in Palestine.",
+    "Queen of the Park King of the Park was Rivellino, from São Jorge.",
+    "Queen of the Park is Leila Pereira, from Antarctica.",
+    "Between the bank and Palmeiras, it once again showed, in the also outraging CBF election, that the preferential choice is for businesses that charge extortive interest, they serve the retirees badly, have nebulae relations with the INSS and need the goodwill of the courts.",
+    "Hence I endured, alongside enemy John Texor - otherwise, without the compliance with justice, here the sport would be in bad sheets - the Samir Xaud excrescence in the presidency of the bandit's bandit.",
+    "Xaud is the guy who said to Luciano Trindade, from this sheet, the process filed by the MP de Roraima about diversion of $ 1.4 million by the hospital he directed, although his lawyer sent Eduardo Barreto, from Estadão, confirming the continuity of the action.",
+    "It is also the one who denies land owner in an environmental protection area, although he tried to regularize them, as Lúcio de Castro revealed in a report to the duly documented UOL portal.",
+    "Xaud also denies having surveyed his arm instead of the leg of a rugged biker, although he was suspended for two years as an expert exactly for this, as reported Lauro Jardim, from O Globo.",
+    "In three days as a candidate, the country's three main newspapers have already taken him on the lie.",
+    "But it is true that he should be the new president of the CBF, although his election bother even the Planalto Palace.",
+    "Nothing who worries the Queen of the Park more about Gustavo Maia's news about having Crefisa awarded 25 of the 26 INSS regional lots to pay new benefits between 2025 and 2029.",
+    "The OAB-SP calls for the Comptroller General of the Union to supervise the bank and indicates 14 possible irregularities of it, such as \"debited values ​​without proof of consent\"."
+  ],
+  "topics": {
+    "Conflict": 0.8969649076461792,
+    "Politics": 0.875225841999054,
+    "Elections": 0.8645817637443542,
+    "Diplomacy": 0.8228662014007568,
+    "Crime": 0.5293115377426147,
+    "Environment": 0.5221077799797058,
+    "Military": 0.3895033597946167,
+    "Energy": 0.3717119097709656,
+    "Technology": 0.3636716604232788,
+    "Economy": 0.34220361709594727,
+    "Culture": 0.3070848286151886,
+    "Health": 0.22137895226478577,
+    "Transport": 0.21728374063968658,
+    "Education": 0.21464289724826813
+  },
+  "sentiment": {
+    "positive": 0.364,
+    "negative": 0.636,
+    "neutral": 0.0
+  }
+}

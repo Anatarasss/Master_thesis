@@ -1,0 +1,43 @@
+{
+  "title": "Jailed Aussie fighter at centre of high-stakes talks between Albanese and Zelenskiy",
+  "published_date": null,
+  "url": "https://7news.com.au/news/jailed-aussie-fighter-at-centre-of-high-stakes-talks-between-albanese-and-zelenskiy-c-18731322",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "The fate of jailed Australian Oscar Jenkins is set to be discussed in face-to-face talks between Prime Minister Anthony Albanese and Ukrainian President Volodymyr Zelenskiy in Rome.",
+    "Jenkins faces 13 years in a Russian prison after a court found him guilty of taking part in an armed conflict as a mercenary, which denies him the protections provided to prisoners of war under the Geneva Convention.",
+    "The Australian government insists he was fighting as a member of the Ukrainian defence forces and should be entitled to humane treatment as a prisoner of war.",
+    "Know the news with the 7NEWS app: Download today “This is an appalling decision from Russia, and another outrage in a long line of outrages when it comes to matters involving Ukraine,” federal frontbencher Murray Watt told Sky News on Sunday morning.",
+    "“We consider this to be a sham trial, and we don’t accept that Jenkins should be treated this way.” Watt said he was sure Albanese would bring up Jenkins’ treatment and prospects for release with Zelenskiy.",
+    "The pair are expected to meet on Sunday, Vatican time, on the sidelines of the inauguration of Pope Leo XIV in the Holy See.",
+    "On Saturday, Albanese told journalists he was “outraged” by Jenkins’ incarceration and that Russia was continuing to abrogate its obligations to international law.",
+    "Zelenskiy held direct talks with Russian officials for the first time on Friday as the two sides make abortive efforts to work towards a ceasefire deal.",
+    "Jenkins was captured in occupied eastern Ukraine and taken into Russian custody last December.",
+    "He was seen in social media videos visibly bruised and shaken while being interrogated and beaten by a Russian-speaking captor.",
+    "The 33-year-old is believed to be the first Australian combatant reportedly captured by Russian forces.",
+    "All sides of politics have offered their support to Jenkins, with opposition home affairs spokesman James Paterson calling his treatment “shocking”.",
+    "Ukrainian Ambassador to Australia Vasyl Myroshnychenko has previously said his government added Jenkins to its list of prisoners of war and would negotiate for his release in an exchange.",
+    "More than three years have passed since Russia launched its invasion of Ukraine on February 24, 2022."
+  ],
+  "topics": {
+    "Politics": 0.7252726554870605,
+    "Conflict": 0.6663825511932373,
+    "Technology": 0.5288472771644592,
+    "Culture": 0.49226269125938416,
+    "Health": 0.4683598577976227,
+    "Military": 0.4504097104072571,
+    "Economy": 0.4093748927116394,
+    "Diplomacy": 0.35076913237571716,
+    "Transport": 0.3376177251338959,
+    "Environment": 0.3059741258621216,
+    "Energy": 0.2680200934410095,
+    "Education": 0.18569453060626984,
+    "Elections": 0.15060095489025116,
+    "Crime": 0.13628697395324707
+  },
+  "sentiment": {
+    "positive": 0.429,
+    "negative": 0.571,
+    "neutral": 0.0
+  }
+}

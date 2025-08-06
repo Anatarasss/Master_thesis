@@ -1,0 +1,38 @@
+{
+  "title": "Rússia afirma que derrubou 112 drones ucranianos",
+  "published_date": null,
+  "url": "https://www.em.com.br/internacional/2025/05/7154329-russia-afirma-que-derrubou-112-drones-ucranianos.html",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Russia says he knocked down 112 Ukrainian drones share Siga Noa Russia said on Friday (23) that he overthrew 112 Ukrainian drones at night in air attacks against various parts of the country, including the Moscow region, actions that disturbed the operation of various airports for the third consecutive day.",
+    "From Thursday night, \"anti-aircraft defense systems destroyed and intercepted 112 Ukrainian air drones,\" including 24 flying toward Moscow, the Russian Ministry of Defense said in a statement.",
+    "In the Lipetsk region, 450 km southeast of Moscow, the fall of a drone in an industrial zone in the city of Yelets caused a fire that left eight injured, regional governor, Igor Artamonov, said on Telegram.",
+    "Russia and Ukraine wage a battle with explosive drones launched almost daily since Moscow began an offensive against the former Soviet public for over three years.",
+    "Since Wednesday, the attacks have intensified on both sides, with Ukrainian drones pointing especially against the Russian capital, which had been attacked so far, which paralyzed Moscow airports at various times.",
+    "Russian President Vladimir Putin rejected the appeals of Kiev, Washington and European countries by a lasting ceasefire.",
+    "Russia controls almost 20% of Ukraine's territory, including the Crime Peninsula attached since 2014.",
+    "The balance of the conflict is at least tens of thousands of dead.",
+    "The fighting forced millions of Ukrainians to flee from east and southern cities and villages."
+  ],
+  "topics": {
+    "Conflict": 0.9783469438552856,
+    "Politics": 0.8458042144775391,
+    "Crime": 0.7937948703765869,
+    "Military": 0.7643713355064392,
+    "Technology": 0.7137213349342346,
+    "Culture": 0.6575258374214172,
+    "Economy": 0.36637476086616516,
+    "Transport": 0.35980352759361267,
+    "Health": 0.3568245470523834,
+    "Environment": 0.3170241713523865,
+    "Energy": 0.22006568312644958,
+    "Diplomacy": 0.19182713329792023,
+    "Education": 0.12160111963748932,
+    "Elections": 0.10888025164604187
+  },
+  "sentiment": {
+    "positive": 0.111,
+    "negative": 0.889,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Rússia flexibiliza restrição a embarques de frango do Brasil e proíbe apenas do RS",
+  "published_date": null,
+  "url": "https://www.infomoney.com.br/politica/russia-flexibiliza-restricao-a-embarques-de-frango-do-brasil-e-proibe-apenas-do-rs/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Advertising Russia has flexed suspensions about the importation of Brazilian chicken, prohibiting, from now on, only the importation of poultry and derivatives from Rio Grande do Sul, according to information from the Ministry of Agriculture.",
+    "The decision was communicated by the Federal Veterinary and Phytosanitary Surveillance Service of Russia to the Ministry of Agriculture on Wednesday afternoon, 21.",
+    "The suspension is temporary and occurs after confirming a case of avian flu in a commercial farm in Montenegro, Rio Grande do Sul, last Friday (16).",
+    "The protocol agreed between Brazil and Russia on the International Health Certificate provided for the suspension of Brazilian chicken purchases throughout the national territory in case of avian flu, but the Russian authorities opted to reduce restrictions.",
+    "The measure extends to the other countries of the European Union (Russia, Belarus, Armenia and Kyrguistan).",
+    "In all, chicken meat exports from all over the Brazilian territory are suspended to 21 destinations, according to the most recent survey of the Ministry of Agriculture.",
+    "The shipments of Brazilian poultry products to China, European Union, Mexico, Iraq, South Korea, Chile, Philippines, South Africa, Jordan, Peru, Canada, Dominican Republic, Malaysia, Argentina, Timor-Leste, Morocco, Bolivia, Namibia, Sri Lanka and Pakistano, are temporarily folder lifting.",
+    "The list includes nations that suspended imports of poultry products in Brazil and for which Brazil interrupted the certification of exports as provided for in the sanitary agreement established with each country.",
+    "The temporary and precautionary suspensions of Brazilian chicken purchases from all over the Brazilian territory, the state of Rio Grande do Sul, the municipality of Montenegro or the radius of 10 km from where the focus was detected are foreseen in the sanitary protocol agreed with Brazil and importing countries.",
+    "There are also markets for which the exports of poultry products from Rio Grande do Sul are prevented.",
+    "It is the case of the United Kingdom, Bahrain, Cuba, Macedonia, Montenegro, Casakistan, Bosnia and Herzegovina, Tajiquistan, Ukraine and Europe (Russia, Belarus, Armenia and Kyirguistan).",
+    "Japan and the United Arab Emirates suspended chicken meat purchases and derivatives from the municipality of Montenegro (RS), where the focus of the disease was detected.",
+    "For Saudi Arabia, Brazilian chicken exports from the municipality of Montenegro are also suspended, as provided for in the protocol agreed by the countries.",
+    "Already the protocols agreed between Brazil and Singapore, Hong Kong, Algeria, India, Lesoto, Myanmar, Paraguay, St. Christopher and Nevis, Suriname, USBequistan, Vanuatu and Vietnam predict the regionalization of shipments to a 10 -kilometer radius of high pathogenicity influenza (IAAP).",
+    "Continues after advertising The Brazilian government is already negotiating with poultry importing countries the flexibility of chicken and derivative meat purchases in Brazil.",
+    "The conversations are already underway to minimize the impacts of the first focus of avian flu on commercial squad on the country on the Brazilian agribusiness trade scale."
+  ],
+  "topics": {
+    "Health": 0.852103054523468,
+    "Culture": 0.575808584690094,
+    "Economy": 0.5340803861618042,
+    "Diplomacy": 0.5182180404663086,
+    "Politics": 0.4726881682872772,
+    "Environment": 0.4464499354362488,
+    "Conflict": 0.3886120319366455,
+    "Military": 0.38483911752700806,
+    "Technology": 0.29171115159988403,
+    "Energy": 0.2848125398159027,
+    "Transport": 0.2172556221485138,
+    "Elections": 0.10466978698968887,
+    "Crime": 0.05574588105082512,
+    "Education": 0.05482827126979828
+  },
+  "sentiment": {
+    "positive": 0.125,
+    "negative": 0.875,
+    "neutral": 0.0
+  }
+}

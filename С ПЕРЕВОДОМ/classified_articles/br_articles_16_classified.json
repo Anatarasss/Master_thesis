@@ -1,0 +1,50 @@
+{
+  "title": "Ataques com drones ucranianos se intensificam e mais de 100 são abatidos durante a noite na Rússia",
+  "published_date": null,
+  "url": "https://www.brasil247.com/mundo/ataques-com-drones-ucranianos-se-intensificam-e-mais-de-100-sao-abatidos-durante-a-noite-na-russia",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Ukrainian drone attacks intensify and more than 100 are slaughtered at night in Russia Russian Ministry of Defense informs interceptions in 13 regions; Eight people were injured in the city of Yelets after falling wreckage 247 - Russian air defenses intercepted 112 Ukrainian drones in a single day, according to information released on Friday morning by the Ministry of Defense in Moscow.",
+    "The information was initially published by the RT network and reveals a new escalation in the use of unmanned air vehicles by Ukraine, which has intensified the aerial raids to the Russian territory in recent days.",
+    "The ministry's official statement details that interception operations occurred in 13 Russian regions, especially the Moscow Metropolitan Area, where 24 drones were destroyed.",
+    "Crimea, a frequent target of tensions, had 22 vehicles slaughtered.",
+    "Following are the regions of Tula (18 intercepted drones) and Kursk (11 drones), as well as Orel, Bryansk, Ryazan, Kaluga, Belgorod, Ivanovo, Vladimir, Voronezh and Lipetsk.",
+    "Lipetsk Governor Igor Artamonov reported that the wreckage of one of the drones fell over an industrial area in the city of Yelets, slightly injuring eight people.",
+    "\"Fragments of a drone have hit the roof of a multi -story residential building, damaging 20 apartments,\" Artamonov wrote in his Telegram account, noting that there were no fatalities.",
+    "He stressed that the incident could have been more serious if it weren't for the rapid response of the air defenses.",
+    "As a reflection of the offensive, the main airports of the Russian capital - Domodedovo, Zhukovsky, Vnukovo and Sheremeysevo - were forced to temporarily interrupt operations.",
+    "Several flights have been suspended or delayed, highlighting the logistical and civil impact of raids, including far from the front line.",
+    "The Russian Ministry of Defense also said that, only between Tuesday and Thursday, a total of 485 Ukrainian drones were slaughtered across the country.",
+    "The number represents one of the most intense UAV campaigns ever recorded in the conflict since the beginning of the special military operation in February 2022.",
+    "Moscow mayor Sergey Sobyanin confirmed that dozens of drones were slaughtered as they approached the capital.",
+    "According to him, the situation has demanded extra attention from local authorities, especially because of increasing threats coinciding with preparations for the 80th anniversary celebrations of the Soviet victory over Nazi Germany in World War II, celebrated in May.",
+    "Intensive drone use has become one of the marks of the conflict, with Ukraine using these equipment as an alternative to the limitations of its conventional arsenal.",
+    "The volume of attacks, however, raises questions about safety in civil areas and the effectiveness of Russian defensive measures that have been repeatedly tested.",
+    "The escalation of the use of UAVs rekindles the debate on the limits of confrontation and the possibility of an even more aggressive Russian response.",
+    "Experts indicate that the expansion of raids in Russian territory can aim to overload the air defenses and disorganize Russia's logistics and operational rear.",
+    "❗ If you have any positions to add to this article or some correction to do, contact redacao@brasil247.com.br.",
+    "✅ Receive news from Brazil 247 and TV 247 on the 247 telegram and 247 channel on WhatsApp.",
+    "Subscribe to 247, support by pix, subscribe to TV 247, Cortes 247 and watch:"
+  ],
+  "topics": {
+    "Conflict": 0.9558199644088745,
+    "Crime": 0.8855927586555481,
+    "Culture": 0.8227837085723877,
+    "Politics": 0.7658861875534058,
+    "Military": 0.7620726227760315,
+    "Technology": 0.761356770992279,
+    "Transport": 0.7412632703781128,
+    "Health": 0.7178489565849304,
+    "Economy": 0.6864954233169556,
+    "Diplomacy": 0.6381426453590393,
+    "Environment": 0.5993263721466064,
+    "Energy": 0.5414999723434448,
+    "Education": 0.5321053862571716,
+    "Elections": 0.3422480821609497
+  },
+  "sentiment": {
+    "positive": 0.19,
+    "negative": 0.81,
+    "neutral": 0.0
+  }
+}

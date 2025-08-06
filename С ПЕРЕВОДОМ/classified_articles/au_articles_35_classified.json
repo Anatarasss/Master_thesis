@@ -1,0 +1,49 @@
+{
+  "title": "Surprisingly Advanced Ancient Spear Tip Was Not Made by Modern Humans",
+  "published_date": null,
+  "url": "https://www.sciencealert.com/surprisingly-advanced-ancient-spear-tip-was-not-made-by-modern-humans",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Researchers have found that a spear tip carved from bone, unearthed from Russia in 2003, is as old as 80,000 years.",
+    "This means the hunting weapon could not have been created by modern humans.",
+    "Homo sapiens didn't venture into Europe until about 45,000 years ago, so the most likely spear-wielders in this case were the Neanderthals (Homo neanderthalensis).",
+    "Although examples are still rare, it seems our ancient cousins had advanced their technologies beyond stone tools, using techniques that, until recently, had only been credited to our species.",
+    "The find was explored in a new paper from a team led by archeologist Liubov Golovanova of the Laboratory of Prehistory in Russia.",
+    "\"The… specimen suggests that at least some groups of late Middle Paleolithic Neanderthals in Europe have started to develop bone-tipped hunting weapons,\" explain the authors.",
+    "\"They made this invention independently and without influence from early Upper Paleolithic modern humans that started to arrive to the continent much later.\"",
+    "The spear tip joins a few other recent finds that demonstrate Neanderthals developed techniques specific to working with bone, such as scraping and flat cutting.",
+    "These include a 50,000-year-old cache of bone tools from Siberia and 40,000-year-old leather-softening tools from Europe.",
+    "Bone tools as old as 400,000 years have also been found in Italy.",
+    "This is about when Neanderthals first emerged, so it is possible this technology existed even before them.",
+    "But the level of craftsmanship of these really early bone tools is not as advanced as those found in Europe after modern humans arrived, Golovanova and team note.",
+    "The scarcity of Neanderthal bone tools, compared to stone ones, may be due to decay over time, without specific environmental conditions to preserve them.",
+    "The Mezmaiskaya Cave, where the spear tip was found amongst a variety of animal remains, stone tools and signs of a campfire, likely provided the conditions required for the bone's long-term preservation.",
+    "\"The preservation of bones is exceptional at Mezmaiskaya Cave,\" the researchers write.",
+    "\"No evidence of weathering, chemical dissolution, sediment abrasion, root etching, or trampling have been observed on the specimen, indicating that post-depositional alteration or destruction did not affect the surfaces of the bone tool.\"",
+    "Golovanova and team identified cracks in the Neanderthal's bone spear tip during their analysis.",
+    "These, as well as lack of wear, suggest the weapon had been used to successfully strike something soon after it was carved and bound to a wooden shaft using tar.",
+    "The bone was likely once part of a bison.",
+    "This research was published in the Journal of Archaeological Science."
+  ],
+  "topics": {
+    "Technology": 0.9946693778038025,
+    "Culture": 0.8063070774078369,
+    "Economy": 0.7982909083366394,
+    "Conflict": 0.6268574595451355,
+    "Elections": 0.5680136680603027,
+    "Energy": 0.5396263003349304,
+    "Military": 0.5337207913398743,
+    "Health": 0.518254816532135,
+    "Transport": 0.5109710693359375,
+    "Environment": 0.48727497458457947,
+    "Politics": 0.32541194558143616,
+    "Education": 0.22964127361774445,
+    "Crime": 0.13874979317188263,
+    "Diplomacy": 0.1146732047200203
+  },
+  "sentiment": {
+    "positive": 0.3,
+    "negative": 0.7,
+    "neutral": 0.0
+  }
+}

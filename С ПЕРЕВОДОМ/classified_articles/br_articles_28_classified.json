@@ -1,0 +1,48 @@
+{
+  "title": "Rússia retoma compra de frango do Brasil; restrição ao RS segue",
+  "published_date": null,
+  "url": "https://www.poder360.com.br/poder-agro/russia-retoma-compra-de-frango-do-brasil-mas-mantem-restricao-ao-rs/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Russia resumes chicken purchase from Brazil, but maintains restrictions on RS Decision occurs after the country has decreed temporary suspension of imports of the product after a case of avian flu Russia flexed on Wednesday (21.MAI.2025) the suspension of the importation of chicken meat and derivatives from Brazil, keeping the embargo only to products from Rio Grande do Sul.",
+    "The decision was communicated to the Ministry of Agriculture by the Federal Veterinary Surveillance and Russian Surveillance Service.",
+    "The temporary suspension was after confirmation of the 1st case of Avian flu in a Brazilian commercial farm, detected on Friday (16.MAI.2025) in the municipality of Montenegro (RS).",
+    "Although the International Health Protocol signed between Brazil and Russia provides for the suspension, flexibility has been confirmed and extends to other UEA (Europeani Union) countries, which includes Belarus, Armenia and Kyrguistan.",
+    "According to the Ministry of Agriculture survey, chicken meat exports are currently suspended for 21 destinations: - China; - EU (European Union); - Mexico; - Iraq; - South Korea; - Chile; - Philippines; - South Africa; - Jordan; - Peru; - Canada; - Dominican Republic; - Uruguay; - Malaysia; - Argentina; - Timor-Leste; - Morocco; - Bolivia; - Namibia; - Sri Lanka; and - Pakistan.",
+    "The ministry released both countries that suspended imports of Brazilian poultry products and those for which Brazil interrupted the certification of exports, as provided for in the sanitary agreements established with each nation.",
+    "Restrictions vary in territorial scope.",
+    "For 9 destinations, like UEA, the limitation is only for Rio Grande do Sul.",
+    "They are: - United Kingdom; - Bahrain; - Cuba; - Macedonia; - Montenegro; - Kazakhstan; - Bosnia and Herzegovina; - Tajiquistan; and - Ukraine.",
+    "Japan and the UAE (United Arab Emirates) adopted more specific measures, suspending only purchases from the municipality of Montenegro (RS).",
+    "Saudi Arabia followed the same way, as established in the protocol agreed between countries.",
+    "Sanitary protocols signed between Brazil and 12 nations foresee the regionalization of shipments to a radius of 10 km from high pathogenicity aviary influenza.",
+    "Singapore, Hong Kong, Algeria, India, Lesoto, Myanmar, Paraguay, St. Christopher and Nevis, Suriname, USBekistan, Vanuatu and Vietnam are among these countries.",
+    "Commission wants to hear minister On Tuesday (20.MAI), the Senate CRA (Agriculture Commission) approved a request to listen to the Minister of Agriculture, Carlos Fávaro (PSD), on cases of Avian flu in Brazil.",
+    "This is the full (PDF - 324 kb).",
+    "Because it is an invitation, Fávaro is not required to go.",
+    "It is usual, however, that the ministers accept.",
+    "The date will still be scheduled.",
+    "Read more: - Case suspected of aviary flu in human in RS is discarded - Bulletin accompanies aviary influenza history in São Paulo - Senate Commission wants to hear Fávaro about Avian flu - Brazil tries to limit Chinese embargo to chicken after avian flu - It was inevitable avian flu to reach commercial farms, says Fávaro - It is early to evaluate impacts of avian flu, says secretary - Paraná and Santa Catarina reinforce defense against Avian flu"
+  ],
+  "topics": {
+    "Health": 0.8752231597900391,
+    "Politics": 0.7963026165962219,
+    "Culture": 0.7961793541908264,
+    "Environment": 0.7397027015686035,
+    "Economy": 0.736473560333252,
+    "Technology": 0.6486718654632568,
+    "Military": 0.6357308626174927,
+    "Diplomacy": 0.6011045575141907,
+    "Transport": 0.5856038331985474,
+    "Energy": 0.5507935285568237,
+    "Conflict": 0.5425666570663452,
+    "Elections": 0.4776454567909241,
+    "Education": 0.25988954305648804,
+    "Crime": 0.24952411651611328
+  },
+  "sentiment": {
+    "positive": 0.368,
+    "negative": 0.632,
+    "neutral": 0.0
+  }
+}

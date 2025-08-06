@@ -1,0 +1,46 @@
+{
+  "title": "Brasil teve 3ª maior perda de área florestal no mundo em 2024",
+  "published_date": null,
+  "url": "https://www.poder360.com.br/poder-sustentavel/brasil-teve-3a-maior-perda-de-area-florestal-no-mundo-em-2024/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Brazil had 3rd largest loss of forest area in the world in 2024 Country is behind Russia and Canada in the ranking; compared to 2023, is the one that has lost the most hectares of vegetation Brazil lost 4.16 million hectares of forest in 2024.",
+    "It was the 3rd country with the highest reduction in environmental coverage, according to WRI (World Resource Institute) report published this Wednesday (21.MAI.2025).",
+    "The country was behind only Russia and Canada, which lost 5.18 million and 5.17 million hectares, respectively.",
+    "Read the full statement of WRI (PDF - 17 MB).",
+    "According to the report, the main cause of vegetation degradation was the forest fires.",
+    "By 2024, 49.5% of tropical forest losses were caused by fire.",
+    "WRI stated that this is related to drought, climate change and phenomena such as El Niño.",
+    "In the case of Brazil, in 2024, the country recorded the worst drought in the historical series, which began in 1950.",
+    "With this, the fires were responsible for 66% of the loss of the primary tropical forest.",
+    "In the Amazon alone, there were 320 thousand hectares destroyed by fire.",
+    "For the director of the Forest and Land Use of Wri Brasil, Mariana de Oliveira, the country has progressed throughout the government of President Luiz Inacio Lula da Silva (PT), but the “threat” to forests continues.",
+    "\"Without sustained investment in community prevention of fire, stronger government supervision and a focus on sustainable use of land, hard achievements can be lost.",
+    "While Brazil prepares to receive COP30 [United Nations Conference on 2025 climate change], the country has a powerful opportunity to put forest protection in a central place in the global scenario,\" he said.",
+    "Comparative with 2023 Despite being in the 3rd position of the countries that most lost the tree coverage, Brazil was the country with the largest increase in the degradation of primary tropical forests compared to 2023.",
+    "The growth recorded was 265%.",
+    "In 2nd place is Bolivia, with 1.48 million hectares destroyed, which is equivalent to an increase of 202%.",
+    "Already the Democratic Republic of Congo was in 3rd place, with forest loss of 590 thousand hectares in 2024, compared to 530 thousand hectares the previous year."
+  ],
+  "topics": {
+    "Environment": 0.8505152463912964,
+    "Culture": 0.6732929944992065,
+    "Economy": 0.5537647604942322,
+    "Military": 0.46003663539886475,
+    "Health": 0.3661338984966278,
+    "Conflict": 0.2636656165122986,
+    "Politics": 0.2523655295372009,
+    "Technology": 0.24910114705562592,
+    "Diplomacy": 0.23660288751125336,
+    "Transport": 0.23530474305152893,
+    "Energy": 0.1982702910900116,
+    "Elections": 0.10555095225572586,
+    "Education": 0.09579271078109741,
+    "Crime": 0.05929703637957573
+  },
+  "sentiment": {
+    "positive": 0.176,
+    "negative": 0.824,
+    "neutral": 0.0
+  }
+}

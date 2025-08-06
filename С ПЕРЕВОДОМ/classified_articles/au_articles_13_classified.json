@@ -1,0 +1,41 @@
+{
+  "title": "In The Know: MH17 Russia ruling, Sussan Ley, South Yunderup crash, Diddy trial, Go-Jo at Eurovision",
+  "published_date": null,
+  "url": "https://www.perthnow.com.au/politics/in-the-know-mh17-russia-ruling-sussan-ley-south-yunderup-crash-diddy-trial-go-jo-at-eurovision--c-18712923",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "South Yunderup tragedy Harrison McElroy, 24, and Kayla Shepherd, 31, were killed on Mother’s Day when they pulled their car into the southbound emergency lane of Forrest Highway in South Yunderup and were struck by a Volvo station wagon.",
+    "Ms Shepherd’s 17-month-old daughter was found in the back seat of the parked sedan when police arrived.",
+    "It is unclear why the couple had stopped on the side of the road.",
+    "MH17 On Monday, a UN aviation agency issued a historic ruling finding that Russia was responsible for downing Malaysian Airlines Flight MH17 which claimed 289 lives.",
+    "The flight was scheduled to travel from Amsterdam to Kuala Lumpur on July 17, 2014 but was shot down by a surface-to-air missile while flying over eastern Ukraine.",
+    "Sussan Ley Sussan Ley made history this week when she was appointed as the Liberal party’s first female leader — she defeated Angus Taylor 29 votes to 25 in a ballot of MPs in Canberra.",
+    "The 63-year-old is replacing Peter Dutton as Opposition Leader after he lost his seat at the May 3 election.",
+    "Diddy trial On the third day of Sean ‘Diddy’ Combs’ criminal trial, his ex-girlfriend Casandra Ventura testified that the rapper had raped her in 2018.",
+    "Ventura, better known by her stage name Cassie, is the prosecution’s star witness against Combs.",
+    "She fought back tears as she described the alleged rape and testified that Combs beat her during drug-fuelled sex parties known as “Freak Offs,” and that he threatened to release videos of her taking part, warning that he would ruin her career.",
+    "Go-Jo at Eurovision Manjimup’s own Marty Zambotto, aka Go-Jo, made Australia proud when he took to the Eurovision stage to belt out his tongue-in-cheek hit Milkshake Man, but he missed out on qualifying for the grand final on Thursday night.",
+    "He was the first performance of the evening, and is the tenth musical act to represent Australia at the world’s most popular singing contest."
+  ],
+  "topics": {
+    "Crime": 0.6834417581558228,
+    "Conflict": 0.5454691052436829,
+    "Politics": 0.49535396695137024,
+    "Culture": 0.1983061581850052,
+    "Technology": 0.13763606548309326,
+    "Health": 0.13410738110542297,
+    "Energy": 0.13213294744491577,
+    "Transport": 0.09902257472276688,
+    "Economy": 0.0979684367775917,
+    "Diplomacy": 0.08953378349542618,
+    "Environment": 0.0874292254447937,
+    "Education": 0.08624877035617828,
+    "Elections": 0.06522801518440247,
+    "Military": 0.061916202306747437
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Ucrânia e Rússia realizam maior troca de prisioneiros da guerra até agora",
+  "published_date": null,
+  "url": "https://www.infomoney.com.br/mundo/ucrania-e-russia-realizam-maior-troca-de-prisioneiros-da-guerra-ate-o-momento/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Advertising Ukraine and Russia have begun the biggest change of prisoners since the beginning of the conflict, with almost 800 prisoners being returned by both parties.",
+    "Ukrainian President Volodymyr Zelensky confirmed that 390 Ukrainians were returned to Russia and that the exchange process will continue in the coming days.",
+    "“It's very important to bring everyone back home,” wrote Zelensky in his Telegram account, thanking everyone involved in the efforts to ensure the return of prisoners.",
+    "Continues after advertising The images of the arrival of the Ukrainian prisoners, released by Zelensky's office, showed former head prisoners being received by their families.",
+    "Meanwhile, Russian prisoners were taken to Belarus for medical treatment, according to the Russian Ministry of Defense.",
+    "Although the exchange was significant, it does not seem to indicate an imminent pause in the fighting.",
+    "The prisoner exchange agreement is part of the “1,000 per 1,000” plan, which was discussed during peace conversations in Istanbul the week before.",
+    "Continues after advertising The first phase of the exchange took place on the Belarus border, where Ukrainian authorities prepared to receive released prisoners.",
+    "The Russian Ministry of Defense stated that the first phase of the exchange resulted in the return of 270 military personnel and 120 civilians.",
+    "Despite the exchange of prisoners, Russian Foreign Minister Sergei Lavrov ruled out the possibility of future peace negotiations in places like the Vatican, claiming that this would not be appropriate.",
+    "Continues after advertising Lavrov also questioned Zelensky's legitimacy, suggesting that new elections would be the most appropriate way to determine who should represent Ukraine in future negotiations."
+  ],
+  "topics": {
+    "Conflict": 0.9231616258621216,
+    "Elections": 0.8895058631896973,
+    "Politics": 0.8073689341545105,
+    "Diplomacy": 0.7554298043251038,
+    "Technology": 0.6586099863052368,
+    "Culture": 0.6474024057388306,
+    "Military": 0.5895462036132812,
+    "Economy": 0.48435884714126587,
+    "Energy": 0.4579925537109375,
+    "Health": 0.4508383572101593,
+    "Transport": 0.4448834955692291,
+    "Environment": 0.44057372212409973,
+    "Crime": 0.3181607127189636,
+    "Education": 0.25659918785095215
+  },
+  "sentiment": {
+    "positive": 0.273,
+    "negative": 0.727,
+    "neutral": 0.0
+  }
+}

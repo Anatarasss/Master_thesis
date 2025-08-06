@@ -1,0 +1,51 @@
+{
+  "title": "Trump says Russia and Ukraine to ‘immediately’ talk peace deal after call with Putin",
+  "published_date": null,
+  "url": "https://7news.com.au/news/trump-says-russia-and-ukraine-to-immediately-talk-peace-deal-after-two-hour-call-with-putin-c-18747589",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "US President Donald Trump says Russia and Ukraine “will immediately start negotiations” toward a ceasefire and an end to their three-year-old war, speaking after he held a call with Russian President Vladimir Putin.",
+    "“Negotiations between Russia and Ukraine will begin immediately,” Trump said in a Truth Social post following his call with Putin, which lasted two hours.",
+    "WATCH THE VIDEO ABOVE: Trump talks peace between Russia and Ukraine after phone call with Putin.",
+    "Know the news with the 7NEWS app: Download today After the call, Putin said efforts to end the war were “generally on the right track” and that the Kremlin was ready to work with Ukraine on a potential peace deal.",
+    "“We have agreed with the president of the United States that Russia will propose and is ready to work with the Ukrainian side on a memorandum on a possible future peace accord,” Putin told reporters near the Black Sea resort of Sochi.",
+    "Trump later said he had made progress during his call with Putin and that he also spoke to the heads of several European countries.",
+    "“The tone and spirit of the conversation were excellent,” Trump said in his post on TruthSocial.",
+    "Kremlin presidential adviser Yuri Ushakov, who previously served as Russian ambassador to the US, told reporters that the two countries were working out details of an exchange of prisoners jailed in Russia and the United States involving nine people on each side.",
+    "Ukrainian President Volodymyr Zelenskiy said he spoke to Trump one-on-one on Monday before Trump called Putin, and again afterwards in a conversation that involved the leaders of France, Finland, Germany, Italy and the European Union.",
+    "He said Ukraine and its partners were considering arranging a high-level meeting between Ukraine, Russia, the United States, European Union countries and the United Kingdom as part of a push to end the war.",
+    "Speaking to reporters in Kyiv, the Ukrainian leader said he hoped the meeting could happen as soon as possible and that it could be hosted by Turkey, the Vatican or Switzerland.",
+    "“We are considering a meeting of all teams at a high level,” he said.",
+    "Ukraine has said it is ready for a ceasefire now while Russia has said conditions must be met first.",
+    "In his social media post, Trump said the Vatican, “as represented by the Pope, has stated that it would be very interested in hosting the negotiations.",
+    "Let the process begin!” Putin and Trump spoke after direct talks last week in Turkey between Russian and Ukrainian delegations, the first since 2022 in the early months of Russia’s invasion of Ukraine.",
+    "Talks last week failed to agree on a truce.",
+    "Putin said on Monday the memorandum would define “a number of positions, such as, for example, the principles of settlement, the timing of a possible peace agreement”.",
+    "He said that if appropriate agreements were reached, there could be a ceasefire, adding that direct talks between Russia and Ukraine gave “reason to believe that we are generally on the right track”.",
+    "“The main thing for us is to eliminate the root causes of this crisis,” Putin said.",
+    "“We just need to determine the most effective ways to move towards peace.” Putin was speaking from Russia’s Black Sea resort of Sochi while Trump was in Washington DC.",
+    "Shortly before the call, White House press secretary Karoline Leavitt told reporters that Trump wanted to see a ceasefire but that he had grown “weary and frustrated with both sides of the conflict”.",
+    "Asked if a package of secondary sanctions against Russia remains on the table, she said: “I think everything’s on the table.” - With AP Stream free on"
+  ],
+  "topics": {
+    "Conflict": 0.9776968359947205,
+    "Politics": 0.962043285369873,
+    "Technology": 0.907214879989624,
+    "Diplomacy": 0.8939827084541321,
+    "Health": 0.8601694107055664,
+    "Economy": 0.8555698394775391,
+    "Elections": 0.8401567935943604,
+    "Military": 0.8368621468544006,
+    "Transport": 0.7969415187835693,
+    "Culture": 0.7954851984977722,
+    "Education": 0.7733120918273926,
+    "Energy": 0.7604430317878723,
+    "Environment": 0.7254915237426758,
+    "Crime": 0.6902042627334595
+  },
+  "sentiment": {
+    "positive": 0.545,
+    "negative": 0.455,
+    "neutral": 0.0
+  }
+}

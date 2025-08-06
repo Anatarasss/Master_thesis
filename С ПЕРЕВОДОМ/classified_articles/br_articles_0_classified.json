@@ -1,0 +1,48 @@
+{
+  "title": "Rússia apresentará minuta de acordo de paz após troca de prisioneiros, diz Lavrov",
+  "published_date": null,
+  "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2025/05/23/russia-apresentara-minuta-de-acordo-de-paz-apos-troca-de-prisioneiros-diz-lavrov.htm",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Russia will present a draft peace agreement after prisoners, says Lavrov Moscow (Reuters) - Russia will be ready to deliver to Ukraine a draft document outlining the conditions for a long -term peace agreement, as the ongoing prisoners' exchange is completed, Foreign Minister Sergei Lavrov said on Friday.",
+    "Speaking on his ministry's website, Lavrov said Russia is committed to seeking a peaceful solution for the war of more than three years that Moscow to Kiev.",
+    "He also accused Ukraine of launching waves of drone attacks for several days against Russian targets that caused victims and interrupted air traffic.",
+    "The minister suggested that European countries would have encouraged Kiev to launch the attacks to undermine the peace efforts led by US President Donald Trump.",
+    "Russia and Ukraine released 390 prisoners on Friday and said they would release more in the coming days, an initiative agreed in conversations between Russian and Ukrainian authorities in Türkiye last week.",
+    "\"We are still committed to a peace agreement.",
+    "We are always open to conversations ... And I would like to emphasize that we are committed to the agreements that have been recently reached in Istanbul,\" Lavrov said.",
+    "\"We are actively working in the second part of the agreements, which require the preparation, on each side, of a preliminary document that establishes the conditions for obtaining a reliable and long -term consensus on an agreement.\"",
+    "\"As soon as the exchange of war prisoners is completed, we will be ready to deliver a draft of such a document that the Russian side is now concluding.\"",
+    "Lavrov said the increase in Ukrainian drone attacks - about 800 sent against Russian targets in the last three days - \"a direct consequence\" of the support of European Union countries, whose leaders have visited Kiev in recent days to Ukraine.",
+    "\"We are sure that they will be held responsible for their share of responsibility for these crimes,\" Lavrov said, referring to European countries.",
+    "\"This is clearly an attempt to stop peace negotiations and undermine the progress made in Istanbul after agreements between the presidents of Russia and the United States ... We will continue this work, regardless of the provocations that may occur.\"",
+    "Lavrov's ministry had previously promised to respond to the attacks.",
+    "Ukraine Foreign Minister Andrii Sybiha told reporters that Kiev awaits Russia proposals on the form of conversations, a ceasefire and a meeting between Ukrainian President Volodymyr Zelenskiy and Kremlin leader Vladimir Putin.",
+    "Sybiha would have said, according to Ukrainian media, that Kiev would be in favor of expanding this meeting to include US President Donald Trump.",
+    "\"We believe this meeting could take place in an expanded format,\" said Sybiha.",
+    "\"We would really like President Trump to be included.\"",
+    "(Reuters report) See also Leave your comment The author of the message, not UOL, is responsible for the comment.",
+    "Read the rules of use of UOL."
+  ],
+  "topics": {
+    "Conflict": 0.9591749310493469,
+    "Diplomacy": 0.9230822920799255,
+    "Politics": 0.9081695079803467,
+    "Technology": 0.8838270902633667,
+    "Culture": 0.8471777439117432,
+    "Elections": 0.7881037592887878,
+    "Education": 0.7733108401298523,
+    "Health": 0.7601181268692017,
+    "Transport": 0.748306155204773,
+    "Energy": 0.7335758209228516,
+    "Environment": 0.7316669821739197,
+    "Military": 0.727301299571991,
+    "Economy": 0.7160589098930359,
+    "Crime": 0.6864041090011597
+  },
+  "sentiment": {
+    "positive": 0.632,
+    "negative": 0.368,
+    "neutral": 0.0
+  }
+}

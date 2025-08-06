@@ -1,0 +1,36 @@
+{
+  "title": "Rússia afirma que derrubou 35 drones ucranianos direcionados contra Moscou",
+  "published_date": null,
+  "url": "https://www.em.com.br/internacional/2025/05/7153281-russia-afirma-que-derrubou-35-drones-ucranianos-direcionados-contra-moscou.html",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Russia says he knocked 35 Ukrainian drones directed against Moscow share Follow in the Russian military forces toppled 35 Ukrainian drones directed against Moscow at night, an action that caused the temporary closure of the capital's main airports, authorities said on Thursday (22).",
+    "\"Air defense systems destroyed and intercepted 105 Ukrainian drones,\" including 35 that 5 were headed to Moscow, the Ministry of Defense told a statement.",
+    "The mayor of the capital, Sergey Sobyanin, explained that emergency teams were sent to the falling places of the devices.",
+    "As usual during this type of attack, the main airports of the capital (Sheremetievo, Domodiedovo and Vnukovo) temporarily interrupted their activities, the Russian Civil Aviation Agency Rosaviatsia announced.",
+    "On Wednesday, Ukraine launched 27 drones against the Russian capital, which were also neutralized, Sobyanin said.",
+    "Russia and Ukraine perform air strikes almost every night, despite diplomatic efforts to obtain a ceasefire in the conflict started in February 2022 with the large-scale offensive of Moscow against the neighboring country.",
+    "BUR-JND/PHS/DBH/ATM/DBH/ZM/FP"
+  ],
+  "topics": {
+    "Conflict": 0.9719333052635193,
+    "Military": 0.9170958995819092,
+    "Technology": 0.8232889175415039,
+    "Health": 0.7351028919219971,
+    "Culture": 0.6406598687171936,
+    "Politics": 0.5669010281562805,
+    "Environment": 0.4590296447277069,
+    "Transport": 0.41855573654174805,
+    "Economy": 0.40010592341423035,
+    "Energy": 0.2700968384742737,
+    "Diplomacy": 0.20017406344413757,
+    "Education": 0.15031275153160095,
+    "Crime": 0.1496085375547409,
+    "Elections": 0.14512011408805847
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

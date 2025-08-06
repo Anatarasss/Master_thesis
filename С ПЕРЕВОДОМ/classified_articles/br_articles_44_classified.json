@@ -1,0 +1,53 @@
+{
+  "title": "PF monitora desde 2022 uso do Brasil como centro para espiões da Rússia",
+  "published_date": null,
+  "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-monitora-desde-2022-uso-do-brasil-como-centro-para-espioes-da-russia/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "(Folhapress) The Federal Police have been following since 2022 evidence that Brazil had been systematically used by Russia as a center for the formation of intelligence agents in the country ruled by Vladimir Putin.",
+    "In April last year, the PF was focused on three cases of Russian spies acting around the world with Brazilian identity.",
+    "A series of reports published by Folha in recent years has shown this.",
+    "Russian spies clockwise from the upper left corner: Iekaterina leonidovna Danilova, Vladimir Aleksandrovitch Danilov, Olga Igorevna Tiutereva, Aleksandr Andreyevitch Utekhin, Irina Alekseievna Antonova and Roman Olegovitch the New York Types the image presents a grid Six portraits of people.",
+    "The portraits are organized in two columns and three lines.",
+    "People have different hair styles and facial expressions.",
+    "The first line contains two women and a man, while the second line presents three men and one woman.",
+    "The background is clear and the images have a standard portrait style.",
+    "** On Wednesday (21), the American newspaper The New York Times published a report in which it states that Brazil has become a factory for spy formation-and that PF has been acting to dismantle this intelligence network.",
+    "\"Russia has used Brazil as a launching platform for its most qualified intelligence agents, known as illegal.",
+    "In an bold and long-range operation, spies left their Russian past.",
+    "They opened companies, made friends and got involved in loving relationships-inventions that, over the years, became the bricks that built totally new identities,\" says the report.",
+    "According to the publication, investigations carried out by Brazilian and foreign authorities showed that at least nine Russian officers operated under false Brazilian identities.",
+    "Some of the accused of spy cited by the New York Times have been reported by Folha reporting in recent years, including Serguei Tcherkasov, prevented from entering the Netherlands in 2022 and deported to Brazil, where he still remains in prison.",
+    "In the most recent court decision on the case of Tcherkasov of December last year, Minister Edson Fachin of the Supreme Court (Supreme Court) denied the replacement of pre -trial detention for precautionary measures.",
+    "He also conditioned the extradition of the Russian, as requested by his country, to the conclusion of investigations in Brazil.",
+    "Folha showed in April 2023 that researchers pointed to several reasons that made Brazil a center for the formation of Russian spies.",
+    "The ease of getting a birth certificate in the country and, later, other documents until you reach the passport is an attractive to the espionage agencies.",
+    "In addition, the good receptivity of the Brazilian passport in the world is pointed out as an important factor for the increase in the number of illegal spies cases whose identities have been warmed (in criminal jargon) in Brazil.",
+    "PF mapped cash transactions received by the alleged spy and arrived in members of the Russian government based in Brazil.",
+    "In April 2024, another report showed that the ABIN (Brazilian Intelligence Agency) had discovered a spy of Russia operating in Brazil that was member of the diplomatic corps of the embassy of its country in Brasilia.",
+    "Serguei Alexandrovitch Chumilov left Brazil after ABIN's counterintelligence sector identifies it as a spy of one of the Russian intelligence services.",
+    "He worked to co -opt Brazilians as informants.",
+    "The cultural entity that housed Chumilov in Brazil and an agency to which it is connected have already been accused in the United States and Europe to use its structure and employees in espionage actions."
+  ],
+  "topics": {
+    "Crime": 0.7513160109519958,
+    "Conflict": 0.5909888744354248,
+    "Environment": 0.549271821975708,
+    "Politics": 0.5033084154129028,
+    "Diplomacy": 0.4791053533554077,
+    "Technology": 0.4728367328643799,
+    "Culture": 0.4524727761745453,
+    "Health": 0.2999289631843567,
+    "Elections": 0.27196165919303894,
+    "Transport": 0.26891109347343445,
+    "Economy": 0.2669203579425812,
+    "Military": 0.17501281201839447,
+    "Energy": 0.16531318426132202,
+    "Education": 0.15817658603191376
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

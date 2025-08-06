@@ -1,0 +1,31 @@
+{
+  "title": "Rússia questiona eventuais negociações sobre a Ucrânia no Vaticano",
+  "published_date": null,
+  "url": "https://www.em.com.br/internacional/2025/05/7154338-russia-questiona-eventuais-negociacoes-sobre-a-ucrania-no-vaticano.html",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Russia questions eventual negotiations about Ukraine in the Vatican share Follow Noo Foreign Minister of Russia, Sergey Lavrov, expressed doubts on Friday (23) about a eventual negotiation with Ukraine in the Vatican, after United States, Italy and Pope Leo XIV expressed the hope that the city-state receives the talks.",
+    "\"It would not be very elegant for Orthodox countries to discuss in Catholic territory topics related to eliminating the fundamental causes (of conflict),\" said Lavrov, who also considered that \"for the Vatican himself would not be very comfortable, in the present circumstances, to receive delegations from orthodox countries,\" he added."
+  ],
+  "topics": {
+    "Conflict": 0.9943410754203796,
+    "Politics": 0.7996292114257812,
+    "Culture": 0.7793757319450378,
+    "Diplomacy": 0.7643643617630005,
+    "Military": 0.26556795835494995,
+    "Transport": 0.25461545586586,
+    "Technology": 0.18071158230304718,
+    "Health": 0.17447377741336823,
+    "Energy": 0.15172304213047028,
+    "Economy": 0.13619202375411987,
+    "Crime": 0.11798548698425293,
+    "Elections": 0.07257550954818726,
+    "Environment": 0.03844017535448074,
+    "Education": 0.018606718629598618
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

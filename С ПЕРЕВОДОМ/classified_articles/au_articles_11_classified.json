@@ -1,0 +1,49 @@
+{
+  "title": "Anthony Albanese and Penny Wong slam Russia over 13-year sentence for captured fighter",
+  "published_date": null,
+  "url": "https://7news.com.au/news/anthony-albanese-and-penny-wong-slam-russia-over-13-year-sentence-for-captured-fighter-c-18727462",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Foreign Minister Penny Wong has slammed the 13-year prison sentence handed to Australian citizen Oscar Jenkins by a Russian-controlled court, calling the proceedings a “sham trial” and demanding he be treated as a prisoner of war.",
+    "Jenkins, 33, from Melbourne, was convicted of fighting as a mercenary alongside Ukrainian forces and sentenced to a maximum-security penal colony in the Russian-occupied Luhansk region of eastern Ukraine.",
+    "The former biology teacher, who was captured by Russian troops in December 2023, was accused of receiving up to 800,000 rubles (around A$15,000) per month to engage in military operations against Russian forces.",
+    "Know the news with the 7NEWS app: Download today State-run media claimed Jenkins had “fully admitted his guilt,” though serious concerns have been raised about the fairness of the trial and the conditions of his detention.",
+    "“The Australian government is appalled at the sham trial and 13-year sentence given to Australian man Oscar Jenkins,” Wong said in a statement posted to social media.",
+    "“As a full-serving member of the regular armed forces of Ukraine, Mr Jenkins is a prisoner of war.",
+    "Russia is obligated under international humanitarian law to provide him with humane treatment and full POW protections.” Prime Minister Anthony Albanese echoed the condemnation, calling the sentence “an outrage” during a press conference in Rome.",
+    "“Let’s be very clear.",
+    "This sentence by Russia is an outrage – it is a continuation of the way they have behaved, abrogating their responsibilities,” the Prime Minister said.",
+    "“This conflict began with them choosing to invade a sovereign nation, and their decision to abrogate their responsibility to uphold international law.” Jenkins was formally charged with mercenary activity in April and appeared in court on Friday in a glass cage, reportedly looking frail and despondent.",
+    "Russian prosecutors argued he had signed a contract with the Ukrainian Defence Ministry and fought in the Donbas region with Ukraine’s 66th Separate Mechanised Brigade.",
+    "Footage of Jenkins in Russian custody circulated online after his capture, showing him bound, slapped, and aggressively interrogated.",
+    "The video sparked global outrage and led to fears that he had been killed, prompting the Australian government to summon the Russian ambassador in January.",
+    "New footage later surfaced in February showing Jenkins alive but visibly unwell, with possible injuries including a broken arm — heightening concerns over his treatment.",
+    "Russian state media claimed reports of his death were “fake news” orchestrated by Ukrainian intelligence.",
+    "Opposition home affairs spokesman James Paterson described the sentence as a “sham” and a “gross violation” of international law, saying Jenkins must be treated as a prisoner of war under the Geneva Conventions.",
+    "Human rights groups have echoed calls for Jenkins’ release, criticising the legality of the trial and raising the possibility that he may be included in a future swap.",
+    "One such deal could involve Russian spies Kira and Igor Korolev, according to speculation from the Russian branch of the International Committee for the Protection of Human Rights.",
+    "Jenkins’ case follows the March conviction of British national James Scott Rhys Anderson, who received a 19-year sentence from a Russian military court — the first such case involving a British citizen since the war began.",
+    "The Australian Department of Foreign Affairs and Trade has been contacted for further comment."
+  ],
+  "topics": {
+    "Conflict": 0.9959944486618042,
+    "Military": 0.8461402654647827,
+    "Health": 0.828963041305542,
+    "Culture": 0.8252901434898376,
+    "Politics": 0.8225523233413696,
+    "Economy": 0.73319011926651,
+    "Energy": 0.6960306167602539,
+    "Technology": 0.6676782369613647,
+    "Environment": 0.6668490171432495,
+    "Diplomacy": 0.6575024127960205,
+    "Elections": 0.5418616533279419,
+    "Crime": 0.49648332595825195,
+    "Transport": 0.4908852279186249,
+    "Education": 0.4363093376159668
+  },
+  "sentiment": {
+    "positive": 0.15,
+    "negative": 0.85,
+    "neutral": 0.0
+  }
+}

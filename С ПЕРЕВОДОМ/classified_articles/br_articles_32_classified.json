@@ -1,0 +1,50 @@
+{
+  "title": "Bitcoin bate novo recorde: veja os fatores por trás da alta aos US$ 111 mil",
+  "published_date": null,
+  "url": "https://www.folhavitoria.com.br/economia/bitcoin-bate-novo-recorde-veja-os-fatores-por-tras-da-alta-aos-us-111-mil/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Bitcoin reached its maximum historical value at dawn on Thursday (22).",
+    "The largest cryptocurrency in market value was negotiated at US $ 111.6 thousand (R $ 630.54 thousand).",
+    "Already in the morning, the digital asset had a slight retreat, but still above the $ 111,000.",
+    "Bitcoin's strength comes at a time of macroeconomic tensions with the advancement of trade agreements as well as with the possibility of ceasing fire between Ukraine and Russia.",
+    "\"This lighter mood within the market has allowed more intense capital flows for cryptocurrency.",
+    "This is observable in ETFs, which have recorded more than $ 3.6 billion in tickets this month - a value not seen since January,\" said Beto Bernandes, Foxbit analyst.",
+    "The adoption of currency as a strategic reserve asset by companies also presses the quotation of Bitcoin.",
+    "On the 15th, for example, Méliuz (Cash3) became the first Bitcoin Treasury Company in Latin America.",
+    "That is, a company whose main mission is the accumulation of bitcoins.",
+    "In this sense, it uses its generation of cash and corporate structures and capital markets to expand exposure to the asset over time.",
+    "Bitcoin as a strategic reserve The change enables the company to make investments in Bitcoin as part of its business strategy.",
+    "And as the first act of “Nova Méliuz”, Fintech bought $ 28.4 million in cryptocurrency.",
+    "In this sense, this amount is equivalent to about R $ 160 million.",
+    "Similarly, the company had already done a BTC purchase operation in March this year.",
+    "In this sense, added to this new acquisition, it arranges 320.25 bitcoins.",
+    "“The Texas Chamber also approved the third reading of the project that creates a strategic BTC reserve.",
+    "If approved, we can see a 'big institution' making contributions to this market,” adds Fernandes.",
+    "Similarly, with the interest of investors in the asset, Bitcoin was able to move from New York's bags.",
+    "In this sense, at Wednesday's session (20), the American Index S&P 500 fell 1.61%, while Bitcoin gained breath.",
+    "\"This shows that gradually investors begin to understand the thesis of Porto Seguro presented by Bitcoin,\" says Theodoro Fleury, manager and director of investment at QR Asset.",
+    "With recent gains, Bitcoin accumulates an appreciation of 18.6% in 2025."
+  ],
+  "topics": {
+    "Conflict": 0.49618783593177795,
+    "Economy": 0.29969027638435364,
+    "Technology": 0.2838340997695923,
+    "Culture": 0.2653316259384155,
+    "Politics": 0.1538930982351303,
+    "Diplomacy": 0.1375548243522644,
+    "Elections": 0.12143828719854355,
+    "Environment": 0.12134407460689545,
+    "Transport": 0.11031068861484528,
+    "Health": 0.05819789320230484,
+    "Energy": 0.05024299398064613,
+    "Crime": 0.04083951935172081,
+    "Military": 0.03513185679912567,
+    "Education": 0.02945583686232567
+  },
+  "sentiment": {
+    "positive": 0.619,
+    "negative": 0.381,
+    "neutral": 0.0
+  }
+}
