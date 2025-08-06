@@ -1,0 +1,45 @@
+{
+  "title": "Expectativas desfeitas: Putin e Trump não vão à Turquia para negociações",
+  "published_date": null,
+  "url": "https://www.noticiasaominuto.com/mundo/2786348/expectativas-desfeitas-putin-e-trump-nao-vao-a-turquia-para-negociacoes",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "After Russia reveals the composition of its delegation to the negotiating round in Turkey about the war in Ukraine, confirming the absence of President Vladimir Putin, an American official confirmed to Reuters that Donald Trump also does not go to Istanbul on Thursday.",
+    "The president of the United States had admitted today the possibility of traveling to Turkey if Vladimir Putin did the same.",
+    "However, after much expectation, it was reported that Putin is not part of the Kremlin delegation that Istanbul will be directed to negotiations on the conflict in Ukraine.",
+    "According to a note released on the official website of the Russian presidency, Putin appointed a delegation of high employees to participate in the negotiations on Thursday, which will be headed by presidential advisor Vladimir Medinsky.",
+    "To him will join Mikhail Galuzin, Deputy Minister of Foreign Affairs Russian, Alexandre Fomin, Deputy Defense Minister, and Igor Kostyukov, head of the main direction of the Russian Armed Forces.",
+    "Medinsky had already led negotiations with the Ukrainian government in 2022 in Istanbul.",
+    "Putin also approved a group of experts to participate in the conversations, including Alexander Zorin, deputy chief of the General Staff of the Armed Forces General State; Elena Podobreevskaya, Deputy Chief of the Presidential Directorate for the State Humanitarian Policy; Alexei Polishchuk, director of the second department of countries of the community of independent states at the Ministry of Foreign Affairs; and Viktor Shevtsov, deputy chief of the main direction of International Military Cooperation of the Ministry of Defense.",
+    "So far, it is recalled, Kremlin had refused to say if Putin would move to Türkiye this week.",
+    "Even today, Ukrainian President Volodymyr Zelensky said his position in the negotiations would depend on who represented Russia at the meeting scheduled for Thursday.",
+    "At the same time, the Ukrainian leader said he was ready for \"any kind of negotiation\" to end the war, which began in February 2022 with the Russian invasion.",
+    "So far, Russia and Ukraine have kept the suspense about the format of peace conversations in Istanbul, the place of the last meeting of the two belligerents three years ago.",
+    "Kremlin had only confirmed that he was going to send a delegation to Turkey, where Ukraine's Foreign Minister Andrii Sybiga is already on the basis of Zelensky's own participation.",
+    "In recent days, Zelensky has asked the Russian counterpart to personally participate in these discussions, initially announced by the Kremlin leader and aimed to open a diplomatic process to find a solution to the conflict.",
+    "The Russian President, who has appeared publicly several times since Zelensky's offer, remained silent on the subject.",
+    "According to Russian presidential counselor for international affairs, Yuri Ushakov, Russia will discuss political and technical issues with Ukrainian negotiators in Istanbul.",
+    "[News Updated at 10:38 pm] Also read: Putin out of Kremlin delegation that goes to Istanbul"
+  ],
+  "topics": {
+    "Conflict": 0.9774346351623535,
+    "Politics": 0.9575750827789307,
+    "Technology": 0.9571648240089417,
+    "Diplomacy": 0.9314448833465576,
+    "Military": 0.9165014028549194,
+    "Culture": 0.8068793416023254,
+    "Health": 0.7628706097602844,
+    "Energy": 0.7338037490844727,
+    "Economy": 0.6636452674865723,
+    "Environment": 0.6204267740249634,
+    "Elections": 0.613844096660614,
+    "Transport": 0.6048887968063354,
+    "Crime": 0.5801715850830078,
+    "Education": 0.5100734233856201
+  },
+  "sentiment": {
+    "positive": 0.438,
+    "negative": 0.562,
+    "neutral": 0.0
+  }
+}

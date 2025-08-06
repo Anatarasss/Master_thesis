@@ -1,0 +1,41 @@
+{
+  "title": "Putin apologises to Azerbaijan over passenger plane crash",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1266536-putin-apologises-to-azerbaijan-over-passenger-plane-crash",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW: Russia’s Vladimir Putin on Saturday apologised to Azerbaijan’s President Ilham Aliyev for a “tragic incident” which happened in Russian airspace involving an Azerbaijan Airlines passenger plane that crashed on Wednesday.",
+    "Putin called Aliyev as speculation grew that Russian air defence may have accidentally shot down the plane, which crashed in western Kazakhstan, killing 38 people while 28 survived.",
+    "Flight J2-8243 crashed in a ball of fire near the city of Aktau in Kazakhstan after diverting from southern Russia where Ukrainian drones were reported to be attacking several cities.",
+    "The Russian leader did not claim responsibility for crash, while apologising to Aliyev that the incident took place in Russian airspace.",
+    "“(President) Vladimir Putin apologised for the tragic incident that occurred in Russian airspace and once again expressed his deep and sincere condolences to the families of the victims and wished a speedy recovery to the injured,” the Kremlin said in a statement.",
+    "“It was noted in the conversation that the Azerbaijani passenger aircraft, which was travelling according to its schedule, repeatedly tried to land at Grozny airport.",
+    "At that time, Grozny, Mozdok and Vladikavkaz were being attacked by Ukrainian unmanned aerial vehicles, and Russian air defence systems repelled these attacks,” the Kremlin said.",
+    "The Kremlin said the call took place at Putin’s request.",
+    "Azerbaijan’s president had noted that the plane had been “subjected to external physical and technical interference in Russian airspace, resulting in a complete loss of control and redirection to the Kazakh city of Aktau,” according to Azerbaijan’s presidential office.",
+    "The Embraer EMBR3.SA passenger jet had flown from Azerbaijan’s capital Baku to Grozny, in Russia’s southern Chechnya region, before veering off hundreds of miles across the Caspian Sea.",
+    "Statements by Azerbaijani officials suggest Baku believes the plane was hit mid-air, while the US has said it had “early indications” Russian air defence may have been responsible for the crash.",
+    "Yunus has promised polls will be held by June 2026 at latest in Muslim-majority nation of around 170 million people China has given guaranteed loan of $364 million, out of which $58.41 million guarantee has been given in April 2025 Former champions will now face Quetta Gladiators in Sunday’s final at the same venue Maryam Nawaz Sharif expressed deep grief over sad demise of renowned Punjabi poet Tajammul Kaleem WB Managing Director Anna Bjerde, Country Director Najy Benhassine and CM Syed Murad Shah accompanied her In separate meeting with PVMA, Khan assured ghee producers of government’s understanding and support"
+  ],
+  "topics": {
+    "Elections": 0.9727289080619812,
+    "Politics": 0.8901889324188232,
+    "Conflict": 0.8198502063751221,
+    "Military": 0.8088682889938354,
+    "Diplomacy": 0.7594922184944153,
+    "Economy": 0.7435064315795898,
+    "Transport": 0.7349041104316711,
+    "Technology": 0.7345792651176453,
+    "Culture": 0.7161424160003662,
+    "Environment": 0.6956084966659546,
+    "Health": 0.6363130807876587,
+    "Crime": 0.5881228446960449,
+    "Education": 0.5795580148696899,
+    "Energy": 0.5751722455024719
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

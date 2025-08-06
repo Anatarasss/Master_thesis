@@ -1,0 +1,39 @@
+{
+  "title": "Presidente da Câmara de Coimbra diz que Europa tem de corrigir três erros estratégicos",
+  "published_date": null,
+  "url": "https://jornaleconomico.sapo.pt/noticias/presidente-da-camara-de-coimbra-diz-que-europa-tem-de-corrigir-tres-erros-estrategicos/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "The mayor of Coimbra defended today that Europe has to correct the excessive energy dependencies of Russia, China's industrial and US military.",
+    "\"Europe has to correct three recent strategic errors that have cost us: Russia's excessive energy dependence, China's excessive industrial dependence and excessive military dependence on the United States,\" he said.",
+    "In his intervention at the opening session of the 18th Cotec Europa summit, which is taking place at the São Francisco Convent, in the city of Coimbra, José Manuel Silva warned that “who depends too much is always weakened”.",
+    "\"We know that only a strong, ambitious, united and combative Europe can affirm itself in this increasingly competitive, uncertain and volatile century,\" he added.",
+    "The mayor of Coimbra also stated that he believes in the founding values ​​of Europe, namely in freedom, democracy, solidarity, peace and development, in a single market and innovation as a motor of progress, and in territorial cohesion as a factor of justice.",
+    "\"In this context, Cotec is an essential piece of international puzzle.",
+    "This summit is an appeal to action, a manifesto in favor of Europe that does not resign, that leads, transforms, which intervenes,\" he said.",
+    "The heads of State of Portugal, Spain and Italy will speak at the closing session of the 18th Cotec Cotec Europa, who will also feature the former president of the European Central Bank (ECB) and former Italian Prime Minister Mario Draghi, in a conversation about the future of Europe.",
+    "Cotec is a business association that works in network with institutions from Portugal, Spain and Italy, holding a triangular meeting every year, rotating in each of the countries, bringing together business, academic leaders and political decision makers to discuss challenges of competitiveness and economic growth of the European bloc, based on Hector, Letta and Draghi reports.",
+    "Tagus Park - Technology Building 4.1 Avenida Professor Doctor Cavaco Silva, 71 to 74 2740-122-Porto Salvo, Portugal online@medianove.com"
+  ],
+  "topics": {
+    "Energy": 0.9525073766708374,
+    "Technology": 0.8435342311859131,
+    "Politics": 0.8284929394721985,
+    "Conflict": 0.7664316892623901,
+    "Economy": 0.7003370523452759,
+    "Culture": 0.6101915240287781,
+    "Diplomacy": 0.5661733746528625,
+    "Military": 0.5263816118240356,
+    "Environment": 0.4286576211452484,
+    "Education": 0.3573373556137085,
+    "Health": 0.3521425127983093,
+    "Transport": 0.33696576952934265,
+    "Crime": 0.20654526352882385,
+    "Elections": 0.12838922441005707
+  },
+  "sentiment": {
+    "positive": 0.6,
+    "negative": 0.4,
+    "neutral": 0.0
+  }
+}

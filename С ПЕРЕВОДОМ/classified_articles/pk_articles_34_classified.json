@@ -1,0 +1,41 @@
+{
+  "title": "Moscow evacuates part of its diplomatic personnel in Syria",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1262021-moscow-evacuates-part-of-its-diplomatic-personnel-in-syria",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW: Russia’s foreign ministry said it has evacuated some of its diplomatic staff from Syria Sunday, a week after the fall of Bashar al-Assad.",
+    "“On December 15, the withdrawal of part of the personnel of the Russian (diplomatic) representation in Damascus was carried out by a special flight of the Russian Air Force from the Hmeimim airbase” in Syria, the ministry’s crisis situations department said on Telegram.",
+    "The ministry said the flight arrived at an airport near Moscow, without specifying how many people were aboard.",
+    "The flight also carried members from the diplomatic missions of Belarus, North Korea and Abkhazia, a Moscow-backed separatist region of Georgia, the department said.",
+    "“The Russian embassy in Damascus continues to function”, said the press release published on Telegram.",
+    "Following an 11-day offensive, a rebel coalition dominated by Islamist group Hayat Tahrir al-Sham (HTS) overthrew Al-Assad, who fled to Russia along with his family.",
+    "The fate of Russia’s two military bases in Syria -- the Tartus naval base and the Hmeimim military airfield -- is now uncertain.",
+    "The sites are key to Russia maintaining its influence in the Middle East, in the Mediterranean basin and as far as Africa.",
+    "On Wednesday, a Kremlin spokesperson said Moscow was in contact with the new authorities in Syria regarding the bases’ future.",
+    "A satellite image shows the new North Korean warship at harbour before launch, in Chongjin, North Korea, May 18, 2025.... A view shows the courthouse of Vannes, where ex-surgeon Joel Le Scouarnec, accused of the aggravated rape and sexual... Members of the emergency services work at Hamburg’s main train station where several people were stabbed on May 23,... India's Border Security Force personnel patrol along the fencing of the India-Bangladesh international border.",
+    "—... Representational image of chickens.",
+    "— Unsplash/FilePARIS: Outbreaks of bird flu in mammals more than doubled across... Turkey's President Tayyip Erdogan speaks during a press briefing during NATO’s 75th anniversary summit in..."
+  ],
+  "topics": {
+    "Conflict": 0.857281506061554,
+    "Politics": 0.5509748458862305,
+    "Military": 0.503860354423523,
+    "Diplomacy": 0.4975680708885193,
+    "Crime": 0.4610055387020111,
+    "Culture": 0.3333592414855957,
+    "Technology": 0.31092262268066406,
+    "Health": 0.25481823086738586,
+    "Environment": 0.2084427922964096,
+    "Transport": 0.19612717628479004,
+    "Economy": 0.12642577290534973,
+    "Education": 0.0714288204908371,
+    "Elections": 0.06570997089147568,
+    "Energy": 0.06483420729637146
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

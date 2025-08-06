@@ -1,0 +1,45 @@
+{
+  "title": "Două Mașini Ale șefului Russia Today, Post De Propagandă Al Kremlinului, Incendiate La Vila Lui De 16 Milioane De Euro Din Crimeea",
+  "published_date": null,
+  "url": "https://www.libertatea.ro/stiri/dimitri-kiseliov-propagandist-kremlin-masini-incendiate-4281145",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "The attack in Kiseliov's domain, the director of the Russia Today (RT), set up because the Moscow authorities wanted a mass medium, took place on Saturday, September 17, at 3.00.",
+    "The Russian press notes that the police analyze the images on the surveillance cameras and hear witnesses.",
+    "Department of the Ministry of Internal Affairs of Russia for Crimea has opened a criminal case for deliberate destruction or deterioration by the property by arson.",
+    "The journalist, who is also the host of the Program Vesti Nedelu, in which the propaganda for the Kremlin is made, was not in Crimea.",
+    "He did not comment on the situation.",
+    "Kiseliov bought a luxurious villa in Koktebel in 2005.",
+    "After the annexation of the Crimea region, from 2015, the RT chief was seen even more often in the area, especially as he bought a vineyard, Kimeria, and opened a winery, Cock T`est Belle.",
+    "Bought all the circulation of the newspaper that investigated his business The house on the Black Sea bank is worth 200,000,000 rubles, around 16,000,000 euros.",
+    "The way he acquired this field was investigated by the Mămto 24 newspaper.",
+    "According to the journalist who did the investigation, Kiseliov bought the entire circulation, and the material disappeared from the publication's website.",
+    "Instead, an advertising banner was placed for the vineyard of Director Russia Today.",
+    "See Live Text - presidential elections 2025 - Tour 1.",
+    "Follow the latest information about the presence at the vote and the poll!",
+    "Jumbo • 18.09.2022, 13:44 The Russians are too gentle.",
+    "How to catch the subsidized terrorists, *** Do not judge, do not convict.",
+    "*** This comment was moderate for: incite to violence."
+  ],
+  "topics": {
+    "Elections": 0.7271823287010193,
+    "Politics": 0.7074833512306213,
+    "Conflict": 0.6713899374008179,
+    "Transport": 0.6182247996330261,
+    "Crime": 0.4438488781452179,
+    "Technology": 0.3522659242153168,
+    "Culture": 0.32438525557518005,
+    "Health": 0.2934207618236542,
+    "Military": 0.2921977639198303,
+    "Economy": 0.24530388414859772,
+    "Diplomacy": 0.2324279397726059,
+    "Energy": 0.21791836619377136,
+    "Environment": 0.19622476398944855,
+    "Education": 0.18338018655776978
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

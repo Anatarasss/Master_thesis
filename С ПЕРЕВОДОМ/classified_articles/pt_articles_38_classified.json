@@ -1,0 +1,39 @@
+{
+  "title": "Zelensky e Trump falaram sobre possíveis novas sanções contra Moscovo",
+  "published_date": null,
+  "url": "https://www.noticiasaominuto.com/mundo/2778704/zelensky-e-trump-falaram-sobre-possiveis-novas-sancoes-contra-moscovo",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "\"I think I had the best conversation with the president [Donald] Trump of all we have had so far,\" Zelensky said at a press conference in Kyiv, quoted by the Ukrainian news agency Ukrinform.",
+    "\"I raised the issue of sanctions from the United States.",
+    "I will not go into detail, but what he [Trump] told me it seemed very powerful to me,\" he said, according to the Spanish news agency.",
+    "Zelensky also answered questions about the controversial economic agreement between the United States and Ukraine, signed this week, which has yet to be ratified by the Kyiv Parliament in the coming days.",
+    "The Ukrainian President expressed the expectation that there will be no difficulty in approving the document.",
+    "He admitted, however, that there are deputies who oppose the agreement, to whom they censorized for rejecting a pact \"on which Ukraine's security depends.\"",
+    "Zelensky stated that, based on the decisions made by the US Congress, Ukraine is expected to receive $ 15 billion (13.2 billion euros to the current exchange rate) of aid this year and a similar amount in 2026.",
+    "The agreement signed with Washington could allow the $ 15 billion scheduled for 2026 to be anticipated for this year, said Zelensky.",
+    "Such anticipation would be part of the United States's contribution to the investment fund to the reconstruction to be created under the agreement, he added.",
+    "Also read: Ukraine: USA approve selling Kyiv of F-16 fighters"
+  ],
+  "topics": {
+    "Conflict": 0.7260249853134155,
+    "Economy": 0.7043502330780029,
+    "Politics": 0.6463160514831543,
+    "Culture": 0.6032422184944153,
+    "Diplomacy": 0.6022251844406128,
+    "Military": 0.5476191639900208,
+    "Technology": 0.5140618085861206,
+    "Health": 0.38287442922592163,
+    "Transport": 0.3171333968639374,
+    "Energy": 0.3149048388004303,
+    "Environment": 0.28275105357170105,
+    "Elections": 0.24873477220535278,
+    "Education": 0.16295331716537476,
+    "Crime": 0.12413649260997772
+  },
+  "sentiment": {
+    "positive": 0.8,
+    "negative": 0.2,
+    "neutral": 0.0
+  }
+}

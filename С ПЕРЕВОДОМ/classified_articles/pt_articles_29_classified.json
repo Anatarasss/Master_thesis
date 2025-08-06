@@ -1,0 +1,50 @@
+{
+  "title": "Sanções do Ocidente? \"Não há necessidade de ter medo\", diz Putin",
+  "published_date": null,
+  "url": "https://www.noticiasaominuto.com/mundo/2785393/sancoes-do-ocidente-nao-ha-necessidade-de-ter-medo-diz-putin",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "\"There is no need to be afraid.",
+    "Anyone who is starting to be afraid loses quickly,\" the Kremlin leader said at a meeting with members of a business organization after a group of western countries threatened Moscow with new sanctions to refuse to suspend combat in Ukraine.",
+    "Vladimir Putin has recommended, however, that one should \"understand what can happen\" as a result of Western restrictions.",
+    "\"We have to be prepared for any movement that our potential future opponents can do,\" he insisted.",
+    "The Russian leader made these statements after threats from the UK leaders, Germany, France, and Poland on the imposition of new and harsh sanctions on Russia if Kremlin refuses a one-month ceasefire in Ukraine.",
+    "The new German Chancellor, Friedrich Merz, reiterated today that if there is no progress this week towards a lasting ceasefire in Ukraine, new European sanctions against Russia will be imposed, and has confident that it will be possible to ensure the support of all European Union Member States (EU) to achieve this goal.",
+    "Merz noted that the 17th European Sanction Package has already been formulated and awaited approval in June, while Germany and other countries will defend additional punitive measures against Moscow if there is no progress this week.",
+    "Kremlin, in turn, rejected ultimatum from European countries and stressed that it would be unacceptable to talk to Moscow in this context.",
+    "Putin said on Saturday that he was ready for direct conversations with the Ukrainian party on Thursday in Istanbul, Turkey, but continues without confirming his presence.",
+    "Today, Ukrainian President Volodymyr Zelensky asked Western allies to adopt the \"heavier\" sanctions ever if the Russian leader refuses his presence at the scheduled meeting for Turkey.",
+    "The absence of Vladimir Putin in Istanbul will be the \"definitive sign\" that Moscow does not want to stop the war or is willing to negotiate, Zelensky warned.",
+    "At the same time, Vladimir Putin said today that between 50,000 and 60,000 people \"voluntarily\" join the fighting in Ukraine every month, claiming that this number contrasts with the Ukrainian attempts to recruit military \"as dogs\".",
+    "According to the Kremlin leader, while Ukraine practices a \"forced mobilization\" in Russia \"between 50,000 and 60,000 young people voluntarily enlists\" every month.",
+    "Kremlin has always stated that it does not have to resort to mass mobilizations such as that led to the recruitment of 300,000 people in September 2022, although Russian troops have been reinforced in recent years with convicted mercenaries or prisoners in search of some kind of benefit in their penalties, as well as the contingent of North Korean military personnel.",
+    "Russian authorities have not provided a clear number of casualties since the beginning of the Ukraine invasion in February 2022.",
+    "Ukrainians claim that the number of casualties among the Russian forces surrounds the 950,000 military personnel killed or injured.",
+    "According to information released by a project from British television station BBC and the Independent Russian agency Russian media, elaborated from verifiable data, at least 107,000 Russian military personnel have died from the beginning of the conflict to May 5, but the estimated value increases to 165,000 if the levels related to excessive mortality among men.",
+    "Last December, Zelensky indicated that 43,000 Ukrainian military personnel died until that date and another 370,000 were injured, but the real numbers could be much higher.",
+    "Ukraine has been counted on financially and weapons for Western allies since Russia invaded the country on February 24, 2022.",
+    "Kyiv's allies have also decreed sanctions against key sectors of the Russian economy to try to reduce Moscow's ability to finance the war effort in Ukraine.",
+    "Read also: Zelensky asks for \"heavier\" sanctions if Putin is not at Türkiye negotiating"
+  ],
+  "topics": {
+    "Conflict": 0.9066259860992432,
+    "Military": 0.8739885687828064,
+    "Politics": 0.8713444471359253,
+    "Economy": 0.7543044686317444,
+    "Culture": 0.7040380239486694,
+    "Diplomacy": 0.7033789753913879,
+    "Technology": 0.6711934804916382,
+    "Health": 0.5182358026504517,
+    "Energy": 0.5115350484848022,
+    "Elections": 0.48442941904067993,
+    "Environment": 0.47859713435173035,
+    "Crime": 0.43532323837280273,
+    "Transport": 0.34322816133499146,
+    "Education": 0.29408764839172363
+  },
+  "sentiment": {
+    "positive": 0.19,
+    "negative": 0.81,
+    "neutral": 0.0
+  }
+}

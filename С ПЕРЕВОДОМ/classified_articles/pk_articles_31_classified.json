@@ -1,0 +1,43 @@
+{
+  "title": "Russia attacks Ukraine energy grid with missiles, drones",
+  "published_date": null,
+  "url": "https://www.bolnews.com/international/2024/12/russia-attacks-ukraine-energy-grid-with-missiles-drones/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Ukrainian President Volodymyr Zelensky condemned an “inhumane” Russian attack on Wednesday, as over 170 missiles and drones targeted the country’s power grid on Christmas Day, killing an energy worker.",
+    "At 5:30 am (0330 GMT), air raid alarms sounded across Ukraine, followed by reports of Kalibr cruise missiles launched from the Black Sea, according to the air force.",
+    "“Putin deliberately chose Christmas for this attack.",
+    "What could be more inhumane?",
+    "Over 70 missiles, including ballistic ones, and more than 100 attack drones targeted our energy system,” Zelensky stated.",
+    "This marked the 13th major assault on Ukraine’s energy infrastructure this year, part of Russia’s ongoing winter campaign.",
+    "Meanwhile, Russia reported five deaths in the border region of Kursk and North Ossetia, allegedly due to Ukrainian strikes and a falling drone.",
+    "Ukraine claimed its air force intercepted 58 of the 79 missiles launched by Russia but was unable to down two North Korean-made KN-23 ballistic missiles used in the attack.",
+    "British Prime Minister Keir Starmer condemned the strikes, praising Ukraine’s resilience and Zelensky’s leadership.",
+    "“Even at Christmas, Putin’s bloody and brutal war machine shows no respite,” he remarked.",
+    "Kyiv accused a Russian missile of passing through Moldovan and Romanian airspace, though Romania denied any airspace breach, and Moldova launched an investigation.",
+    "“Unfortunately, there are some impacts.",
+    "Currently, blackouts are affecting several regions,” Zelensky noted.",
+    "Read More News On Catch all the International News, Breaking News Event and Latest News Updates on The BOL News Download The BOL News App to get the Daily News Update & Follow us on Google News."
+  ],
+  "topics": {
+    "Energy": 0.9845644235610962,
+    "Conflict": 0.8705973029136658,
+    "Technology": 0.855693519115448,
+    "Economy": 0.8061565160751343,
+    "Military": 0.7915529608726501,
+    "Politics": 0.7773221135139465,
+    "Environment": 0.7215455174446106,
+    "Health": 0.7198227643966675,
+    "Culture": 0.6970278024673462,
+    "Transport": 0.6738533973693848,
+    "Crime": 0.49364185333251953,
+    "Education": 0.3424609899520874,
+    "Diplomacy": 0.3289722204208374,
+    "Elections": 0.22085383534431458
+  },
+  "sentiment": {
+    "positive": 0.143,
+    "negative": 0.857,
+    "neutral": 0.0
+  }
+}

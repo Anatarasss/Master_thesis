@@ -1,0 +1,39 @@
+{
+  "title": "Rusia Acuză România Că A Retras Vizele A 14 Jurnalişti Ai Russia Today Care Urmau Să Vină La Conferinţa ITU De La Bucureşti. Reacţia MAE",
+  "published_date": null,
+  "url": "https://www.libertatea.ro/stiri/rusia-acuza-romania-ca-a-retras-vizele-a-14-jurnalisti-ai-russia-today-care-urmau-sa-vina-la-conferinta-itu-de-la-bucuresti-reactia-mae-4289404",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "The Ministry of Foreign Affairs specified that visas were granted to all officials designated by the Russian Federation as members of the official delegation of this state at the ITU Conference in Bucharest, in number 17, according to the request of the Russian party.",
+    "\"The decision of the competent Romanian authorities, based on the considerations related to the national security of Romania, which led to the revocation of some visas, referred exclusively to a number of 14 journalists of Russia Today, who were abusively notified by the Russian Federation as officials belonging to the Russian Ministry of Digital Development, Communications,\" According to the Romanian Foreign Ministry, \"it is obvious that the decision adopted were not affected in any way the participation and representation interests of the Russian Federation at the ITU Conference in Bucharest, the accusation of the Russian party according to which this measure would aim to affect the chances of a Russian candidate being elected in a management position within the organization being completely absolute\".",
+    "What did Russia accuse The spokesman for the Russian Foreign Ministry, Maria Zaharova, sent on Friday, in a statement, that the Romanian Embassy in Moscow has canceled the visas already issued for fourteen members of the Russian delegation on the eve of their departure to participate in the plenipotentiary conference of the International Telecommunications Union (October 26).",
+    "\"Romania flagrantly violated the Charter and the ITU Convention, the agreement to organize the Plenipotentiary Conference,\" Zaharova said, accusing Romania of \"fulfills the political order of Washington.\"",
+    "Russia argues that Romania's decision intends to affect the chances of the Russian candidate for the position of general secretary of the ITU.",
+    "The Russian candidate competes with a US candidate.",
+    "The 21st edition of the Conference of the Plenipotentiary to the International Telecommunications Union will take place between September 26 and October 14, 2022, at the Parliament Palace-Bucharest, according to HotNews.",
+    "The conference decides the future of the organization as a whole, the ability to influence specific directions related to the field of IT&C, such as the convergence of technologies, the development of the Internet and the universal service, writes the source.",
+    "Did you notice an error in an article in Freedom?",
+    "You can write to us at email error@libertatea.ro"
+  ],
+  "topics": {
+    "Conflict": 0.8115631937980652,
+    "Politics": 0.7434022426605225,
+    "Technology": 0.7430517673492432,
+    "Diplomacy": 0.7023657560348511,
+    "Economy": 0.6726888418197632,
+    "Health": 0.6594855189323425,
+    "Culture": 0.6375019550323486,
+    "Elections": 0.6104729175567627,
+    "Transport": 0.6072587966918945,
+    "Environment": 0.5949345231056213,
+    "Education": 0.5898434519767761,
+    "Energy": 0.5878292918205261,
+    "Military": 0.4609975814819336,
+    "Crime": 0.2911878228187561
+  },
+  "sentiment": {
+    "positive": 0.2,
+    "negative": 0.8,
+    "neutral": 0.0
+  }
+}

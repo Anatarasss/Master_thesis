@@ -1,0 +1,49 @@
+{
+  "title": "Zelensky rejeita exigência russa de retirada militar de zonas que Kiev controla",
+  "published_date": null,
+  "url": "https://eco.sapo.pt/2025/05/19/zelensky-rejeita-exigencia-russa-de-retirada-militar-de-zonas-que-kiev-controla/",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Zelensky rejects Russian Military Removal Requirement of Zones that Kiev controls \"If Russia establishes conditions for the removal of our troops from our territory, it means it does not want a ceasefire and does not want the war to end,\" said the Ukrainian President.",
+    "Ukrainian President Volodymyr Zelensky rejected troops from regions under Kiev control and whose sovereignty Russia has claimed in bilateral contacts, waiting for Moscow to present conditions for a ceasefire.",
+    "\"No one will give up on our lands, our territories, our people,\" Zelensky said at a press conference after a telephone call between Russian presidents Vladimir Putin, and American Donald Trump.",
+    "\"If Russia establishes conditions for the removal of our troops from our territory, it means it does not want a ceasefire and does not want the war to end,\" he added.",
+    "Zelensky also stated that the next meeting between Ukraine and Russia delegations, and perhaps with the presence of other countries, could be held at the Vatican, Switzerland or Turkey, stating that he expects to know Moscow's conditions for a ceasefire.",
+    "The Ukrainian President also stated that new US sanctions imposed on Russia “would be decisive” for their ability to continue the invasion of Ukraine.",
+    "\"American sanctions in banking and energy sectors will largely determine if Vladimir Putin and the Russian army will continue to benefit from this war or face serious economic difficulties,\" Zelensky said at the press conference.",
+    "\"We must work hard with the United States so that, at any time, when they can, they impose adequate sanctions,\" he added.",
+    "The US President stated this Monday that negotiations between Ukraine and Russia on a ceasefire will begin “immediately”, leaving the parties to present the conditions for this purpose.",
+    "After a two -hour call with Russian President Vladimir Putin, Trump turned to social networks to make a \"very positive\" balance of contact, considering that \"the tone and spirit of the conversation were excellent.\"",
+    "\"Russia and Ukraine will immediately start negotiations with a view to a ceasefire and, most importantly, to end the war.",
+    "The conditions for this will be negotiated between the two parts, as can only be, because they know details of a negotiation no one else knows,\" he said.",
+    "Trump said that shortly after the call with Putin reported the conversation to Ukrainian President Volodymyr Zelensky, European Commission President Von Der Leyen, French President Emmanuel Macron, Italian Prime Minister Giorgia Meloni, as well as German Chancellor Friedrich Merz and President Alexander Stubb.",
+    "Everyone said that \"negotiations between Russia and Ukraine will begin immediately,\" he reiterated.",
+    "\"The Vatican, represented by the Pope, stated that he would be very interested in welcoming the negotiations.",
+    "That starts the process!\"",
+    "Subscribe to Eco Premium The moment information is more important than ever, supporting independent and rigorous journalism.",
+    "Subscribe to Eco Premium and have access to exclusive news, the opinion it tells, to the reports and specials that show the other side of the story.",
+    "This signature is a way of supporting Eco and its journalists.",
+    "Our counterpart is independent, rigorous and credible journalism."
+  ],
+  "topics": {
+    "Energy": 0.9915481209754944,
+    "Military": 0.9737902283668518,
+    "Conflict": 0.9733629822731018,
+    "Economy": 0.9698081016540527,
+    "Diplomacy": 0.9600884914398193,
+    "Politics": 0.9453848600387573,
+    "Transport": 0.9029091596603394,
+    "Technology": 0.89226233959198,
+    "Health": 0.8731586337089539,
+    "Culture": 0.8565836548805237,
+    "Environment": 0.8485140800476074,
+    "Education": 0.8255643844604492,
+    "Elections": 0.8126454949378967,
+    "Crime": 0.6284348964691162
+  },
+  "sentiment": {
+    "positive": 0.6,
+    "negative": 0.4,
+    "neutral": 0.0
+  }
+}

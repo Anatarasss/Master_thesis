@@ -1,0 +1,41 @@
+{
+  "title": "Russia takes step towards recognising Afghanistan’s Taliban government",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1260387-russia-takes-step-towards-recognising-afghanistan-s-taliban-government",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW: Russia moved a step closer towards recognising the Taliban government of Afghanistan on Tuesday as parliament voted in favour of a law that would make it possible to remove the Taliban from Moscow’s list of banned terrorist organisations.",
+    "Parliament’s lower house, the Duma, approved the bill in the first of three required readings, Interfax news agency said.",
+    "No country currently recognises the Taliban government which seized power in August 2021 as US-led forces staged a chaotic withdrawal after 20 years of war.",
+    "But Russia has been gradually building ties with the movement, which President Vladimir Putin said in July was now an ally in fighting terrorism.",
+    "Moscow sees a major security threat from Islamist militant groups based in a string of countries from Afghanistan to the Middle East, where Russia lost a major ally this week with the toppling of Syrian President Bashar al-Assad.",
+    "The Taliban says it is working to wipe out the presence of Islamic State in Afghanistan.",
+    "Western diplomats say the movement’s path towards wider international recognition is stalled until it changes course on women’s rights.",
+    "The Taliban has closed high schools and universities to girls and women and placed restrictions on their movement without a male guardian.",
+    "It says it respects women’s rights in line with its strict interpretation of Islamic law.",
+    "A satellite image shows the new North Korean warship at harbour before launch, in Chongjin, North Korea, May 18, 2025.... A view shows the courthouse of Vannes, where ex-surgeon Joel Le Scouarnec, accused of the aggravated rape and sexual... Members of the emergency services work at Hamburg’s main train station where several people were stabbed on May 23,... India's Border Security Force personnel patrol along the fencing of the India-Bangladesh international border.",
+    "—... Representational image of chickens.",
+    "— Unsplash/FilePARIS: Outbreaks of bird flu in mammals more than doubled across... Turkey's President Tayyip Erdogan speaks during a press briefing during NATO’s 75th anniversary summit in..."
+  ],
+  "topics": {
+    "Conflict": 0.6843612790107727,
+    "Culture": 0.5684535503387451,
+    "Diplomacy": 0.404294490814209,
+    "Politics": 0.3644539415836334,
+    "Economy": 0.32833388447761536,
+    "Crime": 0.3186534643173218,
+    "Military": 0.3066425621509552,
+    "Health": 0.29220685362815857,
+    "Technology": 0.2857775092124939,
+    "Environment": 0.2562910318374634,
+    "Education": 0.23335817456245422,
+    "Transport": 0.21394264698028564,
+    "Energy": 0.16460484266281128,
+    "Elections": 0.12005840241909027
+  },
+  "sentiment": {
+    "positive": 0.417,
+    "negative": 0.583,
+    "neutral": 0.0
+  }
+}

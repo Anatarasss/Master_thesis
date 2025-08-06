@@ -1,0 +1,37 @@
+{
+  "title": "Shafqat Ali Khan appointed new MoFA spokesperson",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/latest/1267904-shafqat-ali-khan-appointed-new-mofa-spokesperson",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "ISLAMABAD: Shafqat Ali Khan, a career diplomat and former ambassador to Russia, was appointed as the Ministry of Foreign Affairs' new spokesperson on Thursday.",
+    "The new spokesperson has replaced Mumtaz Zahra Baloch who has been posted as the country's ambassador to France.",
+    "Deputy Prime Minister and Foreign Minister Ishaq Dar, during a press conference, made the announcement of Shafqat's appointment.",
+    "He also hailed the services of the outgoing spokesperson, saying that in recognition of her services, the Government of Pakistan had posted her as Pakistan’s ambassador to France.",
+    "Baloch was appointed as the Foreign Office spokesperson in November 2022, replacing senior diplomat Asim Iftikhar Ahmed who was also given the ambassadorial job in Paris.",
+    "She has once again replaced him as Iftikhar has assumed charge as additional permanent representative (APR) of Pakistan at the United Nations (UN) headquarters in New York.",
+    "Currently serving as additional secretary for Europe in the Ministry of Foreign Affairs, Shafqat Ali Khan has served as Pakistan’s ambassador to Russia and Poland, DG Europe at MoFA and deputy permanent representative to the United Nations in Geneva.",
+    "Public holiday has been declared to commemorate nuclear tests conducted on May 28, 1998 Council calls for perpetrators, organisers and sponsors of the attack to be brought to justice Through development of J-10, China has mastered advanced aerodynamic configuration technologies, says expert Efforts to contain the flames underway while blaze has been extinguished at some of the sites “Deeply saddened by the tragic loss of lives due to landslides in Guizhou,\" says premier Remarks, replete with misrepresentations, inflammatory rhetoric, clearly aimed at stoking regional tensions, says FO"
+  ],
+  "topics": {
+    "Technology": 0.8789504170417786,
+    "Conflict": 0.802188515663147,
+    "Politics": 0.7257983684539795,
+    "Military": 0.3933027982711792,
+    "Energy": 0.2954734265804291,
+    "Crime": 0.27111005783081055,
+    "Diplomacy": 0.26801174879074097,
+    "Transport": 0.22677204012870789,
+    "Economy": 0.19442588090896606,
+    "Culture": 0.17361049354076385,
+    "Environment": 0.16520483791828156,
+    "Health": 0.07441142201423645,
+    "Elections": 0.049549903720617294,
+    "Education": 0.04583067446947098
+  },
+  "sentiment": {
+    "positive": 1.0,
+    "negative": 0.0,
+    "neutral": 0.0
+  }
+}

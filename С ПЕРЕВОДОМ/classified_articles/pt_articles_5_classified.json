@@ -1,0 +1,49 @@
+{
+  "title": "Trump diz que \"Rússia e Ucrânia vão começar negociações para cessar-fogo\"",
+  "published_date": null,
+  "url": "https://www.noticiasaominuto.com/mundo/2789726/trump-diz-que-russia-e-ucrania-vao-comecar-negociacoes-para-cessar-fogo",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "United States President Donald Trump has assured that \"Russia and Ukraine will immediately begin negotiations for a ceasefire to end the war.\"",
+    "\"I just finished my two-hour call with President Vladimir Putin from Russia.",
+    "I think it went very well.",
+    "Russia and Ukraine will immediately start negotiations for a ceasefire to end the war.",
+    "The conditions for this will be negotiated between the two parts, as they know details of the negotiation no one else knows,\" Trump revealed on his social network.",
+    "The American stated that the \"tone and spirit of the conversation were excellent,\" but has assured that he will only do \"large-scale trade\" with Russia when the \"catastrophic blood bath ends.\"",
+    "\"Russia will have a huge opportunity to create large amounts of employment and wealth.",
+    "Its potential is unlimited.",
+    "In the same way, Ukraine can also be a great beneficiary of trade in the process of reconstruction of its country,\" said the president of the United States.",
+    "Trump also said he had already informed Zelensky and European leaders that negotiations for ceasefire will start immediately.",
+    "\"This is what I said to Ukraine President Volodymyr Zelensky, Ursula Von Der Leyen, President Emmanuel Macron, France, to Prime Minister Giorgia Meloni of Italy, Germany's Chancellor Friedrich Merz and President Alexander Stubb, in a call, immediately after the conversation with the president Putin, \"he said.",
+    "In the end, he recalled that the Vatican stated that he would be \"very interested in welcoming negotiations.\"",
+    "\"Let the process start!\"",
+    "In the conversations held on Friday, the two parts - Russia and Ukraine - agreed to a thousand prisoners each.",
+    "Ukrainian secret services chief Kyrylo Budanov admitted on Saturday on Ukrainian television that exchanges could take place this week.",
+    "The exchange of prisoners was the most significant decision of a short meeting, in which Russia was represented by a delegation headed by a cultural counselor of the Russian President.",
+    "Trump himself announced on Saturday that he was going to speak this Monday with Putin, but also to Zelensky and the NATO leaders, in which he said he hoped he is \"a productive day\" that leads, at best, to a ceasefire.",
+    "Contacts will be the first of Trump with ups responsible from both countries since Friday's meeting in Istanbul, the first since spring of 2022.",
+    "Russia, which invaded Ukraine in February 2022, requires the end of Western arms deliveries to Kyiv before agreement on any respite.",
+    "[News Updated at 6:59 pm] Read also: Trump will talk today to European leaders before turning on Putin and Zelensky"
+  ],
+  "topics": {
+    "Politics": 0.8830129504203796,
+    "Conflict": 0.875649094581604,
+    "Culture": 0.8559582233428955,
+    "Technology": 0.7745077610015869,
+    "Diplomacy": 0.7603541016578674,
+    "Military": 0.7107565999031067,
+    "Economy": 0.6869592666625977,
+    "Energy": 0.6621654629707336,
+    "Health": 0.6221261024475098,
+    "Environment": 0.6075645089149475,
+    "Crime": 0.5947366952896118,
+    "Transport": 0.5353251099586487,
+    "Elections": 0.4809349477291107,
+    "Education": 0.429500937461853
+  },
+  "sentiment": {
+    "positive": 0.8,
+    "negative": 0.2,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Queda do MH17 em 2014 Confirmada",
+  "published_date": null,
+  "url": "https://www.dn.pt/internacional/onu-considera-r%C3%BAssia-respons%C3%A1vel-pela-queda-do-avi%C3%A3o-da-malaysia-airlines-em-2014",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "UN considers Russia responsible for the crash of the Malaysia Airlines plane in 2014 The United Nations Agency for Civil Aviation, Icao, decided on Monday that Russia is responsible for the fall of the flight MH17, which ten years ago slaughtered 298 passengers and crew over Ukraine.",
+    "The organization's council, based in Montreal, Canada, considered that the complaints filed by Australia and the Netherlands on the Malaysia Airlines flight have a \"foundation of fact and law.\"",
+    "\"The Council of the International Civil Aviation Organization [ICAO, in the acronym in English] considered today [Monday] that the Russian Federation did not fulfill its obligations under International Air Law in the case of slaughtering Malaysia Airlines Flight in 2014,\" begins by pointing out the organization in its internet portal.",
+    "\"The process focused on the allegations that the conduct of the Russian Federation in the slaughter of the aircraft by an Earth-to-Air missile over Ukraine is a violation of Article 3-A of the International Civil Aviation Convention, which requires states to\" refrain from using weapons against flight aircraft in flight \",\" the organization.",
+    "This is the organization's first decision “on the merits of a litigation between Member States, as part of the organization's dispute resolution mechanism,” according to the statement.",
+    "The ICAO announces that a formal decision of decision “in a next meeting” will be issued, with “the reasons of fact and law that led to the conclusions of the Council”.",
+    "On July 17, 2014, the Boeing 777 flying from Amsterdam to Kuala Lumpur was shot down by a Russian territory land-backed by a territory arrested by pro-russy separatists.",
+    "All 298 passengers and crew died, including 196 Dutch, 43 Malays and 38 Australians.",
+    "In 2022, the Dutch courts condemned three men to life imprisonment for their role in the tragedy, including two Russians, but Moscow always refused to extradite any suspects and denied any involvement in the incident.",
+    "\"This is a historic moment in the pursuit of truth, justice and the accountability of the victims of the fall of the flight MH17, their families and loved ones,\" said the Australian government in a statement after the announcement of the ican.",
+    "The Australian government appeals to a fast action to remedy the violation.",
+    "\"We appeal to Russia to finally accept the responsibility for this horrible act of violence and notice its blatant conduct, as required by international law,\" added Camberra.",
+    "For his part, Dutch Foreign Minister Caspar Veldkamp has set out with the decision, stating that he cannot \"erase the pain and suffering\" of the victims' relatives, but it is \"an important step towards truth and justice.\"",
+    "In 2024, international investigators suspended their inquiries with the argument that there was not enough evidence to pursue more suspects."
+  ],
+  "topics": {
+    "Culture": 0.8636733889579773,
+    "Conflict": 0.8335283398628235,
+    "Economy": 0.655712366104126,
+    "Transport": 0.6052796840667725,
+    "Crime": 0.6051827073097229,
+    "Military": 0.6024633646011353,
+    "Politics": 0.5722857713699341,
+    "Diplomacy": 0.5017525553703308,
+    "Technology": 0.4746565818786621,
+    "Health": 0.2644452154636383,
+    "Energy": 0.2587650418281555,
+    "Environment": 0.18106521666049957,
+    "Education": 0.1375848650932312,
+    "Elections": 0.04012066870927811
+  },
+  "sentiment": {
+    "positive": 0.357,
+    "negative": 0.643,
+    "neutral": 0.0
+  }
+}

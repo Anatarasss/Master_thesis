@@ -1,0 +1,37 @@
+{
+  "title": "Ucrânia avisa que Rússia prepara lançamento de míssil intercontinental",
+  "published_date": null,
+  "url": "https://24.sapo.pt/atualidade/artigos/ucrania-avisa-que-russia-prepara-lancamento-de-missil-intercontinental",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "\"In order to press and demonstrately intimidate Ukraine, as well as the Member States of the European Union (EU) and NATO, Russia's aggressor state intends to make a 'training and combat' release of the Intercontinental RS-24 YARS Ballistic Missile on the night of May 19,\" said Gur on the Telegram network.",
+    "According to the information service, the Missile, equipped with training ammunition, \"was ordered to be launched from a mobile terrestrial complex by the 433rd Regiment of the 42nd Division of the 31st Army of Strategic Missile Forces.\"",
+    "The launch site, he needed, is an area near the Sverdlovsk Russian Sverdlovsk village in the Urals.",
+    "The girl said that the scope of this three -phase missile is over 10,000 kilometers.",
+    "Russia and Ukraine held on Friday in Istanbul the first direct negotiations since 2022, marked by the absence of Russian President Vladimir Putin, who sent a technical delegation to dialogue with the representation of Kiev, led by Defense Minister Rustem Umarov.",
+    "The meeting did not produce significant results, and the Russian party sent to a response after the Ukrainian requirement of a 30-day ceasefire before negotiations about the conflict.",
+    "United States President Donald Trump will speak next Monday with Russian and Ukrainian counterparts, and then with several NATO leaders.",
+    "European partners plan to announce a new package of sanctions to Moscow on Tuesday due to Kremlin's impasse in peace negotiations."
+  ],
+  "topics": {
+    "Conflict": 0.9376353025436401,
+    "Military": 0.7775446176528931,
+    "Technology": 0.7048085331916809,
+    "Politics": 0.6819936037063599,
+    "Culture": 0.41627147793769836,
+    "Environment": 0.28580817580223083,
+    "Economy": 0.221660315990448,
+    "Diplomacy": 0.20207850635051727,
+    "Transport": 0.18907466530799866,
+    "Crime": 0.1682036817073822,
+    "Health": 0.11843212693929672,
+    "Education": 0.0777832418680191,
+    "Energy": 0.04975493252277374,
+    "Elections": 0.02784566953778267
+  },
+  "sentiment": {
+    "positive": 0.125,
+    "negative": 0.875,
+    "neutral": 0.0
+  }
+}

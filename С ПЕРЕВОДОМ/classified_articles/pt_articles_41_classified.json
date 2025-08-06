@@ -1,0 +1,46 @@
+{
+  "title": "Coreia do Norte assume pela primeira vez envio de tropas para Rússia",
+  "published_date": null,
+  "url": "https://www.noticiasaominuto.com/mundo/2775185/coreia-do-norte-assume-pela-primeira-vez-envio-de-tropas-para-russia",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "North Korean state news agency KCNA said \"the country's Armed Forces subunits\" participated in operations to release the occupied areas of Kursk, \"following a direct order by leader Kim Jong-un.",
+    "According to KCNA, the soldiers' war effort \"was completed victoriously.\"",
+    "\"Those who fought for justice are all heroes and representatives of the homeland honor,\" said North Korean leader Kim Jong-un, quoted by the agency.",
+    "Kim justified military participation as a \"sacred mission\" to strengthen friendship with Russia and defend the honor of North Korea The leader added that a monument commemorating the \"battle deeds\" and in honor of the dead will be erected soon in the capital Pyongyang.",
+    "According to Western Military Intelligence services, since October that the Pyongyang regime has sent more than 10,000 North Korean soldiers to Russia.",
+    "On Saturday, Russian Army Chief of Staff Valery Gerasimov confirmed the presence of North Korean soldiers in front of the battle against the Ukrainian forces.",
+    "In a conversation with Russian President Vladimir Putin, Gerasimov praised the role of North Korean combatants in the alleged total recapture of the Russian region of Kursk, which had been partially under Ukraine control since August.",
+    "\"The soldiers and officers of the North Korean army, who fought alongside the Russian military, demonstrated great professionalism, resistance, courage and heroism by repelling the Ukrainian invasion,\" said Gerasimov.",
+    "\"The last locality in the territory of the Kursk region, the village of Gornal, was released from the Ukrainian units,\" said Guerassimov, during a meeting with Putin, by video conferencing, broadcast on Russian state television.",
+    "\"The adventure of the Kyiv regime has completely failed,\" said Vladimir Putin in response.",
+    "Russian forces entered this border zone in August 2024.",
+    "Also on Saturday, the Ukrainian army described the allegations of Gerasimov from false allegations and said it continued operations in this border zone.",
+    "\"The statements of enemy leaders about the 'defeat' of the Ukrainian forces are nothing more than propaganda maneuvers,\" the Ukrainian staff denounced in a statement.",
+    "\"There is no threat of siege of our units,\" he added, although he has admitted that the situation is difficult.",
+    "On Sunday, it was the Ukrainian President's turn to ensure that the Ukrainian army continues with operations in Kursk.",
+    "\"Our forces continue defensive and active operations in designated areas of the Kursk and Belgorod [Russian] regions,\" said Volodymyr Zelensky.",
+    "Also read: North Korean leader in ceremony to mark production of Freemaker"
+  ],
+  "topics": {
+    "Conflict": 0.9395313262939453,
+    "Politics": 0.9085531234741211,
+    "Military": 0.8940404653549194,
+    "Culture": 0.8533857464790344,
+    "Technology": 0.8227912187576294,
+    "Transport": 0.7465218305587769,
+    "Health": 0.7247779369354248,
+    "Economy": 0.7192651033401489,
+    "Energy": 0.6951671838760376,
+    "Diplomacy": 0.6536034345626831,
+    "Environment": 0.6032081246376038,
+    "Elections": 0.45594266057014465,
+    "Crime": 0.4176279902458191,
+    "Education": 0.3045748472213745
+  },
+  "sentiment": {
+    "positive": 0.647,
+    "negative": 0.353,
+    "neutral": 0.0
+  }
+}

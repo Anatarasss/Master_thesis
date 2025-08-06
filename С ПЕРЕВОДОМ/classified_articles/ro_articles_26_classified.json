@@ -1,0 +1,43 @@
+{
+  "title": "Anunțul Făcut De șefa Russia Today După Ce Un Jurnalist Al Televiziunii A îndemnat La Uciderea Copiilor Ucraineni",
+  "published_date": null,
+  "url": "https://www.libertatea.ro/stiri/russia-today-anunta-incetarea-colaborarii-cu-jurnalistul-care-a-incitat-la-crime-impotriva-ucrainenilor-4323442",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "\"Anton Krasovski's statement is wild and disgusting.",
+    "At this moment, I stop our collaboration, because neither I nor the rest of the RT team can even allow the thought that one of us is able to share such a wild.\"",
+    "The RT official also sent children from Ukraine, children in Donbas and to all the other children, \"to all end as soon as possible, so that they can live and study again in peace - in the language they consider their mother tongue.\"",
+    "The RT reaction comes after Krasovski, in a conversation with the writer Sergei Lukyanenko, said that it is necessary either to Ukrainian children who became victims of propaganda.",
+    "\"They should have been drowned in Tisina,\" said Krasovski, referring to the Tisa river, which passes through Transcarpathia.",
+    "\"Those children had simply drowned, drowned!",
+    "As an alternative, they could have been put in huts and burns,\" alluding to the fact that many houses are built in the area.",
+    "On Monday, he asked for forgiveness, stating that he was \"very embarrassed that I have not seen this border, about children.\"",
+    "\"Well, this is the case: you are in the air, you are behaved.",
+    "I apologize to all those who were amazed by this.",
+    "I apologize to Margarita Simonian, to everyone for whom this seemed wild, inconceivable and unrestrained,\" the journalist said.",
+    "Following his claims, Ukrainian Foreign Minister Dmitro Kuleba has made a new call to countries around the world to prohibit Russia Today's state television broadcast.",
+    "Claram • 24.10.2022, 13:32 He's sick ... statements of amazing cruelty.",
+    "Sorry are embarrassing and useless."
+  ],
+  "topics": {
+    "Conflict": 0.7939333915710449,
+    "Politics": 0.669083297252655,
+    "Culture": 0.5717114806175232,
+    "Military": 0.3594691753387451,
+    "Economy": 0.3551202416419983,
+    "Health": 0.34561339020729065,
+    "Technology": 0.29055023193359375,
+    "Transport": 0.2709898054599762,
+    "Energy": 0.2450985610485077,
+    "Crime": 0.23481537401676178,
+    "Education": 0.21831262111663818,
+    "Elections": 0.2142566293478012,
+    "Environment": 0.20180101692676544,
+    "Diplomacy": 0.13714176416397095
+  },
+  "sentiment": {
+    "positive": 0.143,
+    "negative": 0.857,
+    "neutral": 0.0
+  }
+}

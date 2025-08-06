@@ -1,0 +1,41 @@
+{
+  "title": "Russia unveils anti-fraud measures for the digital ruble, including a two-day transaction freeze",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/russia-unveils-anti-fraud-measures-231656360.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Starting February 2025, Russian banks will acquire a new tool to combat suspected fraud involving the digital ruble, Russia’s new central bank digital currency (CBDC).",
+    "Banks will have the capability to freeze digital ruble transactions for a maximum of 48 hours if they believe a fraud is taking place.",
+    "The measure offers Russian banks enhanced protection to temporarily suspend transactions involving the CBDC.",
+    "Customers will be notified about possible fraud, giving them 24 hours to confirm or decline the CBDC transaction.",
+    "In the United States, CBDCs have attracted widespread criticism among crypto enthusiasts, who fear their potential to introduce financial surveillance and erode privacy.",
+    "Earlier this year, U.S. president-elect Donald Trump tapped into this fear by pledging to \"never allow the creation of a central bank digital currency.” “Such a currency would give a federal government – our federal government – absolute control over your money,\" Trump said about the risks of the nascent technology.",
+    "\"They could take your money, and you wouldn’t even know it was gone.\"",
+    "This year, Texas senator Ted Cruz and several Republican senators introduced the CBDC Anti-Surveillance State Act, a bill to stop the federal government from launching a retail CBDC in America.",
+    "“The Biden administration salivates at the thought of infringing on our freedom and intruding on the privacy of citizens to surveil their personal spending habits, which is why Congress must clarify that the Federal Reserve has no authority to implement a CBDC,” Cruz said.",
+    "The legislation represents the third time Cruz has filed legislation to stop the federal government from establishing a CBDC in the United States.",
+    "While the U.S. is still exploring the potential applications of a CBDC, there are no formal plans to introduce one.",
+    "Globally, however, a survey indicates that nearly a third of central banks are pursuing CBDC projects."
+  ],
+  "topics": {
+    "Technology": 0.8342030048370361,
+    "Conflict": 0.7888708114624023,
+    "Politics": 0.7168545126914978,
+    "Culture": 0.688255786895752,
+    "Economy": 0.6768260598182678,
+    "Crime": 0.5509868264198303,
+    "Environment": 0.4255960285663605,
+    "Health": 0.41698744893074036,
+    "Military": 0.37571850419044495,
+    "Transport": 0.3733510971069336,
+    "Energy": 0.31854480504989624,
+    "Diplomacy": 0.31142324209213257,
+    "Elections": 0.30422356724739075,
+    "Education": 0.2003791481256485
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

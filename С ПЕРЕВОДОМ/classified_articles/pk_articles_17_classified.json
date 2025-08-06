@@ -1,0 +1,46 @@
+{
+  "title": "Oil prices up on tighter OPEC supply, US jobs data",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/oil-prices-tighter-opec-supply-013939663.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "By Nicole Jao NEW YORK (Reuters) -Oil prices fell more than 1% on Wednesday as a stronger dollar and large builds in U.S. fuel inventories last week pressured prices, reversing earlier gains driven by tightening supplies from Russia and other OPEC members.",
+    "Brent crude settled down 89 cents, or 1.16%, to $76.23 a barrel.",
+    "U.S. West Texas Intermediate crude fell 93 cents, or 1.25%, to $73.32.",
+    "Both benchmarks had risen more than 1% earlier in the session.",
+    "\"The oil market is being weighed down by the significant increases in gasoline and diesel inventories that we've seen over the last couple of weeks,\" said Andrew Lipow, president of Lipow Oil Associates.",
+    "Fuel inventories swelled as refiners continued ramping up production, he added.",
+    "Gasoline stocks rose by 6.3 million barrels last week to 237.7 million barrels, compared with analysts' expectations in a Reuters poll for a 1.5 million-barrel build, according to data released on Wednesday from the U.S. Energy Information Administration.",
+    "Distillate stockpiles rose by 6.1 million barrels in the week to 128.9 million barrels, versus expectations for a 600,000-barrel rise.",
+    "\"I would be concerned if we saw more substantial products builds over the next few weeks.",
+    "And in the meantime, the cold snap could constrain crude oil supply and increase heating oil demand,\" said Josh Young, chief investment officer at Bison Interests.",
+    "Crude inventories fell by 959,000 barrels to 414.6 million barrels in the week, compared with analysts' expectations for a 184,000-barrel draw.",
+    "A stronger dollar also pressured prices by making oil more expensive for holders of other currencies.",
+    "Limiting the losses, oil output from the Organization of the Petroleum Exporting Countries fell in December after two months of increases as field maintenance in the United Arab Emirates offset a Nigerian output hike and gains elsewhere in the group.",
+    "In Russia, oil output averaged 8.971 million barrels a day in December, below the country's target, Bloomberg reported, citing the energy ministry.",
+    "Analysts expect oil prices to be down on average this year from 2024 due in part to production increases from non-OPEC countries.",
+    "\"We are holding to our forecast for Brent crude to average $76/bbl in 2025, down from an average of $80/bbl in 2024,\" BMI, a division of Fitch Group, said in a client note.",
+    "(Reporting by Nicole Jao in New York, Katya Golubkova in Tokyo, Jeslyn Lerh in Singapore and Arunima Kumar in Bengaluru; Editing by Elaine Hardcastle, Nick Zieminski and Nia Williams)"
+  ],
+  "topics": {
+    "Energy": 0.9468623399734497,
+    "Culture": 0.8721994757652283,
+    "Economy": 0.8370773792266846,
+    "Health": 0.8319668173789978,
+    "Politics": 0.8222352266311646,
+    "Environment": 0.8166664838790894,
+    "Conflict": 0.791325569152832,
+    "Transport": 0.7067338824272156,
+    "Technology": 0.6990179419517517,
+    "Diplomacy": 0.6425451040267944,
+    "Elections": 0.5801607966423035,
+    "Education": 0.5682176351547241,
+    "Crime": 0.5537072420120239,
+    "Military": 0.5469508171081543
+  },
+  "sentiment": {
+    "positive": 0.059,
+    "negative": 0.941,
+    "neutral": 0.0
+  }
+}

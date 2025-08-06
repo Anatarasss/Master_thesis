@@ -1,0 +1,34 @@
+{
+  "title": "Comissão Europeia desvaloriza anúncio de cessar-fogo de Putin",
+  "published_date": null,
+  "url": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2025-04-29-comissao-europeia-desvaloriza-anuncio-de-cessar-fogo-de-putin-0fc47cd1",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "The European Commission set out on Tuesday the announcement made by the Russian president of a unilateral ceasefire of three days, between May 8 and 10, considering that Vladimir Putin could end the war in Ukraine.",
+    "\"There is no need to wait until May 8, you can do that now,\" said the European Commission spokeswoman for Foreign Affairs, Anitta Hipper.",
+    "The spokesman added that Russia \"is the aggressor\" in the conflict that is over three years old and recalled that Ukraine had already agreed with \"an unconditional ceasefire of a month.\"",
+    "Kremlin (Russian presidency) announced on Monday a three-day temporary ceasefire, which coincides with the 80th anniversary of the end of World War II, which Moscow marks on May 9 as the \"Day of Victory\".",
+    "The Russian military offensive in the Ukrainian territory, launched on February 24, 2022, plunged to Europe in the one that is considered the most serious security crisis since World War II (1939-1945)."
+  ],
+  "topics": {
+    "Conflict": 0.9685940146446228,
+    "Politics": 0.7679619193077087,
+    "Military": 0.685413658618927,
+    "Culture": 0.6404143571853638,
+    "Diplomacy": 0.5881088972091675,
+    "Crime": 0.41159698367118835,
+    "Economy": 0.32127100229263306,
+    "Transport": 0.2635120749473572,
+    "Environment": 0.24996589124202728,
+    "Technology": 0.24188093841075897,
+    "Health": 0.2288408875465393,
+    "Energy": 0.16712342202663422,
+    "Education": 0.10260986536741257,
+    "Elections": 0.04997159168124199
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

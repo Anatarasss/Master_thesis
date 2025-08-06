@@ -1,0 +1,41 @@
+{
+  "title": "Trump diz que cessar-fogo na Ucrânia começará a ser negociado \"imediatamente\"",
+  "published_date": null,
+  "url": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2025-05-19-trump-diz-que-cessar-fogo-na-ucrania-comecara-a-ser-negociado-imediatamente-04c58259",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "US President Donald Trump said on Monday that negotiations between Ukraine and Russia about a ceasefire will begin \"immediately,\" leaving the parties to present the conditions for this purpose.",
+    "After a two -hour phone call with Russian President Vladimir Putin, Trump turned to social networks to make a \"very positive\" balance of contact, considering that \"the tone and spirit of the conversation were excellent.\"",
+    "\"Russia and Ukraine will immediately start negotiations with a view to a ceasefire and, most importantly, to end the war.",
+    "The conditions for this will be negotiated between the two parts, as can only be, because they know details of a negotiation no one else knows,\" he said.",
+    "On Friday, Ukrainian and Russian representatives gathered in Turkey, a meeting in which the only tangible agreement was the exchange of a thousand prisoners of war on each side and the promise of exchanging conditions for a possible ceasefire.",
+    "Putin says he had \"useful conversation\" with Trump On Monday, Donald Trump and Putin talked for more than two hours after the White House said that the US leader \"was frustrated\" with the conflict and planned a separate phone call with the Ukrainian leader, Volodymyr Zelensky, hoping to progress to a ceasefire in the war in Ukraine.",
+    "At a press conference in Kiev, Zelensky rejected after contact with Trump removes troops from regions under Kiev control and whose sovereignty Russia has claimed in bilateral contacts, waiting for Moscow to present conditions for a ceasefire.",
+    "\"No one will give up our lands, our territories, our people,\" Zelensky said after a telephone call between Russian and American presidents.",
+    "\"I do not know the principles (conditions) of the Russian part, but from what I realized of our conversation with President Trump, Russia wants to send us a memorandum,\" Zelensky said, adding that before such a document Kiev can formulate his \"vision.\"",
+    "\"The first steps have to be acceptable for both parties,\" said the Ukrainian President.",
+    "At the end of the call of more than two hours with the United States homologist, the president of Russia said that the resuming of negotiations with Ukraine \"is on the good way.\"",
+    "Putin assured that he is available to work to end the conflict in Ukraine and that it is in favor of a \"peaceful solution\", recognizing that commitments that are pleased with both parties will be needed."
+  ],
+  "topics": {
+    "Conflict": 0.9851608276367188,
+    "Politics": 0.9457906484603882,
+    "Diplomacy": 0.9130392074584961,
+    "Culture": 0.791050374507904,
+    "Energy": 0.7674135565757751,
+    "Military": 0.7084059119224548,
+    "Economy": 0.7001672983169556,
+    "Technology": 0.621913731098175,
+    "Health": 0.6159239411354065,
+    "Transport": 0.6135732531547546,
+    "Environment": 0.538598358631134,
+    "Education": 0.5023779273033142,
+    "Crime": 0.46472615003585815,
+    "Elections": 0.39031118154525757
+  },
+  "sentiment": {
+    "positive": 0.417,
+    "negative": 0.583,
+    "neutral": 0.0
+  }
+}

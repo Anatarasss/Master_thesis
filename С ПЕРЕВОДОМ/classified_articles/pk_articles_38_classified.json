@@ -1,0 +1,42 @@
+{
+  "title": "European troops in Ukraine could guarantee future peace deal: Kyiv",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1261082-european-troops-in-ukraine-could-guarantee-future-peace-deal-kyiv",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "KYIV, Ukraine: The deployment of European troops in Ukraine could help guarantee a future deal aimed at securing peace in the nearly three-year war with Russia, a senior Kyiv official said on Thursday.",
+    "Polish Prime Minister Donald Tusk and French President Emmanuel Macron discussed the idea of stationing foreign troops in Ukraine in case of a ceasefire during talks on Thursday, Tusk said, although he cautioned Warsaw was not currently planning such a move.",
+    "The discussions come as US President-elect Donald Trump pushes for a quick ceasefire to end the fighting once he enters office next month.",
+    "A senior Ukrainian official told AFP that Kyiv was open to “all ideas” that could help guarantee future peace, including “military contingents” being deployed in Ukraine.",
+    "Russian President Vladimir “Putin always breaks the ceasefire, he has done so dozens of times, not only in Ukraine.",
+    "That´s why we need guarantees, and the presence of military contingents can be one of them,” the source told AFP.",
+    "“This conversation is now being conducted by the Europeans.",
+    "Macron is obviously the leader of this idea,” the source added.",
+    "Macron did not mention the possibility of foreign peacekeepers in his statement to journalists on his visit to Warsaw on Thursday.",
+    "But he has previously floated the idea of Western troops being sent to Ukraine, saying in February boots on the ground could not be ruled out.",
+    "Asked about the proposal on Monday, Ukrainian President Volodymyr Zelensky said: “Frankly, we can think and work on Emmanuel (Macron)´s position.” A satellite image shows the new North Korean warship at harbour before launch, in Chongjin, North Korea, May 18, 2025.... A view shows the courthouse of Vannes, where ex-surgeon Joel Le Scouarnec, accused of the aggravated rape and sexual... Members of the emergency services work at Hamburg’s main train station where several people were stabbed on May 23,... India's Border Security Force personnel patrol along the fencing of the India-Bangladesh international border.",
+    "—... Representational image of chickens.",
+    "— Unsplash/FilePARIS: Outbreaks of bird flu in mammals more than doubled across... Turkey's President Tayyip Erdogan speaks during a press briefing during NATO’s 75th anniversary summit in..."
+  ],
+  "topics": {
+    "Military": 0.5991426706314087,
+    "Conflict": 0.5868822932243347,
+    "Politics": 0.5015102624893188,
+    "Culture": 0.47778937220573425,
+    "Health": 0.4049778878688812,
+    "Environment": 0.3655741810798645,
+    "Diplomacy": 0.33772769570350647,
+    "Technology": 0.3030966520309448,
+    "Crime": 0.2907909154891968,
+    "Economy": 0.286026269197464,
+    "Transport": 0.2305791676044464,
+    "Energy": 0.17647746205329895,
+    "Elections": 0.1305885761976242,
+    "Education": 0.08662896603345871
+  },
+  "sentiment": {
+    "positive": 0.615,
+    "negative": 0.385,
+    "neutral": 0.0
+  }
+}

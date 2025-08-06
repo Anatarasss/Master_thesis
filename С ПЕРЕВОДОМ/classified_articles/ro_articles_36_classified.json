@@ -1,0 +1,40 @@
+{
+  "title": "Șefa Russia Today Sugerează, într-un Mesaj în Care Cere Răzbunare Pentru Moartea Dariei Dughina, Că Rusia E Implicată în Otrăvirea Lui Skripal",
+  "published_date": null,
+  "url": "https://www.libertatea.ro/stiri/margarita-simonyan-sefa-russia-today-sugereaza-ca-rusia-este-implicata-in-otravirea-lui-skripal-mesaj-razbunare-moarte-daria-dughina-4251626",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "Western countries hit Russia with sanctions and expelled dozens of diplomats following Skripal's almost fatal poisoning, a former Russian information officer who acted as a double agent for the United Kingdom, and his daughter, Iulia, with a forbidden neurotoxic agent, in the British Salisbury.",
+    "In a reaction he had after the death of Daria Dughin, the daughter of the ultra-nationalist ideologue Aleksandr Dighin, killed in a car-cap-car, last weekend, the chief editor of the RT, Margarita Simonyan, asked for revenge against the alleged author-an Ukrainian-, of which the Russian Security service said.",
+    "\"Daria's killers are already in Estonia.",
+    "Estonia, of course, will not extradite them.",
+    "I am sure we can find professionals willing to admire the famous towers near Tallinn,\" Simonyan wrote on Twitter-a reference to the Alibi invoked by the agents that would have poisoned Skripal, and they said in RT that they visited Salisbury to \"admire\" the turrets of the cathedral in this city.",
+    "- Маргарита симоньян (@m_simonyan) August 22, 2022 Эстония их, Конечно, не выдаст.",
+    "The message published on Twitter by the head of RT goes the most of all the statements made so far by public personalities in Russia, in recognizing or suggesting an involvement of Moscow in Skripal's poisoning.",
+    "The press investigations identified the two men behind Skripal's poison as Russian military information Anatoliy Chepiga and Alexander Mishkin.",
+    "But the Kremlin repeatedly stated that the two men were on vacation in the British city when Skripal was poisoned with the Novichok dead neurotoxic agent.",
+    "The Moscow Times also notes that Margarita Simonyan's statement is the latest example of continuous deterioration of relations between Russia and the West, following the invasion of Russian troops in Ukraine.",
+    "Photo: Profimedia Images Follows LiveText Freedom with the latest Ukraine War information"
+  ],
+  "topics": {
+    "Conflict": 0.9739257097244263,
+    "Military": 0.7666786909103394,
+    "Politics": 0.5945533514022827,
+    "Crime": 0.42758724093437195,
+    "Health": 0.32849839329719543,
+    "Technology": 0.22034715116024017,
+    "Diplomacy": 0.18212367594242096,
+    "Transport": 0.09952232986688614,
+    "Culture": 0.08940161764621735,
+    "Economy": 0.06971181929111481,
+    "Education": 0.0543646365404129,
+    "Energy": 0.0538150779902935,
+    "Environment": 0.047436993569135666,
+    "Elections": 0.019257863983511925
+  },
+  "sentiment": {
+    "positive": 0.273,
+    "negative": 0.727,
+    "neutral": 0.0
+  }
+}

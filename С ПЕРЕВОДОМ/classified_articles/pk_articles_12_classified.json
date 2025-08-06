@@ -1,0 +1,46 @@
+{
+  "title": "The Russian war economy is facing a ‘moment of truth’ as Putin’s dwindling cash reserves raise odds of a financial crash, expert says",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/russian-war-economy-facing-moment-223309337.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "- Nearly three years after Russia invaded Ukraine, Vladimir Putin’s economy is entering a critical phase as inflation, shortages, and shrinking cash reserves constrain his war effort soon, a Russia expert said.",
+    "Russia’s economy is facing a “moment of truth” as high inflation, an ailing private sector, and critical shortages are poised to constrain Vladimir Putin’s war on Ukraine, according to economist and author Anders Åslund.",
+    "Nearly three years after launching its invasion, Russia is headed for stagflation, meaning high inflation combined with minimal growth, he wrote at Project Syndicate on Jan. 14.",
+    "While official statistics show inflation quickened to an annual pace of 9.5% in December from 8.9% in November, other measures suggest it’s far higher.",
+    "For example, independent research firm Romir has calculated that prices for a basket of certain consumer goods jumped by 22% in September.",
+    "“His war on Ukraine has caused both high and rising prices and labor shortages, because many workers have been mobilized or killed, while many others have fled the country,” said Åslund, who wrote Russia’s Crony Capitalism: The Path From Market Economy to Kleptocracy.",
+    "Meanwhile, defense spending is rising while the government’s ability to raise funds via tax hikes and bond offerings is limited, he added.",
+    "That leaves Moscow’s oft-tapped National Wealth Fund, which has already seen liquid assets plunge to $31 billion from $117 billion before the war, to fill any gaps.",
+    "Åslund estimated that what’s left in the fund is only enough to finance three-quarters of Russia’s budget deficit this year.",
+    "On top of that, the ruble’s recent plunge is adding inflationary pressure, and exports are unlikely to offer much help, he said.",
+    "Sanctions that are keeping Western technology out of Russia are weighing on businesses as well.",
+    "“Strained by these factors, the Russian economy is approaching its moment of truth,” Åslund wrote.",
+    "“Inflation will continue to rise in 2025, and people will get even angrier over higher food prices.",
+    "Major bankruptcies are looming, and the Russian state cannot afford large bailouts.",
+    "Business leaders are fiercely objecting to high interest rates, and the shortage of labor—and soldiers—is reaching a crisis stage.” The worst shortage, however, is budget cash as liquid reserves are on pace to run out this fall, he predicted.",
+    "By then, budget cuts will be necessary, while the Kremlin may have to resort to the “Soviet sins” of price controls and rationing.",
+    "“As the risk of a financial crash rises, Russia’s imperiled economy is about to pose serious constraints on Putin’s war,” he added."
+  ],
+  "topics": {
+    "Economy": 0.9161741137504578,
+    "Conflict": 0.9100483655929565,
+    "Culture": 0.8389278054237366,
+    "Technology": 0.836912989616394,
+    "Military": 0.8155183792114258,
+    "Politics": 0.7612431049346924,
+    "Energy": 0.7238970398902893,
+    "Environment": 0.7023347020149231,
+    "Crime": 0.6931007504463196,
+    "Health": 0.59354567527771,
+    "Diplomacy": 0.5531976222991943,
+    "Elections": 0.5448493957519531,
+    "Transport": 0.5306452512741089,
+    "Education": 0.5105191469192505
+  },
+  "sentiment": {
+    "positive": 0.059,
+    "negative": 0.941,
+    "neutral": 0.0
+  }
+}

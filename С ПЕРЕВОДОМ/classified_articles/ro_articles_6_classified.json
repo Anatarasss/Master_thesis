@@ -1,0 +1,46 @@
+{
+  "title": "Tucker Carlson lansează o emisiune la televiziunea rusă",
+  "published_date": null,
+  "url": "https://www.dcnews.ro/tucker-carlson-lanseaza-o-emisiune-la-televiziunea-rusa_959752.html",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "According to the report, the Tucker show is a common project of the YouTube channel \"Carlson TV\" and \"Russia 24\".",
+    "The first edition is dedicated to Lyme ticks and disease.",
+    "During the show, Carlson talks with an expert about the problem of spreading the disease.",
+    "The American journalist and the former host of Fox News, Tucker Carlson, began to broadcast his show on Russian television.",
+    "The Tucker show is broadcast on the TV channel \"Russia 24\", reports the propaganda Ura.ru, quoted by IM.org.",
+    "As I was reported, on the night of February 9, Carlson published an interview with Putin, for whom he had come to Moscow the day before.",
+    "The Center for Strategic Communications analyzed Putin's interview with the former Fox News presenter, Tucker Carlson, and dismantled five of Putin's main fake statements.",
+    "The center noted that in 120 minutes, Carlson did not find the opportunity to ask about the Russians' war crimes in IRPIN, Buha and other cities in Ukraine, about the abduction of thousands of children, about the genocide rhetoric and the actions of the Kremlin regime.",
+    "On February 7, 2024, the European Parliament called for the prohibition of Tucker Carlson's access, a former pro-Russian host of the Fox News Canal in the EU due to his interview with Russian President Vladimir Putin.",
+    "During the Tucker Carlson Tonight show, the narratives of Russian propaganda were repeatedly heard, \"Media Detector\" wrote.",
+    "In particular, Tucker Carlson called Ukraine \"a tyranny\" and the President of Ukraine, Volodymyr Zelenski, \"a puppet of the Biden Administration.\"",
+    "In addition, The New York Times has drawn attention to the fact that since the beginning of Russia's invasion in Ukraine, videos from Fox News have begun to appear more often on Russian television.",
+    "In addition, the Foreign Minister of the Russian Federation, Sergei Lavrov, approved the canal's activity, because, according to him, \"only Fox News tries to offer an alternative opinion.\"",
+    "In March 2022, the Kremlin ordered his propaganda media to quote Carlson more often.",
+    "In November 2023, former US President Donald Trump announced that he would consider Tucker Carlson's candidacy as a potential vice -president.",
+    "Be up to date with the latest news.",
+    "Follow DCNews and on Google News"
+  ],
+  "topics": {
+    "Conflict": 0.6556654572486877,
+    "Politics": 0.6329125165939331,
+    "Culture": 0.6007401943206787,
+    "Health": 0.5816303491592407,
+    "Technology": 0.5024654269218445,
+    "Education": 0.45681232213974,
+    "Diplomacy": 0.44789618253707886,
+    "Economy": 0.41129496693611145,
+    "Environment": 0.40505462884902954,
+    "Energy": 0.3991464078426361,
+    "Military": 0.3662979304790497,
+    "Transport": 0.3299857974052429,
+    "Crime": 0.3218737542629242,
+    "Elections": 0.31826889514923096
+  },
+  "sentiment": {
+    "positive": 0.294,
+    "negative": 0.706,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Nissan, pierderi de 687 mil. dolari după vânzarea afacerilor din Rusia",
+  "published_date": null,
+  "url": "https://www.promotor.ro/stiri-auto/nissan-pierderi-de-687-mil-dolari-dupa-vanzarea-afacerilor-din-rusia-19099266",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "The Japanese car builder transfers his shares to Nissan Manufacturing Russia LLC to the state company.",
+    "The transaction will provide Nissan the right to redeem the business within six years, the Russian Ministry of Industry and Trade said, informs mediafax.ro.",
+    "The transaction makes Nissan the most recent major company left Russia since Moscow has sent tens of thousands of soldiers to Ukraine in February.",
+    "It also reflects a movement of the main shareholder of Nissan, the French car producer Renault, who sold his majority participation in the Russian car manufacturer Avtovaz in a Russian investor.",
+    "In addition, the Sales and Marketing Center in Moscow is also targeted, the ministry said.",
+    "Nissan said he was expecting an extraordinary loss of approximately 100 billion Yen ($ 687 million), but has maintained the profit forecast for the financial year in March.",
+    "Renault, which owns 43% of Nissan, estimated that the decision of his Japanese partner will reduce 331 million euros to his net income for the second half of 2022.",
+    "Nissan suspended production at his Petersburg plant in March due to interruptions in the supply chain.",
+    "A Mitsubishi spokesman said nothing was decided.",
+    "The exit comes in the conditions in which Nissan has engaged in a major change in his relationship with Renault.",
+    "The two said on Monday that they are discussing the future of their alliance, including Nissan taking into account the possibility of investing in a new Renault electric vehicle project.",
+    "These discussions, which could determine the highest reset of the alliance since the arrest of director Carlos Ghosn, also included the possibility that Renault would sell some of the control participation in Nissan, two people who are aware of these discussions told Reuters.",
+    "Renault would have sold his participation in Avtovaz for a rubl."
+  ],
+  "topics": {
+    "Conflict": 0.6943181753158569,
+    "Politics": 0.6084657311439514,
+    "Economy": 0.5501072406768799,
+    "Culture": 0.5392041802406311,
+    "Technology": 0.5215510129928589,
+    "Transport": 0.35438600182533264,
+    "Diplomacy": 0.2857438027858734,
+    "Energy": 0.25643980503082275,
+    "Military": 0.24701447784900665,
+    "Environment": 0.2368590533733368,
+    "Health": 0.21083272993564606,
+    "Elections": 0.20913873612880707,
+    "Crime": 0.1254759579896927,
+    "Education": 0.05492902547121048
+  },
+  "sentiment": {
+    "positive": 0.385,
+    "negative": 0.615,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Russia's new car sales up 47% in 2024, agencies cite industry ministry",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/russias-car-sales-47-2024-085540545.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "(Reuters) - Sales of new passenger cars in Russia increased by 47% year on year to 1.55 million units in 2024, Russian news agencies reported on Saturday, citing industry and trade ministry data.",
+    "New sales in 2025 are seen dropping by around 10% to 1.43 million units, Sergei Tselikov, head of Russian analytical agency Autostat, said in December, as high inflation and scrappage fees push prices up.",
+    "Moscow's invasion of Ukraine in February 2022 drastically reshaped Russia's car market, with Western carmakers abandoning the country and Chinese ones swooping in to plug the production gap.",
+    "Sales slumped in 2022 but have been steadily recovering.",
+    "(Reporting by Alexander Marrow; Editing by Toby Chopra)"
+  ],
+  "topics": {
+    "Culture": 0.8232191801071167,
+    "Conflict": 0.8197669982910156,
+    "Economy": 0.7912066578865051,
+    "Technology": 0.48075178265571594,
+    "Health": 0.45479753613471985,
+    "Environment": 0.4489361345767975,
+    "Transport": 0.40336117148399353,
+    "Politics": 0.3659484386444092,
+    "Energy": 0.2931833863258362,
+    "Military": 0.29211702942848206,
+    "Crime": 0.26868554949760437,
+    "Elections": 0.15056003630161285,
+    "Diplomacy": 0.12981490790843964,
+    "Education": 0.05411028861999512
+  },
+  "sentiment": {
+    "positive": 0.6,
+    "negative": 0.4,
+    "neutral": 0.0
+  }
+}

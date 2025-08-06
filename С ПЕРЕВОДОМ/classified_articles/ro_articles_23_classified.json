@@ -1,0 +1,41 @@
+{
+  "title": "Şefa Russia Today Spune Că I-a Fost Interzisă Intrarea în Armenia",
+  "published_date": null,
+  "url": "https://www.libertatea.ro/stiri/margarita-simonian-spune-ca-i-a-fost-interzisa-intrarea-in-armenia-4325859",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "\"Konstantin Zătulin, who has been a fervent supporter of Armenia for many years, has been forbidden to enter the territory of Armenia by the current leader of Armenia.",
+    "According to the Armenian press, to Zaulin, who leads a committee for the relations with the former Soviet states within the state duty, was forbidden to enter Armenia because of his critics to the government led by Prime Minister Nikol Paşinian.",
+    "Simonian, of Armenian ethnicity, born in Russia, frequently appears in the Russian press as an antiocycidental virulent commentator and has often accused the Government of Erevan of not sufficiently loyal Moscow.",
+    "See results presidential elections, tour 1 - 4 May 2025, according to the BEC!",
+    "Watch the newest video Follow us on Google News Unica.ro \"Nonsense is not a sin.",
+    "CTP, Acid message to Elena Lasconi, after publishing the controversial photos Viva.ro The first woman to apply in Romania for the presidential elections: \"Why don't you return to the pan?\"",
+    "LibertateaPrfemei.ro Mihai Călin, hand with his wife, on the red carpet.",
+    "I have been together for over 20 years, but his request in marriage has been steep!",
+    "Truth.ro One of the most beautiful Romanian actresses shines in a famous British series Elle.ro Ana Bodea, disclosures about the relationship with Valentin Butnaru.",
+    "What she appreciates at her lover, although there is a 15 -year -old difference between them: \"Everyone knows that they are ...\" Observatornews.ro EXIT -POLL RESULTS Presidential elections 2025.",
+    "Course: George Simion - 33%; Crin Antonescu - 23%; Nicuşor Dan - 21%; Avangarde: Nicuşor Dan and Crin Antonescu, on a draw HOROSCOPE Horoscope May 5, 2025.",
+    "The virgins have inspiration today but to be able to use it, they will need more self -control"
+  ],
+  "topics": {
+    "Elections": 0.8710135817527771,
+    "Politics": 0.7551036477088928,
+    "Energy": 0.7277560234069824,
+    "Culture": 0.7092951536178589,
+    "Transport": 0.6878963112831116,
+    "Conflict": 0.6406260132789612,
+    "Environment": 0.6321536302566528,
+    "Health": 0.5881385207176208,
+    "Technology": 0.537895143032074,
+    "Economy": 0.5160353183746338,
+    "Diplomacy": 0.351895809173584,
+    "Education": 0.3291023075580597,
+    "Crime": 0.3095780313014984,
+    "Military": 0.27274754643440247
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

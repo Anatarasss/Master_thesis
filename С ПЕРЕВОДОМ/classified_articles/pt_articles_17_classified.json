@@ -1,0 +1,41 @@
+{
+  "title": "\"Não há solução militar para o conflito entre a Rússia e a Ucrânia\"",
+  "published_date": null,
+  "url": "https://www.noticiasaominuto.com/mundo/2786483/nao-ha-solucao-militar-para-o-conflito-entre-a-russia-e-a-ucrania",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "\"There is no military solution to the conflict between Russia and Ukraine.",
+    "This war will end not through a military solution, but through a diplomatic solution,\" said the official.",
+    "\"The sooner an agreement is achieved to end war, the less people will die and the less destruction there will be,\" he said.",
+    "Rubio spoke when he arrived at the informal meeting of NATO Foreign Ministers, which takes place in the Turkish city of Antália.",
+    "The official added that US President Donald Trump wants to see the end of the conflict and that the United States are \"anxious\" to see \"progress\" in negotiations about Ukraine.",
+    "\"There is a lot of work to be done.",
+    "We are still committed to this goal [end of conflict].",
+    "Obviously, like everyone, we are impatient, we want this to happen, but it is difficult (...) we hope there will be progress soon,\" he said.",
+    "More than three years after the start of the Russian invasion of Ukraine, Kiev and Moscow are now expected to relaunch, in Istanbul, Turkey, the conversations of direct peace, the former since the spring of 2022.",
+    "After Russian President Vladimir Putin, he proposed conversations in Istanbul, the Ukrainian counterpart, Volodymyr Zelensky, challenged him to be present to negotiate face to face, but Kremlin (presidency) confirmed on Wednesday that neither Putin nor his foreign minister will be present in the negotiations.",
+    "Also read: Russian delegation is already in Türkiye (but without Putin).",
+    "What will Zelensky do?"
+  ],
+  "topics": {
+    "Conflict": 0.9689234495162964,
+    "Politics": 0.9387821555137634,
+    "Diplomacy": 0.8851381540298462,
+    "Culture": 0.5755466222763062,
+    "Military": 0.5303617715835571,
+    "Transport": 0.25552064180374146,
+    "Technology": 0.2461187243461609,
+    "Economy": 0.2299525886774063,
+    "Crime": 0.1895308792591095,
+    "Elections": 0.17161867022514343,
+    "Health": 0.15682676434516907,
+    "Environment": 0.11348181962966919,
+    "Education": 0.0989791750907898,
+    "Energy": 0.08057950437068939
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

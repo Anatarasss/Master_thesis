@@ -1,0 +1,44 @@
+{
+  "title": "BMW admits to supplying cars to Russia despite sanctions",
+  "published_date": null,
+  "url": "https://www.bolnews.com/auto/2024/12/bmw-admits-to-supplying-cars-to-russia-despite-sanctions/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Toyota Corolla Altis available on easy installments in Pakistan The Toyota Corolla remains a leading model for Indus Motor Company, securing... BMW has acknowledged that it supplied cars to Russia in violation of sanctions.",
+    "An internal investigation confirmed that the vehicles were imported from Hanover.",
+    "BMW stated that the employees responsible for bypassing the sanctions have been dismissed, and all deliveries to Russia have been halted.",
+    "Business Insider reports that over 100 cars were delivered to Russian customers.",
+    "The European Union has placed an embargo on car deliveries to Russia, and BMW reiterated its commitment to adhering to these sanctions.",
+    "However, the company has not disclosed details on how the deliveries bypassed restrictions, the models involved, or the exact number of employees implicated.",
+    "The German auto industry is grappling with significant challenges, including high labor and energy costs and declining sales in China, a key market.",
+    "BMW shares have dropped by 21% in 2024.",
+    "Despite the sanctions, BMW vehicles remain popular among Russian buyers.",
+    "Long supply chains and seller risks have driven up prices, yet the demand persists.",
+    "New imports of BMW and MINI models are officially banned, but Russian roads continue to see updated versions of X5, X6, X7 crossovers, as well as the latest 5-Series and 7-Series sedans.",
+    "Interestingly, some BMW models are imported directly from China.",
+    "For example, long-wheelbase versions of the new X1 crossover are widely available at Russian dealerships, highlighting alternative sourcing methods despite restrictions.",
+    "BMW’s admission underscores the ongoing complexities surrounding sanctions enforcement and global trade in the auto industry.",
+    "Catch all the Auto News, Breaking News Event and Latest News Updates on The BOL News Download The BOL News App to get the Daily News Update & Follow us on Google News."
+  ],
+  "topics": {
+    "Conflict": 0.8941666483879089,
+    "Energy": 0.7194901704788208,
+    "Technology": 0.6967830061912537,
+    "Transport": 0.6416773200035095,
+    "Economy": 0.6306658983230591,
+    "Culture": 0.6129581928253174,
+    "Environment": 0.45029208064079285,
+    "Health": 0.436531126499176,
+    "Diplomacy": 0.39981862902641296,
+    "Politics": 0.30200159549713135,
+    "Elections": 0.19948752224445343,
+    "Crime": 0.18565607070922852,
+    "Education": 0.1656309962272644,
+    "Military": 0.15703271329402924
+  },
+  "sentiment": {
+    "positive": 0.533,
+    "negative": 0.467,
+    "neutral": 0.0
+  }
+}

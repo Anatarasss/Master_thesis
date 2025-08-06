@@ -1,0 +1,42 @@
+{
+  "title": "Rușii Anunță Lansarea Unui Laptop Nou, Specialiștii Susțin Că Cipurile Sunt Vechi De Un Deceniu",
+  "published_date": null,
+  "url": "https://www.libertatea.ro/stiri/laptop-nou-rusia-cu-cipuri-din-2012-4245542",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "The Bitan BM15 BITBLAZE notebook is manufactured by promotion, a Russian producer of storage systems and servers.",
+    "The company was founded in 2009 and has headquarters in WHO and Moscow.",
+    "\"A chip in the Baikal M series is installed as a Bitblase processor.",
+    "It uses Cortex-A57 ARM Nuclei in 2012,\" notes Futurezone, which emphasizes that the central processing unit is equipped with 10 years old chips from the Taiwanese manufacturer TSMC.",
+    "Due to the war of aggression triggered on Ukraine, Taiwanese no longer produce chips for Russian companies, which is why promoted must resort to existing stocks.",
+    "Commercial Director: \"works excellent\" According to Iana Brîș, promoting commercial director, Bitblaze is fast enough for office work or watching youtube videos, although its hardware is not last.",
+    "\"Good performances, thin aluminum housing, low weight.",
+    "We tested the main user applications: office programs and viewing on YouTube.",
+    "The battery lasts up to 5 hours.",
+    "We continue the test, preparing the official launch,\" Iana Brîș said on her page on the Russian social network.",
+    "Will cost almost 1,600 euros In the next few months the production of the Russian laptop should begin.",
+    "The first lot will contain about 1,000 pieces.",
+    "The price for this device is 100,000 rubles, around 1,590 euros, a price that can be inaccessible to average Russia citizens."
+  ],
+  "topics": {
+    "Conflict": 0.536970853805542,
+    "Technology": 0.5279382467269897,
+    "Economy": 0.4987005889415741,
+    "Politics": 0.4303293526172638,
+    "Culture": 0.4156853258609772,
+    "Diplomacy": 0.41248878836631775,
+    "Health": 0.3798132836818695,
+    "Energy": 0.31743618845939636,
+    "Environment": 0.2655945420265198,
+    "Transport": 0.22701239585876465,
+    "Military": 0.2033950686454773,
+    "Elections": 0.1642352044582367,
+    "Education": 0.15883608162403107,
+    "Crime": 0.0954509750008583
+  },
+  "sentiment": {
+    "positive": 0.385,
+    "negative": 0.615,
+    "neutral": 0.0
+  }
+}

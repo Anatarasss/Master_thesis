@@ -1,0 +1,44 @@
+{
+  "title": "Moscow, Kyiv end Russian gas transit to Europe via Ukraine",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/latest/1267531-moscow-kyiv-end-russian-gas-transit-to-europe-via-ukraine",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russia's gas transit to Europe via Ukraine stopped on Wednesday, Moscow and Kyiv said, ending a decades-long arrangement and marking the latest casualty of the war between the neighbours.",
+    "Russian gas has been supplied to Europe via pipelines crossing Ukraine since the end of the Soviet Union in 1991 in an arrangement that earned revenues for Moscow from the gas and for Kyiv from the transit fees.",
+    "The latest transit contract expired on Wednesday with Ukraine opting not to extend the deal following Russia's 2022 invasion.",
+    "Russian gas accounted for less than 10% of the European Union's gas imports in 2023 — down from more than 40% before the war.",
+    "But some EU members, mostly in the east, still depend heavily on Russian gas for geographical and political reasons.",
+    "\"We have stopped the transit of Russian gas,\" Ukraine's Energy Minister German Galushchenko said in a statement, calling it \"a historical event.\"",
+    "\"Russia is losing its markets, it will suffer financial losses,\" he added Russia's Gazprom energy giant said in a separate statement that \"Russian gas has not been supplied for transit via Ukraine since 8:00am (0500 GMT)\".",
+    "It said it had lost the \"technical and legal right\" to ship its gas across Ukraine to Europe.",
+    "European natural gas prices climbed above 50 euros ($51.78) per megawatt hour for the first time in over a year on Tuesday as buyers in Eastern Europe braced for the halt in supplies.",
+    "EU and NATO members Hungary and Slovakia have maintained close ties with the Kremlin despite the invasion.",
+    "The halt in Russian gas transit through Ukraine will force some countries to dip deeper into their reserves and seek to import more liquefied natural gas (LNG).",
+    "But Hungary is set to be largely unaffected by the move, as it receives most of its Russian gas via the Black Sea pipeline, an alternative route that bypasses Ukraine by running via Turkey and up through the Balkans.",
+    "Brussels has downplayed the impact the loss of Russian gas supply will have on the 27-member bloc.",
+    "\"The Commission has been working for more than a year specifically on preparing for a scenario without Russian gas transiting via Ukraine,\" it told AFP on Tuesday.",
+    "As more people opt for self-generated electricity, challenges rise for power grids with dwindling customer base \"Let the future of publishing begin,\" says Melania after launching AI Audiobook NOAA forecasts 60% chance of above-normal season, with between 13 to 19 named storms with winds of 39 mph \"Harvard University’s Student and Exchange Visitor Programme certification is revoked,\" says statement \"We're waiting to get the registered numbers that were on the plane itself,\" says official CNN reports Israel is making preparation to strike Iranian nuclear sites"
+  ],
+  "topics": {
+    "Technology": 0.8949286341667175,
+    "Conflict": 0.8531847596168518,
+    "Environment": 0.8257648944854736,
+    "Energy": 0.8079994916915894,
+    "Politics": 0.75771164894104,
+    "Culture": 0.7382208108901978,
+    "Military": 0.735988974571228,
+    "Economy": 0.6805616617202759,
+    "Diplomacy": 0.6170281171798706,
+    "Health": 0.6009353995323181,
+    "Elections": 0.5085301399230957,
+    "Transport": 0.48110824823379517,
+    "Education": 0.4634025990962982,
+    "Crime": 0.30217885971069336
+  },
+  "sentiment": {
+    "positive": 0.2,
+    "negative": 0.8,
+    "neutral": 0.0
+  }
+}

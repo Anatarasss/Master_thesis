@@ -1,0 +1,40 @@
+{
+  "title": "Fără Să Vrea, Un Jurnalist Rus A Ajutat Artileria Ucraineană Să Distrugă Zeci De Cisterne Cu Combustibil. Presa De La Kiev Propune Să Fie Premiat",
+  "published_date": null,
+  "url": "https://www.libertatea.ro/stiri/fara-sa-vrea-un-jurnalist-rus-a-ajutat-artileria-ucraineana-sa-distruga-zeci-de-cisterne-cu-combustibil-presa-de-la-kiev-propune-sa-fie-premiat-4327969",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "After, on the evening of October 26, the Ukrainian army bombed the railway station in Shahtarsk, the Donetk region, considering that the target was touched, journalist Boris Maksudov from the Government of Television Russia-21, known as a pro-Kremlin propaganda body, entered the social networks and entered the social networks, October, about a big fire \"that was extinguished all night\".",
+    "He showed several fuel tanks, untouched by fire and told live where they are, how damaged the station building is, what people say, briefly analyzing the real situation there.",
+    "The train rails melted and In a few hours, due to this information, dozens of fuel tanks, which could be used by the Russian army, were destroyed by the Ukrainian artillery.",
+    "The journalist has fulfilled, without realizing, the role of artillery observer, who is responsible for directing the fire to a target.",
+    "He commented during the intervention that there were 15 fuel tanks, adding that \"the Ukrainians hit the targets with high precision\", and the combustion temperature during the night fire was so high that the train rails were melted.",
+    "The Ukrainian army announced on October 26 that it had destroyed 12 chessk fuel tanks, but after the intervention of the Russian journalist, repeated the bombings, which proved to be much more accurate.",
+    "On the social networks it was proposed that the Russian journalist be offered a prize, notes the Ukrainian publication.",
+    "See Live Text - presidential elections 2025 - Tour 1.",
+    "Follow the latest information about the presence at vote and EXIT POLL RESULTS!",
+    "Feradol • 29.10.2022, 22:45 Where's the great Russophil \"Jumbo\", has nothing to comment on?",
+    "Or was it taken on the front and sent directly into the chopper?"
+  ],
+  "topics": {
+    "Elections": 0.8783878087997437,
+    "Conflict": 0.8714715838432312,
+    "Politics": 0.8164312839508057,
+    "Transport": 0.6198129057884216,
+    "Technology": 0.5252336859703064,
+    "Military": 0.5104397535324097,
+    "Culture": 0.38523420691490173,
+    "Diplomacy": 0.2630556523799896,
+    "Energy": 0.18831978738307953,
+    "Economy": 0.13930514454841614,
+    "Health": 0.13373632729053497,
+    "Environment": 0.10303249210119247,
+    "Education": 0.06359237432479858,
+    "Crime": 0.0434684082865715
+  },
+  "sentiment": {
+    "positive": 0.091,
+    "negative": 0.909,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Donald Trump admite deslocar-se à Turquia em caso de evolução negocial",
+  "published_date": null,
+  "url": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2025-05-15-video-donald-trump-admite-deslocar-se-a-turquia-em-caso-de-evolucao-negocial-ed99c55a",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "United States President Donald Trump admitted Thursday that he may move to Turkey if progress in the negotiation contacts between Russia and Ukraine will be progressed.",
+    "\"If something happens, I'm going on Friday,\" said Donald Trump.",
+    "The Russian delegation sent by Vladimir Putin arrived on Thursday Istanbul for the first direct conversations with Ukraine, since the spring of 2022.",
+    "According to the latest information, the Russian head of state did not move to Istanbul, and the details about the meeting were not defined.",
+    "Ukrainian President Volodymyr Zelensky challenged the Russian counterpart for days to attend the meeting in person, saying that if he did, he would be prepared to attend the meeting.",
+    "According to Russian news agencies, the Moscow Delegation arrived in Istanbul without Vladimir Putin.",
+    "The name of the Russian head of state was not on the list of participants, published on Wednesday night by the presidential office.",
+    "Donald Trump, who has not yet commented on the absence of Putin lies in Qatar, the second stop of the visit to the Gulf countries and after the Saudi Arabia travel.",
+    "\"Let's not make a nuclear confusion in Iran\" On the other hand, US President Donald Trump said Thursday in Doha that Washington and Tehran are \"getting closer\" of an agreement on the conversations of the Iranian nuclear issue, expressing optimism about the possibility of avoiding military attacks on Iranian facilities.",
+    "\"Let's not make a nuclear confusion in Iran,\" said Donald Trump, stressing he believes in a possible deal with Tehran, without specifying.",
+    "Following a meeting with business leaders in Doha, US President Donald Trump said the visit to Gulf countries could generate up to $ 4 billion in contracts."
+  ],
+  "topics": {
+    "Politics": 0.828484058380127,
+    "Diplomacy": 0.7343461513519287,
+    "Conflict": 0.6439703702926636,
+    "Culture": 0.5386965870857239,
+    "Economy": 0.38717716932296753,
+    "Military": 0.379900187253952,
+    "Technology": 0.3615424931049347,
+    "Transport": 0.27928122878074646,
+    "Energy": 0.27912551164627075,
+    "Health": 0.2320566475391388,
+    "Environment": 0.21555550396442413,
+    "Elections": 0.14759080111980438,
+    "Education": 0.1297597587108612,
+    "Crime": 0.11827921122312546
+  },
+  "sentiment": {
+    "positive": 0.545,
+    "negative": 0.455,
+    "neutral": 0.0
+  }
+}

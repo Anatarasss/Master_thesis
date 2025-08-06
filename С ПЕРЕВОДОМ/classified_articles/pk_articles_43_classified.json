@@ -1,0 +1,50 @@
+{
+  "title": "Russia preparing for prisoner swap with Trump",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1260734-russia-preparing-for-prisoner-swap-with-trump",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW: Russia is preparing for a possible prisoner swap when President-elect Donald Trump returns to office to demonstrate a reset in relations with the United States.",
+    "Sergei Ryabkov, Russia’s deputy foreign minister, said on Wednesday the move would represent a “healthy step forward” for the two countries’ diplomatic ties.",
+    "Moscow would “definitely be prepared to consider” a prisoner swap on a similar scale to the exchange which took place on Aug 1, the largest since the Cold War, he told NBC News.",
+    "Ryabkov said it would be a “multiphased or multistep approach on both sides”, while avoiding to detail exact timelines or prisoners to be exchanged.",
+    "On Aug 1, Russia and Western governments conducted a large-scale exchange, mediated by Turkiye.",
+    "During the trade, 26 prisoners from six countries, including Evan Gershkovich, the Wall Street Journal journalist, were swapped for a number of Russians, including Vadim Krasikov, a Russian hitman.",
+    "Trump, who will take office in the White House on Jan 21, has generally favoured brokering east-west exchanges.",
+    "During his first term in the Oval Office, he attempted to further negotiations on the return of Paul Whelan, a former US Marine once held in Russia.",
+    "Whelan was eventually freed as part of the Aug 1 deal.",
+    "But Trump was critical of one prisoner swap brokered between Washington and Moscow, in which Brittney Griner, an American basketball player being held by Russia, was traded for notorious Russian arms dealer Viktor Bout.",
+    "The president-elect said the deal was “stupid” and “unpatriotic”, claiming it favoured Russian interests.",
+    "There are still many Westerners lingering in Russian prisons, even after the latest exchange, who could be traded as part of a deal between Trump and Vladimir Putin, Russia’s president.",
+    "Marc Fogel, a Pennsylvania native, was arrested entering Russia in 2021, before being sentenced to 14 years in prison for drug smuggling.",
+    "The history teacher was allegedly carrying a small amount of cannabis.",
+    "Ksenia Karelina, a Russian-American dual citizen, was detained in February, accused of treason over a $52 donation to a Ukrainian charity in the US.",
+    "And in July, Michael Travis Leake, an American rock musician, was sentenced to 13 years in jail after being accused of organising a drug-trafficking ring.",
+    "Russia is said to maintain a list of at least 70 of its citizens being held in US jails, convicted of crimes like espionage or sanctions evasion.",
+    "Mash, a Telegram channel with links to Russia’s security services, reported that a swap could happen as early as February next year.",
+    "A satellite image shows the new North Korean warship at harbour before launch, in Chongjin, North Korea, May 18, 2025.... A view shows the courthouse of Vannes, where ex-surgeon Joel Le Scouarnec, accused of the aggravated rape and sexual... Members of the emergency services work at Hamburg’s main train station where several people were stabbed on May 23,... India's Border Security Force personnel patrol along the fencing of the India-Bangladesh international border.",
+    "—... Representational image of chickens.",
+    "— Unsplash/FilePARIS: Outbreaks of bird flu in mammals more than doubled across... Turkey's President Tayyip Erdogan speaks during a press briefing during NATO’s 75th anniversary summit in..."
+  ],
+  "topics": {
+    "Diplomacy": 0.7102693319320679,
+    "Culture": 0.6663234233856201,
+    "Crime": 0.6010106801986694,
+    "Politics": 0.596501350402832,
+    "Conflict": 0.585875391960144,
+    "Military": 0.5405874252319336,
+    "Economy": 0.5350492000579834,
+    "Health": 0.5274633169174194,
+    "Environment": 0.431755930185318,
+    "Technology": 0.4314281940460205,
+    "Transport": 0.415539413690567,
+    "Education": 0.4120841324329376,
+    "Elections": 0.3693038821220398,
+    "Energy": 0.3009490370750427
+  },
+  "sentiment": {
+    "positive": 0.286,
+    "negative": 0.714,
+    "neutral": 0.0
+  }
+}

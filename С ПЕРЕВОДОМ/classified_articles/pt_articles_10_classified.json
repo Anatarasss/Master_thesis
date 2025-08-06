@@ -1,0 +1,42 @@
+{
+  "title": "Papa Leão XIV recebeu Zelensky numa audiência privada no Vaticano",
+  "published_date": null,
+  "url": "https://sicnoticias.pt/especiais/papa-leao-xiv/2025-05-18-papa-leao-xiv-recebeu-zelensky-numa-audiencia-privada-no-vaticano-495efddd",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Pope Leo XIV will receive this Sunday the president of Ukraine, Volodymyr Zelensky, at a private audience at the Vatican.",
+    "The meeting took place after the inauguration mass of the pontificate, which took place this morning in St. Peter's Square, in the Vatican, Zelensky revealed in a publication on social networks.",
+    "\"We are grateful to his holiness for the audience.",
+    "For millions of people around the world, the pontiff is a symbol of hope for peace.",
+    "The authority and voice of the Holy See can play an important role in ending this war,\" wrote the Ukrainian President.",
+    "Volodymyr Zelensky thanked the Vatican for the availability to serve mediator in the negotiations between Ukraine and Russia.",
+    "\"We are ready for dialogue in any format, in favor of tangible results.",
+    "We appreciate support for Ukraine and the clear voice in defense of just and lasting peace,\" he said.",
+    "At the end of the inauguration mass of his pontificate, Leo XIV referred to the \"Ukraine Martyr\", which expects \"negotiations for just and lasting peace.\"",
+    "Vance greeted Zelensky during Mass The inauguration mass of the pontificate was attended by official delegations from countries around the world, including the vice president of the United States Jd Vance and the Secretary of State, Marco Rubio, in representation of the United States.",
+    "Vance got up to squeeze Zelensky's hand when he moved to greet him, in a gesture of 'truce' after the late discussion and exchange of accusations in the Oval Room with President Donald Trump in February.",
+    "Also present were, among others, Ukrainian Foreign Minister Andrii Sibiga, Zelensky's Chief of Staff Andriy Yermak, and the Ukrainian ambassador with the Holy See, Andrii Yurash.",
+    "However, Trump announced that he will speak on Monday by telephone with his Russian counterpart, Vladimir Putin, and also with Zelensky, to \"stop the bloodshed.\""
+  ],
+  "topics": {
+    "Conflict": 0.805321991443634,
+    "Politics": 0.7389394640922546,
+    "Culture": 0.6718577146530151,
+    "Diplomacy": 0.6439186334609985,
+    "Economy": 0.43603062629699707,
+    "Health": 0.3717087507247925,
+    "Technology": 0.3326069116592407,
+    "Military": 0.3324836790561676,
+    "Environment": 0.22869466245174408,
+    "Transport": 0.21080362796783447,
+    "Energy": 0.19888821244239807,
+    "Elections": 0.16013531386852264,
+    "Crime": 0.1560565084218979,
+    "Education": 0.13570784032344818
+  },
+  "sentiment": {
+    "positive": 0.769,
+    "negative": 0.231,
+    "neutral": 0.0
+  }
+}

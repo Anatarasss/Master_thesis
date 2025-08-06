@@ -1,0 +1,45 @@
+{
+  "title": "Presidente da Ucrânia já está na Turquia, negociações decorrem esta tarde",
+  "published_date": null,
+  "url": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2025-05-15-presidente-da-ucrania-ja-esta-na-turquia-negociacoes-decorrem-esta-tarde-47d34044",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "The president of Ukraine has already arrived in Ankara, in Türkiye, where the peace talks will take place.",
+    "You will meet this afternoon with the Turkish homologist, Recep Tayyip Erdogan, and only then will the next steps be decided in the negotiations.",
+    "In a first statement to journalists at the site, he regretted Russia sent a second -line entourage that he described merely \"decorative\" and accused Kremlin of devaluing peace negotiations.",
+    "\"The level of the Russian delegation is not officially known, but as far as we see, to be more decorative.",
+    "Let's think about what we will do, what will be our next steps after the talks with President Erdogan.",
+    "I think we'll have a few hours for important conversations, to very important decisions,\" Zelensky told Ancara.",
+    "The details of the eventual meeting between the Russian and Ukrainian delegations continue to clarify, but a Russian diplomatic source told France Presse that the Russian-Ukrainian conversations will take place this Thursday afternoon at the request of the Ankan government.",
+    "Putin won't go, but sends entourage The president of Ukraine challenged Putin to a face to face in Istanbul, a suggestion that Russian Foreign Minister Sergey Lavrov considered \"pathetic\".",
+    "Before the meeting with the Turkish homologist, Zelensky admitted that an absence also means an answer.",
+    "I think this is a very clear message,\" he said.",
+    "The proposal was officially rejected by Kremlin this Thursday.",
+    "Despite the absence, the president of Russia met with top officers to discuss peace negotiations.",
+    "Moscow will send Putin advisor Vladimir Medinsky to Turkey, Foreign Minister Mikhail Galuzin, Deputy Defense Minister Alexander Fomin, and Igor Kostyukov, head of the Russian Military Intelligence Agency (GRU).",
+    "Anyone who has admitted now that they can move to Turkey if progress in business contacts between Russia and Ukraine is Donald Trump who said that \"if something happens, I'm going on Friday.\"",
+    "These peace conversations happen more than three years after the Russian invasion.",
+    "They are the first since the spring of 2022."
+  ],
+  "topics": {
+    "Politics": 0.8620095252990723,
+    "Conflict": 0.8527126908302307,
+    "Military": 0.7065890431404114,
+    "Diplomacy": 0.6839081048965454,
+    "Culture": 0.5587558746337891,
+    "Economy": 0.3618665039539337,
+    "Technology": 0.30566778779029846,
+    "Transport": 0.26470866799354553,
+    "Health": 0.24462059140205383,
+    "Energy": 0.20307305455207825,
+    "Environment": 0.18525929749011993,
+    "Crime": 0.14187659323215485,
+    "Education": 0.11606641858816147,
+    "Elections": 0.08201799541711807
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

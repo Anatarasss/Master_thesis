@@ -1,0 +1,33 @@
+{
+  "title": "Enviados de Trump presentes nas negociações de paz entre Ucrânia e Rússia",
+  "published_date": null,
+  "url": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2025-05-13-enviados-de-trump-presentes-nas-negociacoes-de-paz-entre-ucrania-e-russia-63217ea4",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "United States special envoys will be present in Istanbul, Turkey, for peace negotiations that will gather representatives from Ukraine and Russia, reports Reuters, which cites sources close to the process.",
+    "Steve Witkoff, a special US envoy to the Middle East, and Keith Kellog, an American special to Ukraine and Russia, join Ukrainian President Volodymyr Zelenksy, who confirmed their presence at the meeting.",
+    "On the side of Russia, the presence of Vladimir Putin is unlikely, but still lacks official confirmation.",
+    "Donald Trump said on Monday that he is also thinking of attending the meeting that will have as its main objective an agreement that can put an end to the war in Ukraine, which lasts since February 2022."
+  ],
+  "topics": {
+    "Conflict": 0.8554424047470093,
+    "Diplomacy": 0.6943508982658386,
+    "Politics": 0.4864179193973541,
+    "Culture": 0.47130537033081055,
+    "Military": 0.3424261808395386,
+    "Economy": 0.26928848028182983,
+    "Technology": 0.26124265789985657,
+    "Health": 0.14960794150829315,
+    "Transport": 0.14277903735637665,
+    "Energy": 0.08075527846813202,
+    "Crime": 0.07705407589673996,
+    "Environment": 0.07401783764362335,
+    "Elections": 0.06597631424665451,
+    "Education": 0.05587848648428917
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

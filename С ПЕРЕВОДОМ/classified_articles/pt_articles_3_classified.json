@@ -1,0 +1,35 @@
+{
+  "title": "\"Ninguém vai desistir das nossas terras\". Zelensky rejeita retirada militar de zonas que Kiev controla",
+  "published_date": null,
+  "url": "https://24.sapo.pt/atualidade/artigos/ninguem-vai-desistir-das-nossas-terras-zelensky-rejeita-retirada-militar-de-zonas-que-kiev-controla",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "\"No one will give up our lands, our territories, our people,\" Zelensky said at a press conference after a telephone call between Russian presidents Vladimir Putin, and American Donald Trump.",
+    "\"If Russia establishes conditions for the removal of our troops from our territory, it means it does not want a ceasefire and does not want the war to end,\" he added.",
+    "Zelensky also stated that the next meeting between Ukraine and Russia delegations, and perhaps with the presence of other countries, could be held at the Vatican, Switzerland or Turkey, stating that he expects to know Moscow's conditions for a ceasefire.",
+    "The Ukrainian President also stated that new US sanctions imposed on Russia \"would be decisive\" for their ability to continue the invasion of Ukraine.",
+    "\"American sanctions in banking and energy sectors will largely determine if Vladimir Putin and the Russian army will continue to benefit from this war or face serious economic difficulties,\" Zelensky said at the press conference.",
+    "\"We must work hard with the United States so that, at any time, when they can, impose adequate sanctions,\" he added."
+  ],
+  "topics": {
+    "Energy": 0.9862316846847534,
+    "Conflict": 0.9091025590896606,
+    "Politics": 0.8934375643730164,
+    "Military": 0.7912560701370239,
+    "Culture": 0.7405624389648438,
+    "Diplomacy": 0.7281863689422607,
+    "Economy": 0.7088906764984131,
+    "Technology": 0.5459399223327637,
+    "Health": 0.45441189408302307,
+    "Environment": 0.3657679557800293,
+    "Transport": 0.32641881704330444,
+    "Crime": 0.3207011818885803,
+    "Elections": 0.27382463216781616,
+    "Education": 0.18571345508098602
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

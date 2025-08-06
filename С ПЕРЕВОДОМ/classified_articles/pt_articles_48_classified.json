@@ -1,0 +1,36 @@
+{
+  "title": "Nave Soyuz regressa à Terra com austronautas russos e um norte-americano",
+  "published_date": null,
+  "url": "https://www.noticiasaominuto.com/tech/2770728/nave-soyuz-regressa-a-terra-com-austronautas-russos-e-um-norte-americano",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "The landing took place at 01h20 TMG on Sunday, less than 150 kilometers southeast of the city of Zhezkazgan, on the ke in the Kazakhstan, less than four hours after the Uncolate of the Russian Module of the International Space Station (ISS).",
+    "Pettit, who was at the station this time for 222 days, totaling 590 days since his baptism as an astronaut, he returned to our planet on his 70th birthday.",
+    "However, Ovchinin - 595 days in orbit - handed over the command of the orbital platform to Japanese Takuya Onishi on Friday during a traditional ceremony.",
+    "The expedition, which returned safely to Earth, arrived at the station in September last year, where ten people lived.",
+    "Recently, Soyuz MS-27, manned by the Russian cosmonauts Sergey Ryzhikov and Alexei Zubitsky and NASA astronaut Jonathan Kim, successfully coupled with the space station.",
+    "Russian Kiril Peskov, American Anne McClain and Nichole Ayers, and Japanese Onishi, all members of the 72nd expedition, will remain on the platform for a longer period.",
+    "Also read: The International Space Station has new occupants"
+  ],
+  "topics": {
+    "Technology": 0.5535706877708435,
+    "Culture": 0.5338045358657837,
+    "Conflict": 0.5152744054794312,
+    "Transport": 0.3807554244995117,
+    "Environment": 0.30437445640563965,
+    "Energy": 0.29734307527542114,
+    "Health": 0.2773177921772003,
+    "Economy": 0.2738237977027893,
+    "Military": 0.24597254395484924,
+    "Diplomacy": 0.14872634410858154,
+    "Education": 0.12653601169586182,
+    "Politics": 0.11978272348642349,
+    "Crime": 0.10557087510824203,
+    "Elections": 0.09377405047416687
+  },
+  "sentiment": {
+    "positive": 0.857,
+    "negative": 0.143,
+    "neutral": 0.0
+  }
+}

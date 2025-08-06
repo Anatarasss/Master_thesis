@@ -1,0 +1,44 @@
+{
+  "title": "Oil touches $80 per barrel as sweeping sanctions against Russia rattle markets",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/oil-touches-80-per-barrel-as-sweeping-sanctions-against-russia-rattle-markets-162612572.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "In This Article: Oil prices jumped to a three-month high on Friday, with traders digesting new sweeping sanctions against Russia as the Biden administration tries to cut off Moscow from crude revenue amid the ongoing war in Ukraine.",
+    "West Texas Intermediate crude (CL=F) rose more than 3.5% to settle at $76.57 per barrel while Brent crude futures (BZ=F), the international benchmark price, briefly hit $80 before settling at $79.76, the highest level since October.",
+    "More than 180 vessels, two oil companies, traders, insurers, and top Russian executives were named in the sanctions.",
+    "\"The United States is taking sweeping action against Russia’s key source of revenue for funding its brutal and illegal war against Ukraine,” Secretary of the Treasury Janet Yellen said in a statement.",
+    "Oil prices were already on an upward trend since late December, with traders uncertain over President-elect Donald Trump's policy toward Iran.",
+    "Tehran currently produces more than 3 million barrels of crude per day.",
+    "\"News continues to filter in about [the] Trump administration's hard stance on Iran that may come very quickly,\" Dennis Kissler, senior vice president at BOK Financial, wrote in a note to clients on Friday.",
+    "\"Add in the freezing temps across most of the US, along with shrinking storage numbers, and crude has now become a new 'fund favorite,'\" he added.",
+    "JPMorgan analysts said global oil demand is expected to remain strong through January due to colder-than-expected weather in the Northern Hemisphere \"boosting heating fuel consumption\" and early travel activities in China for the country's Lunar New Year holiday.",
+    "Despite Friday's sharp rise, many analysts expect that oil prices will move lower this year than in 2024.",
+    "\"Despite ongoing geopolitical conflicts, a combination of bearish factors will likely keep oil prices structurally low in 2025, with a likely price range of $60-$80 per barrel for Brent spot crude oil.",
+    "That would be below the $70-$90 per barrel range that dominated 2024,\" Eurasia Group wrote in a note on Thursday.",
+    "Ines Ferre is a senior business reporter for Yahoo Finance.",
+    "Follow her on X at @ines_ferre.",
+    "Click here for in-depth analysis of the latest stock market news and events moving stock prices Read the latest financial and business news from Yahoo Finance"
+  ],
+  "topics": {
+    "Conflict": 0.9972894787788391,
+    "Energy": 0.9836483597755432,
+    "Economy": 0.9196766018867493,
+    "Technology": 0.9112779498100281,
+    "Environment": 0.911024272441864,
+    "Politics": 0.8765416741371155,
+    "Health": 0.8667899370193481,
+    "Culture": 0.8481203317642212,
+    "Transport": 0.8462840914726257,
+    "Diplomacy": 0.7968413233757019,
+    "Military": 0.7599946856498718,
+    "Education": 0.755125880241394,
+    "Elections": 0.7504605650901794,
+    "Crime": 0.6892390847206116
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

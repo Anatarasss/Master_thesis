@@ -1,0 +1,36 @@
+{
+  "title": "Europa dá sinal de união em Lviv e apoia tribunal especial para acusar a Rússia",
+  "published_date": null,
+  "url": "https://www.dn.pt/internacional/europa-d%C3%A1-sinal-de-uni%C3%A3o-em-lviv-e-apoia-tribunal-especial-para-acusar-a-r%C3%BAssia",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Europe gives a sign of unity in LVIV and supports special court to accuse Russia The Ministers of Foreign Affairs from Union, United Kingdom and Ukraine countries were gathered in LVIV on Friday giving a sign of union on the day Moscow celebrated the day of victory in World War II.",
+    "The occasion also served the launch of a new court to prosecute the Russian authorities responsible for war crimes against Ukraine.",
+    "This Court will be created under the Council of Europe, will have its own prosecutors and judges and may start working as soon as it is approved for two thirds of the Council member countries-Kiev plans to start the special court at the annual meeting of the institution's foreign ministers, which will take place next Wednesday.",
+    "According to the politician, the court is supported by 42 countries, including 25 European Union Member States (unsurprisingly, Hungary and Slovakia were left out), G7 countries except for the United States (who removed their support during Trump administration) and others such as Australia, Switzerland, Norway, Costa Rica and Guatemala.",
+    "\"Today we have political support for this,\" said European Union diplomacy leader Kaja Kallas, who was also in the Ukrainian city of LVIV.",
+    "\"This Court will ensure that the main responsible for assaulting Ukraine are held responsible.\"",
+    "In a video message broadcast at the meeting on Friday of European foreign ministers, Ukrainian President Volodymyr Zelensky said that \"a strong court for the crime of aggression can, and should make any potential aggressor think twice,\" he added to be a moral duty to Europe responsible to Russia for war."
+  ],
+  "topics": {
+    "Politics": 0.9785043001174927,
+    "Diplomacy": 0.9596179723739624,
+    "Crime": 0.8580666780471802,
+    "Conflict": 0.7916949391365051,
+    "Culture": 0.5526201128959656,
+    "Military": 0.39747354388237,
+    "Economy": 0.23082317411899567,
+    "Technology": 0.22062131762504578,
+    "Energy": 0.130635067820549,
+    "Environment": 0.11497168242931366,
+    "Transport": 0.10115411132574081,
+    "Health": 0.09490053355693817,
+    "Elections": 0.08149836957454681,
+    "Education": 0.07770766317844391
+  },
+  "sentiment": {
+    "positive": 0.857,
+    "negative": 0.143,
+    "neutral": 0.0
+  }
+}

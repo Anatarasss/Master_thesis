@@ -1,0 +1,37 @@
+{
+  "title": "Nobel laureate warns Putin about danger of nuclear weapons",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1260057-nobel-laureate-warns-putin-about-danger-of-nuclear-weapons",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "OSLO: This year´s Nobel Peace Prize laureate, Japan´s atomic bomb survivors´ group Nihon Hidankyo, on Monday urged Russia to stop issuing nuclear threats in a bid to prevail in its war in Ukraine.",
+    "“President Putin, I don´t think he truly understands what nuclear weapons are for human beings,” said Terumi Tanaka, the 92-year-old co-chair of Nihon Hidankyo and a survivor of the 1945 atomic bombing of Nagasaki.",
+    "“I don´t think he has even thought about this,” Tanaka told a press conference in Oslo a day before he was due to accept the 2024 Nobel Peace Prize, with two other co-chairs, at a formal ceremony in Oslo on behalf of Nihon Hidankyo.",
+    "Putin began making nuclear threats shortly after Russia´s full-scale invasion of Ukraine in February 2022, and signed a decree in late November lowering the threshold for using atomic weapons.",
+    "Russian Foreign Minister Sergei Lavrov reiterated on Thursday that Moscow was ready to use “any means” to defend itself.",
+    "A satellite image shows the new North Korean warship at harbour before launch, in Chongjin, North Korea, May 18, 2025.... A view shows the courthouse of Vannes, where ex-surgeon Joel Le Scouarnec, accused of the aggravated rape and sexual... Members of the emergency services work at Hamburg’s main train station where several people were stabbed on May 23,... India's Border Security Force personnel patrol along the fencing of the India-Bangladesh international border.",
+    "—... Representational image of chickens.",
+    "— Unsplash/FilePARIS: Outbreaks of bird flu in mammals more than doubled across... Turkey's President Tayyip Erdogan speaks during a press briefing during NATO’s 75th anniversary summit in..."
+  ],
+  "topics": {
+    "Conflict": 0.610299825668335,
+    "Politics": 0.35316017270088196,
+    "Culture": 0.2713269293308258,
+    "Health": 0.22403506934642792,
+    "Crime": 0.21460995078086853,
+    "Military": 0.16108715534210205,
+    "Economy": 0.15006838738918304,
+    "Energy": 0.1299930214881897,
+    "Transport": 0.12253084033727646,
+    "Technology": 0.09728286415338516,
+    "Environment": 0.09073604643344879,
+    "Diplomacy": 0.07257413119077682,
+    "Education": 0.035930827260017395,
+    "Elections": 0.033013731241226196
+  },
+  "sentiment": {
+    "positive": 0.125,
+    "negative": 0.875,
+    "neutral": 0.0
+  }
+}

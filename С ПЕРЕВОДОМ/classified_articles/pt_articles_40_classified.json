@@ -1,0 +1,50 @@
+{
+  "title": "Trump: Ucrânia pronta para desistir da Crimeia em \"semana crucial\"",
+  "published_date": null,
+  "url": "https://www.noticiasaominuto.com/mundo/2775201/trump-ucrania-pronta-para-desistir-da-crimeia-em-semana-crucial",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Although Kyiv has so far removed the idea of ​​abandoning the peninsula, which Russia attached in 2014, the US leader said on Sunday that Ukrainian President Volodymyr Zelensky could change position.",
+    "Crimea was 12 years ago,\" Trump told reporters during a trip to New Jersey when asked if he thought Zelensky was willing to give the territory to end the Russian invasion.",
+    "Hours earlier, US Secretary of State Marco Rubio said a peace agreement between Russia and Ukraine is \"closer than any other time in the last three years, but has not yet been reached.\"",
+    "Regarding the state of negotiations, Rubio said during an NBC television program that \"he has reason to be optimistic and also to worry.\"",
+    "\"If this were an easy war to end, someone else would have ended it for a long time,\" he emphasized.",
+    "Zelensky and Trump were present at Pope Francis' funeral in St. Pedro's square on Saturday, having, before the funeral, talked to a private meeting inside the Basilica that, according to the White House, was \"very productive\".",
+    "The Ukrainian President considered the meeting with Trump positive, who thanked the initiatives taken to end the war.",
+    "\"We expect results in everything that has been discussed.",
+    "Total and unconditional ceasefire.",
+    "A safe and lasting peace that avoids another war.",
+    "A very symbolic meeting that could become history if we achieve joint results,\" said Zelensky.",
+    "Hours after the meeting, Trump threatened with new sanctions Russian President Vladimir Putin, because \"too many people are dying\" in Ukraine and the situation makes it seem that his counterpart \"does not want to stop war,\" he said in his social networking social network.",
+    "\"Putin had no reason to fire missiles against civil zones, cities and populations in recent days.",
+    "It makes me think that may not want to stop war (...) and it has to be treated differently, through bank sanctions or secondary sanctions.",
+    "Too many people are dying !",
+    "Also on Saturday, Russian Army Chief of Staff Valery Gerasimov assured Putin that the Russian military had recovered the total control of the Russian region of Kursk.",
+    "Ukraine soldiers had entered this border zone in August.",
+    "On Saturday, the Ukrainian Army described False Gerasimov's fake allegations and said it continued operations in Kursk.",
+    "On Sunday, it was Zelensky's turn to ensure that Ukrainian forces \"continue defensive and active operations in designed areas of the [Russian] regions of Kursk and Belgorod.\"",
+    "Read also: deported children?",
+    "Lawyer says he was \"without access\" to minors"
+  ],
+  "topics": {
+    "Conflict": 0.8904131650924683,
+    "Culture": 0.8330132961273193,
+    "Politics": 0.746492326259613,
+    "Military": 0.7382454872131348,
+    "Technology": 0.5183653235435486,
+    "Health": 0.49475544691085815,
+    "Energy": 0.48914510011672974,
+    "Economy": 0.4693850576877594,
+    "Diplomacy": 0.4379436671733856,
+    "Transport": 0.4222795367240906,
+    "Environment": 0.403868705034256,
+    "Elections": 0.3100256025791168,
+    "Crime": 0.2788774073123932,
+    "Education": 0.27830594778060913
+  },
+  "sentiment": {
+    "positive": 0.381,
+    "negative": 0.619,
+    "neutral": 0.0
+  }
+}

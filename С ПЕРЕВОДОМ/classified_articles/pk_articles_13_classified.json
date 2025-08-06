@@ -1,0 +1,35 @@
+{
+  "title": "Oil prices decreases as Russia sanctions stay in focus",
+  "published_date": null,
+  "url": "https://www.bolnews.com/pakistan/2025/01/oil-prices-decreases-as-russia-sanctions-stay-in-focus/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Oil prices dropped on Tuesday from the previous day’s four-month highs, but the market remained supported by ongoing concerns about the impact of new US sanctions on Russian oil exports to major buyers, India and China.",
+    "Brent crude futures fell by 58 cents, or 0.72%, to $80.43 per barrel by 1421 GMT, while U.S. West Texas Intermediate (WTI) crude dropped 62 cents, or 0.79%, to $78.20 per barrel.",
+    "Prices surged 2% on Monday after the U.S. Treasury Department imposed sanctions on Gazprom Neft and Surgutneftegas, along with 183 vessels involved in Russia’s shadow fleet of oil tankers.",
+    "Charalampos Pissouros, a senior investment analyst at XM brokerage, noted, “As several nations seek alternative fuel supplies to cope with the sanctions, there could be further price advancements, even if prices correct a bit lower following tomorrow’s U.S. CPI data, should it come in hotter than expected.” While analysts anticipated a significant impact on Russian oil supplies from the new sanctions, they suggested the effect on the physical market might not be as pronounced as initially thought.",
+    "ING analysts estimated that the new sanctions could erase the 700,000 barrel-per-day surplus they had predicted for this year, but they believed the actual reduction in flows would likely be less, as Russia and its buyers find ways to circumvent the sanctions.",
+    "Read More News On Catch all the Pakistan News, Breaking News Event and Latest News Updates on The BOL News Download The BOL News App to get the Daily News Update & Follow us on Google News."
+  ],
+  "topics": {
+    "Energy": 0.8882017135620117,
+    "Conflict": 0.7553443908691406,
+    "Economy": 0.7148010730743408,
+    "Transport": 0.7089730501174927,
+    "Technology": 0.6928485631942749,
+    "Health": 0.6791591644287109,
+    "Culture": 0.6272996664047241,
+    "Politics": 0.6164414882659912,
+    "Diplomacy": 0.6150118708610535,
+    "Environment": 0.5200379490852356,
+    "Military": 0.4669954478740692,
+    "Elections": 0.37576624751091003,
+    "Education": 0.34726688265800476,
+    "Crime": 0.24793827533721924
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

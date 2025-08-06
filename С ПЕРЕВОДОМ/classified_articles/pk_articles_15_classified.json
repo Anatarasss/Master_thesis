@@ -1,0 +1,41 @@
+{
+  "title": "Gas pipeline to Turkey targeted by Ukraine, claims Russia",
+  "published_date": null,
+  "url": "https://www.bolnews.com/international/2025/01/gas-pipeline-to-turkey-targeted-by-ukraine-claims-russia/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "On Monday, Russia accused Ukraine of attempting a drone attack on the Turk Stream gas pipeline infrastructure, which transports Russian gas to Europe via Turkey.",
+    "According to a statement by Russia’s defense ministry, Ukraine deployed nine drones on January 11 in an effort to disrupt gas supplies to European countries.",
+    "The attack targeted a gas compressor station in the village of Gai-Kodzor, near Russia’s southern Black Sea coast.",
+    "This facility supplies the TurkStream pipeline.",
+    "All the drones were reportedly intercepted and destroyed, with debris causing minor damage to a building and equipment at a gas measuring station.",
+    "Despite the attack, the ministry confirmed that the facility remains operational, and gas supplies were not disrupted.",
+    "The Turk Stream pipeline, spanning 930 kilometers under the Black Sea, is currently the sole active conduit for Russian gas deliveries to Europe.",
+    "It has an annual capacity of 31.5 billion cubic meters and supplies gas through Turkey and the Balkans.",
+    "This incident comes amid heightened tensions, with Ukraine halting Russian gas transit on January 1, ending a decades-long route for delivering Russian gas to Europe.",
+    "Meanwhile, the European Union has been working to reduce its reliance on Russian energy since Moscow’s full-scale military offensive against Ukraine began in February 2022.",
+    "While pipeline imports have decreased, some European nations have increased purchases of Russian liquefied natural gas (LNG), which is transported by sea.",
+    "Read More News On Catch all the International News, Breaking News Event and Latest News Updates on The BOL News Download The BOL News App to get the Daily News Update & Follow us on Google News."
+  ],
+  "topics": {
+    "Energy": 0.8756740093231201,
+    "Conflict": 0.8508539795875549,
+    "Military": 0.7497828006744385,
+    "Technology": 0.7336986660957336,
+    "Transport": 0.6657009124755859,
+    "Economy": 0.5648109912872314,
+    "Politics": 0.4973180592060089,
+    "Culture": 0.47707074880599976,
+    "Environment": 0.383811354637146,
+    "Health": 0.35897940397262573,
+    "Diplomacy": 0.2956039011478424,
+    "Crime": 0.2891884446144104,
+    "Elections": 0.21369120478630066,
+    "Education": 0.0955505222082138
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Enviado de Trump vai regressar à Rússia para falar sobre a Ucrânia",
+  "published_date": null,
+  "url": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2025-04-22-enviado-de-trump-vai-regressar-a-russia-para-falar-sobre-a-ucrania-bfabeecd",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "United States Envoy Steve Witkoff is expected to move to Moscow again this week, Kremlin announced on Tuesday, which warns of hurry in negotiations to resolve the conflict in Ukraine, although they dragged on more than two months.",
+    "Yuri Ushakov, Russian President Vladimir Putin's foreign business advisor, told Russian news agency Tass that Steve Witkoff, White House leader, Donald Trump, plan a visit to the Russian capital this week.",
+    "Russia says that “it is better not to set a tight deadline” Confirmation will be the fourth visit of the US negotiator since the relaunch of relations between Washington and Moscow, which began in mid-February by Donald Trump.",
+    "However, Kremlin spokesman Dmitri Peskov warned today that the conflict resolution is \"such a complex question\" that \"it is probably better not to establish a tight deadline.\"",
+    "Zelensky challenges Putin to accept ceasefire Ukrainian President Volodymyr Zelensky challenged the Russian counterpart to accept a 30-day ceasefire in air strikes with 'drones' and missiles against civil infrastructure.",
+    "The proposal was presented on Sunday night, a few hours before expiring a truce during the Easter period, unilaterally declared by Putin, but marked by accusations of hundreds of violations from side to side.",
+    "Dmitri Peskov said today that there are no concrete plans for negotiations with Kiev, but indicated that Putin is willing to dialogue.",
+    "The Russian President said on Monday that he will analyze the moratorium proposal, while accusing the Ukrainian forces of often occupying positions in civil facilities, which makes them in military targets.",
+    "Kiev again meets with Western countries For Wednesday, in London, the second meeting of Kiev representatives with Western partners is planned to secure a ceasefire with Russia, according to a high Ukrainian authority to AFP, although the date has not yet been officially announced.",
+    "Last week, Ukrainians, Americans, French and British gathered in Paris, for the first time in this format, at a time when negotiations for a ceasefire started by Washington are stagnant and Europeans want to impose their voice.",
+    "The conversations take place at a time when Russia resumed the air attacks after the brief ceasefire of 30 hours at Easter.",
+    "The Pascal truce and Zelensky's proposal follow statements by US President Donald Trump on Friday, suggesting that if there is no progress in indirect negotiations with Moscow and Kiev in a \"day issue,\" Washington could abandon the peace process in Ukraine.",
+    "USA WANTS AGREEMENT “within a week” Already on Sunday, the White House leader said he expects an agreement \"within a week\" and suggested to both parties that they can do good business with the United States, which are growing, and gain a fortune. \"",
+    "The head of the European Union (EU) diplomacy today accused the Russian president of using the truce in the conflict in Ukraine in Easter to gain time and prevent the American leader from \"losing patience.\"",
+    "Speaking to the France-Presse (AFP) news agency, Kaja Kallas said successive violations of the truce announced unilaterally by the Kremlin leader show that \"Russia is playing, trying to gain time and doesn't really want peace.\"",
+    "Was Easter truce “Marketing Play”?",
+    "According to the EU high-remedy for foreign business and security policy, Kiev's authorities and their European allies hoped Washington would adopt a harder line compared to Moscow.",
+    "\"They have the tools to really press Russia.",
+    "Why don't they use them to end this war?\"",
+    "In the same vein, French Foreign Minister Jean-Noel Barrot considered today that the Easter truce declared by Moscow \"was a marketing move, a seduction operation designed to prevent President Trump from becoming impatient and irritated.\"",
+    "The Russian military offensive in the Ukrainian territory, launched on February 24, 2022, plunged to Europe in the one that is considered the most serious security crisis since World War II (1939-1945)."
+  ],
+  "topics": {
+    "Conflict": 0.9866912364959717,
+    "Diplomacy": 0.9864720702171326,
+    "Military": 0.9504223465919495,
+    "Environment": 0.9502078890800476,
+    "Economy": 0.9481759071350098,
+    "Politics": 0.9419625997543335,
+    "Culture": 0.9232213497161865,
+    "Technology": 0.8106622695922852,
+    "Elections": 0.7287462949752808,
+    "Energy": 0.7005859613418579,
+    "Health": 0.6699702739715576,
+    "Transport": 0.635418713092804,
+    "Education": 0.5673071146011353,
+    "Crime": 0.4963940978050232
+  },
+  "sentiment": {
+    "positive": 0.19,
+    "negative": 0.81,
+    "neutral": 0.0
+  }
+}

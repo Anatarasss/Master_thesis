@@ -1,0 +1,35 @@
+{
+  "title": "ONU considera Rússia responsável pela queda do avião da Malaysia Airlines em 2014. Morreram 298 pessoas",
+  "published_date": null,
+  "url": "https://www.cmjornal.pt/mundo/detalhe/onu-considera-russia-responsavel-pela-queda-do-aviao-da-malaysia-airlines-em-2014",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Organization's Council considered that the complaints filed by Australia and the Netherlands about the Malaysia Airlines flight have \"foundation of fact and law.\"",
+    "Lusa The United Nations Agency for Civil Aviation, Icao, decided on Monday that Russia is responsible for the fall of the flight MH17, which has been slaughtered 298 passengers and crew over Ukraine for ten years.",
+    "The organization's council, based in Montreal, Canada, considered that the complaints filed by Australia and the Netherlands about the Malaysia Airlines flight have \"foundation of fact and law.\"",
+    "\"The Council of the International Civil Aviation Organization [ICAO, in the acronym in English] considered today [Monday] that the Russian Federation did not fulfill its obligations under International Air Law in the case of slaughtering Malaysia Airlines flight in 2014,\" begins by pointing the organization in a statement released on its internet portal.",
+    "Send to geral@cmjornal.pt agree with you To use this functionality you must login.",
+    "If you are not registered on the Correio da Manhã website, make your free registration."
+  ],
+  "topics": {
+    "Culture": 0.9342208504676819,
+    "Conflict": 0.929905891418457,
+    "Health": 0.7845426201820374,
+    "Economy": 0.7276243567466736,
+    "Politics": 0.7234739065170288,
+    "Environment": 0.6906036138534546,
+    "Energy": 0.6643018126487732,
+    "Crime": 0.6450217962265015,
+    "Technology": 0.6393308043479919,
+    "Transport": 0.5971935391426086,
+    "Education": 0.5641100406646729,
+    "Elections": 0.5583168268203735,
+    "Military": 0.534895122051239,
+    "Diplomacy": 0.4006946086883545
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

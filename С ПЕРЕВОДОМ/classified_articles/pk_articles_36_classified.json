@@ -1,0 +1,43 @@
+{
+  "title": "Ukraine replaces commander as Russia advances fast in east",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1261774-ukraine-replaces-commander-as-russia-advances-fast-in-east",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "KYIV: Ukraine’s military leadership has replaced the commander overseeing defences in the eastern Donetsk region where Russian forces are making swift advances, a military official said on Saturday.",
+    "General Oleksandr Tarnavskiy, 54, was appointed to head the operational and tactical group Donetsk, replacing General Oleksandr Lutsenko, the official at the General Staff told Reuters.",
+    "Lutsenko was criticized by Ukrainian military bloggers and some lawmakers for failing to stop Russian troops’ relentless push toward the strategic Ukrainian city of Pokrovsk.",
+    "The battles around Pokrovsk, a key logistic hub for Ukrainian military and civilians in the eastern Donetsk region, come at a critical juncture of the war.",
+    "Ukraine is on the back foot on the battlefield as Russian troops advance at their fastest pace since the early days of Moscow’s invasion in February 2022.",
+    "Last month President Volodymyr Zelenskiy replaced several other generals, saying changes were needed.",
+    "Kyiv is also trying to build ties with U.S. President-elect Donald Trump, whose promise to end the war swiftly has raised concerns in Ukraine that it could be largely on Moscow’s terms.",
+    "Ukraine’s Khortytsiya military command said on Saturday that Russian troops had destroyed several Ukrainian positions in villages around Pokrovsk, improving their tactical positions after “exhausting battles” and forcing Kyiv forces to retreat.",
+    "In its daily report, the Ukrainian military reported a total of 62 combat clashes near Pokrovsk in the last 24 hours.",
+    "Ukrainian officials said that about 11,000 people still remain in Pokrovsk, which has been under constant shelling for months and where all critical infrastructure - electricity, water, and gas supplies were destroyed.",
+    "Pokrovsk lies at the intersection of several important roads and rail lines and is just about 20 kilometres away from the administrative border of the Donetsk region.",
+    "Moscow has been trying to reach that line since the start of the invasion, as its forces aim to seize all of Donetsk and Luhansk regions.",
+    "Military analysts said that for Kyiv, losing Pokrovsk would also potentially mean having the war closer to central Ukraine and its better-protected rear.",
+    "Yunus has promised polls will be held by June 2026 at latest in Muslim-majority nation of around 170 million people China has given guaranteed loan of $364 million, out of which $58.41 million guarantee has been given in April 2025 Former champions will now face Quetta Gladiators in Sunday’s final at the same venue Maryam Nawaz Sharif expressed deep grief over sad demise of renowned Punjabi poet Tajammul Kaleem WB Managing Director Anna Bjerde, Country Director Najy Benhassine and CM Syed Murad Shah accompanied her In separate meeting with PVMA, Khan assured ghee producers of government’s understanding and support"
+  ],
+  "topics": {
+    "Elections": 0.972459614276886,
+    "Conflict": 0.9356806874275208,
+    "Military": 0.9209508299827576,
+    "Politics": 0.9188509583473206,
+    "Culture": 0.8169482946395874,
+    "Health": 0.805154025554657,
+    "Technology": 0.7864026427268982,
+    "Economy": 0.7751876711845398,
+    "Transport": 0.7698151469230652,
+    "Diplomacy": 0.74001544713974,
+    "Environment": 0.7240594625473022,
+    "Crime": 0.7120440602302551,
+    "Education": 0.7085544466972351,
+    "Energy": 0.7078543305397034
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

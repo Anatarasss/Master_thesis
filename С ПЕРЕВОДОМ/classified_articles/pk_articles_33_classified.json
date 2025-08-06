@@ -1,0 +1,41 @@
+{
+  "title": "Russia paves way to remove Taliban from ‘terror’ list",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1262765-russia-paves-way-to-remove-taliban-from-terror-list",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW: Russia´s parliament on Tuesday approved a bill that could pave the way for Moscow to lift its designation of the Taliban as a banned “terrorist” organisation.",
+    "Moscow has courted relations with the Taliban since they seized power in Afghanistan after the United States´ chaotic withdrawal from in 2021.",
+    "Officials have since been pushing to remove the Islamist group from Moscow´s official list of outlawed “terrorist” groups.",
+    "The State Duma passed a bill outlining a mechanism for groups to be legally removed from the list -- putting the necessary legal framework in place for an expected future decision.",
+    "The bill now passes to the upper-house Federation Council and then to President Vladimir Putin to sign into law.",
+    "In a visit to Kabul last month, top Russian security officials told their Afghan counterparts that Moscow would soon remove the Taliban from the list of banned organisations.",
+    "Under the proposed system, Russia´s Prosecutor General would file a request with a Russian court outlining that a group has “ceased” its activities “in support of terrorism”.",
+    "A judge could then rule to remove the designation.",
+    "The expected move would not amount to a formal recognition of the Taliban government and what it calls the “Islamic Emirate of Afghanistan” -- a step no country has yet taken.",
+    "A satellite image shows the new North Korean warship at harbour before launch, in Chongjin, North Korea, May 18, 2025.... A view shows the courthouse of Vannes, where ex-surgeon Joel Le Scouarnec, accused of the aggravated rape and sexual... Members of the emergency services work at Hamburg’s main train station where several people were stabbed on May 23,... India's Border Security Force personnel patrol along the fencing of the India-Bangladesh international border.",
+    "—... Representational image of chickens.",
+    "— Unsplash/FilePARIS: Outbreaks of bird flu in mammals more than doubled across... Turkey's President Tayyip Erdogan speaks during a press briefing during NATO’s 75th anniversary summit in..."
+  ],
+  "topics": {
+    "Conflict": 0.6721916198730469,
+    "Culture": 0.6025494337081909,
+    "Politics": 0.528620183467865,
+    "Crime": 0.39112842082977295,
+    "Technology": 0.3901619017124176,
+    "Economy": 0.36845991015434265,
+    "Military": 0.35086700320243835,
+    "Diplomacy": 0.32750189304351807,
+    "Environment": 0.3194991648197174,
+    "Health": 0.30776143074035645,
+    "Transport": 0.2789888083934784,
+    "Energy": 0.2090965360403061,
+    "Elections": 0.13405875861644745,
+    "Education": 0.11085110902786255
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

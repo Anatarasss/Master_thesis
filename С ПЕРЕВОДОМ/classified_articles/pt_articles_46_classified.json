@@ -1,0 +1,40 @@
+{
+  "title": "Duas aldeias evacuadas após explosões em paiol de munições na Rússia, foi declarado estado de emergência",
+  "published_date": null,
+  "url": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2025-04-22-duas-aldeias-evacuadas-apos-explosoes-em-paiol-de-municoes-na-russia-foi-declarado-estado-de-emergencia-86768023",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "A fire launched, on Tuesday, in a paiol of ammunition in the Vladimir region, in western Russia, and caused several explosions.",
+    "The Russian Ministry of Defense says there was \"a violation of security standards.\"",
+    "Two villages were evacuated and declared a state of emergency in the Vladimir region.",
+    "The explosions took place in a paiol of artillery and missiles of the Russian army, next to the village of Barsovo.",
+    "The Russian Ministry of Defense says there was a \"violation of safety standards at work with explosive materials.\"",
+    "The incident will be investigated by a commission created specifically for the case, informs.",
+    "According to preliminary information, there are no victims, however, the explosions resulted in the detonation of ammunition.",
+    "Russian authorities declared a state of emergency in the Vladimir region, says state news agency Tass, which cites emergency services.",
+    "Two evacuated villages \"All the inhabitants of Barsovo are being removed to schools No.",
+    "6 and 7 of Krasny Oktiabr village in Kirzhach district,\" said local authorities, according to the official news agency Tass, which also announced the withdrawal of Mirnoe inhabitants.",
+    "The governor of the Vladimir region, Alexandr Avdeyev, wrote on the Telegram platform that \"the responsible services are working on site.\""
+  ],
+  "topics": {
+    "Conflict": 0.8046590685844421,
+    "Culture": 0.7101976871490479,
+    "Military": 0.6924194097518921,
+    "Technology": 0.6082209944725037,
+    "Politics": 0.5670117139816284,
+    "Environment": 0.5132380127906799,
+    "Economy": 0.49387049674987793,
+    "Health": 0.42441844940185547,
+    "Transport": 0.3544534742832184,
+    "Education": 0.3198286294937134,
+    "Energy": 0.29562726616859436,
+    "Crime": 0.2637186348438263,
+    "Diplomacy": 0.16879424452781677,
+    "Elections": 0.12573625147342682
+  },
+  "sentiment": {
+    "positive": 0.091,
+    "negative": 0.909,
+    "neutral": 0.0
+  }
+}

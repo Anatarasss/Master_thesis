@@ -1,0 +1,41 @@
+{
+  "title": "Russia could launch another hypersonic missile at Ukraine soon: US",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1260737-russia-could-launch-another-hypersonic-missile-at-ukraine-soon-us",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "WASHINGTON: Russia could launch another hypersonic ballistic missile in Ukraine in the coming days, but Washington does not consider the Oreshnik weapon a game-changer in the war, a US official said on Wednesday.",
+    "Russia first fired the Oreshnik missile at the Ukrainian city of Dnipro on Nov 21, in what President Vladimir Putin cast as a response to Ukraine’s first use of US ATACMs ballistic missiles and British Storm Shadows to strike Russian territory with Western permission.",
+    "“We assess that the Oreshnik is not a game-changer on the battlefield, but rather just another attempt by Russia to terrorize Ukraine, which will fail,” the official said.",
+    "There was no immediate response from Russia.",
+    "Putin has previously said Russia may use the Oreshnik again, including to hit “decision-making centers” in Kyiv, if Ukraine keeps attacking Russia with long-range Western weapons.",
+    "Putin has claimed that the Oreshnik, or hazel tree, is impossible to intercept and that it has destructive power comparable to that of a nuclear weapon, even when fitted with a conventional warhead.",
+    "Some Western experts have said the novel feature of the Oreshnik was that it carried multiple warheads capable of simultaneously striking different targets - something usually associated with longer-range intercontinental ballistic missiles.",
+    "But the US official downplayed the usefulness of the missiles, calling them “experimental” in nature and said that “Russia likely possesses only a handful” of them.",
+    "The official also said the weapon has a smaller warhead than other missiles Russia has deployed in Ukraine.",
+    "A satellite image shows the new North Korean warship at harbour before launch, in Chongjin, North Korea, May 18, 2025.... A view shows the courthouse of Vannes, where ex-surgeon Joel Le Scouarnec, accused of the aggravated rape and sexual... Members of the emergency services work at Hamburg’s main train station where several people were stabbed on May 23,... India's Border Security Force personnel patrol along the fencing of the India-Bangladesh international border.",
+    "—... Representational image of chickens.",
+    "— Unsplash/FilePARIS: Outbreaks of bird flu in mammals more than doubled across... Turkey's President Tayyip Erdogan speaks during a press briefing during NATO’s 75th anniversary summit in..."
+  ],
+  "topics": {
+    "Conflict": 0.7061111927032471,
+    "Culture": 0.49400943517684937,
+    "Military": 0.48201286792755127,
+    "Technology": 0.4226703345775604,
+    "Politics": 0.4100724458694458,
+    "Economy": 0.33440709114074707,
+    "Health": 0.330310195684433,
+    "Environment": 0.3166371285915375,
+    "Crime": 0.2908070385456085,
+    "Transport": 0.2221902757883072,
+    "Energy": 0.20474188029766083,
+    "Diplomacy": 0.12452393025159836,
+    "Education": 0.096786268055439,
+    "Elections": 0.08681157231330872
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

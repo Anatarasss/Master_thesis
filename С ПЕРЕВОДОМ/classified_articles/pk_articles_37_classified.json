@@ -1,0 +1,42 @@
+{
+  "title": "Russia pulling back but not out of Syria",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1261740-russia-pulling-back-but-not-out-of-syria",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "TARTOUS, Syria: Russia is pulling back its military from the front lines in northern Syria and from posts in the Alawite Mountains but is not leaving its two main bases in the country after the fall of President Bashar al-Assad, four Syrian officials told Reuters.",
+    "Satellite footage from Friday shows what appeared to be at least two Antonov AN-124s, among the world’s largest cargo planes, at the Hmeimim base with their nose cones open, apparently preparing to load up.",
+    "At least one cargo plane flew out on Saturday for Libya, a Syrian security official stationed outside the facility said.",
+    "Syrian military and security sources in contact with the Russians told Reuters that Moscow was pulling back its forces from the front lines and withdrawing some heavy equipment and senior Syrian officers.",
+    "But the sources, who spoke on condition of anonymity due to the sensitivity of the situation, said Russia was not pulling out of its two main bases and currently had no intention of doing so.",
+    "Some equipment is being shipped back to Moscow as are very senior officers from Assad’s military but the aim at this stage is to regroup and redeploy as dictated by developments on the ground, a senior Syrian army officer in touch with the Russian military told Reuters.",
+    "A senior rebel official close to the new interim administration told Reuters the issue of the Russian military presence in Syria and past agreements between the Assad government and Moscow were not under discussion.",
+    "“It is a matter for future talks and the Syrian people will have the final say,” said the official, adding that Moscow had set up communication channels.",
+    "“Our forces are also now in close vicinity of the Russian bases in Latakia,” he added without elaborating.",
+    "The Kremlin has said Russia is in discussions with the new rulers of Syria over the bases.",
+    "A satellite image shows the new North Korean warship at harbour before launch, in Chongjin, North Korea, May 18, 2025.... A view shows the courthouse of Vannes, where ex-surgeon Joel Le Scouarnec, accused of the aggravated rape and sexual... Members of the emergency services work at Hamburg’s main train station where several people were stabbed on May 23,... India's Border Security Force personnel patrol along the fencing of the India-Bangladesh international border.",
+    "—... Representational image of chickens.",
+    "— Unsplash/FilePARIS: Outbreaks of bird flu in mammals more than doubled across... Turkey's President Tayyip Erdogan speaks during a press briefing during NATO’s 75th anniversary summit in..."
+  ],
+  "topics": {
+    "Conflict": 0.8612268567085266,
+    "Military": 0.6393651962280273,
+    "Politics": 0.4982597827911377,
+    "Technology": 0.4948413074016571,
+    "Culture": 0.40896686911582947,
+    "Environment": 0.39783477783203125,
+    "Crime": 0.3115697503089905,
+    "Health": 0.29810068011283875,
+    "Diplomacy": 0.2672918140888214,
+    "Transport": 0.24504812061786652,
+    "Economy": 0.17815789580345154,
+    "Elections": 0.0937778502702713,
+    "Education": 0.08443296700716019,
+    "Energy": 0.08130010217428207
+  },
+  "sentiment": {
+    "positive": 0.077,
+    "negative": 0.923,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Russia to scrap unilateral missile moratorium: Lavrov",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1266828-russia-to-scrap-unilateral-missile-moratorium-lavrov",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW:Russia will scrap a moratorium on the deployment of intermediate and shorter range nuclear-capable missiles because the United States has deployed such weapons in various regions around the world, Russian Foreign Minister Sergei Lavrov said on Sunday.",
+    "Russia’s move, long signalled, will kill off all that remains from one of the most significant arms control treaties of the Cold War, amid fears that the world’s two biggest nuclear powers could be entering a new arms race together with China.",
+    "Russia and the United States, who both admit their relations are worse than at any time since the depths of the Cold War, have both expressed regret about the disintegration of the tangle of arms control treaties which sought to slow the arms race and reduce the risk of nuclear war.",
+    "Asked by state news agency RIA if Russia could withdraw from the New START treaty before its expiry in February 2026, Lavrov said that there were currently “no conditions” for a strategic dialogue with Washington.",
+    "“Today it is clear that, for example, our moratorium on the deployment of short- and intermediate-range missiles is no longer practically viable and will have to be abandoned,” Lavrov said.",
+    "“The U.S. has arrogantly ignored the warnings of Russia and China and in practice has moved on to the deployment of weapons of this class in various regions of the world.” The Intermediate-range Nuclear Forces (INF) Treaty, signed by Mikhail Gorbachev and Ronald Reagan in 1987, marked the first time the superpowers had agreed to reduce their nuclear arsenals and eliminated a whole category of nuclear weapons.",
+    "The United States under former President Donald Trump formally withdrew from the INF Treaty in 2019 after saying that Moscow was violating the accord, an accusation the Kremlin repeatedly denied and dismissed as a pretext.",
+    "Russia then imposed a moratorium on its own development of missiles previously banned by the INF treaty - ground-based ballistic and cruise missiles with ranges of 500 km to 5,500 km (310 miles to 3,417 miles).",
+    "Trump in 2018 said he wanted to terminate the INF Treaty because of what he said were years of Russian violations and his concerns about China’s intermediate-range missile arsenal.",
+    "The United States publicly blamed Russia’s development of the 9M729 ground-launched cruise missile, known in NATO as the SSC-8, as the reason for it leaving the INF Treaty.",
+    "In his moratorium proposal, Putin suggested Russia could agree not to deploy the missiles in its Baltic coast exclave of Kaliningrad.",
+    "Since leaving the pact, the United States has tested missiles with a similar profile.",
+    "Russia fired a new intermediate-range hypersonic ballistic missile known as “Oreshnik”, or Hazel Tree, at Ukraine on Nov. 21 in what Putin said was a direct response to strikes on Russia by Ukrainian forces with U.S. and British missiles.",
+    "A satellite image shows the new North Korean warship at harbour before launch, in Chongjin, North Korea, May 18, 2025.... A view shows the courthouse of Vannes, where ex-surgeon Joel Le Scouarnec, accused of the aggravated rape and sexual... Members of the emergency services work at Hamburg’s main train station where several people were stabbed on May 23,... India's Border Security Force personnel patrol along the fencing of the India-Bangladesh international border.",
+    "—... Representational image of chickens.",
+    "— Unsplash/FilePARIS: Outbreaks of bird flu in mammals more than doubled across... Turkey's President Tayyip Erdogan speaks during a press briefing during NATO’s 75th anniversary summit in..."
+  ],
+  "topics": {
+    "Technology": 0.49727359414100647,
+    "Military": 0.48616689443588257,
+    "Conflict": 0.47464585304260254,
+    "Politics": 0.471691757440567,
+    "Culture": 0.4338712990283966,
+    "Diplomacy": 0.39555099606513977,
+    "Health": 0.3672714829444885,
+    "Economy": 0.31175699830055237,
+    "Transport": 0.2890886068344116,
+    "Environment": 0.28720781207084656,
+    "Energy": 0.19244977831840515,
+    "Elections": 0.18089936673641205,
+    "Crime": 0.16697102785110474,
+    "Education": 0.0983985885977745
+  },
+  "sentiment": {
+    "positive": 0.125,
+    "negative": 0.875,
+    "neutral": 0.0
+  }
+}

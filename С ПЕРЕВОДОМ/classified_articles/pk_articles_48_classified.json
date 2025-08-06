@@ -1,0 +1,38 @@
+{
+  "title": "India inducts Russia-built warship into its naval fleet",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/latest/1259909-india-inducts-russia-built-warship-into-its-naval-fleet",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "A Russian-manufactured guided missile frigate, INS Tushil, was commissioned into India’s naval fleet at a Russian shipyard on Monday, with the country’s defence ministry terming it a \"significant milestone\" in ties with a longstanding defence ally.",
+    "Indian defence minister Rajnath Singh took part in the commissioning ceremony of the country's latest multi-role stealth guided missile frigate, INS Tushil, in the Baltic port of Kaliningrad.",
+    "\"The ship is a proud testament to India's growing maritime strength and a significant milestone in long-standing bilateral relations with Russia,\" Singh posted on X. Tushil, or \"Shield\" in English, weighs 3,900 tonnes and carries \"an impressive blend of Russian and Indian cutting edge technologies\", the defence ministry in New Delhi said last week.",
+    "It also said the ship would reach India in a \"near-combat ready condition\" since all Russian equipment on board had been already tested successfully.",
+    "New Delhi has walked a diplomatic tightrope since the beginning of the Ukraine conflict in February 2022, pledging humanitarian support for Kyiv while avoiding explicit condemnation of Russia's offensive.",
+    "In October at the BRICS summit in Kazan, Indian Prime Minister Narendra Modi reiterated his calls for a quick end to the fighting in a meeting with Russian President Vladimir Putin.",
+    "Putin praised what he called Russia and India's \"privileged strategic partnership\", and vowed to build ties further.",
+    "Modi visited Kyiv in August and Moscow in July in an effort to encourage talks, as India cast itself as a potential mediator in the conflict.",
+    "As more people opt for self-generated electricity, challenges rise for power grids with dwindling customer base \"Let the future of publishing begin,\" says Melania after launching AI Audiobook NOAA forecasts 60% chance of above-normal season, with between 13 to 19 named storms with winds of 39 mph \"Harvard University’s Student and Exchange Visitor Programme certification is revoked,\" says statement \"We're waiting to get the registered numbers that were on the plane itself,\" says official CNN reports Israel is making preparation to strike Iranian nuclear sites"
+  ],
+  "topics": {
+    "Conflict": 0.9116390347480774,
+    "Diplomacy": 0.8692045211791992,
+    "Energy": 0.8570358753204346,
+    "Technology": 0.7578621506690979,
+    "Military": 0.6986162662506104,
+    "Environment": 0.6980654001235962,
+    "Economy": 0.6362800002098083,
+    "Culture": 0.5063595771789551,
+    "Politics": 0.5062950253486633,
+    "Health": 0.40489718317985535,
+    "Transport": 0.39392271637916565,
+    "Education": 0.23184819519519806,
+    "Crime": 0.16988825798034668,
+    "Elections": 0.14099977910518646
+  },
+  "sentiment": {
+    "positive": 0.667,
+    "negative": 0.333,
+    "neutral": 0.0
+  }
+}

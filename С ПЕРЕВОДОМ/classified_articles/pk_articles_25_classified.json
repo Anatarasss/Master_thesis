@@ -1,0 +1,42 @@
+{
+  "title": "Russia bans crypto mining in several regions until 2031",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/russia-bans-crypto-mining-several-200313048.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russia has banned crypto mining in ten key regions of the country until 2031, citing its high energy consumption, according to Russian news sources.",
+    "Dagestan, North Ossetia, and Chechnya are among the regions impacted by the new ban, which will start January 1, 2025 and stay in effect for the next six years.",
+    "The ban will end on March 2031, and primarily disrupt mining pools and independent miners.",
+    "In November, new crypto legislation went into effect in Russia requiring miners to register with the finance ministry.",
+    "Earlier this year, regions like Dagestan were the site of rolling electricity blackouts, partly due to crypto mining, which consumes a significant amount of energy.",
+    "This year alone, bitcoin mining used roughly 17% of the country's energy, according to one estimate.",
+    "While Russia has moved to levy restrictions on the industry, it has spurred some miners to move underground.",
+    "“The owners of illegal cryptocurrency mining installations are coming up with new methods of 'circumventing' the law - they install mining farms underground,\" Abdulmuslim Abdulmuslimov, Dagestan’s prime minister, told Reuters.",
+    "In the past, Russia prohibited cryptocurrency as a payment method but still allowed it for cross-border payments.",
+    "As the war in Ukraine escalates, Russia's alleged use of crypto to evade sanctions has gained renewed prominence, prompting the U.S. to increasingly target crypto transactions originating from Russia.",
+    "This past July, Russia unveiled a new law greenlighting the use of crypto for international trade.",
+    "The legislation allows the country's central bank to establish \"experimental\" infrastructure for crypto transactions.",
+    "\"We are taking a historic decision in the financial sphere,\" said the head of the Russian parliament's finance committee Anatoly Aksakov about the move."
+  ],
+  "topics": {
+    "Energy": 0.44278189539909363,
+    "Economy": 0.38317444920539856,
+    "Conflict": 0.3792959153652191,
+    "Technology": 0.24608604609966278,
+    "Politics": 0.22151000797748566,
+    "Environment": 0.18785172700881958,
+    "Health": 0.14328135550022125,
+    "Military": 0.14156541228294373,
+    "Culture": 0.1413162350654602,
+    "Transport": 0.12523972988128662,
+    "Diplomacy": 0.11069395393133163,
+    "Crime": 0.0632537379860878,
+    "Elections": 0.042770128697156906,
+    "Education": 0.01444148737937212
+  },
+  "sentiment": {
+    "positive": 0.462,
+    "negative": 0.538,
+    "neutral": 0.0
+  }
+}

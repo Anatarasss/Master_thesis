@@ -1,0 +1,50 @@
+{
+  "title": "Rússia chama \"patético\" a Zelensky por ter exigido ida de Putin à Turquia",
+  "published_date": null,
+  "url": "https://www.noticiasaominuto.com/mundo/2786683/russia-chama-patetico-a-zelensky-por-ter-exigido-ida-de-putin-a-turquia",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "\"Zelensky said he demanded that Putin personally be [Istanbul].",
+    "Well, what a pathetic person,\" said Serguei Lavrov in a speech to Diplomats in Moscow, transmitted by the Ministry of Foreign Affairs, according to France-Presse (AFP) news agency.",
+    "Lavrov also said that western capitals do not want peace in Ukraine and were discussing with each other that they could not admit to ending Europe's mobilization against Russia.",
+    "The West is \"getting into Sarilhos\" in the confrontation with Moscow, he said, quoted by Russian news agency Ria Novosti.",
+    "Lavrov highlighted in particular the United Kingdom, which said he was interfering with the diplomatic process of resolution of the situation in Ukraine.",
+    "\"A counselor of the British Prime Minister in national security matters has been highlighted to Zelensky, so that he does not say anything unnecessary and eventually bury his reputation and the reputation of those who train him,\" he said.",
+    "The minister stressed that Russia's position is that of a fair agreement in the long run.",
+    "He said diplomacy is not a matter of guessing and screaming to the microphone, as he claimed to be Zelensky's practice, \"but of doing it professionally.\"",
+    "He also mentioned that the issue of military capabilities that Ukraine will have is far from resolved.",
+    "Lavrov appealed to give the peace negotiations in Istanbul an opportunity, but criticized the proposal of ceasefire defended by Kyiv and the Western Allies, stating that he would only serve to rearm Ukraine.",
+    "\"We should give the negotiations an opportunity, but no one can guarantee that everything will go well, no problem,\" the minister told diplomats, also quoted by the Spanish news agency Efe.",
+    "Less committed to the words, Lavrov's spokeswoman Maria Zakharova called today \"clown and failed\" to Zelensky for claiming that the Russian delegation sent to Türkiye was a scam.",
+    "\"Who uses the word 'farce'?",
+    "A person without any formation,\" said Zakharova during a press conference in Moscow, quoted by AFP.",
+    "He added, referring to Zelensky.",
+    "Zelensky, who arrived today in Turkey, had challenged Putin to travel to Istanbul to gather both of them in the scope of bilateral talks about the Russian war against Ukraine, the first in over three years.",
+    "Russia announced on Wednesday night the composition of the delegation, which does not include Putin, not even Lavrov or the presidential counselor for international relations, Yuri Ushakov, as it was reported.",
+    "The delegation is headed by presidential counselor Vladimir Medinsky, and is part of the deputy ministers of foreign affairs Mikhail Galuzin and Alexandr Fomin, as well as a series of experts.",
+    "Medinsky stated that the Russian delegation is committed to serious and professional work in the negotiations in Istanbul, according to Ria Novasti.",
+    "He added that the purpose of Putin's direct negotiations is to establish a long -term and long -term peace, eliminating the deep causes of the conflict.",
+    "Also read: Zelensky is already in Türkiye with his eyes put \"in negotiations\""
+  ],
+  "topics": {
+    "Conflict": 0.8442783951759338,
+    "Diplomacy": 0.8413784503936768,
+    "Politics": 0.7178475260734558,
+    "Culture": 0.6736630201339722,
+    "Military": 0.5261289477348328,
+    "Technology": 0.32203125953674316,
+    "Health": 0.2804566025733948,
+    "Energy": 0.22981156408786774,
+    "Economy": 0.21086707711219788,
+    "Transport": 0.18803507089614868,
+    "Crime": 0.16845811903476715,
+    "Environment": 0.1680118888616562,
+    "Elections": 0.09867461770772934,
+    "Education": 0.053708214312791824
+  },
+  "sentiment": {
+    "positive": 0.286,
+    "negative": 0.714,
+    "neutral": 0.0
+  }
+}

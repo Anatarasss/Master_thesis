@@ -1,0 +1,36 @@
+{
+  "title": "\"Não se pode falar assim com a Rússia\". Kremlin rejeita qualquer ultimato para cessar-fogo",
+  "published_date": null,
+  "url": "https://24.sapo.pt/atualidade/artigos/nao-se-pode-falar-assim-com-a-russia-kremlin-rejeita-qualquer-ultimato-para-cessar-fogo",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "\"The language of ultimatum is unacceptable to Russia, it is not appropriate.",
+    "One cannot speak like this with Russia,\" said Russian presidency spokesman Dmitri Peskov during the daily press conference.",
+    "Peskov has assured that Moscow wants to maintain \"serious\" negotiations that lead to lasting peace, but did not react to the Ukrainian President's offer to meet with Putin in Istanbul on Thursday.",
+    "On Saturday, Kiev and his allies asked for a \"comprehensive and unconditional\" ceasefire of 30 days from this Monday, which they consider a precondition to start direct peace negotiations.",
+    "\"There must be a ceasefire,\" insisted the head of European diplomacy Kaja Kallas.",
+    "\"It takes two to wish peace and only one to wish the war.",
+    "We are seeing that Russia clearly wants war.\""
+  ],
+  "topics": {
+    "Conflict": 0.8653987050056458,
+    "Politics": 0.6554640531539917,
+    "Culture": 0.56874680519104,
+    "Military": 0.33036407828330994,
+    "Economy": 0.3073139488697052,
+    "Technology": 0.27702149748802185,
+    "Health": 0.26891791820526123,
+    "Diplomacy": 0.26805993914604187,
+    "Environment": 0.2459118366241455,
+    "Transport": 0.1600511372089386,
+    "Energy": 0.15127724409103394,
+    "Crime": 0.11899493634700775,
+    "Education": 0.1095745787024498,
+    "Elections": 0.06740513443946838
+  },
+  "sentiment": {
+    "positive": 0.143,
+    "negative": 0.857,
+    "neutral": 0.0
+  }
+}

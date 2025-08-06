@@ -1,0 +1,41 @@
+{
+  "title": "Oil prices jump to 5-month high over increasing worries of supply crunch stemming from sanctions",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/oil-prices-jump-to-5-month-high-over-increasing-worries-of-supply-crunch-stemming-from-sanctions-182258000.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Oil extended gains to hit a five-month high on Monday as worries grew over supply disruptions impacting big importers China and India following wide-ranging sanctions against Russian crude.",
+    "West Texas Intermediate crude (CL=F) rose nearly 3% to settle at $78.82 per barrel, the highest level since August, while Brent futures (BZ=F) settled at $81.01.",
+    "The move higher comes after almost a 4% surge on Friday in reaction to wide-ranging sanctions against Moscow imposed by the US, targeting oil executives, traders, and more than 180 vessels, bringing the total number of ships sanctioned to 451, according to JPMorgan analysis.",
+    "\"There are indications that, similar to Indian refiners who avoid taking Russian oil in tankers under sanctions or in ships insured by sanctioned Russian insurers, China is also becoming a less-permissive buyer,\" JPMorgan head of global commodities research Natasha Kaneva wrote in a recent note.",
+    "Despite the recent rally, Kaneva and her team expect Brent prices to average $73 for 2025.",
+    "Oil has been on an upward trend since the start of the year, with WTI gaining nearly 8% while Brent has surged almost 7% amid colder-than-expected temperatures and falling stockpiles.",
+    "\"The low temperatures have heightened energy demand for heating, leading to increased consumption of fossil fuels,\" Antonio Di Giacomo, senior market analyst at foreign exchange trading platform XS.com, said in a recent note.",
+    "The Organization of Oil Producing Countries and their allies, or OPEC+, have signaled more barrels will be added to the market later this year when they begin to unwind their production cuts.",
+    "The move was repeatedly postponed last year.",
+    "Ines Ferre is a senior business reporter for Yahoo Finance.",
+    "Follow her on X at @ines_ferre.",
+    "Click here for in-depth analysis of the latest stock market news and events moving stock prices Read the latest financial and business news from Yahoo Finance"
+  ],
+  "topics": {
+    "Energy": 0.896411657333374,
+    "Technology": 0.8338701725006104,
+    "Culture": 0.8250319957733154,
+    "Health": 0.7986326813697815,
+    "Economy": 0.7599309682846069,
+    "Politics": 0.7468796968460083,
+    "Conflict": 0.7379767894744873,
+    "Environment": 0.728779673576355,
+    "Education": 0.6572057008743286,
+    "Transport": 0.656215488910675,
+    "Diplomacy": 0.6354605555534363,
+    "Elections": 0.5828456282615662,
+    "Military": 0.5562973022460938,
+    "Crime": 0.3708421289920807
+  },
+  "sentiment": {
+    "positive": 0.417,
+    "negative": 0.583,
+    "neutral": 0.0
+  }
+}

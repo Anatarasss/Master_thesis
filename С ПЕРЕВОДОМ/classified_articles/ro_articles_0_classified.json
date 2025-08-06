@@ -1,0 +1,52 @@
+{
+  "title": "Russia Today, interviu controversat cu Diana Șoșoacă: 'Sistemul este dictatorial, alegerile sunt o farsă'",
+  "published_date": null,
+  "url": "https://www.stiripesurse.ro/video-russia-today-interviu-controversat-cu-diana-osoaca-sistemul-este-dictatorial-alegerile-su_3672372.html",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "The electoral controversy in Romania deepens after Diana Şoșoacă launches serious accusations against the Bucharest authorities, accusing, in an interview with the chief editor of the Russian television Russia Today, Margarita Simonyan, \"dictatorship\" and \"censorship\".",
+    "\"There is no integrity in Romania.",
+    "He disappeared as a state,\" said Diana Şoșoaca in an interview filmed in the headquarters of the S.O.S.",
+    "Romania, broadcast by RT.",
+    "The message comes in the context of the repeated prohibitions imposed on Diana Şoșoaca to apply for the presidency, against the background of his alleged \"pro-Russian opinions\", although, she argues, \"I did not violate any law\".",
+    "The leader of the party S.O.S.",
+    "Romania, Diana Şoșoaca, claims that she was forbidden to participate in the elections for ideological reasons again, without any law being violated.",
+    "\"What is happening now is a fight without rules by an illegal and dictatorial system.",
+    "The choices are zero and unpaved.",
+    "The system must be demolished,\" said, in a Facebook post of the interview, in which he denounces the \"purification\" of the undesirable candidates.",
+    "The interview filmed in the headquarters of S.O.S.",
+    "Romania In support of her comes Margarita Simonyan, the head of RT, who published on the X platform a fragment from the interview made with shock in Bucharest.",
+    "\"Calin Georgescu was not the first candidate for the presidency of Romania forbidden.",
+    "The Eurosceptic leader of the party, Diana Sosoaca, was prevented from applying last year and again before the elections on Sunday, due to\" pro-Russian opinions \", although he did not violate any law.\"",
+    "The shock states that the rejection of the candidates with Eurosceptic discourse is a form of political repression masked in legalism: \"What is happening is now a struggle without rules by an illegal and dictatorial system.",
+    "The elections are zero.",
+    "The system must be demolished.\"",
+    "The interview was conducted right at the headquarters of the S.O.S.",
+    "Romania, despite the fact that the Romanian authorities tried to stop it.",
+    "Irish journalist Chay Bowes, a correspondent of the RT, was arrested and expelled from the country, in an action qualified by the party as \"political repression\".",
+    "Diana Şoșoaca complements on Facebook, criticizing what she considers to be a masked censorship in the Romanian state: \"According to the Constitution, censorship of any kind is forbidden!",
+    "And when the authorities arrest a foreign journalist to stop an interview, we speak of dictatorship, not democracy.\"",
+    "It refers to the expulsion of Irish journalist Chay Bowes, Correspondent RT, who tried to film the interview with Simonyan."
+  ],
+  "topics": {
+    "Elections": 0.9887409806251526,
+    "Politics": 0.9781520366668701,
+    "Conflict": 0.9571442008018494,
+    "Culture": 0.8887049555778503,
+    "Economy": 0.7902473211288452,
+    "Energy": 0.7839791774749756,
+    "Health": 0.7643029093742371,
+    "Environment": 0.7608602643013,
+    "Diplomacy": 0.7315924763679504,
+    "Transport": 0.6980180144309998,
+    "Education": 0.6558733582496643,
+    "Crime": 0.5877571105957031,
+    "Military": 0.5139912962913513,
+    "Technology": 0.5022441744804382
+  },
+  "sentiment": {
+    "positive": 0.174,
+    "negative": 0.826,
+    "neutral": 0.0
+  }
+}

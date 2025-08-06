@@ -1,0 +1,40 @@
+{
+  "title": "Embaixadores Aprovam Novo Pacote Contra Rússia",
+  "published_date": null,
+  "url": "https://www.dn.pt/internacional/embaixadores-junto-da-ue-d%C3%A3o-luz-verde-a-17%C2%BA-pacote-de-san%C3%A7%C3%B5es-%C3%A0-r%C3%BAssia",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Ambassadors next to the EU give green light to 17th Package of Sanctions to Russia Member States Ambassadors with the European Union (EU) approved on Wednesday the 17th Package of Community Sanctions to Russia for the invasion of Ukraine, three months after another, aiming to weaken the Russian economy and the funding of the war.",
+    "European sources advanced to the Lusa agency that the 'green light' was at the meeting of this EU ambassadors morning in Brussels, and an official approval was scheduled at the meeting of the European foreign business ministers next Tuesday.",
+    "This new set of restrictive measures comes three months after 16th Package of Sanctions - which was approved at the third anniversary of the Ukraine War - and again encompasses ships of the Ghost Fleet, with which the Russian regime was trying to circumvent Western restrictions on oil trade, reinforcing the fight against evasion to the embargo applied to Russia.",
+    "New restrictions on more individuals and entities have emerged, the European sources advanced to Lusa.",
+    "Since the beginning of the Russian invasion of Ukraine on February 24, 2022, the EU has advanced with heavy sanctions against Russia, namely economic or diplomatic, aiming at 2,400 people and entities, including Russian President Vladimir Putin and the country's foreign business minister, Sergey Lavrov.",
+    "At issue is the prohibition of traveling to the EU, the freezing of goods and the unavailability of access to funds that come from the community space.",
+    "It was also advanced for the freezing of goods, a total of 24.9 billion euros of frozen private goods in the community space and 210 billion euros from the Central Bank of Russia blocked.",
+    "At the commercial level, European restrictive measures aim for 48 billion euros in exports prohibited to Russia and 91.2 billion euros in prohibited imports from Russia.",
+    "Ukraine has also counted on financial help and in the weapons of Western allies.",
+    "Kiev's allies have also decreed sanctions on key key sectors of the Russian economy to try to reduce Moscow's ability to fund Ukraine's war effort.",
+    "The three -year conflict caused the destruction of important infrastructures in various areas in Ukraine, as well as a number for determining civil and military victims."
+  ],
+  "topics": {
+    "Conflict": 0.9897465705871582,
+    "Economy": 0.9343215823173523,
+    "Politics": 0.7172548770904541,
+    "Diplomacy": 0.7066177129745483,
+    "Energy": 0.583615243434906,
+    "Military": 0.45628178119659424,
+    "Technology": 0.41474485397338867,
+    "Transport": 0.2957595884799957,
+    "Environment": 0.2791169583797455,
+    "Culture": 0.27135801315307617,
+    "Health": 0.2634615898132324,
+    "Crime": 0.1534193605184555,
+    "Education": 0.11758188903331757,
+    "Elections": 0.05356070026755333
+  },
+  "sentiment": {
+    "positive": 0.182,
+    "negative": 0.818,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Trump calls for immediate Ukraine ceasefire, Kyiv and Moscow cite conditions",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1259736-trump-calls-for-immediate-ukraine-ceasefire-kyiv-and-moscow-cite-conditions",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "PARIS: US President-elect Donald Trump called on Sunday for an immediate ceasefire and negotiations between Ukraine and Russia to end “the madness”, prompting Ukrainian President Volodymr Zelenskiy and the Kremlin to list their conditions.",
+    "Trump made his comments just hours after meeting Zelenskiy in Paris for their first face-to-face talks since Trump won last month’s U.S. election.",
+    "Trump has vowed to bring about a negotiated end to the conflict, but so far has not provided details.",
+    "“Zelensky and Ukraine would like to make a deal and stop the madness,” Trump wrote on his social media platform Truth Social, adding that Kyiv had lost some 400,000 soldiers.",
+    "“There should be an immediate ceasefire and negotiations should begin.” “I know Vladimir well.",
+    "This is his time to act.",
+    "The World is waiting!” Trump added, referring to Russian President Putin.",
+    "Trump, in Paris for the reopening of Notre-Dame Cathedral, sat down with Zelenskiy on Saturday for about an hour, along with host President Emmanuel Macron.",
+    "Trump and Zelenskiy shook hands and smiled, but it was unclear how the conversation had gone.",
+    "Accounts of the talks from the French and Ukrainian sides said only that the discussions had been good and productive.",
+    "Zelenskiy reacted to Trump’s message on Sunday saying peace was not just a piece of paper, but needed guarantees.",
+    "“When we talk about effective peace with Russia, we must first and foremost talk about effective guarantees for peace.",
+    "Ukrainians want peace more than anyone else,” he said on X.",
+    "“It (the war) cannot simply end with a piece of paper and a few signatures.",
+    "A ceasefire without guarantees can be reignited at any moment, as Putin has already done before.",
+    "To ensure that Ukrainians no longer suffer losses, we must guarantee the reliability of peace and not turn a blind eye to occupation.” Yunus has promised polls will be held by June 2026 at latest in Muslim-majority nation of around 170 million people China has given guaranteed loan of $364 million, out of which $58.41 million guarantee has been given in April 2025 Former champions will now face Quetta Gladiators in Sunday’s final at the same venue Maryam Nawaz Sharif expressed deep grief over sad demise of renowned Punjabi poet Tajammul Kaleem WB Managing Director Anna Bjerde, Country Director Najy Benhassine and CM Syed Murad Shah accompanied her In separate meeting with PVMA, Khan assured ghee producers of government’s understanding and support"
+  ],
+  "topics": {
+    "Conflict": 0.9490038156509399,
+    "Elections": 0.9312199950218201,
+    "Politics": 0.9000237584114075,
+    "Economy": 0.8332988023757935,
+    "Health": 0.8258315324783325,
+    "Culture": 0.806965172290802,
+    "Military": 0.7617415189743042,
+    "Energy": 0.7606494426727295,
+    "Transport": 0.7577080726623535,
+    "Technology": 0.7576299905776978,
+    "Environment": 0.75300532579422,
+    "Diplomacy": 0.7491434216499329,
+    "Education": 0.7222328186035156,
+    "Crime": 0.6508497595787048
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

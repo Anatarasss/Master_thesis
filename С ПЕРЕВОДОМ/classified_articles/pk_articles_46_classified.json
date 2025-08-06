@@ -1,0 +1,34 @@
+{
+  "title": "Russia, Iran ‘share responsibility’ for Assad crimes: Nato",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1260049-russia-iran-share-responsibility-for-assad-crimes-nato",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "BRUSSELS: Nato chief Mark Rutte on Monday said Russia and Iran were complicit in the crimes of ousted Syrian president Bashar al-Assad, and his fall showed they were “unreliable partners”.",
+    "“Russia and Iran were the main backers of the Assad regime, and they share the responsibility for the crimes committed against the Syrian people,” Rutte said.",
+    "“They also proved to be unreliable partners, abandoning Assad when he ceased to be of use to them.” A satellite image shows the new North Korean warship at harbour before launch, in Chongjin, North Korea, May 18, 2025.... A view shows the courthouse of Vannes, where ex-surgeon Joel Le Scouarnec, accused of the aggravated rape and sexual... Members of the emergency services work at Hamburg’s main train station where several people were stabbed on May 23,... India's Border Security Force personnel patrol along the fencing of the India-Bangladesh international border.",
+    "—... Representational image of chickens.",
+    "— Unsplash/FilePARIS: Outbreaks of bird flu in mammals more than doubled across... Turkey's President Tayyip Erdogan speaks during a press briefing during NATO’s 75th anniversary summit in..."
+  ],
+  "topics": {
+    "Conflict": 0.6608709692955017,
+    "Crime": 0.31168875098228455,
+    "Culture": 0.30497002601623535,
+    "Politics": 0.2848763167858124,
+    "Military": 0.21052943170070648,
+    "Economy": 0.20813235640525818,
+    "Health": 0.14183226227760315,
+    "Diplomacy": 0.1220162957906723,
+    "Transport": 0.10541055351495743,
+    "Environment": 0.08326131105422974,
+    "Technology": 0.07108864933252335,
+    "Energy": 0.04710528627038002,
+    "Education": 0.031490761786699295,
+    "Elections": 0.028878653421998024
+  },
+  "sentiment": {
+    "positive": 0.2,
+    "negative": 0.8,
+    "neutral": 0.0
+  }
+}

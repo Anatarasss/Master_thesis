@@ -1,0 +1,34 @@
+{
+  "title": "O que esperar das negociações entre Ucrânia e Rússia na Turquia?",
+  "published_date": null,
+  "url": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2025-05-15-video-o-que-esperar-das-negociacoes-entre-ucrania-e-russia-na-turquia--23dda59c",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "SIC commentators Ricardo Alexandre and José Milhazes consider that Putin would not be expected to move to Istanbul in Turkey to participate in the negotiation with Ukraine, but it would be desirable for Russia to send emissaries with high-level positions.",
+    "After Russian President Vladimir Putin proposed direct conversations between the two countries, the Ukrainian counterpart challenged him to be present to negotiate face to face, but Kremlin confirmed on Wednesday that neither Putin nor his foreign minister will be present in the negotiations.",
+    "Instead, the Russian entourage will be led by Putin's advisor Vladimir Medinsky, who also led the previous negotiation rounds - all unsuccessfully - in early 2022.",
+    "This is indicative that “Vladimir Putin does not consider that Zelensky is at his level,” says Ricardo Alexandre.",
+    "\"I am convinced that Vladimir Putin, with all this game, is prolonging the war,\" argues José Milhazes."
+  ],
+  "topics": {
+    "Conflict": 0.9467414021492004,
+    "Politics": 0.911160945892334,
+    "Diplomacy": 0.7422235012054443,
+    "Culture": 0.6467450261116028,
+    "Military": 0.5768174529075623,
+    "Economy": 0.46299445629119873,
+    "Crime": 0.40023431181907654,
+    "Technology": 0.3505377173423767,
+    "Health": 0.2759599983692169,
+    "Transport": 0.26049333810806274,
+    "Education": 0.18957379460334778,
+    "Environment": 0.17519374191761017,
+    "Elections": 0.1340685337781906,
+    "Energy": 0.1333574652671814
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

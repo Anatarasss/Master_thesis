@@ -1,0 +1,44 @@
+{
+  "title": "‘2nd highest mercury recorded in Asia in 2023’",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/print/1267109-2nd-highest-mercury-recorded-in-asia-in-2023",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Islamabad: Dr Liudmila Kolomeets from World Meteorological Organisation (WMO), Russia, has said that 2023’s mean temperature was the second highest recorded in Asia.",
+    "Dr Kolomeets was delivering keynote address at a webinar on ‘State of the Climate Change in Asia 2023’ organised here by Institute of Regional Studies (IRS), Dr Kolomeets discussed concerning trends in findings from WMO.",
+    "Additionally, she noted anomalies in precipitation and snow coverage and the ongoing increase in glacial loss in the South Asian region.",
+    "Dr Fahad Saeed, a South Asian regional climate scientist from Climate Analytics, highlighted Pakistan's pivotal geolocation, a convergence point for summer monsoons and winter western disturbances.",
+    "This positioning makes the country especially susceptible to climate variations evident in events such as the 2022 floods, Glacial Lake Outburst Floods (GLOFs) and heatwaves, he said adding that there was a great need of integrating scientific insights into decision-making at national, subnational, and local levels.",
+    "Jauhar Saleem, president, IRS, observed that the narrative of climate change reveals deep-seated inequality.",
+    "Drawing from his experience representing Pakistan at forums like the United Nations Framework Convention on Climate Change (UNFCCC), he noted the stark disparity in climate change effects between developing and developed nations.",
+    "He emphasised the slow progress seen in past Conferences of Parties (COPs) and called for enhanced collaboration to address humanity’s greatest existential threat.",
+    "Talha Tufail Bhatti from IRS noted that this year’s COP financial targets disappointed developing nations.",
+    "With at least 10 countries experiencing extreme temperatures over 50°C and economic losses reaching $202.7 billion in 2023, the pledges were insufficient.",
+    "He said that there is a need for swift and ambitious action from the international community, based on the experts' insights.",
+    "Edwardes College Peshawar seen in this image.",
+    "— Facebook/Edwardes College Peshawar/FileRawalpindi:The elections for... A young boy collects recycling items from road sides in Islamabad to sell for earning daily wages, on June 11, 2022.... India's Prime Minister Narendra Modi attends a meeting with former US President Donald Trump and Japanese Prime...",
+    "This image shows Pakistani and France flags.— APP/FileIslamabad:Chairman/CEO of Global Trade Expo Centre Pakistan,...",
+    "The Millennium Universal College TMUC building.— herts.ac.uk/File Islamabad:The Millennium Universal College TMUC... Federal Minister for Climate Change and Environmental Coordination, Dr Musadik Malik in a meeting with the Ambassador..."
+  ],
+  "topics": {
+    "Elections": 0.9621231555938721,
+    "Environment": 0.8173606991767883,
+    "Economy": 0.6689765453338623,
+    "Conflict": 0.6638808250427246,
+    "Politics": 0.6075084209442139,
+    "Culture": 0.5827136635780334,
+    "Technology": 0.4996248483657837,
+    "Transport": 0.4924990236759186,
+    "Education": 0.4583842158317566,
+    "Energy": 0.43559253215789795,
+    "Diplomacy": 0.4313838481903076,
+    "Military": 0.3819088935852051,
+    "Health": 0.25356462597846985,
+    "Crime": 0.18285244703292847
+  },
+  "sentiment": {
+    "positive": 0.6,
+    "negative": 0.4,
+    "neutral": 0.0
+  }
+}

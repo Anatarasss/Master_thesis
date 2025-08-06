@@ -1,0 +1,44 @@
+{
+  "title": "Rusia Se Promovează Ca Un Paradis Pentru „conservatorii Occidentali” și Le Cere Să Migreze. Câte Persoane Au Răspuns Apelului",
+  "published_date": null,
+  "url": "https://www.libertatea.ro/stiri/rusia-se-promoveaza-ca-un-paradis-pentru-conservatorii-occidentali-si-le-cere-sa-migreze-cate-persoane-au-raspuns-apelului-5116568",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "Contents: The initiative comes in the context in which the Kremlin promotes conservative values ​​and is positioned in opposition to the Western liberal agenda.",
+    "Presidential decree to facilitate immigration In April, President Putin signed a decree that simplifies the process of obtaining the residence for Westerners who share the \"traditional Russian spiritual and moral values\".",
+    "Butina explained to The Moscow Times: \"This means people who do not support LGBT movements, people who believe that their children should be raised traditionally.\"",
+    "Statistics on immigration in Russia According to data provided by the Butinai Bureau, 4,676 Westerners requested temporary asylum in Russia in 2022, and 2,358 requested a temporary residence permit in 2023.",
+    "Over 200 people have moved to Russia since the signing of the Decree in April.",
+    "Most come from Germany and the Baltic states, with 1,237 and 1,802 immigrants respectively.",
+    "Expert criticisms Sam Greene, the director of the Russian Institute at King's College London, believes that Kremlin's efforts are rather an opportunity for PR than a real attempt to attract Westerners.",
+    "\"I do not think that the Kremlin is actually interested in bringing many Westerners to live in Russia, but rather seek opportunities for PR wins,\" he told The Moscow Times.",
+    "The exodus of Russia and the repression Despite the efforts to attract immigrants, Russia is facing a massive exodus of their own citizens and foreigners of 2022.",
+    "The Bell's publication estimates that about 650,000 people have permanently left the country since the beginning of the war.",
+    "Many have invoked the fear of war, mobilization and political repression.",
+    "Foreigners were not immune to Russia's repression during war.",
+    "There were reports about the long border interrogators for the citizens of the countries that the Kremlin considers \"unfriendly\".",
+    "American journalists Evan Gershkovich and Alsu Kurmasheva spent long periods in prison before being released into a major exchange of prisoners with the West in August.",
+    "Despite these cases, Butina insists that those who want to move have no concern: \"If you come here legally, do not break any law, then you will be good, I can guarantee you.\""
+  ],
+  "topics": {
+    "Politics": 0.9219198226928711,
+    "Conflict": 0.7354326248168945,
+    "Culture": 0.6731423735618591,
+    "Economy": 0.6320000886917114,
+    "Military": 0.41056638956069946,
+    "Transport": 0.3970973491668701,
+    "Environment": 0.384994775056839,
+    "Health": 0.3638661503791809,
+    "Energy": 0.36229005455970764,
+    "Education": 0.3598877787590027,
+    "Technology": 0.3475131690502167,
+    "Crime": 0.332497239112854,
+    "Diplomacy": 0.29311081767082214,
+    "Elections": 0.22042258083820343
+  },
+  "sentiment": {
+    "positive": 0.467,
+    "negative": 0.533,
+    "neutral": 0.0
+  }
+}

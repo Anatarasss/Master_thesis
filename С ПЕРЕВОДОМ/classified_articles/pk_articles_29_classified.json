@@ -1,0 +1,41 @@
+{
+  "title": "'Tragic incident': Putin apologises to Aliyev over Azerbaijan plane crash",
+  "published_date": null,
+  "url": "https://www.thenews.com.pk/latest/1266379-tragic-incident-putin-apologises-to-aliyev-over-azerbaijan-plane-crash",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW: Russian President Vladimir Putin apologised to his Azerbaijan's counterpart Ilham Aliyev over the \"tragic\" Azerbaijan Airlines passenger plane crash which occurred in Russia's airspace on Wednesday.",
+    "Putin called Aliyev as speculation grew that Russian air defence may have accidentally shot down the plane, which crashed in western Kazakhstan, killing 38 people while 28 survived.",
+    "Flight J2-8243 crashed in a ball of fire near the city of Aktau in Kazakhstan after diverting from southern Russia where Ukrainian drones were reported to be attacking several cities.",
+    "The Russian leader did not claim responsibility for crash, while apologising to Aliyev that the incident took place in Russian airspace.",
+    "\"(President) Vladimir Putin apologised for the tragic incident that occurred in Russian airspace and once again expressed his deep and sincere condolences to the families of the victims and wished a speedy recovery to the injured,\" the Kremlin said in a statement.",
+    "\"It was noted in the conversation that the Azerbaijani passenger aircraft, which was travelling according to its schedule, repeatedly tried to land at Grozny airport.",
+    "At that time, Grozny, Mozdok and Vladikavkaz were being attacked by Ukrainian unmanned aerial vehicles, and Russian air defense systems repelled these attacks,\" the Kremlin said.",
+    "The Kremlin said the call took place at Putin's request.",
+    "Azerbaijan's president had noted that the plane had been \"subjected to external physical and technical interference in Russian airspace, resulting in a complete loss of control and redirection to the Kazakh city of Aktau,\" according to Azerbaijan's presidential office.",
+    "The Embraer EMBR3.SA passenger jet had flown from Azerbaijan's capital Baku to Grozny, in Russia's southern Chechnya region, before veering off hundreds of miles across the Caspian Sea.",
+    "Statements by Azerbaijani officials suggest Baku believes the plane was hit mid-air, while the US has said it had \"early indications\" Russian air defence may have been responsible for the crash.",
+    "As more people opt for self-generated electricity, challenges rise for power grids with dwindling customer base \"Let the future of publishing begin,\" says Melania after launching AI Audiobook NOAA forecasts 60% chance of above-normal season, with between 13 to 19 named storms with winds of 39 mph \"Harvard University’s Student and Exchange Visitor Programme certification is revoked,\" says statement \"We're waiting to get the registered numbers that were on the plane itself,\" says official CNN reports Israel is making preparation to strike Iranian nuclear sites"
+  ],
+  "topics": {
+    "Conflict": 0.8345787525177002,
+    "Culture": 0.780532717704773,
+    "Technology": 0.7710400223731995,
+    "Energy": 0.7219045758247375,
+    "Environment": 0.7093798518180847,
+    "Economy": 0.5898385643959045,
+    "Diplomacy": 0.5781223773956299,
+    "Military": 0.5563881397247314,
+    "Politics": 0.5527306199073792,
+    "Health": 0.5504063963890076,
+    "Transport": 0.5079227685928345,
+    "Crime": 0.3773916959762573,
+    "Education": 0.35332077741622925,
+    "Elections": 0.33431246876716614
+  },
+  "sentiment": {
+    "positive": 0.083,
+    "negative": 0.917,
+    "neutral": 0.0
+  }
+}

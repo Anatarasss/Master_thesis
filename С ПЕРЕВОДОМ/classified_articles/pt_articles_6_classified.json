@@ -1,0 +1,47 @@
+{
+  "title": "Pedro Sánchez defende exclusão de Israel da Eurovisão e de outras competições internacionais",
+  "published_date": null,
+  "url": "https://sicnoticias.pt/mundo/2025-05-19-video-pedro-sanchez-defende-exclusao-de-israel-da-eurovisao-e-de-outras-competicoes-internacionais-1d35d703",
+  "original_language": "pt",
+  "cleaned_sentences": [
+    "Spain Prime Minister Pedro Sánchez defended Israel's exclusion from the Eurovision Song and other international competitions on Monday, as happened with Russia after the Ukraine invasion in 2022.",
+    "\"We cannot allow doubles 'standards',\" said Sánchez, in a speech at a Madrid event in which he stressed that \"no one drove to head\" when Russia was excluded from international sports competitions or initiatives such as Eurovision.",
+    "\"It shouldn't be Israel either.",
+    "We can't allow doubles 'standards', including in culture,\" said Sánchez, before sending \"a solidarity hug to the Ukrainian and Palestine people who are living the irrationality of war and bombing.\"",
+    "Sánchez considered that \"those who argue that the cultural sector must be equidistant\" and stated that \"culture is the most authentic and free way\" of expressing ideas and values.",
+    "\"Those who use culture are right to defend values ​​that are being questioned,\" such as democracy, equality, environmental defense, or end of war, \"whether in Ukraine or Gaza,\" said the Spain government leader.",
+    "Sánchez has been from the international leaders who have most publicly criticized Israel because of the war in Gaza, triggered in October 2023, in response to an attack by the Palestinian Islamite group Hamas, which has controlled the enclave since 2007.",
+    "Israel receives maximum score of the televote in Spain In the 2025 Eurovision, which took place on Saturday in Basel, Switzerland, Austria won and Israel was in second place, having received the maximum score of the televote in Spain.",
+    "The Israeli Minister of Diaspora and the fight against anti -Semitism, Amichai Chikli, considered on Sunday that the score of the Spanish television collected by the song of Israel was a \"slap\" in the face of Pedro Sánchez.",
+    "This year's edition of Eurovision extended the 2024 controversy regarding Israel's participation in full offensive in the Gaza Strip, which has already made more than 53,000 dead, according to data provided by local authorities and considered credible by the United Nations.",
+    "The boos returned to Eurovision on Saturday, in the 69th edition, during the performance of Israeli representative, Yuval Rafael, although not as loudly as in 2024.",
+    "Pressure on RTVE and the reaction to popular vote The president of RTVE, the public television of Spain and Eurovision partner, asked on Saturday, before the start of this year's edition of the festival, \"Peace and Justice for Palestine\", saying that \"silence is not an option\".",
+    "The European Broadcasting Union (UER), which organizes the Eurovision Song Festival, warned RTVE that it would be fined case in the transmission of Saturday if the comments on the dead of the Israeli offensive in Gaza were repeated.",
+    "On Thursday, before the performance of Israeli representative, Yuval Raphael, in the second semifinal, Spanish commentators Tony Aguilar and Julia Varela remembered, during the issuance on the LA2 channel, that RTVE formally asked for the organization of the festival to open a debate about the continuity of the country in the contest, in the midst of the Israeli offensive in the Palestinian enclave.",
+    "In addition, they cited the \"more than 50,000\" Palestinian deaths - there are more than 53,000 - that the current offensive caused since the beginning, in October 2023, including more than 15,000 children.",
+    "\"The number of victims does not take place in an apolitical entertainment program, whose motto 'united by the music' embodies our commitment to the unit,\" said a letter to the head of the Spanish delegation, Ana María Bordas, quoted by Spain's media.",
+    "Yuval Raphael is one of the survivors of the Hamas extremist group attack on Israeli soil on 7 October 2023, which caused about 1,200 dead and more than two hundred hostages, and after which the current Israeli military offensive began.",
+    "Sources of Spain's public television, cited by various local media, said today that RTVE will ask for an audit to the results of the television in the country in this year's edition of Eurovision."
+  ],
+  "topics": {
+    "Politics": 0.8369321227073669,
+    "Culture": 0.8135292530059814,
+    "Conflict": 0.8099461197853088,
+    "Environment": 0.797723650932312,
+    "Economy": 0.6507018208503723,
+    "Military": 0.6250356435775757,
+    "Technology": 0.5739319324493408,
+    "Health": 0.5378900766372681,
+    "Energy": 0.5209388732910156,
+    "Diplomacy": 0.5141071677207947,
+    "Elections": 0.4628642797470093,
+    "Transport": 0.40016430616378784,
+    "Education": 0.3923380374908447,
+    "Crime": 0.20869112014770508
+  },
+  "sentiment": {
+    "positive": 0.444,
+    "negative": 0.556,
+    "neutral": 0.0
+  }
+}
