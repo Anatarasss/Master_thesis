@@ -1,0 +1,42 @@
+{
+  "title": "Российским ремонтникам запретили использовать фото героев \"Наша Russia\" на своих сайтах",
+  "published_date": null,
+  "url": "https://klops.ru/other/2025-01-28/313725-rossiyskim-remontnikam-zapretili-ispolzovat-foto-geroev-nasha-russia-na-svoih-saytah",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The Thirteenth Arbitration Court of Appeal in St. Petersburg banned the use of the images of the builders of Ravshan and Jamshut from the series \"Our Russia\" on the website of the construction company \"Alt Repair\" (belongs to Alt Group).",
+    "This is written by Vedomosti on Tuesday, January 28.",
+    "The corresponding decision on the claim of TNT-Telezet JSC (Yurlito TNT) was previously issued by the Arbitration Court of Karelia.",
+    "He determined that the television channel belongs to the exclusive rights to the series “Our Russia”, including the right to use the elements of this project “In the production, advertising and sale of any works, goods and services”.",
+    "TNT did not conclude agreements with Alt Group that would allow her to publish a photo of Ravshan and Jamshut.",
+    "The amount of compensation that should be paid to the channel was halved - from two million rubles to one.",
+    "The decision was made based on the principle of \"proportionality to the consequences of the violation.\"",
+    "In the case there is no evidence of the “high attendance of the Internet site”, added in court.",
+    "Alt Group specializes in cargo transportation in Russia and the CIS and is based in Ulyanovsk.",
+    "The legal entity of the group (LLC \"Absolute Leader of Transport\") was registered in Petrozavodsk (Republic of Karelia).",
+    "Among other activities are the production of furniture for offices and trade enterprises, the construction of residential and non -residential buildings, etc.",
+    "The only owner of Alt Group is Dmitry Chugunov.",
+    "In September 2023, it was reported that the Kaliningraders began to repair housing in stages more often, and not “turnkey”."
+  ],
+  "topics": {
+    "Transport": 0.5913103222846985,
+    "Conflict": 0.2929433584213257,
+    "Economy": 0.1437397450208664,
+    "Technology": 0.11843432486057281,
+    "Culture": 0.08855777233839035,
+    "Military": 0.04061645641922951,
+    "Politics": 0.030854536220431328,
+    "Health": 0.021122386679053307,
+    "Environment": 0.018998416140675545,
+    "Crime": 0.014156313613057137,
+    "Energy": 0.013536591082811356,
+    "Diplomacy": 0.011299747973680496,
+    "Elections": 0.0052248029969632626,
+    "Education": 0.004922646097838879
+  },
+  "sentiment": {
+    "positive": 0.231,
+    "negative": 0.769,
+    "neutral": 0.0
+  }
+}

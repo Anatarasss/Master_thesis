@@ -1,0 +1,36 @@
+{
+  "title": "Euro Truck Simulator 2:s Heart of Russia-DLC kommer inte att släppas i dagsläget",
+  "published_date": null,
+  "url": "https://www.fz.se/nyhet/290260-euro-truck-simulator-2s-heart-of-russia-dlc-kommer-inte-att-slappas-i-dagslaget",
+  "original_language": "sv",
+  "cleaned_sentences": [
+    "SCS Software has for some time worked on a DLC for long -distance Euro Truck Simulator 2 named Heart of Russia, which includes a new region in Russia.",
+    "This DLC is now almost clear, but releasing such an expansion, however, is not as unproblematic as it was just a few months ago, and now SCS Software has written a post in which they say they decided not to release this DLC at present.",
+    "They write that they are trying to avoid politics to the greatest extent possible and that they like to look at the shared love for truck driving as something that brings people together and lets them visit neighboring countries in a peaceful way.",
+    "But since this DLC specifically revolves around Russia, they have decided not to release it now, as it could be seen as support or tolerance for the invasion of Ukraine.",
+    "However, they write that when it comes time for Ukraine to rebuild and heal, they will strive to have the Heart of Russia DLC play a role in that process.",
+    "SCS has previously released another DLC named Ukrainian Paint Jobs, and the revenue from the 85,000 people who bought it has gone to humanitarian aid in Ukraine.",
+    "In addition, the company has made its own donations to charities operating in Ukraine."
+  ],
+  "topics": {
+    "Conflict": 0.8585969805717468,
+    "Politics": 0.5469784140586853,
+    "Culture": 0.5001526474952698,
+    "Technology": 0.45386648178100586,
+    "Transport": 0.41070055961608887,
+    "Diplomacy": 0.3629908561706543,
+    "Crime": 0.3003361225128174,
+    "Military": 0.29356107115745544,
+    "Economy": 0.27488914132118225,
+    "Health": 0.176368847489357,
+    "Environment": 0.12398393452167511,
+    "Energy": 0.06658288836479187,
+    "Education": 0.03707852587103844,
+    "Elections": 0.020414793863892555
+  },
+  "sentiment": {
+    "positive": 0.429,
+    "negative": 0.571,
+    "neutral": 0.0
+  }
+}

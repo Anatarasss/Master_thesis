@@ -1,0 +1,39 @@
+{
+  "title": "Biroul De La Moscova Al Postului Canadian CBC, închis De Ruși. Măsura Fost Luată După Ce Ottawa A Interzis Russia Today",
+  "published_date": null,
+  "url": "https://www.libertatea.ro/stiri/maria-zaharova-biroul-cbc-moscova-inchis-interzicere-russia-today-canada-4135017",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "The decision was made to take \"Retortion measures in relation to Canada's actions\", after Ottawa banned RT RT (Russia Today) television station, Maria Zakharova on Wednesday conference.",
+    "\"With regret, we continue to observe open attacks on the Russian press from the countries of the so-called collective West, which are self-titled,\" said Zaharova.",
+    "In March, Canada forbade television service providers from distributing RT and RT France channels, owned by the Russian state.",
+    "Previously, the United Kingdom also revoked the RT -post broadcasting license, after the channel had already disappeared from the UK screens following a prohibition imposed by the European Union, which affected the satellite companies that provided video flows in the UK.",
+    "The spokesman accused Canada of going on a \"Russian\" path, including by censoring the press.",
+    "On Tuesday, May 17, the Canadian Senate introduced a draft law prohibiting the entry into Canada of Russian President Vladimir Putin and about 1,000 members of the government and army.",
+    "The Kremlin leader signed, in March, a law that imposes a prison sentence of up to 15 years for the intentional spread of \"false news\" about the Russian army, which caused many Western press organizations to withdraw their reporters from Russia.",
+    "Russian officials do not use the word \"invasion\" and say that the Western press describes the excessively partisan war in Ukraine, ignoring Russia's concerns about the expansion of NATO and the supposed persecution of Russian speakers in Donbas, notes Reuters.",
+    "The Russian Foreign Minister Sergei Lavrov has repeatedly criticized the West for what he considers to be an undemocratic repression against the Russian state media organizations, which they say have offered an alternative to Western narratives.",
+    "Photo: Profimedia Images Follows LiveText Freedom with the latest Ukraine War information"
+  ],
+  "topics": {
+    "Conflict": 0.8696891665458679,
+    "Politics": 0.6809757351875305,
+    "Culture": 0.6595309376716614,
+    "Military": 0.5849921107292175,
+    "Economy": 0.4601028561592102,
+    "Technology": 0.4288058280944824,
+    "Transport": 0.40876027941703796,
+    "Health": 0.3377627432346344,
+    "Diplomacy": 0.32743510603904724,
+    "Crime": 0.24530193209648132,
+    "Energy": 0.2438012957572937,
+    "Education": 0.22197821736335754,
+    "Environment": 0.17175744473934174,
+    "Elections": 0.12119419872760773
+  },
+  "sentiment": {
+    "positive": 0.1,
+    "negative": 0.9,
+    "neutral": 0.0
+  }
+}

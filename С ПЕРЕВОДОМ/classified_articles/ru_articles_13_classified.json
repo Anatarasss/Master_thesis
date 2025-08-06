@@ -1,0 +1,37 @@
+{
+  "title": "Экс-руководство WorldSkills обвинили в хищении 130 млн на нацпроекте \"Демография\"",
+  "published_date": null,
+  "url": "https://www.gazeta.ru/social/news/2024/12/15/24628964.shtml",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "Ex-leaders of the “Development Agency of Professions and Skills” (WorldSkills Russia) are accused of embezzlement of over 130 million rubles, which were received from the budget under the Demography national project, said Andrei Kurnenko, head of the Main Department of Economic Security and Corruption of the Ministry of Internal Affairs of Russia.",
+    "His words are given by TASS.",
+    "“The theft of budget funds in the amount of more than 130 million rubles allocated by the autonomous non-profit organization WorldSkills Russia as part of the Demography national project was documented,” said Lieutenant General.",
+    "He added that at present, under the arrest in the case, are the director of the division of the agency of strategic initiatives and administrative director of the ANO WorldSkills Russia.",
+    "In August, the court extended the arrest of the general director of WorldSkills Russia Robert Urazov and the head of the apparatus of the general director Danir Mukhametzyanov.",
+    "They were detained on June 20 on suspicion of fraud on an especially large scale.",
+    "If men are found guilty, they can face up to 10 years in prison.",
+    "Earlier, Khinshtein spoke about theft when strengthening the border in the Kursk region."
+  ],
+  "topics": {
+    "Crime": 0.8427720069885254,
+    "Economy": 0.6439736485481262,
+    "Conflict": 0.5464154481887817,
+    "Military": 0.4129333794116974,
+    "Politics": 0.2817576229572296,
+    "Culture": 0.268514484167099,
+    "Technology": 0.26253610849380493,
+    "Environment": 0.08151336759328842,
+    "Education": 0.07148251682519913,
+    "Energy": 0.06833627820014954,
+    "Diplomacy": 0.06626416742801666,
+    "Transport": 0.05938960239291191,
+    "Health": 0.05768567696213722,
+    "Elections": 0.02070406824350357
+  },
+  "sentiment": {
+    "positive": 0.125,
+    "negative": 0.875,
+    "neutral": 0.0
+  }
+}

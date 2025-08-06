@@ -1,0 +1,44 @@
+{
+  "title": "Россиянам предложили попробовать на вкус известные советские фильмы",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2024/12/05/kinobluda/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "Russian restaurants in five cities of the country invited visitors to try their favorite films to taste.",
+    "This was reported in the press release of the Movix video service and the Association of Chefs Team Russia chefs (is at the disposal of \"Lenta.ru\").",
+    "So, residents and guests of St. Petersburg were offered to try the dish “Hippolytus, you are wrong”, inspired by the legendary Soviet film “The Irony of Fate, or with a slight steam!”.",
+    "This is, as you can guess from the name, a bay fish.",
+    "To create a suitable surroundings, the Russian fishing restaurant invites guests to put on a fur hat and a mossy checkered scarf during a tasting.",
+    "The cook from the Samara restaurant \"North\" decided to offer the Russians a quail with a beetroot bulgrus and urine lingonberry.",
+    "This dish, according to his idea, refers to the phrase “Fedya, game” from the famous comedy Leonid Gaidai “Diamond hand”.",
+    "The chefs from the Nizhny Novgorod restaurant TT BISTRO and the Yekaterinburg steak bar \"Zhadin Ivyadin\" were inspired by French cinema.",
+    "In the capital of sunsets, guests are offered to try a duck breast with a battles in textures, a chestnut sauce and mushrooms, a supplemented emulsion of raspberries and juniper oil.",
+    "The cook explained that this dish is associated with a series of Taxi films and should be associated with a high -tech car where the main character drove.",
+    "And the Ural restaurant decided to surprise visitors with a boleen beef cheek that refers to the film \"1+1\".",
+    "The restaurant “Nash” from Perm the only one chose not a comedy, but a historical and fantastic drama.",
+    "The chef presented a cold snack in the Asian style called “Revelation of the Sonmi 451”, referring to the film “Cloud Atlas”.",
+    "Earlier it was reported that Russians were surprised by breakfast for tens of thousands of rubles in the Beluga Moscow restaurant.",
+    "In the “Breakfast of the Burglak”, which is served in the metropolitan institution for 72 thousand rubles, includes a kilogram of sturgeon caviar, a liter of vodka, potatoes with dill and butter, pickled white mushrooms, small -salted cucumbers, eggs with mayonnaise, as well as rifled loaf, brown bread, canned food, extensions, pancakes and springs."
+  ],
+  "topics": {
+    "Culture": 0.5591402053833008,
+    "Health": 0.25512558221817017,
+    "Economy": 0.2533687949180603,
+    "Environment": 0.2237786054611206,
+    "Conflict": 0.22335436940193176,
+    "Energy": 0.19344575703144073,
+    "Military": 0.18648627400398254,
+    "Politics": 0.17634634673595428,
+    "Crime": 0.13804927468299866,
+    "Technology": 0.12346641719341278,
+    "Transport": 0.12241513282060623,
+    "Education": 0.09478119760751724,
+    "Elections": 0.03885175287723541,
+    "Diplomacy": 0.027191990986466408
+  },
+  "sentiment": {
+    "positive": 0.467,
+    "negative": 0.533,
+    "neutral": 0.0
+  }
+}

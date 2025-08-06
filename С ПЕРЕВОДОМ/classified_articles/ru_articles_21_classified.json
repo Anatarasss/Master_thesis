@@ -1,0 +1,35 @@
+{
+  "title": "Военкор показал усыпанную телами и техникой ВСУ дорогу на Покровск",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2024/11/14/voenkor-pokazal-usypannuyu-telami-i-tehnikoy-vsu-dorogu-na-pokrovsk/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The military correspondent of Russia Today (RT) Murad Gazdiev in the plot for the TV channel showed the road to Pokrovsk strengthened by the bodies and equipment of the Armed Forces of Ukraine (Armed Forces).",
+    "According to him, according to the destroyed technology transmitted by Western partners, Kyiv can be \"literally drawn up a card of the Armed Forces of Ukraine.\"",
+    "He demonstrated the American Bradley BMP, which was severely damaged by the explosion, worth three million dollars, a hundred meters along the road - another burnt armored vehicle.",
+    "The military unit noted that the landscape in the combat zone scorched, there were only single animals, whose owners left their homes.",
+    "Earlier it became known that the Russian military went to the site of the highway leading from Pokrovsk, along which the APU group was supplied in the village of Petrovsky near Selidov.",
+    "The same road is the main one, which leads to Pokrovsk itself, the distance to which in this area does not exceed six kilometers."
+  ],
+  "topics": {
+    "Military": 0.9559925198554993,
+    "Conflict": 0.93825763463974,
+    "Technology": 0.5307870507240295,
+    "Culture": 0.3532389998435974,
+    "Transport": 0.21716929972171783,
+    "Environment": 0.14083372056484222,
+    "Health": 0.12957850098609924,
+    "Crime": 0.10610639303922653,
+    "Politics": 0.05968474969267845,
+    "Economy": 0.04552873969078064,
+    "Energy": 0.03319428861141205,
+    "Elections": 0.01773345097899437,
+    "Diplomacy": 0.0070548290386796,
+    "Education": 0.0068591986782848835
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

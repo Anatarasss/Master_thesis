@@ -1,0 +1,48 @@
+{
+  "title": "Several wounded N. Korean soldiers died after being captured by Ukraine: Zelensky",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/europe/several-wounded-north-korean-soldiers-died-after-being-captured-by-ukraine-says-zelensky",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "KYIV - Ukraine’s President Volodymyr Zelensky said on Dec 27 that “several” wounded North Korean soldiers had died after being captured by his country’s forces, as he accused Russia of throwing them into battle with “minimal protection”.",
+    "Ukraine and its Western allies say North Korea has sent thousands of soldiers to support Russia’s army, in what is seen as a major escalation in the nearly three-year war following Moscow’s 2022 invasion.",
+    "“Today, there were reports about several soldiers from North Korea.",
+    "Our soldiers managed to take them prisoner.",
+    "But they were very seriously wounded and could not be resuscitated,” Mr Zelensky said, in an evening address posted on social media.",
+    "South Korea’s spy agency said earlier on Dec 27 that a North Korean soldier who was captured while fighting in Russia’s war against Ukraine had died of his wounds.",
+    "Mr Zelensky did not specify how many North Koreans had died after being captured by Ukrainian troops.",
+    "Mr Zelensky had earlier said that nearly 3,000 North Korean soldiers had been “killed or wounded” so far as they joined Russia’s forces in combat in its western Kursk border region, where Ukraine mounted a shock incursion in August.",
+    "South Korea’s intelligence service had previously put the number of killed or wounded North Koreans at 1,000, saying the high casualty rate could be down to an unfamiliar battlefield environment and their lack of capability to counter drone attacks.",
+    "The White House on Dec 27 confirmed the South Korean estimates, saying that Pyongyang’s troops were being sent to their deaths in futile attacks by generals who see them as “expendable”.",
+    "“We also have reports of North Korean soldiers taking their own lives rather than surrendering to Ukrainian forces, likely out of fear of reprisal against their families in North Korea in the event that they’re captured,” National Security Council spokesman John Kirby told reporters.",
+    "Putin message to Kim North Korea and Russia have strengthened their military ties since Moscow’s invasion of Ukraine in February 2022.",
+    "A landmark defence agreement between Pyongyang and Moscow signed in June came into force in December, with Russian President Vladimir Putin hailing it as a “breakthrough document”.",
+    "North Korean state media on Dec 27 said Mr Putin sent a New Year’s message to North Korean leader Kim Jong Un, saying: “The bilateral ties between our two countries have been elevated after our talks in June in Pyongyang.” South Korea’s military believes the North is seeking to modernise its conventional warfare capabilities through combat experience gained in the Russia-Ukraine war.",
+    "Nato chief Mark Rutte had also said Moscow was providing support to Pyongyang’s missile and nuclear programmes in exchange for the troops.",
+    "South Korea’s Joint Chiefs of Staff on Dec 23 said Pyongyang is reportedly “preparing for the rotation or additional deployment of soldiers” and supplying “240mm rocket launchers and 170mm self-propelled artillery” to the Russian army.",
+    "Pyongyang’s involvement in Russia’s war against Ukraine had prompted warnings from Seoul.",
+    "South Korea’s President Yoon Suk Yeol, who is currently suspended, had said in November that Seoul was “not ruling out the possibility of providing weapons” to Ukraine, a move which would mark a major shift in a longstanding policy barring the sale of weapons to countries in active conflict.",
+    "AFP Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.9248636960983276,
+    "Politics": 0.9012795686721802,
+    "Military": 0.8827537894248962,
+    "Technology": 0.8697624206542969,
+    "Health": 0.8549476265907288,
+    "Economy": 0.808254063129425,
+    "Culture": 0.7984221577644348,
+    "Transport": 0.790377676486969,
+    "Energy": 0.7539423108100891,
+    "Environment": 0.6336102485656738,
+    "Education": 0.6320294141769409,
+    "Elections": 0.6019747257232666,
+    "Crime": 0.5908463597297668,
+    "Diplomacy": 0.5642451643943787
+  },
+  "sentiment": {
+    "positive": 0.211,
+    "negative": 0.789,
+    "neutral": 0.0
+  }
+}

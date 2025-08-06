@@ -1,0 +1,42 @@
+{
+  "title": "Reacţia Unei Prezentatoare Tv A Postului De Stat Din Rusia, După Victoria Ucrainei La Eurovision: „Ar Fi Nevoie De O Rachetă Satan Peste Torino”",
+  "published_date": null,
+  "url": "https://www.libertatea.ro/stiri/reactia-unei-prezentatoare-tv-a-postului-de-stat-din-rusia-dupa-victoria-ucrainei-la-eurovision-ar-fi-nevoie-de-o-racheta-satan-peste-torino-4130397",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "The Eurovision 2022 edition of Turin was won on Saturday night by Ukraine.",
+    "The country was represented by the Kalush Orchestra with the song \"Stefania\", which became, meanwhile, the anthem of the soldiers defending the country.",
+    "In the end, after receiving the trophy, Oleh Psiuk, the leader of the folk -rap band launched a message to support his country and to save Mariupol and those who are still in the Azovstal Combine.",
+    "Ukraine's success triggered the rage of the Russians.",
+    "\"Bombarded Turin with a Satan missile!",
+    "\", Was the exhortation of the presenter Irina Vitiazeva, who targeted the Olympic Palace in which Eurovision took place.",
+    "On this moved comment, a journalist who monitors Russian state television drew attention.",
+    "Meanwhile in Russia: Warm Wishes Tows #eurovision: - Julia Davis (@juliadavisnews) May 15, 2022 \"Bomb it with a Satan Missile,\" Suggested Russian Journalist Yuliya Vityazeva.",
+    "pic.twitter.com/8mkbl2e6ib Ruser R-36m nuclear missiles are known in NATO terminology as \"Satan\".",
+    "A few days ago, according to Il Quotidiano, Vitiazeva had stated, in his talk show: \"Kiev kills peaceful people in Donbas, 2014.",
+    "Now he asks for more weapons for what?",
+    "Forget about history, that everything started from there.\"",
+    "Follows LiveText Freedom with the latest Ukraine War information Photo: YouTube See also places to visit in Turin - the most beautiful sights!"
+  ],
+  "topics": {
+    "Conflict": 0.9540634155273438,
+    "Politics": 0.9517660737037659,
+    "Military": 0.8423810005187988,
+    "Culture": 0.7917761206626892,
+    "Technology": 0.7264968156814575,
+    "Crime": 0.6576293706893921,
+    "Economy": 0.48647257685661316,
+    "Transport": 0.45259806513786316,
+    "Energy": 0.4388648569583893,
+    "Health": 0.3930496871471405,
+    "Environment": 0.317658394575119,
+    "Education": 0.12727539241313934,
+    "Elections": 0.0779089480638504,
+    "Diplomacy": 0.05716110020875931
+  },
+  "sentiment": {
+    "positive": 0.538,
+    "negative": 0.462,
+    "neutral": 0.0
+  }
+}

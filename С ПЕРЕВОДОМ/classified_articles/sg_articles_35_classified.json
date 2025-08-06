@@ -1,0 +1,40 @@
+{
+  "title": "China urges ‘calm’ after Putin decree on broader use of nuclear weapons",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/europe/china-urges-calm-after-putin-decree-on-broader-use-of-nuclear-weapons",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "BEIJING - China on Nov 20 urged “calm” and “restraint” after Russian President Vladimir Putin issued a nuclear threat, and Ukraine fired longer-range US missiles at Russian territory for the first time.",
+    "Moscow has reacted furiously to a decision by US President Joe Biden to change the country’s policy on Ukraine and allow Kyiv to use US-supplied long-range missiles to strike Russian territory.",
+    "On Nov 19, Mr Putin signed a decree that enables Moscow to use nuclear weapons against non-nuclear states such as Ukraine if they are supported by nuclear powers.",
+    "Following the decree, a senior official told AFP that a strike on Russia’s Bryansk region earlier on Nov 19 “was carried out by ATACMS missiles” – a reference to the US-supplied Army Tactical Missile System.",
+    "On Nov 20, Beijing called for a cooling of tensions.",
+    "When asked about the decree and the strikes inside Russia, Chinese Foreign Ministry spokesman Lin Jian said: “Under the current circumstances, all parties should remain calm and exercise restraint, working together through dialogue and consultation to ease tensions and reduce strategic risks.” He added: “China’s stance of encouraging all parties to de-escalate the situation and commit to a political resolution of the Ukraine crisis remains unchanged.” He also said: “China will continue to play a constructive role in this regard.” The White House, Britain and the European Union condemned Mr Putin’s nuclear decree as “irresponsible”.",
+    "Speaking to journalists after the Group of 20 summit in Rio de Janeiro, French leader Emmanuel Macron said he had asked Chinese President Xi Jinping during a meeting at the G-20 to “use all his influence” with Mr Putin to try to achieve a de-escalation.",
+    "Mr Macron said Russian ally China had “the capacity to negotiate with President Putin so that he halts his attacks” on Ukraine.",
+    "China presents itself as a neutral party in the Ukraine war and says it is not sending lethal assistance to either side, unlike the US and other Western nations.",
+    "But it remains a close political and economic ally of Russia, and Nato members have branded Beijing a “decisive enabler” of the war, which it has never condemned.",
+    "AFP Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Economy": 0.9271107912063599,
+    "Politics": 0.9267888069152832,
+    "Conflict": 0.9115280508995056,
+    "Culture": 0.909072756767273,
+    "Diplomacy": 0.9077624082565308,
+    "Technology": 0.8525195717811584,
+    "Transport": 0.8442487120628357,
+    "Energy": 0.832405149936676,
+    "Elections": 0.8306974172592163,
+    "Military": 0.8137402534484863,
+    "Education": 0.790383517742157,
+    "Health": 0.7823231816291809,
+    "Environment": 0.7779199481010437,
+    "Crime": 0.4338957369327545
+  },
+  "sentiment": {
+    "positive": 0.273,
+    "negative": 0.727,
+    "neutral": 0.0
+  }
+}

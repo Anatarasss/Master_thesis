@@ -1,0 +1,50 @@
+{
+  "title": "Russia advances in Ukraine at fastest monthly pace since start of war, analysts say",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/europe/russia-advances-in-ukraine-at-fast-pace-moving-into-kurakhove-analysts-say",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "KYIV – Russian forces are advancing in Ukraine at the fastest rate since the early days of the 2022 invasion, taking an area half the size of London over the past month, analysts and war bloggers say.",
+    "The war is entering what some Russian and Western officials say could be its most dangerous phase after Moscow’s forces made some of their biggest territorial gains and the US allowed Kyiv to strike back with US missiles.",
+    "“Russia has set new weekly and monthly records for the size of the occupied territory in Ukraine,” independent Russian newsgroup Agentstvo said in a report.",
+    "The Russian army captured almost 235 sq km in Ukraine over the past week, a weekly record for 2024, it said.",
+    "Russian forces had taken 600 sq km in November, it added, citing data from DeepState, a group with close links to the Ukrainian army that studies combat footage and provides front-line maps.",
+    "Russia began advancing faster in eastern Ukraine in July, just as Ukrainian forces carved out a sliver of its western region of Kursk.",
+    "Since then, the Russian advance has accelerated, according to open source maps.",
+    "Russia currently controls 18 per cent of Ukraine, including all of Crimea, just over 80 per cent of Donbas, which comprises Luhansk and Donetsk, and more than 70 per cent of the Zaporizhzhia and Kherson regions, as well just under 3 per cent of the Kharkiv region, according to open source maps.",
+    "Neither side publishes accurate data on their own losses, though Western intelligence estimates the casualties to number hundreds of thousands killed or injured, while swathes of eastern and southern Ukraine have turned into wastelands.",
+    "President Vladimir Putin, who replaced his defence minister in May, has repeatedly said Russian forces are advancing much more effectively.",
+    "The thrust of the advance has been in the Donetsk region, with Russian forces pushing towards the town of Pokrovsk and into the town of Kurakhove.",
+    "Russia has increasingly encircled territory and pummelled Ukrainian forces with artillery and glide bombs, according to Russian analysts.",
+    "The general staff of Ukraine’s armed forces said in its Nov 25 update that 45 battles of varying intensity were raging along the Kurakhove part of the front line that evening.",
+    "If Russia can pierce the Ukrainian defences around Kurakhove, then they will be able to push westwards towards the city of Zaporizhzhia while securing their rear to allow a swing towards Pokrovsk, according to Russian war bloggers.",
+    "The Institute for the Study of War report and pro-Russian military bloggers say Russian troops are in Kurakhove.",
+    "DeepState said on the Telegram messaging app on Nov 25 that the Russian forces were near Kurakhove.",
+    "“Russian forces’ advances in south-eastern Ukraine are largely the result of the discovery and tactical exploitation of vulnerabilities in Ukraine’s lines,” the Washington-based Institute for the Study of War said in a report.",
+    "Ukrainian President Volodymyr Zelensky has repeatedly said that peace cannot be established until all Russian forces are expelled and all territory captured by Moscow, including Crimea, is returned.",
+    "But outnumbered by Russian troops, the Ukrainian military is struggling to recruit soldiers and provide equipment to new units.",
+    "Mr Zelensky has said that he believed Mr Putin’s main objectives were to occupy the entire Donbas, which consists of the Donetsk and Luhansk regions, and oust Ukrainian troops from the Kursk region, parts of which they have controlled since August.",
+    "REUTERS Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.9518194794654846,
+    "Politics": 0.9020145535469055,
+    "Technology": 0.8931951522827148,
+    "Military": 0.8758474588394165,
+    "Economy": 0.7520106434822083,
+    "Energy": 0.7104673981666565,
+    "Transport": 0.7031003832817078,
+    "Health": 0.6928108334541321,
+    "Culture": 0.6758413910865784,
+    "Crime": 0.6556397676467896,
+    "Environment": 0.6440619230270386,
+    "Elections": 0.6243873238563538,
+    "Diplomacy": 0.6014571189880371,
+    "Education": 0.5998814105987549
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

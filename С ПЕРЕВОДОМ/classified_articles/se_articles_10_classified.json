@@ -1,0 +1,42 @@
+{
+  "title": "Kremls lögnare - rysk soft power till total propaganda",
+  "published_date": null,
+  "url": "https://www.etc.se/utrikes/kremls-loegnare-rysk-soft-power-till-total-propaganda",
+  "original_language": "sv",
+  "cleaned_sentences": [
+    "Today's etc Is objective truth?",
+    "Or is truth dependent on context?",
+    "The question is asked as usual during crisis and wartime.",
+    "As in the one we are in right now.",
+    "Today's ETC reporter Adolfo Diaz does a deep dive into Russian information war and in Putin's perhaps foremost media leader: RT, formerly Russia Today.",
+    "Text Do you want to continue?",
+    "Become a subscriber to today's etc!",
+    "If you are already Do you log in here .",
+    "Right now: Try a week at no cost Do as over 24,000 others - register an account on etc.se.",
+    "No binding time - finish whenever you want.",
+    "Popular choice: Read until this summer Want to read until the summer at super price?",
+    "Try 3 months for SEK 99.",
+    "Pay per year You can save up to SEK 1,109 with an annual subscription on today's etc."
+  ],
+  "topics": {
+    "Conflict": 0.8704628348350525,
+    "Economy": 0.7771298885345459,
+    "Culture": 0.6843302845954895,
+    "Technology": 0.5900357365608215,
+    "Environment": 0.5810755491256714,
+    "Energy": 0.4874213933944702,
+    "Military": 0.4865414500236511,
+    "Politics": 0.36191675066947937,
+    "Transport": 0.35198596119880676,
+    "Crime": 0.3461322486400604,
+    "Health": 0.2745256721973419,
+    "Education": 0.2059759795665741,
+    "Diplomacy": 0.043337080627679825,
+    "Elections": 0.03243366256356239
+  },
+  "sentiment": {
+    "positive": 0.385,
+    "negative": 0.615,
+    "neutral": 0.0
+  }
+}

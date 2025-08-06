@@ -1,0 +1,41 @@
+{
+  "title": "Russia escalating ‘at every turn’ in Ukraine, says White House",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/europe/russia-escalating-at-every-turn-in-ukraine-says-white-house",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "WASHINGTON - The White House said Nov 21 that Russia was to blame for escalating “at every turn” in Ukraine, including by bringing in North Korean troops to join its war effort.",
+    "“The escalation at every turn is coming from Russia,” White House spokeswoman Karine Jean-Pierre told reporters, adding that the United States had warned Moscow against involving “another country in another part of the world.” She vowed that the outgoing administration of President Joe Biden would continue to “surge” assistance to Ukraine in his term’s remaining months.",
+    "Russia fired a new medium-range ballistic missile at Ukraine on Nov 21 in what was seen as a response to Mr Biden’s decision to authorise Kyiv to fire US-made long-range missiles into Russia.",
+    "Ms Jean-Pierre declined to comment on the change in stance on ATACMS missiles, which was first reported over the weekend.",
+    "“They (Russia) are the ones escalating.",
+    "We are going to continue to support Ukraine as they push back on that aggression,” she said.",
+    "She added that the United States does not see “any reason” to modify its nuclear posture following President Vladimir Putin’s updates to Russia’s nuclear doctrine, while condemning what she termed “irresponsible” rhetoric from Moscow.",
+    "“We have not seen any reason to adjust our own nuclear posture or doctrine in response to Russia’s statements,” Ms Jean-Pierre said.",
+    "Western intelligence services and Ukraine believe at least 10,000 North Korean troops are being deployed by Russia, with some in the Kursk region, to reinforce Moscow’s forces.",
+    "Ms Jean-Pierre called it evidence of “desperation” from Moscow.",
+    "“They are now seeing high casualties, and so now what they’re doing is turning to DPRK to supply them soldiers,” she said.",
+    "AFP Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.9022309184074402,
+    "Culture": 0.7698123455047607,
+    "Military": 0.7654808759689331,
+    "Politics": 0.7588704824447632,
+    "Technology": 0.7091277241706848,
+    "Economy": 0.694975733757019,
+    "Health": 0.6734315156936646,
+    "Transport": 0.6266248226165771,
+    "Energy": 0.5064855813980103,
+    "Diplomacy": 0.45452621579170227,
+    "Elections": 0.43133434653282166,
+    "Environment": 0.4172888398170471,
+    "Crime": 0.31679317355155945,
+    "Education": 0.304720014333725
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

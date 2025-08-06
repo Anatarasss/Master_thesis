@@ -1,0 +1,38 @@
+{
+  "title": "\"Медиакоролева Путина\": Симоньян попросила \"не кормить ее тщеславие\"",
+  "published_date": null,
+  "url": "https://news.rambler.ru/community/53372293-mediakoroleva-putina-simonyan-poprosila-ne-kormit-ee-tscheslavie/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "\"Mediakoroleva Putin\": Simonyan asked \"not to feed her vanity\" The editor -in -chief of Russia Today Margarita Simonyan said that the Western media “feed her vanity” with their epithets.",
+    "She wrote about this in her Telegram channel.",
+    "Simonyan drew attention to the article by Newsweek under the heading of Putin Mediakoroleva boasts “secret projects” in the United States in a pop -up video.",
+    "” The article is about Simonyan and the “whole empire of secret projects” aimed at the formation of public opinion in the West regarding the Ukrainian crisis.",
+    "Newsweek noted that in July, US authorities warned Americans about the “threat of Russian propaganda” on the eve of the November presidential elections.",
+    "Experts of the Director of National Intelligence Director called Russia \"the main threat of elections.\"",
+    "““ Mediakoroleva Putin ”is strong :) Comrades of the bourgeois, stop feeding my vanity with your fast food.",
+    "It gets fat - then put him on a diet! \"",
+    "- So Simonyan commented on the article (spelling and punctuation of the author are preserved)."
+  ],
+  "topics": {
+    "Conflict": 0.8135971426963806,
+    "Politics": 0.7440498471260071,
+    "Culture": 0.7355059385299683,
+    "Technology": 0.3665813207626343,
+    "Diplomacy": 0.3594646155834198,
+    "Health": 0.2782262861728668,
+    "Economy": 0.2468479722738266,
+    "Elections": 0.23541763424873352,
+    "Military": 0.23166123032569885,
+    "Energy": 0.15731237828731537,
+    "Transport": 0.15521244704723358,
+    "Crime": 0.12613673508167267,
+    "Education": 0.10593070089817047,
+    "Environment": 0.08622907102108002
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Канадскую НПО признали в России нежелательной",
+  "published_date": null,
+  "url": "https://www.gazeta.ru/social/news/2024/12/20/24677954.shtml",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The Prosecutor General’s Office of the Russian Federation introduced the Canadian non -governmental organization of the Canadian Center for Development of democracy in Russia unwanted in the country.",
+    "This was reported by Lenta.ru with reference to the official source in the department.",
+    "It is noted that the Center founded in 2015 in Montreal, according to the prosecutor's office, has close ties with persons and structures recognized in Russia as extremist, and provides support to persons who left Russia and accused Nazi ideology.",
+    "During the audit, it was found that the center of the Center is aimed at undermining the constitutional system of the Russian Federation by calling for violent actions and active lobbying for tightening sanctions against Russia in the international arena.",
+    "In addition, the management of the organization publicly supports the Ukrainian authorities and prevents the conduct of events on the territory of Canada dedicated to the memory of the victims of the Great Patriotic War, such as the Immortal Regiment campaign.",
+    "Also today, the American The Satanic Temple (“Satan Temple”) has been included in the list of non -governmental organizations undesirable in Russia.",
+    "Earlier, the Ministry of Justice of Russia introduced the American, Canadian and Finnish NGOs on the list of undesirable."
+  ],
+  "topics": {
+    "Conflict": 0.7562151551246643,
+    "Politics": 0.5458528995513916,
+    "Crime": 0.27258315682411194,
+    "Military": 0.25581690669059753,
+    "Culture": 0.22933949530124664,
+    "Economy": 0.13669666647911072,
+    "Elections": 0.06768228858709335,
+    "Transport": 0.0651467815041542,
+    "Technology": 0.06376266479492188,
+    "Diplomacy": 0.050625551491975784,
+    "Energy": 0.02140689082443714,
+    "Environment": 0.011442250572144985,
+    "Health": 0.010516929440200329,
+    "Education": 0.004160034935921431
+  },
+  "sentiment": {
+    "positive": 0.143,
+    "negative": 0.857,
+    "neutral": 0.0
+  }
+}

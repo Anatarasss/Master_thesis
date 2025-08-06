@@ -1,0 +1,37 @@
+{
+  "title": "RT: контрактник расстрелял сослуживцев под Белгородом и сбежал из части",
+  "published_date": null,
+  "url": "https://www.mk.ru/incident/2024/07/12/rt-kontraktnik-rasstrelyal-sosluzhivcev-pod-belgorodom-i-sbezhal-iz-chasti.html",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The Russia Today channel, citing a source, announced an incident in the Belgorod region.",
+    "There, the contractor opened fire on his colleagues and escaped from the military unit.",
+    "The report said that there are wounded as a result of shooting.",
+    "The area “Interception” has been announced in the area to detain the suspect.",
+    "He is charged with articles about desertion and attempted murder.",
+    "Local publics also publish the orientation on a certain Alexei Zhuravlev born in 1995.",
+    "According to preliminary data, the shooting occurred due to a conflict on household grounds.",
+    "Gennady Bondarev, the head of the Grevoronsky district, told RT that as a result of the shooting of the dead and wounded among the civilians, there were no firing in the military unit."
+  ],
+  "topics": {
+    "Conflict": 0.7411357760429382,
+    "Crime": 0.3468477129936218,
+    "Culture": 0.32756683230400085,
+    "Military": 0.30036187171936035,
+    "Technology": 0.17891082167625427,
+    "Economy": 0.14634570479393005,
+    "Health": 0.1445586085319519,
+    "Politics": 0.1372344195842743,
+    "Energy": 0.08273522555828094,
+    "Transport": 0.03811848163604736,
+    "Environment": 0.034376878291368484,
+    "Education": 0.02072826959192753,
+    "Diplomacy": 0.01454637199640274,
+    "Elections": 0.011733999475836754
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "‘We walked into hell’: Tricked into Russia’s Ukraine war, Indians who escaped live with trauma",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/we-walked-into-hell-tricked-into-russias-ukraine-war-indians-who-escaped-live-with-trauma",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "BENGALURU – The horrors of a war he did not choose and the deaths he saw up close have broken Mr Jain T.K, an Indian citizen who once believed that his fortune lay beyond his country’s shores.",
+    "“I want to return home somehow.",
+    "It’s been too long,” the 27-year-old told The Straits Times in a video call on Jan 29, before shutting his eyes in pain as he lay half-paralysed on a hospital bed in Moscow.",
+    "Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.9506059885025024,
+    "Culture": 0.9447025060653687,
+    "Health": 0.8242663741111755,
+    "Crime": 0.7243012189865112,
+    "Politics": 0.6953678131103516,
+    "Technology": 0.6818577647209167,
+    "Military": 0.620885968208313,
+    "Economy": 0.6066283583641052,
+    "Transport": 0.5898495316505432,
+    "Energy": 0.4619002342224121,
+    "Elections": 0.3289887011051178,
+    "Environment": 0.3119570314884186,
+    "Education": 0.1948491632938385,
+    "Diplomacy": 0.16686977446079254
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

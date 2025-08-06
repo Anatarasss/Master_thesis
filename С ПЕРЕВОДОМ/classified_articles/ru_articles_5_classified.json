@@ -1,0 +1,36 @@
+{
+  "title": "Сотрудник съемочной группы российского телеканала попал под израильский обстрел в Ливане",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2025/01/26/sotrudnik-s-emochnoy-gruppy-rossiyskogo-telekanala-popal-pod-izrailskiy-obstrel-v-livane/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "In Lebanon, an employee of the crew of the Russian television channel Russia Today (RT) fell under fire on the territory of Lebanon.",
+    "About Sunday, January 26, in its Telegram channel reports RT.",
+    "According to the publication, a team of journalists shot a report on the return of residents to the city of Marun-Er-Rizes after the establishment of the ceasefire regime.",
+    "As a result of the Israeli shelling, an RT employee was injured in the stomach and an easy injury to the head.",
+    "The man was taken to the nearest hospital.",
+    "On November 27, 2024, the Sputnik correspondent in Lebanon Abdelcader Al-Bai was injured by the legs when shelling from the Israeli army.",
+    "This happened while working on the plot on the withdrawal of Israeli troops from the south of Lebanon."
+  ],
+  "topics": {
+    "Conflict": 0.6629515886306763,
+    "Crime": 0.12229341268539429,
+    "Culture": 0.09995842725038528,
+    "Technology": 0.07313630729913712,
+    "Health": 0.050031282007694244,
+    "Military": 0.04653923586010933,
+    "Politics": 0.035249728709459305,
+    "Transport": 0.015500063076615334,
+    "Economy": 0.014355207793414593,
+    "Diplomacy": 0.0077606248669326305,
+    "Environment": 0.005761026404798031,
+    "Energy": 0.003665358992293477,
+    "Education": 0.0031135089229792356,
+    "Elections": 0.0021362989209592342
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

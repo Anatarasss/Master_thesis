@@ -1,0 +1,45 @@
+{
+  "title": "North Korean soldiers believed they were sent to Russia for training, not war: South Korea",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/north-korean-soldiers-believed-they-were-sent-to-russia-for-training-not-war-south-korea",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "SEOUL – Two North Korean soldiers deployed in the Ukraine-Russia war claimed they believed they were participating in a military exercise, not a war, South Korea’s National Intelligence Service (NIS) reported on Jan 12.",
+    "According to the NIS, the North Korean soldiers were captured by Ukrainian military forces in the Kursk region of western Russia on Jan 9 and are currently in the custody of the Ukrainian government.",
+    "The NIS stated that one of the detainees testified that they arrived in Russia in November 2024 and underwent a week of military training under the Russian military authorities, before being sent to the battlefield.",
+    "The detainee added that he had believed he would be participating in a military exercise and realised it was actually war only upon his arrival in Russia.",
+    "According to the detainee, the North Korean troops deployed to support Russia suffered significant losses in combat.",
+    "The two captured soldiers, identified as a rifleman and a sniper, aged 20 and 26 respectively, have been transported to Kyiv for further investigation and medical treatment.",
+    "Despite sustaining injuries, including wounds to the jaw, a fractured leg and a bandaged right hand, their conditions are not life-threatening.",
+    "As the prisoners do not speak Ukrainian, English or Russian, communication with them is “carried out through interpreters of Korean, in cooperation with South Korean NIS”, according to the Ukrainian intelligence service.",
+    "The NIS stated in a text message to the press in Korea that it will continue to cooperate closely with the Ukrainian authorities, including sharing information regarding the North Korean detainees.",
+    "Ukrainian President Volodymyr Zelensky also confirmed the soldiers’ capture in a statement shared on Jan 11 in English, Ukrainian and Korean on social platform X. Mr Zelensky, in particular, referred to the North Korean detainees as “prisoners of war” in the statement, suggesting that Ukraine may seek to leverage them in a potential prisoner exchange with Russia.",
+    "The statement marks the first time the Ukrainian authorities have officially announced the capture and identification of North Korean soldiers deployed to support Russia in the war.",
+    "Previously, Ukrainian media reported one North Korean soldier had been captured in the same Kursk region by Ukrainian military forces in December 2024.",
+    "The soldier was later confirmed by the NIS to have died from severe injuries.",
+    "According to local reports, North Korea has sent over 11,000 troops to support Moscow in its war against Ukraine since November 2024.",
+    "The soldiers are reportedly stationed primarily in Kursk, a region recently recaptured by Ukraine, and have been actively engaged on the front lines.",
+    "THE KOREA HERALD/ASIA NEWS NETWORK Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.9349831342697144,
+    "Culture": 0.906667172908783,
+    "Technology": 0.8635918498039246,
+    "Politics": 0.852614164352417,
+    "Health": 0.8513954877853394,
+    "Crime": 0.8475896120071411,
+    "Transport": 0.8450912833213806,
+    "Military": 0.8250747323036194,
+    "Economy": 0.8191686272621155,
+    "Energy": 0.8173742890357971,
+    "Environment": 0.7510469555854797,
+    "Education": 0.6856836080551147,
+    "Elections": 0.6612333059310913,
+    "Diplomacy": 0.5732629895210266
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Rapport: Över 10 000 ryssar har dött i Ukraina",
+  "published_date": null,
+  "url": "https://www.dn.se/varlden/rapport-over-10-000-ryssar-har-dott-i-ukraina/",
+  "original_language": "sv",
+  "cleaned_sentences": [
+    "The identity of more than 10,000 Russians has been confirmed by BBC Russia through open sources.",
+    "Several of them come from Russia's poor parts and have probably been part of the military for a long time, believes military expert Joakim Paasikivi.",
+    "Read free until September 1st.",
+    "Read DN for SEK 0 until September 1st.",
+    "Then for half the price for six months, only SEK 59/month.",
+    "You will have access to all articles on DN.se and in the DN app.",
+    "This is included in DN simple - All articles on DN.se and in the DN app Majer offer!",
+    "Read free until September 1st.",
+    "Your offer DN simple Read DN for SEK 0 until September 1st.",
+    "Then for half the price for six months, only SEK 59/month.",
+    "You will have access to all articles on DN.se and in the DN app.",
+    "- All articles on DN.se and in the DN app"
+  ],
+  "topics": {
+    "Culture": 0.9020220637321472,
+    "Military": 0.899456262588501,
+    "Conflict": 0.895463228225708,
+    "Economy": 0.8366260528564453,
+    "Environment": 0.7637629508972168,
+    "Technology": 0.7517815828323364,
+    "Crime": 0.694808304309845,
+    "Transport": 0.675145149230957,
+    "Energy": 0.6746649146080017,
+    "Diplomacy": 0.6684685349464417,
+    "Health": 0.6391375660896301,
+    "Education": 0.5988140106201172,
+    "Politics": 0.5858840942382812,
+    "Elections": 0.5136579871177673
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Военный эксперт высказался об ответе России на действия Финляндии в НАТО",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2024/04/03/voennyy-ekspert-vyskazalsya-ob-otvete-rossii-na-deystviya-finlyandii-v-nato/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The militarization of Finland was not a surprise to Russia, Moscow was preparing for this.",
+    "The military observer and founder of the Military Russia Russia website Dmitry Kornev spoke out about the actions of Helsinki in NATO and the response of Moscow in a conversation with RIA Novosti.",
+    "According to him, Russia took measures to stop the threat.",
+    "Here you can include the creation of two new military districts and the formation of a number of new units in this section of the border.",
+    "“Of course, the entry of Finland into NATO affects the position of the Northern Fleet, which has always been a bearer of a significant part of our missile potential.",
+    "But we are observing the redistribution towards the Pacific, ”said a military expert.",
+    "He noticed that the fleet is adopted by the nuclear submarines-rake-bearers \"Borea-A\".",
+    "Kornev also added that there is a tendency to strengthen defense on the northwest flank.",
+    "Earlier, retired colonel, military expert Anatoly Matviychuk said that Finland had a very small combat potential compared to Russia even after the country's entry into the North Atlantic Alliance.",
+    "“She cannot withstand any possible our armed associations and formations on the border with Finland,” Matviychuk said.",
+    "As Mikhail Ulyanov, a regular representative of Russia at international organizations in Vienna, Finland did not benefit from joining NATO, the country was in a difficult situation."
+  ],
+  "topics": {
+    "Conflict": 0.8691858649253845,
+    "Military": 0.8331664204597473,
+    "Politics": 0.5799245834350586,
+    "Technology": 0.3185373544692993,
+    "Economy": 0.2522788643836975,
+    "Culture": 0.22137896716594696,
+    "Health": 0.13069304823875427,
+    "Environment": 0.10335952788591385,
+    "Crime": 0.09027085453271866,
+    "Energy": 0.07660353928804398,
+    "Transport": 0.0666244849562645,
+    "Elections": 0.045118771493434906,
+    "Diplomacy": 0.026080923154950142,
+    "Education": 0.015322486869990826
+  },
+  "sentiment": {
+    "positive": 0.455,
+    "negative": 0.545,
+    "neutral": 0.0
+  }
+}

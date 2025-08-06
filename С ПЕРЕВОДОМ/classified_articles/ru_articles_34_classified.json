@@ -1,0 +1,40 @@
+{
+  "title": "США ввели санкции против RT и Маргариты Симоньян",
+  "published_date": null,
+  "url": "https://www.kommersant.ru/doc/6935405",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The United States imposed sanctions against RT and Margarita Simonyan The US Department of Foreign Assets (OFAC) entered the sanctions list of Russia Today, its editor -in -chief Margarita Simonyan and several employees.",
+    "The US Ministry of Finance believes that the channel is involved in the information campaign to interfere with the American presidential election.",
+    "Margarita Simonyan reacted to the decision of the US Ministry of Finance with the words: “Ty, woke up!”.",
+    "Margarita Simonyan Photo: Gleb Shchelkunov, Kommersant The sanctions were introduced against two deputy Margarita Simonyan - Elizabeth Brodskaya and Anton Anisimov, deputy head of the information broadcasting service Andrei Kiyashko, the manager of digital media projects Konstantin Kalashnikov, an employee of the digital media projects of Elena Afanasyeva.",
+    "Since the beginning of 2024, the OFAC press release said, RT’s leadership \"tried to recruit anything unusual in American influential people.\"",
+    "Restrictive measures are also introduced against the ANO “Dialog” and its general director Vladimir Tabak.",
+    "The organization is engaged in digital projects in the field of public communications.",
+    "The US Department of Finance explained the sanctions with the involvement of ANO “Dialog” in the spread of false information aimed at discrediting public individuals from the United States and European countries.",
+    "The OFAC press release says that sanctions are complemented by restrictions imposed against Russia today, RIA Novosti, RT, Sputnik and Ruptly.",
+    "Today, September 4, the State Department announced the introduction of these media on the list of “foreign representative offices”.",
+    "Now they will be obliged to notify the State Department of all employees working in the United States and disclose real estate ownership in the country."
+  ],
+  "topics": {
+    "Conflict": 0.8440090417861938,
+    "Elections": 0.6409573554992676,
+    "Politics": 0.6057940721511841,
+    "Culture": 0.42554834485054016,
+    "Economy": 0.3401804566383362,
+    "Technology": 0.3185698986053467,
+    "Diplomacy": 0.259765088558197,
+    "Crime": 0.2345675826072693,
+    "Military": 0.22144298255443573,
+    "Health": 0.1886766105890274,
+    "Transport": 0.10124549269676208,
+    "Energy": 0.09914117306470871,
+    "Education": 0.09424713253974915,
+    "Environment": 0.08789896219968796
+  },
+  "sentiment": {
+    "positive": 0.273,
+    "negative": 0.727,
+    "neutral": 0.0
+  }
+}

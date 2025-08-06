@@ -1,0 +1,43 @@
+{
+  "title": "Russia claims new villages in eastern Ukraine",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/europe/russia-claims-new-villages-in-eastern-ukraine",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW - Russia on Jan 12 claimed the capture of two villages in eastern Ukraine where its forces have been steadily advancing for months.",
+    "The Defence Ministry said the southern group of forces had captured the village of Yantarne in the eastern Donetsk region, around 10km south-west of Kurakhove, a key logistics hub that Moscow claimed to have seized last week.",
+    "On Jan 11, Russia’s army said it had also taken new territory north-west of Kurakhove.",
+    "The Defence Ministry said on Jan 12 that Russian troops had also captured the village of Kalynove in the north-eastern Kharkiv region.",
+    "The village is on the western bank of the Oskil River, which for a long time formed the front line between the two armies in the region.",
+    "But a Ukrainian official said on Jan 9 that Russian forces had managed to establish a bridgehead on the western bank after crossing the river.",
+    "Russia’s army has spent months making attempts to cross the river, which also cuts through Kupiansk, a city recaptured by Ukraine in its 2022 counter-offensive.",
+    "The Ukrainian Air Force, for its part, said it had shot down 60 Russian drones overnight from Jan 11 to 12.",
+    "Falling drone fragments damaged houses in the Kharkiv, Sumy and Poltava regions, but no one was hurt.",
+    "In the southern Kherson region, three people were injured by drones on Jan 12, the regional authorities said.",
+    "In the Russian-controlled section of the Kherson region, a Ukrainian drone attacked a car, killing a 76-year-old woman outside her house, Russian-installed Governor Vladimir Saldo said on Telegram.",
+    "In the Russian city of Engels on the Volga River, a fire caused by a Ukrainian drone strike on Jan 8 on an oil depot continued to burn out, Saratov Governor Roman Busargin said on Telegram.",
+    "Firefighters are working “24 hours a day” to extinguish the fire, Mr Busargin said, and the “amount of smoke and the total area of the fire is decreasing”.",
+    "AFP Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.7584481835365295,
+    "Technology": 0.5423685908317566,
+    "Politics": 0.5276718735694885,
+    "Military": 0.45814329385757446,
+    "Transport": 0.37313032150268555,
+    "Culture": 0.33462053537368774,
+    "Health": 0.32483458518981934,
+    "Economy": 0.3073955476284027,
+    "Energy": 0.2923493981361389,
+    "Crime": 0.23189857602119446,
+    "Environment": 0.18137267231941223,
+    "Diplomacy": 0.16547791659832,
+    "Education": 0.15488314628601074,
+    "Elections": 0.10127384960651398
+  },
+  "sentiment": {
+    "positive": 0.357,
+    "negative": 0.643,
+    "neutral": 0.0
+  }
+}

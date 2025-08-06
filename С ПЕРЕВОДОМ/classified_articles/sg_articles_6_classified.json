@@ -1,0 +1,44 @@
+{
+  "title": "US, South Korea drills to reflect North Korea-Russia threat",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/asia/east-asia/us-south-korea-drills-to-reflect-north-korea-russia-threat",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "SEOUL – Upcoming joint drills by US and South Korean forces will factor in North Korea’s deepening military ties with Russia, according to a statement from Seoul, underscoring growing concerns about that alliance as tensions rise globally.",
+    "The Exercise Freedom Shield 25 combined drills will run from March 10 to March 20, with joint field training that will involve various units, from land to cyberspace, said South Korea’s Defence Ministry in a statement.",
+    "The drills will help reinforce confidence that the US-South Korea alliance remains firm despite a leadership crisis in Seoul after President Yoon Suk Yeol was impeached for his brief attempt to impose martial law in December 2024.",
+    "The joint drills will be the first since US President Donald Trump returned to the White House in January, and they come at a time when North Korea has threatened to beef up its nuclear deterrence against what it labels provocations by Washington and Seoul.",
+    "“By reflecting realistic threats, lessons learnt from recent armed conflicts, and evolving challenges, including the Democratic People’s Republic of Korea’s military strategy, tactics and capabilities, as well as its growing partnership with Russia, the ROK-US alliance will further strengthen its readiness, capability and combined defence posture,” the statement added, referring to the South’s official name, Republic of Korea.",
+    "In recent months, North Korea has supplied artillery shells and sent troops to Russia to take part in the war in Ukraine, triggering condemnation from South Korea and the US.",
+    "The statement from South Korea did not say how exactly the Pyongyang-Moscow ties will be incorporated into the drills with the US.",
+    "South Korea relies on security guarantees from the US to deter North Korean aggression, providing sites that host about 28,500 American troops.",
+    "Earlier in March, a nuclear-powered US aircraft carrier docked at a South Korean port, prompting the sister of North Korean leader Kim Jong Un to denounce the deployment of strategic assets in the region.",
+    "In her statement on March 4, Ms Kim Yo Jong did not say whether she meant Pyongyang would conduct more nuclear or missile tests in response to what she characterised as US hostility.",
+    "The US and South Korea say their exercises are intended to enhance combat readiness and capabilities, and are not aimed at toppling the regime in Pyongyang.",
+    "North Korea’s last nuclear test took place in 2017, but it routinely conducts missile launches.",
+    "During his first term, Mr Trump announced the suspension or scaling down of some major US-South Korea military drills, making the decision after his 2018 Singapore Summit with Mr Kim.",
+    "The two met again in Vietnam in 2019 without reaching a deal to disarm North Korea of its nuclear arms.",
+    "BLOOMBERG Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.9651919007301331,
+    "Politics": 0.963333010673523,
+    "Culture": 0.9521075487136841,
+    "Technology": 0.933588981628418,
+    "Economy": 0.9286206960678101,
+    "Military": 0.9218774437904358,
+    "Energy": 0.9186555743217468,
+    "Transport": 0.9159843921661377,
+    "Health": 0.9065927267074585,
+    "Environment": 0.8782594203948975,
+    "Crime": 0.8423553705215454,
+    "Elections": 0.800751805305481,
+    "Education": 0.7939464449882507,
+    "Diplomacy": 0.5344396829605103
+  },
+  "sentiment": {
+    "positive": 0.467,
+    "negative": 0.533,
+    "neutral": 0.0
+  }
+}

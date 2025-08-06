@@ -1,0 +1,40 @@
+{
+  "title": "Красовского заочно приговорили к тюрьме на Украине за слова о детях",
+  "published_date": null,
+  "url": "https://www.gazeta.ru/social/news/2024/08/13/23678665.shtml",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The court in Ukraine in absentia sentenced the former broadcasting director of the Russian -speaking channel Russia Today (RT) Anton Krasovsky by five years in prison for his words about children.",
+    "This was reported in the press service of the office of the Ukrainian Prosecutor General.",
+    "“The prosecutors proved that in 2022, convicted in one of the air of his author’s program, publicly called for heating and burning Ukrainian children.",
+    "This plot was included in Russia Today, ”the report said.",
+    "As specified in the Prosecutor General, Krasovsky was found guilty under an article on public calls for genocide.",
+    "In February 2023, the Ukrainian court had already sentenced the journalist by five years in prison.",
+    "According to the aggregate of sentences, he was now imposed a final punishment of imprisonment for five years with confiscation of property.",
+    "The phrase of Krasovsky about Ukrainian children sounded on October 23, 2022 during his conversation with writer Sergei Lukyanenko.",
+    "The writer said that in childhood in Ukraine, children told him that \"Ukraine is occupied by the Muscovites.\"",
+    "In response to this, the ex-director called for the drowning such children, \"to score them in a hut and burn.\"",
+    "Earlier, Krasovsky commented on rumors about the connection with the deceased actor of the Black Theater Theater."
+  ],
+  "topics": {
+    "Crime": 0.9215341210365295,
+    "Conflict": 0.8688210844993591,
+    "Politics": 0.7450337409973145,
+    "Culture": 0.7432827949523926,
+    "Technology": 0.48771148920059204,
+    "Economy": 0.4683203101158142,
+    "Health": 0.43627050518989563,
+    "Military": 0.40171703696250916,
+    "Environment": 0.3372482359409332,
+    "Energy": 0.25661709904670715,
+    "Transport": 0.25244140625,
+    "Elections": 0.2416328638792038,
+    "Education": 0.13942594826221466,
+    "Diplomacy": 0.12227030843496323
+  },
+  "sentiment": {
+    "positive": 0.182,
+    "negative": 0.818,
+    "neutral": 0.0
+  }
+}

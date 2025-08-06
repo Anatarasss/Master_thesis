@@ -1,0 +1,35 @@
+{
+  "title": "ЕС пытается закрыть торговые каналы с Россией",
+  "published_date": null,
+  "url": "https://www.mk.ru/politics/2024/03/05/es-pytaetsya-zakryt-torgovye-kanaly-s-rossiey.html",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The European Union warned of strict observance of the No Russia rule in trade, which prohibits the re -export of sanctions goods from third countries, writes RIA Novosti.",
+    "The new rule in the 12th package of European restrictive measures has become mandatory and applies to aircraft and spacecraft, military weapons, technological goods and other goods, the agency’s journalists recalled.",
+    "At the same time, experts doubted the effectiveness of monitoring compliance with the relevant rule.",
+    "From the point of view of analysts, difficulties will arise with the implementation of the plan.",
+    "The Russian Federation, apparently, will try to get around the ban using complex supplies using intermediary firms.",
+    "Despite difficulties, economists expressed confidence that the methods of re -export would be found."
+  ],
+  "topics": {
+    "Conflict": 0.8242262005805969,
+    "Culture": 0.6436185240745544,
+    "Economy": 0.6099094152450562,
+    "Technology": 0.603408694267273,
+    "Politics": 0.5987462997436523,
+    "Military": 0.45960989594459534,
+    "Diplomacy": 0.29856929183006287,
+    "Environment": 0.27720481157302856,
+    "Transport": 0.25711706280708313,
+    "Crime": 0.17098228633403778,
+    "Energy": 0.14496994018554688,
+    "Health": 0.11551277339458466,
+    "Elections": 0.08434285968542099,
+    "Education": 0.05089034512639046
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

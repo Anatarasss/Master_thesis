@@ -1,0 +1,45 @@
+{
+  "title": "US warns North Korea becoming better prepared for war, fighting against Ukraine",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/asia/east-asia/us-warns-north-korea-becoming-better-prepared-for-war-fighting-against-ukraine",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "UNITED NATIONS - The US warned on Jan 8 that North Korea is benefiting from its troops fighting alongside Russia against Ukraine, gaining experience that makes Pyongyang “more capable of waging war against its neighbours”.",
+    "Russia has forged closer diplomatic and military ties with North Korea since Moscow invaded Ukraine in February 2022.",
+    "More than 12,000 North Korean troops are in Russia and in December began fighting against Ukrainian forces in Russia’s Kursk region, US Deputy Ambassador to the UN Dorothy Shea told the United Nations Security Council.",
+    "“The DPRK is significantly benefiting from receiving Russian military equipment, technology and experience, rendering it more capable of waging war against its neighbours,” Ms Shea told the council, which met over what Pyongyang said was a test of a new intermediate-range hypersonic ballistic missile on Jan 6.",
+    "“In turn, the DPRK will likely be eager to leverage these improvements to promote weapons sales and military training contracts globally,” she said, using the acronym for North Korea’s formal name – the Democratic People’s Republic of Korea.",
+    "North Korea’s UN Ambassador Kim Song justified the Jan 6 missile test as part of a plan to enhance the country’s defence capabilities.",
+    "He accused the US of double standards.",
+    "“When the civilian death toll exceeded 45,000 in Gaza, the United States embellished Israel’s nefarious mass killing atrocity as the right to self-defence...",
+    "Meanwhile, it takes issue with legitimate exercise of the right to self-defence of the DPRK,” Mr Kim told the Security Council.",
+    "Russia’s UN Ambassador Vassily Nebenzia repeated Moscow’s longstanding accusation that the US, South Korea and Japan provoke North Korea with military exercises.",
+    "He also rejected as “wholly unsubstantiated” a US allegation that Russia intends to share satellite and space technology with Pyongyang.",
+    "\"Such statements are the latest example of baseless conjecture which is geared towards smearing bilateral cooperation between the Russian Federation and the friendly nation of the DPRK,\" said Mr Nebenzia, who also congratulated North Korean leader Kim Jong Un on his birthday on Jan 8.",
+    "South Korea’s UN Ambassador Joonkook Hwang told the council that North Korea’s soldiers were “essentially slaves to Kim Jong Un, brainwashed to sacrifice their lives on faraway battlefields to raise money for his regime and secure advanced military technology from Russia”.",
+    "North Korea has been under UN sanctions since 2006, and the measures have been steadily strengthened over the years with the aim of halting Pyongyang’s development of nuclear weapons and ballistic missiles.",
+    "Russia has veto power on the 15-member body, so any further council action is unlikely.",
+    "REUTERS Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Technology": 0.9751326441764832,
+    "Conflict": 0.9574209451675415,
+    "Military": 0.9290256500244141,
+    "Politics": 0.9193482995033264,
+    "Culture": 0.8776734471321106,
+    "Energy": 0.8341229557991028,
+    "Diplomacy": 0.8178409337997437,
+    "Economy": 0.7736107707023621,
+    "Health": 0.7404385209083557,
+    "Transport": 0.7244564890861511,
+    "Education": 0.7019549012184143,
+    "Elections": 0.6667999625205994,
+    "Environment": 0.5398509502410889,
+    "Crime": 0.4411637485027313
+  },
+  "sentiment": {
+    "positive": 0.312,
+    "negative": 0.688,
+    "neutral": 0.0
+  }
+}

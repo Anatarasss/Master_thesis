@@ -1,0 +1,43 @@
+{
+  "title": "причина, комментарий представителя Токаева: Средняя Азия: Бывший СССР: Lenta.ru",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2024/10/16/prezident-neodnokratno-vyskazyvalsya-v-polzu-oon-kazahstan-reshil-vozderzhatsya-ot-vstupleniya-v-briks/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "Kazakhstan will refuse to submit an application to the BRICS intergovernmental organization (BRICS - reduction from Brazil, Russia, India, China, South Africa) in the foreseeable future.",
+    "This was stated by the press secretary of the President of the Republic Berik Wali.",
+    "“Most likely, in the foreseeable future, Kazakhstan will refrain from filing an application to BRICS, including taking into account the multi -stage process of consideration of membership, as well as other points related to the prospects for the development of this association,” Uali explained.",
+    "At the same time, according to him, Kazakhstan observes with interest the evolution of the organization and supports the calls of the leaders of its founding states to make efforts to build a fair, democratic world order, free from hegemony of any superpowers.",
+    "The President of Kazakhstan spoke in favor of the UN Wali noted that the President of Kazakhstan Kasym-Zhomart Tokaev repeatedly spoke out in favor of the United Nations (UN), in which all relevant international problems can be discussed.",
+    "According to the president, the UN is not free of shortcomings, but such an organization does not exist, and therefore it needs to support the world community At the same time, as the representative of Tokayev said, Kazakhstan has already expressed regret about the inability of the UN Security Council to make important and fateful decisions.",
+    "“Therefore, he considers it necessary to proceed with the UN Security Council on the basis of wide consultations of the UN member states, taking into account the interests and“ middle powers ”,” concluded Wali.",
+    "The State Duma announced the recognition of BRICS in Europe Earlier in October, the State Duma speaker Vyacheslav Volodin said that many European countries see the progress and a guarantee of a multipolar world in Brix.",
+    "“Countries choose the path of equal dialogue and mutually beneficial cooperation in the interests of people, and not for the sake of the United States and their minions,” he wrote in Telegram.",
+    "The State Duma speaker noted that now the organization includes 10 countries and 45 percent of the world population, and more than 30 states show interest in this unification.",
+    "The representative of the Kremlin Dmitry Peskov, in turn, explained the attractiveness of BRICS with democracy.",
+    "“Until now, there were such closed clubs in the West - this is a“ seven, ”which have always been closed even for those countries that gained strength,” he said, clarifying that such countries are primarily China and India.",
+    "Currently, BRICS includes Russia, Brazil, India, China, South Africa, Iran, Egypt, Ethiopia and the UAE.",
+    "On October 22-24, the XVI association summit will be held in Kazan."
+  ],
+  "topics": {
+    "Politics": 0.966792643070221,
+    "Diplomacy": 0.842183530330658,
+    "Conflict": 0.6835926175117493,
+    "Economy": 0.630789041519165,
+    "Culture": 0.6084498167037964,
+    "Environment": 0.5453220009803772,
+    "Energy": 0.4726102352142334,
+    "Elections": 0.46801233291625977,
+    "Transport": 0.4644339978694916,
+    "Military": 0.4378662705421448,
+    "Technology": 0.40395814180374146,
+    "Education": 0.3792326748371124,
+    "Health": 0.3657057285308838,
+    "Crime": 0.130085751414299
+  },
+  "sentiment": {
+    "positive": 0.786,
+    "negative": 0.214,
+    "neutral": 0.0
+  }
+}

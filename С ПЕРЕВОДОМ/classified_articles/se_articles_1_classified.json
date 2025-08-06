@@ -1,0 +1,34 @@
+{
+  "title": "Hos Pussy Riot finns inga gränser mellan konst och liv",
+  "published_date": null,
+  "url": "https://www.sydsvenskan.se/2023-09-20/hos-pussy-riot-finns-inga-granser-mellan-konst-och-liv",
+  "original_language": "sv",
+  "cleaned_sentences": [
+    "Christine Antaya is an art critic on the cultural side.",
+    "Advertisement Advertisement Advertisement Art At Pussy Riot there are no boundaries between art and life Louisiana's exhibition \"Velvet Terrorism.",
+    "Pussy Riot's Russia\" is indispensable, writes Christine Antaya.",
+    "Analysis and values ​​are the writer's own.",
+    "Advertisement Advertisement"
+  ],
+  "topics": {
+    "Culture": 0.9578149914741516,
+    "Conflict": 0.3096809387207031,
+    "Crime": 0.03055392950773239,
+    "Transport": 0.010618045926094055,
+    "Energy": 0.004463898483663797,
+    "Military": 0.004195141140371561,
+    "Environment": 0.003720141714438796,
+    "Diplomacy": 0.003159651067107916,
+    "Health": 0.0026600430719554424,
+    "Technology": 0.0014134750235825777,
+    "Education": 0.001405027462169528,
+    "Elections": 0.0009858821285888553,
+    "Economy": 0.0008355107274837792,
+    "Politics": 0.0008192967507056892
+  },
+  "sentiment": {
+    "positive": 0.6,
+    "negative": 0.4,
+    "neutral": 0.0
+  }
+}

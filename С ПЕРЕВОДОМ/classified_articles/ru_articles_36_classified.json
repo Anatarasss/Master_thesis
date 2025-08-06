@@ -1,0 +1,35 @@
+{
+  "title": "Симоньян прокомментировала введение против нее санкций США",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2024/09/04/simonyan-prokommentirovala-vvedenie-protiv-nee-sanktsiy-ssha/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The editor -in -chief of the Russia Today (RT) TV channel Margarita Simonyan with irony reacted to the introduction of sanctions against it by the US Department of Finance.",
+    "She posted her comment on the Telegram channel.",
+    "Earlier, the US Department of Finance imposed sanctions against ten individuals and two Russian organizations that, according to Washington, tried to influence the outcome of the upcoming presidential election in the United States.",
+    "In addition to Simonyan, the list included her deputy Elizaveta Brodskaya and Anton Anisimov, Deputy Director of the English -language edition of RT Andrei Kiyashko, head of the digital project department Konstantin Kalashnikov.",
+    "Prior to this, the head of RT commented on the detention of the founder of the Telegram messenger Pavel Durov in Paris.",
+    "According to her, the Western screenwriters were “completely lagged”, reminding him of similar accusations against the founder of Wikileaks Julian Assange."
+  ],
+  "topics": {
+    "Conflict": 0.9125238060951233,
+    "Politics": 0.8032294511795044,
+    "Technology": 0.7217544317245483,
+    "Elections": 0.5995327830314636,
+    "Culture": 0.5259862542152405,
+    "Crime": 0.41383257508277893,
+    "Economy": 0.37607765197753906,
+    "Military": 0.3527865707874298,
+    "Diplomacy": 0.3148704171180725,
+    "Transport": 0.15956230461597443,
+    "Health": 0.15498630702495575,
+    "Environment": 0.11628938466310501,
+    "Energy": 0.0928746685385704,
+    "Education": 0.08756186813116074
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

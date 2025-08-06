@@ -1,0 +1,35 @@
+{
+  "title": "Armata Rusa se Confrunta cu Probleme de Personal in Razboiul din Ucraina",
+  "published_date": null,
+  "url": "https://www.idevice.ro/2022/06/13/armata-rusa-confrunta-probleme-personal-razboiul-ucraina-515105/",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "Russia still has big problems in creating battalions prepared by the fight, and this is because she does not have enough people to send them to the war with Ukraine, according to the Institute for Study of the War, experts saying that the country is very based on reservists and recruits who do not have military experience.",
+    "Russia began to face this problem even from the first days of the war, when the first soldiers began to refuse to fight, or to go to Ukraine, either because of the deficient facilities of the army, or because they did not want to be part of a war in which I do not believe, which severely affects the capacity.",
+    "The Russian army is trying to gather soldiers including from the busy areas so far, in which there is a large population, but of course he does not want to fight for the invading army, preferring to do SDE sabotage, or whatever is necessary to help the country's army to fight as efficiently.",
+    "Pro-Russian Sources Reportedly Continue to Spread Disinformation to influence ukrainians, sush as by Falsely Attributing Ukraine's Armed Forces.",
+    "Active Hostilities Reportedly Continue Near Sievietodetsk, as Russian Forces Try to Advance Towards Near izium and Sloviansk.",
+    "- The Kyiv Independent (@kyivindependent) June 13, 2022"
+  ],
+  "topics": {
+    "Conflict": 0.9635921120643616,
+    "Military": 0.8376628160476685,
+    "Culture": 0.6634915471076965,
+    "Politics": 0.5556471347808838,
+    "Environment": 0.4713079035282135,
+    "Technology": 0.4334837794303894,
+    "Economy": 0.40143394470214844,
+    "Energy": 0.3571564853191376,
+    "Transport": 0.34486982226371765,
+    "Health": 0.33334964513778687,
+    "Crime": 0.2671389877796173,
+    "Diplomacy": 0.15888842940330505,
+    "Education": 0.1411355882883072,
+    "Elections": 0.044629327952861786
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

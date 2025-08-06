@@ -1,0 +1,34 @@
+{
+  "title": "Why North Korea struck a good deal in helping Russia with its war in Ukraine",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/opinion/why-north-korea-struck-a-good-deal-in-helping-russia-with-its-war-in-ukraine",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "During the Cold War, the Soviet Union sent thousands of troops and military advisers abroad to fight in foreign wars.",
+    "Today, Russia – the Soviet Union’s successor state – recruits tens of thousands of foreigners to fight in its war in Ukraine.",
+    "Not a week passes by without someone spotting new foreign mercenaries fighting for Russia; the latest to join this dubious company are the Houthi rebels in Yemen, who have apparently been sighted on Ukraine’s battlefields.",
+    "Yet none of these foreign recruits is ever likely to be as significant as the presence of the North Korean soldiers in the Ukraine war.",
+    "Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.948056161403656,
+    "Culture": 0.8842605948448181,
+    "Military": 0.8014257550239563,
+    "Politics": 0.7556707859039307,
+    "Technology": 0.6790843605995178,
+    "Economy": 0.6683070063591003,
+    "Crime": 0.6658269166946411,
+    "Health": 0.4596312344074249,
+    "Transport": 0.3072901964187622,
+    "Energy": 0.2866899371147156,
+    "Elections": 0.27303698658943176,
+    "Environment": 0.26472610235214233,
+    "Education": 0.17513327300548553,
+    "Diplomacy": 0.11715519428253174
+  },
+  "sentiment": {
+    "positive": 0.6,
+    "negative": 0.4,
+    "neutral": 0.0
+  }
+}

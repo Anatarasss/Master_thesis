@@ -1,0 +1,53 @@
+{
+  "title": "Putin vows to further develop ties with Xi just hours after Trump inauguration",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/europe/putin-vows-to-further-develop-ties-with-xi-just-hours-after-trump-inauguration",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW - Russian President Vladimir Putin and Chinese President Xi Jinping discussed on Jan 21 how to build ties with Donald Trump, prospects for a peace deal to end the war in Ukraine and Moscow’s firm support for Beijing’s position on Taiwan.",
+    "Mr Xi and Mr Putin, who spoke for an hour and 35 minutes by video call after Mr Trump was sworn in as US President, proposed a further deepening of the strategic partnership between their countries which worries the West.",
+    "China and Russia declared a “no limits” partnership in February 2022 when Mr Putin visited Beijing, days before he sent tens of thousands of troops into Ukraine.",
+    "Mr Putin has in recent months described China as an “ally”.",
+    "Mr Putin, 72, speaking from his Novo-Ogarevo residency outside Moscow, and Mr Xi, 71, speaking from the Great Hall of the People in Beijing, called each other “dear friends”, and Mr Xi told Mr Putin about a call with Mr Trump on Jan 17 on TikTok, trade and Taiwan.",
+    "Both leaders “have indicated a willingness to build relations with the United States on a mutually beneficial, mutually respectful basis, if the Trump team really shows interest in this,” Kremlin foreign policy aide Yuri Ushakov told reporters in Moscow.",
+    "“It was also noted from our side that we are ready for dialogue with the new US administration on the Ukrainian conflict.” Mr Ushakov said Mr Putin wanted long-term peace in Ukraine, not a short-term ceasefire, but any deal must take into account Russia’s interests.",
+    "No specific proposals for a call with Mr Trump have been received, he said.",
+    "Mr Trump has said he will be tough on China and speak to Mr Putin about ending the war in Ukraine.",
+    "In remarks to reporters after his inauguration, the US President said Mr Putin should make a deal to end the war because the conflict was destroying Russia.",
+    "Russia and China have increasingly found common geopolitical cause.",
+    "Mr Xi has called for talks to end the war in Ukraine and has accused the US of stoking the war with weapons supplies to Kyiv, which also says it is ready to seek a negotiated solution that respects its interests.",
+    "Mr Trump told The Wall Street Journal in October that Mr Xi was “a good poker player” and that he got along “great” with Mr Putin, but that during his first term, he had warned Mr Putin that the US could strike Moscow if Russia went farther in Ukraine.",
+    "Mr Putin and Mr Xi share a broad world view, which portrays the West as decadent and in decline as China challenges US supremacy in many areas.",
+    "“We jointly advocate building a more just multi-polar world order, and we are working in the interests of ensuring indivisible security in the Eurasian space and in the world as a whole,” Mr Putin said.",
+    "Mr Ushakov said the Putin-Xi video call had been planned before Mr Trump’s inauguration.",
+    "The United States casts China as its biggest competitor and Russia as its biggest nation-state threat.",
+    "Former US President Joe Biden has said the world’s democracies face a challenge from “autocracies” such as China and Russia.",
+    "China is the largest consumer of Russian energy, and the biggest single oil export market for Russia, Mr Putin said, adding that they would push ahead with cooperation on cooperating on fast neutron reactors and reprocessing nuclear fuel.",
+    "On Taiwan, Mr Ushakov said Russia had “confirmed its unwavering position of support for the one-China principle”.",
+    "Mr Xi said in a New Year’s speech that no one could stop China’s “reunification” with Taiwan, a clear warning to what Beijing regards as pro-independence forces within and outside of the island of 23 million people.",
+    "China regards democratically governed Taiwan as its own territory.",
+    "Taiwan’s government rejects Beijing’s claims and says only its people can decide their future and Beijing ought to respect the choice of the Taiwanese people.",
+    "REUTERS Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Culture": 0.9924491047859192,
+    "Energy": 0.9894284605979919,
+    "Conflict": 0.9864912033081055,
+    "Technology": 0.9850051403045654,
+    "Politics": 0.9797115325927734,
+    "Diplomacy": 0.9733607172966003,
+    "Transport": 0.9721255898475647,
+    "Economy": 0.9667451977729797,
+    "Education": 0.9666305780410767,
+    "Health": 0.9664543867111206,
+    "Environment": 0.9650627970695496,
+    "Elections": 0.9469097256660461,
+    "Military": 0.8836114406585693,
+    "Crime": 0.8578246831893921
+  },
+  "sentiment": {
+    "positive": 0.708,
+    "negative": 0.292,
+    "neutral": 0.0
+  }
+}

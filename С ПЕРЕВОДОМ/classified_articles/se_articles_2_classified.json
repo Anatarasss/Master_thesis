@@ -1,0 +1,35 @@
+{
+  "title": "Exilryssar misstänkt förgiftade i Tyskland",
+  "published_date": null,
+  "url": "https://www.svd.se/a/4ov73V/tysk-polis-undersoker-misstankt-forgiftning",
+  "original_language": "sv",
+  "cleaned_sentences": [
+    "Tt Published The German police have launched a preliminary investigation into suspected poisoning since two exile cries became ill, reports Die Welt.",
+    "The two women attended a conference with Putin critic Michail Chodorkovsky in Berlin at the end of April.",
+    "One sought help for his problems at the Berlin Hospital Charité.",
+    "One of them is Natalia Arno from the Free Russia Foundation based in the United States.",
+    "On her Facebook page, she testifies to strange symptoms and acute pain.",
+    "Two weeks later she still had numbness, but states that she otherwise feels good."
+  ],
+  "topics": {
+    "Conflict": 0.7207752466201782,
+    "Health": 0.685960590839386,
+    "Culture": 0.680189311504364,
+    "Technology": 0.5654131174087524,
+    "Politics": 0.4411638379096985,
+    "Economy": 0.3920305371284485,
+    "Crime": 0.30101123452186584,
+    "Energy": 0.24878868460655212,
+    "Transport": 0.21788287162780762,
+    "Environment": 0.1861482858657837,
+    "Education": 0.1355099380016327,
+    "Military": 0.11902744323015213,
+    "Diplomacy": 0.07674559950828552,
+    "Elections": 0.06650079041719437
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

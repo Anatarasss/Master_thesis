@@ -1,0 +1,40 @@
+{
+  "title": "Экс-руководство WorldSkills обвиняют в хищении более 130 млн рублей",
+  "published_date": null,
+  "url": "https://www.kommersant.ru/doc/7380782",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "Former-doming WorldSkills accuse more than 130 million rubles of embezzlement The former leadership of WorldSkills Russia is accused of embezzlement of more than 130 million rubles.",
+    "budget funds allocated for the national project \"Demography\".",
+    "This was announced by the head of the Main Directorate of Economic Security and Anti-Corruption (GUEBIPK), Lieutenant General of the Police Andrei Kurnosenko.",
+    "According to him, which TASS gives, the crime was committed in May 2024.",
+    "The defendants in the case were the administrative director of the ANO WorldSkills Russia and the director of the ANO division “Agency for strategic initiatives to promote new projects”, Mr. Kurnosenko said.",
+    "Robert Urazov, on charges of fraud on an especially large scale (part 4 of article 159 of the Criminal Code of the Russian Federation), became known in June about the arrest of WorldSkills Russia CEO.",
+    "Together with him, the head of the apparatus of the general director of the organization Danir Mukhametzyanov was arrested.",
+    "According to investigators, the defendants submitted false information about the concluded urgent contracts for the purpose of enrichment.",
+    "In August, the court extended the arrest of both defendants.",
+    "WorldSkills is international competitions in professional skill.",
+    "The WorldSkills Russia agency was created in 2020, the founders are the government and ANO “Agency for Strategic Initiatives to Promoting New Projects”."
+  ],
+  "topics": {
+    "Crime": 0.9092328548431396,
+    "Economy": 0.7012913227081299,
+    "Conflict": 0.4192832410335541,
+    "Politics": 0.2587030231952667,
+    "Technology": 0.10710281878709793,
+    "Military": 0.07761522382497787,
+    "Transport": 0.07307301461696625,
+    "Education": 0.0698757916688919,
+    "Culture": 0.0679011344909668,
+    "Diplomacy": 0.05194785073399544,
+    "Energy": 0.0303147342056036,
+    "Environment": 0.027198441326618195,
+    "Health": 0.025713713839650154,
+    "Elections": 0.025367962196469307
+  },
+  "sentiment": {
+    "positive": 0.364,
+    "negative": 0.636,
+    "neutral": 0.0
+  }
+}

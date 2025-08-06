@@ -1,0 +1,36 @@
+{
+  "title": "Медведев раскрыл причину ухудшения отношений России и США",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2024/11/01/medvedev-raskryl-prichinu-uhudsheniya-otnosheniy-rossii-i-ssha/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "Russia began to quarrel and argue with the United States at the moment when she refused to follow the model proposed by Washington.",
+    "The reason for the deterioration of relations between the two countries was revealed by the Deputy Security Council of the Russian Federation Dmitry Medvedev in an interview with the Russia Today (RT) television channel.",
+    "“Such a model, by the way, was also offered to us what like:“ You want a good relationship with us, well, do how we tell you.",
+    "” At the time when we decided that enough, this is not in the interests of the Russian Federation, we began to quarrel with the Americans, ”Medvedev explained.",
+    "According to him, the first serious disagreements between Russia and the United States arose due to a conflict in Georgia in 2008.",
+    "Medvedev also spoke about a friendly conversation with US President George Bush Jr. during a visit to the White House in 2004.",
+    "He noted that during the dialogue, Bush Jr. called the President of Georgia Mikhail Saakashvili as a “good guy”, to which the deputy chairman of the Security Council answered the phrase “We will see-we will see”."
+  ],
+  "topics": {
+    "Conflict": 0.9522992372512817,
+    "Politics": 0.7263927459716797,
+    "Culture": 0.6539648771286011,
+    "Diplomacy": 0.6027092337608337,
+    "Military": 0.541273832321167,
+    "Economy": 0.4412626624107361,
+    "Health": 0.37254276871681213,
+    "Energy": 0.3545086979866028,
+    "Transport": 0.3004733920097351,
+    "Environment": 0.2566032111644745,
+    "Technology": 0.24317970871925354,
+    "Crime": 0.20063216984272003,
+    "Elections": 0.17040905356407166,
+    "Education": 0.1643817275762558
+  },
+  "sentiment": {
+    "positive": 0.571,
+    "negative": 0.429,
+    "neutral": 0.0
+  }
+}

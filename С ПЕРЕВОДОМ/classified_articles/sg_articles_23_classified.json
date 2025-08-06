@@ -1,0 +1,32 @@
+{
+  "title": "‘Ukraine’s adjusting to the idea that it has to cede some territory to Russia’",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/opinion/ukraines-adjusting-to-the-idea-that-it-has-to-cede-some-territory-to-russia",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "With US President-elect Donald Trump having usurped the foreign policy initiative from incumbent Joe Biden and privileging French President Emmanuel Macron with the diplomatic coup of arranging a meeting between himself and Ukrainian President Volodymyr Zelensky, the pieces on the European chessboard are set to move swiftly.",
+    "It is interesting, under these circumstances, to hear the Nato and European perspective on the Ukraine peace deal that Trump has promised within a day of taking office, and what more is likely to come thereafter.",
+    "Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Diplomacy": 0.9866479635238647,
+    "Politics": 0.9788508415222168,
+    "Conflict": 0.9613654017448425,
+    "Culture": 0.9563341736793518,
+    "Technology": 0.8735895752906799,
+    "Military": 0.7679460048675537,
+    "Elections": 0.7449331879615784,
+    "Health": 0.6094275116920471,
+    "Transport": 0.5559655427932739,
+    "Environment": 0.5258766412734985,
+    "Crime": 0.4624881446361542,
+    "Education": 0.36809566617012024,
+    "Energy": 0.3607129454612732,
+    "Economy": 0.318220317363739
+  },
+  "sentiment": {
+    "positive": 1.0,
+    "negative": 0.0,
+    "neutral": 0.0
+  }
+}

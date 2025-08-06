@@ -1,0 +1,47 @@
+{
+  "title": "39 foreigners flee Myanmar scam centre: Thai police",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/asia/se-asia/39-foreigners-flee-myanmar-scam-centre-thai-police",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "BANGKOK – Thirty-nine foreigners have fled an online scam centre in Myanmar across the border to Thailand, where officials are working to identify potential trafficking victims, the police told AFP on Nov 25.",
+    "Scam compounds have mushroomed in Myanmar’s borderlands and are staffed by foreigners who are often trafficked and forced to work, swindling their compatriots in an industry analysts say is worth billions.",
+    "The group from Sri Lanka, Nepal, Malaysia and Russia crossed into Thailand’s Tak province, according to the police chief in the city of Mae Sot.",
+    "They had fled from Myawaddy just across the border, Colonel Pittayakorn Petcharat told AFP.",
+    "Myawaddy is controlled by a military-aligned militia and is a hotbed of drug production and online scam outfits, according to observers.",
+    "Sri Lanka’s Embassy in Bangkok had asked the Thai authorities for help after it was informed that 32 of its citizens were trapped in Myanmar, said Col Pittayakorn.",
+    "Five Nepalis, one Malaysian and one Russian were also in the group that escaped and arrived in Thailand.",
+    "AFP has contacted the embassies of the four countries for comment.",
+    "The group crossed into Thailand on Nov 24 night, said a member of the security forces in Mae Sot, who asked for anonymity to talk to the media.",
+    "Immigration officials were working to identify potential victims of human trafficking, Col Pittayakorn said.",
+    "Thai local media reported the group had responded to advertisements on social media promising well-paid work but were then subjected to gruelling conditions in a scam centre.",
+    "Some of the Sri Lankan workers later successfully contacted the embassy.",
+    "Myanmar’s northern border with China was previously a hotbed for online scam centres, often run by militias aligned with the ruling junta.",
+    "But a sweeping offensive by an alliance of ethnic rebels in 2023 cleared many of the scam centres out.",
+    "More than 40,000 people suspected of taking part in cyberscams in Myanmar were handed over to China in 2023, Beijing state media said in 2024.",
+    "Local Myanmar media has reported that scam bosses who escaped the offensive have since set up shop farther south along the border with Thailand.",
+    "In December 2023, Myanmar’s junta chief and Thai military officials agreed to “jointly eradicate online gambling and online scams near Myawaddy”, according to Myanmar state media.",
+    "AFP Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Culture": 0.5753253102302551,
+    "Crime": 0.5180237293243408,
+    "Conflict": 0.516038715839386,
+    "Politics": 0.43401283025741577,
+    "Transport": 0.32420477271080017,
+    "Economy": 0.29775696992874146,
+    "Technology": 0.2894933521747589,
+    "Health": 0.18030673265457153,
+    "Education": 0.1607556939125061,
+    "Diplomacy": 0.15062753856182098,
+    "Energy": 0.14235441386699677,
+    "Environment": 0.1359892338514328,
+    "Military": 0.13558614253997803,
+    "Elections": 0.07119886577129364
+  },
+  "sentiment": {
+    "positive": 0.278,
+    "negative": 0.722,
+    "neutral": 0.0
+  }
+}

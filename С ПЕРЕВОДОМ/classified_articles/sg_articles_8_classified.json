@@ -1,0 +1,39 @@
+{
+  "title": "‘Aerial terror’: Russia launches largest drone attack in war on Ukraine, Kyiv says",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/europe/russia-launches-wars-largest-drone-attack-on-ukraine-kyiv-says",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "KYIV - Ukraine’s President Volodymyr Zelensky said on Feb 23 that Russia launched more than 200 drones in an overnight attack, the largest of the war, as he condemned Russia’s “aerial terror” and called for unity among Ukraine’s allies.",
+    "“Every day, our people stand against aerial terror,” he wrote on X.",
+    "“On the eve of the third anniversary of the full-scale war, Russia launched 267 attack drones against Ukraine – the largest attack since Iranian drones began striking Ukrainian cities and villages.” Ukraine's air force said in a statement that 138 of the drones were downed and another 119 disappeared from radars after being jammed by electronic warfare, adding that Russia also launched three ballistic missiles.",
+    "Damage was reported in five regions of Ukraine.",
+    "Moscow has launched near-nightly massed drone attacks at Ukraine for months, seeking to exhaust air defences.",
+    "Mr Zelensky said that in total, nearly 1,150 attack drones, more than 1,400 guided aerial bombs and 35 missiles of various types, were launched by Russia at Ukraine in the past week.",
+    "The president thanked those operating Ukraine’s air defences, and called on the country’s foreign allies to stand united to secure a “just and lasting peace”.",
+    "\"This is achievable through the unity of all partners – we need the strength of all of Europe, the strength of America, the strength of everyone who seeks lasting peace.\"",
+    "Kyiv and its European allies have been unnerved by new US President Donald Trump verbally attacking Mr Zelensky last week, as well as by a meeting between US and Russian delegations in Riyadh to which Ukraine was not invited.",
+    "REUTERS Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.8883942365646362,
+    "Technology": 0.7873213887214661,
+    "Politics": 0.7784518003463745,
+    "Health": 0.7731105089187622,
+    "Culture": 0.7631124258041382,
+    "Military": 0.7575153112411499,
+    "Economy": 0.7409149408340454,
+    "Energy": 0.691949188709259,
+    "Transport": 0.6099375486373901,
+    "Environment": 0.567301869392395,
+    "Education": 0.5318751335144043,
+    "Elections": 0.5062234997749329,
+    "Diplomacy": 0.4928446114063263,
+    "Crime": 0.30551883578300476
+  },
+  "sentiment": {
+    "positive": 0.3,
+    "negative": 0.7,
+    "neutral": 0.0
+  }
+}

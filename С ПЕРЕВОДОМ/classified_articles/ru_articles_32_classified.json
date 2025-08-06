@@ -1,0 +1,37 @@
+{
+  "title": "Скотт Риттер сообщил о прекращении работы с Russia Today и Sputnik",
+  "published_date": null,
+  "url": "https://www.gazeta.ru/politics/news/2024/09/05/23853007.shtml",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "Former American intelligence officer Scott Ritter, against the backdrop of American sanctions against Russian media, announced the termination of cooperation with the Russia Today and Sputnik agencies.",
+    "His words are given by RIA Novosti.",
+    "“The actions of the US Department of Finance to introduce new sanctions against RT, Sputnik and other Russian media organizations made it impossible to continue my work as an external author of RT and Sputnik,” he emphasized.",
+    "According to Ritter, his cooperation with the Russian media was a manifestation of \"legal journalism.\"",
+    "On September 4, it became known that the Ministry of Finance of the United States imposes sanctions against RT, the editor -in -chief of the TV channel Margarita Simonyan and its deputy Anton Anisimov and Elizabeth Brodskaya.",
+    "Andrei Kiyashko, head of the digital media projects, Konstantin Kalashnikov and an employee of the digital media projects Elena Afanasyeva, fell under the sanctions.",
+    "In addition, the Ministry of Finance of the United States banned data transfer to the first channel, Russia 1 and NTV, Algorithm, New Eastern Review magazine and ANO Dialog without permission.",
+    "Previously, Zakharova sharply reacted to the US attacks on Russian media."
+  ],
+  "topics": {
+    "Conflict": 0.8862495422363281,
+    "Politics": 0.7732474207878113,
+    "Economy": 0.5504361987113953,
+    "Military": 0.5072857737541199,
+    "Culture": 0.5011311173439026,
+    "Technology": 0.45048758387565613,
+    "Crime": 0.3729552626609802,
+    "Diplomacy": 0.332562118768692,
+    "Elections": 0.3029758930206299,
+    "Health": 0.2525801956653595,
+    "Transport": 0.24708758294582367,
+    "Environment": 0.21729862689971924,
+    "Energy": 0.17637036740779877,
+    "Education": 0.14302581548690796
+  },
+  "sentiment": {
+    "positive": 0.125,
+    "negative": 0.875,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Россиянам предрекли новый уровень высшего образования",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2025/01/07/rossiyanam-predrekli-novyy-uroven-vysshego-obrazovaniya/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "Russian universities switch to a new level of higher education.",
+    "Such a statement in an interview with Russia Today made the first deputy chairman of the State Duma Committee on Science and Higher Education, Alexander Mazhuga, who also predicted the future changes in the legislation of this sphere.",
+    "“Indeed, on behalf of the president, our universities are switching to a new level of higher education,” the parliamentarian said.",
+    "The deputy added that a change will be made to Russian legislation, which equates diplomas received according to the previous system and new.",
+    "Earlier it became known that Russian higher educational institutions will switch to a new higher education system from September 1, 2026.",
+    "By this time, the relevant ministry plans to prepare and approve the relevant regulatory legal acts."
+  ],
+  "topics": {
+    "Conflict": 0.7249405384063721,
+    "Education": 0.6820789575576782,
+    "Politics": 0.5887219905853271,
+    "Culture": 0.46958452463150024,
+    "Economy": 0.3391934037208557,
+    "Diplomacy": 0.3391357362270355,
+    "Technology": 0.3299720585346222,
+    "Energy": 0.2388879656791687,
+    "Military": 0.21893349289894104,
+    "Environment": 0.1906556487083435,
+    "Health": 0.13385529816150665,
+    "Transport": 0.1290767788887024,
+    "Crime": 0.12634119391441345,
+    "Elections": 0.04335765168070793
+  },
+  "sentiment": {
+    "positive": 0.833,
+    "negative": 0.167,
+    "neutral": 0.0
+  }
+}

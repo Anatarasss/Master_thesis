@@ -1,0 +1,38 @@
+{
+  "title": "Показ российского документального фильма о причинах СВО отменили в Италии",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2025/01/07/pokaz-rossiyskogo-dokumentalnogo-filma-o-prichinah-svo-otmenili-v-italii/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The mayor of the Italian city of Scratzo in Tuscan Alessandro Ginelli announced the abolition of the show of the Maidan: Turn to the War removed by Russia Today about the coup in Ukraine and the events followed in the territories of the Donetsk and Lugansk People’s Republics (DPR) and (LPR).",
+    "This was reported by the newspaper La Nazione.",
+    "The show was scheduled for January 18.",
+    "According to some reports, such a decision could be made due to the planned performance of two journalists-a military correspondent from Italy Andrea Luchidi and Vincenzo Lurusso, who translated the picture into Italian.",
+    "The organizer of the Michele Menchetti show criticized the abolition of the show.",
+    "In his opinion, in this way, the city deprives itself with a platform for debate.",
+    "Mencetti promised to find other ways to present a film, noting that interest in this topic is great.",
+    "Earlier, the actor and producer, special representative of the Russian Foreign Ministry for Russian-American humanitarian ties, Stephen Sigal, said that he was preparing a documentary about events in the zone of special military operation (SV) in Ukraine.",
+    "The tape will contain evidence that the special operation \"was not an invasion of Russia, as other countries of the world, in particular, representatives of NATO and the USA say.\""
+  ],
+  "topics": {
+    "Conflict": 0.8304222822189331,
+    "Politics": 0.6456748247146606,
+    "Military": 0.5898823738098145,
+    "Culture": 0.42735445499420166,
+    "Crime": 0.18779557943344116,
+    "Technology": 0.1777237206697464,
+    "Economy": 0.10441868007183075,
+    "Diplomacy": 0.0911138728260994,
+    "Transport": 0.08964237570762634,
+    "Health": 0.05851653218269348,
+    "Environment": 0.03697619214653969,
+    "Elections": 0.02598097361624241,
+    "Energy": 0.02427574247121811,
+    "Education": 0.019690288230776787
+  },
+  "sentiment": {
+    "positive": 0.111,
+    "negative": 0.889,
+    "neutral": 0.0
+  }
+}

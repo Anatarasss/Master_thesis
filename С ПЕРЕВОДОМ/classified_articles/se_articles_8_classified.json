@@ -1,0 +1,42 @@
+{
+  "title": "EU-domstolen: rätt att stoppa Russia Today och Sputnik",
+  "published_date": null,
+  "url": "https://www.dn.se/varlden/russia-today-forlorar-i-domstol-eus-sanktioner-havs-ej/",
+  "original_language": "sv",
+  "cleaned_sentences": [
+    "The EU's decision to stop the media channel RT, formerly Russia Today, and other Russian propaganda sites from broadcasting in Europe was legal and proportionate.",
+    "Thus, the sanctions are not repealed.",
+    "It sentenced the European Court of Justice in Luxembourg on Wednesday.",
+    "Read free until September 1st.",
+    "Read DN for SEK 0 until September 1st.",
+    "Then for half the price for six months, only SEK 59/month.",
+    "You will have access to all articles on DN.se and in the DN app.",
+    "This is included in DN simple - All articles on DN.se and in the DN app Majer offer!",
+    "Read free until September 1st.",
+    "Your offer DN simple Read DN for SEK 0 until September 1st.",
+    "Then for half the price for six months, only SEK 59/month.",
+    "You will have access to all articles on DN.se and in the DN app.",
+    "- All articles on DN.se and in the DN app"
+  ],
+  "topics": {
+    "Military": 0.9238273501396179,
+    "Culture": 0.917047381401062,
+    "Conflict": 0.8920471668243408,
+    "Economy": 0.8478836417198181,
+    "Technology": 0.7863277196884155,
+    "Environment": 0.7427183985710144,
+    "Diplomacy": 0.7347758412361145,
+    "Politics": 0.7319793105125427,
+    "Transport": 0.7308464050292969,
+    "Health": 0.7179163098335266,
+    "Crime": 0.7060563564300537,
+    "Education": 0.701805830001831,
+    "Energy": 0.6791296601295471,
+    "Elections": 0.5880778431892395
+  },
+  "sentiment": {
+    "positive": 0.231,
+    "negative": 0.769,
+    "neutral": 0.0
+  }
+}

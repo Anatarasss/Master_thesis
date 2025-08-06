@@ -1,0 +1,41 @@
+{
+  "title": "Абрамович прокомментировал продажу музея \"Гараж\"",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2024/09/24/abramovich-prokommentiroval-prodazhu-muzeya-garazh/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "Businessman Roman Abramovich denied information about the sale of the Garage Museum of Contemporary Art in Moscow.",
+    "This was reported by The Art Newspaper Russia with reference to the entrepreneur’s press service in the Telegram channel.",
+    "“Messages on the sale of the Garage Museum that have appeared on the Web are not true.",
+    "The museum is not put up for sale, and no negotiations are underway.",
+    "The museum continues to work as usual, ”the press service said.",
+    "The possible sale of the museum was previously announced by the Ku-Ku Telegram channel.",
+    "“Negotiations are in full swing,” they said there.",
+    "The author of the Telegram channel art critic Ksenia Korobeinikova commented that Abramovich “decided to reset the toxic asset”, which brings many problems.",
+    "According to her, at present the museum is a “cafe and a library”, and also did “something like a constant exposition”.",
+    "The suspension of exhibition activities in the institution was announced after the start of a special military operation (SV), Korobeinikova added.",
+    "In April, the museum was held searches related to the case against the ex-publisher of the Mediazone (included by the Ministry of Justice in the register of media that perform the functions of the foreign agent), one of the founders of the Pussy Riot group Peter Verzilov (recognized in Russia in the agent).",
+    "The Garage Museum of Modern Art was founded by Abramovich and his ex -wife Daria Zhukova in 2008."
+  ],
+  "topics": {
+    "Conflict": 0.7042069435119629,
+    "Military": 0.6499593257904053,
+    "Culture": 0.387420654296875,
+    "Politics": 0.333721786737442,
+    "Crime": 0.28307199478149414,
+    "Economy": 0.25142529606819153,
+    "Diplomacy": 0.11725903302431107,
+    "Technology": 0.10838760435581207,
+    "Health": 0.08537423610687256,
+    "Transport": 0.07353471964597702,
+    "Elections": 0.05103110522031784,
+    "Environment": 0.042677827179431915,
+    "Energy": 0.04232272505760193,
+    "Education": 0.026064591482281685
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

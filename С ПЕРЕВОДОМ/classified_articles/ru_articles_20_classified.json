@@ -1,0 +1,37 @@
+{
+  "title": "\"Зловоние ужасное\": RT показал усыпанную телами военных ВСУ дорогу на Покровск",
+  "published_date": null,
+  "url": "https://www.mk.ru/politics/2024/11/15/zlovonie-uzhasnoe-rt-pokazal-usypannuyu-telami-voennykh-vsu-dorogu-na-pokrovsk.html",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The military correspondent of the Russia Today (RT) television channel Murad Gazdiev made a report from the zone of his own, focusing on the road that leads to Pokrovsk.",
+    "The demonstrated shots can be seen by a lot of bumped military equipment of the enemy, as well as the bodies of Ukrainian troops.",
+    "As the military unit notes in his report, according to the gained technique, which the Kyiv regime was provided by the Western patrons, it is possible to \"literally draw up a card of retreat of the Armed Forces.\"",
+    "Murad Gazdiev also noted that on the road leading to Pokrovsk there are a lot of corpses of the deceased military personnel of the Armed Forces, which their commanders did not bother to bring to the land like human.",
+    "“During the retreat of the Armed Forces, many bodies of the dead fighters were left.",
+    "Many of them decompose very quickly due to warm weather.",
+    "The smell is unbearable, ”said RT journalist.",
+    "Earlier, MK reported that the Commander -in -Chief of the Armed Forces of Ukraine (Armed Forces) Alexander Syrsky will soon expect a resignation from the post"
+  ],
+  "topics": {
+    "Military": 0.962536633014679,
+    "Conflict": 0.945745587348938,
+    "Culture": 0.7165437936782837,
+    "Technology": 0.465654581785202,
+    "Health": 0.44421330094337463,
+    "Politics": 0.3918069899082184,
+    "Environment": 0.3882714509963989,
+    "Crime": 0.30071350932121277,
+    "Transport": 0.26467567682266235,
+    "Economy": 0.15839974582195282,
+    "Energy": 0.14645761251449585,
+    "Elections": 0.1285754293203354,
+    "Education": 0.08177035301923752,
+    "Diplomacy": 0.05660903453826904
+  },
+  "sentiment": {
+    "positive": 0.125,
+    "negative": 0.875,
+    "neutral": 0.0
+  }
+}

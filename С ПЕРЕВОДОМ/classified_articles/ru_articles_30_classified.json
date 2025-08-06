@@ -1,0 +1,40 @@
+{
+  "title": "Симоньян объяснила санкции Минфина США против нее",
+  "published_date": null,
+  "url": "https://news.rambler.ru/community/53367779-simonyan-obyasnila-sanktsii-minfina-ssha-protiv-nee/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The editor -in -chief of the Russia Today (RT) TV channel Margarita Simonyan explained why the US Ministry of Finance imposed sanctions against it.",
+    "The corresponding publication appeared in her Telegram channel.",
+    "“All Western media outlets have come in a fit of paranoia.",
+    "The US Ministry of Justice claims that RT has hired one of the largest conservative bloggers with a multimillion -dollar audience in the United States in order to interfere in the elections and spread Russian narratives.",
+    "Therefore, my colleagues and my five colleagues also slapped sanctions, ”said the head of RT.",
+    "She also urged readers to imagine what would happen if these statements were true.",
+    "Earlier, Simonyan reacted to the introduction of sanctions against her.",
+    "- wrote the head of RT.",
+    "On September 4, it became known that the US Department of Finance imposed sanctions against Simonyan and its deputies.",
+    "According to the Ministry of Finance, Russian journalists allegedly use artificial intelligence and dipkeies technologies to influence the American elections, namely, to undermine the trust in US election institutions.",
+    "RT leaders were also suspected of recruiting large American bloggers."
+  ],
+  "topics": {
+    "Elections": 0.9903954267501831,
+    "Conflict": 0.9419392943382263,
+    "Politics": 0.8418539762496948,
+    "Culture": 0.8409261703491211,
+    "Economy": 0.660921037197113,
+    "Military": 0.5831714272499084,
+    "Technology": 0.5000780820846558,
+    "Health": 0.45143643021583557,
+    "Energy": 0.41388362646102905,
+    "Transport": 0.38854721188545227,
+    "Diplomacy": 0.32526126503944397,
+    "Crime": 0.3159565031528473,
+    "Education": 0.2703835368156433,
+    "Environment": 0.26111334562301636
+  },
+  "sentiment": {
+    "positive": 0.091,
+    "negative": 0.909,
+    "neutral": 0.0
+  }
+}

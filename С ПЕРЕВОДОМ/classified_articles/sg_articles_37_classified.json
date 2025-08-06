@@ -1,0 +1,40 @@
+{
+  "title": "US slams Russia’s ‘irresponsible rhetoric’ on nukes",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/united-states/us-wont-change-nuclear-posture-after-russia-lowers-threshold-white-house-says",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "WASHINGTON - The White House condemned Russia’s “irresponsible rhetoric” on Nov 19, after Vladimir Putin eased Moscow’s rules for nuclear strikes, but said it saw no need to change its own force posture.",
+    "President Putin’s move came after Washington allowed Ukraine to fire long-range US-made missiles into Russian territory, with Moscow saying Kyiv had used the weapons for the first time on Nov 19.",
+    "“This is more of the same irresponsible rhetoric from Russia, which we have seen for the past two years,” a spokesperson for the US National Security Council told AFP.",
+    "The spokesperson said that “we were not surprised by Russia’s announcement that it would update its nuclear doctrine” and that Moscow had been “signalling its intent” to do so for several weeks.",
+    "“Observing no changes to Russia’s nuclear posture, we have not seen any reason to adjust our own nuclear posture or doctrine in response to Russia’s statements today.” US officials have previously confirmed that outgoing President Joe Biden, who is attending a G-20 summit in Rio de Janeiro, gave the green light for ally Kyiv to use long-range missiles against Russia.",
+    "While the White House has not done so on the record, it has hinted that the move is a response to Russia’s use of North Korean soldiers against Ukraine.",
+    "The deployment of Pyongyang’s troops is a “significant escalation... and we warned that the United States would respond.",
+    "I won’t get into the details of that response today,” the National Security Council spokesperson said.",
+    "The US reaction came as Ukrainian President Volodymyr Zelensky accused G-20 leaders of failing to act after Mr Putin’s nuclear rule change.",
+    "Ukraine is anxiously watching to see whether US President-elect Donald Trump will switch off American military aid and try to push through a peace deal that could force Kyiv to cede territory to Moscow.",
+    "AFP Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.8543083071708679,
+    "Military": 0.8163166642189026,
+    "Technology": 0.7581952214241028,
+    "Politics": 0.7103331685066223,
+    "Culture": 0.6759117841720581,
+    "Health": 0.6341010928153992,
+    "Economy": 0.6216585040092468,
+    "Transport": 0.5600121021270752,
+    "Diplomacy": 0.5260615944862366,
+    "Energy": 0.4565296173095703,
+    "Environment": 0.40428000688552856,
+    "Education": 0.35607436299324036,
+    "Elections": 0.28843793272972107,
+    "Crime": 0.220677450299263
+  },
+  "sentiment": {
+    "positive": 0.273,
+    "negative": 0.727,
+    "neutral": 0.0
+  }
+}

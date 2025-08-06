@@ -1,0 +1,43 @@
+{
+  "title": "На Украине заочно осудили журналиста Красовского",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2024/08/13/krasovskiy/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "In Ukraine, the famous Russian journalist, former broadcasting director of the Russian -speaking channel Russia Today (RT), Anton Krasovsky, was condemned in absentia.",
+    "This was reported on the website of the office of the Prosecutor General of Ukraine.",
+    "The court in Ukraine found Krasovsky guilty of part 2 of Article 442 of the Criminal Code of Ukraine (“Public calls for genocide”).",
+    "“The prosecutors proved that in 2022, convicted in one of the air of his author’s program, publicly called for heating and burning Ukrainian children.",
+    "This plot was included in Russia Today, ”the statement said.",
+    "In February 2023, the Ukrainian court already found Krasovsky guilty of public calls for genocide and violent change or overthrowing the constitutional system.",
+    "Ex-employee RT received the maximum possible punishment for these articles-five years in prison with confiscation of property.",
+    "It is noted that, according to the aggregate of sentences, the court has now sentenced him the final punishment of imprisonment for five years with confiscation of property.",
+    "In October 2022, on the air of the Antonyms program on the RT channel, Krasovsky spoke sharply about Ukrainian children.",
+    "“And it was necessary to drown such.",
+    "Surrending these children.",
+    "(...) Once he said that the Muscovites were occupied [Ukraine], you immediately throw him into the river with a stormy current, ”he said.",
+    "Later, the editor -in -chief of the Canal Margarita Simonyan announced the suspension of RT cooperation with a journalist.",
+    "After some time, Krasovsky apologized for his words about the children and admitted that he was \"really embarrassed.\""
+  ],
+  "topics": {
+    "Crime": 0.9107170104980469,
+    "Conflict": 0.7891939878463745,
+    "Politics": 0.673340916633606,
+    "Culture": 0.6358004212379456,
+    "Technology": 0.3517637252807617,
+    "Health": 0.34232133626937866,
+    "Economy": 0.33150380849838257,
+    "Military": 0.3198152482509613,
+    "Energy": 0.29443034529685974,
+    "Environment": 0.2548239529132843,
+    "Transport": 0.233931303024292,
+    "Elections": 0.15097276866436005,
+    "Education": 0.13600848615169525,
+    "Diplomacy": 0.13320085406303406
+  },
+  "sentiment": {
+    "positive": 0.143,
+    "negative": 0.857,
+    "neutral": 0.0
+  }
+}

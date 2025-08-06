@@ -1,0 +1,35 @@
+{
+  "title": "Высокий суд Лондона запретил трём телеканалам из РФ требовать ареста активов Google",
+  "published_date": null,
+  "url": "https://klops.ru/other/2025-01-23/313418-vysokiy-sud-londona-zapretil-tryom-telekanalam-iz-rf-trebovat-aresta-aktivov-google",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The high court of England and Wales banned the TV channels of Russia Today, “Savior” and “Tsargrad” to demand the arrest of Google assets to recover fines.",
+    "This is written by Bloomberg.",
+    "The restriction concerns new and current proceedings on this subject in all jurisdictions of all countries, except for the United States and the UK.",
+    "The amount of fines imposed on Google in Russia reached 125 nonillions [unit with 30 zeros] dollars.",
+    "“For many years, the courts of the Russian Federation imposed unprecedented fines and arbitrary legal sanctions on the company in an attempt to limit access to information on our services and as a punishment for our compliance with international sanctions against Russian persons and organizations,” said Google.",
+    "Russian television channels demanded two undocillion from Google [a unit with 36 zeros] rubles for blocking the channels on YouTube."
+  ],
+  "topics": {
+    "Conflict": 0.41951802372932434,
+    "Technology": 0.3329700231552124,
+    "Culture": 0.09903865307569504,
+    "Economy": 0.09737975150346756,
+    "Politics": 0.07364799082279205,
+    "Crime": 0.07091619074344635,
+    "Military": 0.06367892771959305,
+    "Health": 0.046689536422491074,
+    "Diplomacy": 0.024707693606615067,
+    "Energy": 0.02296294830739498,
+    "Education": 0.02045734040439129,
+    "Transport": 0.02003873884677887,
+    "Elections": 0.017387330532073975,
+    "Environment": 0.011896738782525063
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

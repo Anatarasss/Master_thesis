@@ -1,0 +1,37 @@
+{
+  "title": "Раскрыта стоимость роскошного наряда Артемия Лебедева",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2025/05/13/raskryta-stoimost-roskoshnogo-naryada-artemiya-lebedeva/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "Stylists of the sauce platform (previously - What's on the Star Russia) revealed the cost of a luxurious outfit of a blogger and designer Artemy Lebedev.",
+    "The corresponding post appeared in the Telegram channel of the project.",
+    "Fashion experts appreciated the image of a star consisting of a red elongated znwr down jacket for 48 thousand rubles and R13 jeans for 86.4 thousand rubles.",
+    "In addition, Lebedev appeared in the photo in the white shirt Jil Sander, the cost of which is 120 thousand rubles.",
+    "In addition, Influuanser put on MOMA sneakers for 43.9 thousand rubles, completing the appearance of Prada with leather gloves for 92 thousand rubles.",
+    "It is noted that the price of all products amounted to 390.3 thousand rubles.",
+    "In April, the cost of the luxurious image of Dmitry Nagiyev was disclosed.",
+    "The attention of fashion experts was attracted by the outfit of the 58-year-old artist for shooting in the journal \"Dog.ru\"."
+  ],
+  "topics": {
+    "Conflict": 0.20932035148143768,
+    "Culture": 0.13168840110301971,
+    "Technology": 0.10446159541606903,
+    "Economy": 0.0699416771531105,
+    "Energy": 0.06867266446352005,
+    "Military": 0.06410308182239532,
+    "Crime": 0.05967679247260094,
+    "Health": 0.0570489726960659,
+    "Environment": 0.05692995339632034,
+    "Elections": 0.04681342467665672,
+    "Politics": 0.046673595905303955,
+    "Transport": 0.04485033079981804,
+    "Diplomacy": 0.03718194365501404,
+    "Education": 0.021242374554276466
+  },
+  "sentiment": {
+    "positive": 0.375,
+    "negative": 0.625,
+    "neutral": 0.0
+  }
+}

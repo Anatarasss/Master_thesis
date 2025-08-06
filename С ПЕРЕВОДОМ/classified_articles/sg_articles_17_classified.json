@@ -1,0 +1,46 @@
+{
+  "title": "Zelensky says he’s ready to exchange North Korean soldiers for Ukrainians held in Russia",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/europe/zelensky-says-hes-ready-to-exchange-north-korean-soldiers-for-ukrainians-held-in-russia",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "KYIV – Ukrainian President Volodymyr Zelensky said on Jan 12 that Kyiv is ready to hand over North Korean soldiers to their leader Kim Jong Un if he can facilitate their exchange for Ukrainians held captive in Russia.",
+    "“In addition to the first captured soldiers from North Korea, there will undoubtedly be more.",
+    "It’s only a matter of time before our troops manage to capture others,” Mr Zelensky said on the social media platform X. Mr Zelensky said on Jan 11 that Ukraine had captured two North Koreans in Russia’s Kursk region, the first time Ukraine has announced the capture of North Korean soldiers alive since their entry into the nearly three-year-old war in autumn 2023.",
+    "Ukrainian and Western assessments say that about 11,000 troops from Russia’s ally North Korea have been deployed in the Kursk region to support Moscow’s forces.",
+    "Russia has neither confirmed nor denied their presence.",
+    "Mr Zelensky has said Russian and North Korean forces had suffered heavy losses.",
+    "“Ukraine is ready to hand over Kim Jong Un’s soldiers to him if he can organise their exchange for our warriors who are being held captive in Russia,” Mr Zelensky said.",
+    "He posted a short video showing the interrogation of two men who are presented as North Korean soldiers.",
+    "One of them is lying on a bed with bandaged hands, while the other is sitting with a bandage on his jaw.",
+    "One of the men said through an interpreter that he did not know he was fighting against Ukraine and had been told he was on a training exercise.",
+    "He said he hid in a shelter during the offensive and was found a couple of days later.",
+    "He said if he was ordered to return to North Korea, he would, but that he was ready to stay in Ukraine if given the chance.",
+    "Reuters could not verify the video.",
+    "“One of them (soldiers) expressed a desire to stay in Ukraine, the other to return to Korea,” Mr Zelensky said in a televised statement.",
+    "Mr Zelensky said for North Korean soldiers who did not wish to return home, there may be other options available and “those who express a desire to bring peace closer by spreading the truth about this war in the Korean (language) will be given that opportunity”.",
+    "He provided no specific details.",
+    "REUTERS Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.9223541021347046,
+    "Technology": 0.8994805216789246,
+    "Culture": 0.8960896134376526,
+    "Politics": 0.8944788575172424,
+    "Military": 0.8407860398292542,
+    "Health": 0.8299477100372314,
+    "Economy": 0.8264491558074951,
+    "Transport": 0.8245814442634583,
+    "Energy": 0.8090264201164246,
+    "Diplomacy": 0.7623351812362671,
+    "Crime": 0.7237427234649658,
+    "Elections": 0.7183887958526611,
+    "Environment": 0.7071017026901245,
+    "Education": 0.6663209199905396
+  },
+  "sentiment": {
+    "positive": 0.176,
+    "negative": 0.824,
+    "neutral": 0.0
+  }
+}

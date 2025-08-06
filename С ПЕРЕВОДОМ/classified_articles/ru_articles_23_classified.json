@@ -1,0 +1,34 @@
+{
+  "title": "В Госдуме назвали дискриминацией блокировку аккаунта Russia Today в Telegram на Украине",
+  "published_date": null,
+  "url": "https://russian.rt.com/ussr/news/1388636-diskriminaciiya-blokirovka-russia-today-telegram-ukraina",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The State Duma called the discrimination of the block of the Russia Today account in Telegram in Ukraine - Gettyimages.ru “At least the fact that the channel is blocked without warning and a full explanation already raises a lot of questions ...",
+    "In any case, the restriction of the media in the right to convey the position of our country in different languages ​​and in different countries is a discrimination and a direct violation of freedom of speech.",
+    "You can’t turn a blind eye to this, ”the deputy said.",
+    "Previously, Telegram blocked in Ukraine the Russia Today account is allegedly due to violation of local legislation.",
+    "According to the publication \"Strana.ua\", the blocking was also subjected to related RT Telegram channels."
+  ],
+  "topics": {
+    "Conflict": 0.7769079804420471,
+    "Culture": 0.6798296570777893,
+    "Politics": 0.5465734601020813,
+    "Technology": 0.49747565388679504,
+    "Economy": 0.43401074409484863,
+    "Military": 0.3715076446533203,
+    "Diplomacy": 0.3508313000202179,
+    "Energy": 0.2734217345714569,
+    "Crime": 0.26962390542030334,
+    "Health": 0.22703349590301514,
+    "Elections": 0.15475454926490784,
+    "Transport": 0.15230952203273773,
+    "Education": 0.1406974196434021,
+    "Environment": 0.13696612417697906
+  },
+  "sentiment": {
+    "positive": 0.2,
+    "negative": 0.8,
+    "neutral": 0.0
+  }
+}

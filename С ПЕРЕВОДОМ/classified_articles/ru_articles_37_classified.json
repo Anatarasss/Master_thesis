@@ -1,0 +1,42 @@
+{
+  "title": "\"Прости за плохое\". Собчак обратилась к Симоньян",
+  "published_date": null,
+  "url": "https://news.rambler.ru/community/53350521-prosti-za-plohoe-sobchak-obratilas-k-simonyan/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "Sobchak turned to Simonyan Journalist Ksenia Sobchak thanked the editor -in -chief of Russia Today Margarita Simonyan for the “big heart” and asked her forgiveness “for the bad”.",
+    "Sobchak wrote about this in her Telegram channel \"Bloody lady.\"",
+    "Sobchak noted that she decided to speak out about Simonyan - a man whom she criticized a lot - because of her good deeds.",
+    "The journalist said that Simonyan “was nearby at a difficult moment”, but did not bring details.",
+    "“That's how it happens.",
+    "The one you thought about well - does not act poorly.",
+    "And the one you thought badly about is a real person.",
+    "And when a difficult moment comes, it is this person who is nearby.",
+    "And thank you for your big heart.",
+    "Earlier, the media spoke about the case against a minor suspected of preparing attempts on Simonyan and Sobchak.",
+    "It was reported that he pleaded guilty and testified about the role of other defendants in the case.",
+    "Sobchak said she was proud of her apartment in the UAE for 120 million The FSB stated that the attempt was prepared by order of the Security Service of Ukraine (SBU).",
+    "Members of the neo -Nazi group, which SBU promised 1.5 million rubles for each murder, were engaged in intelligence at the addresses of work and residence Sobchak and Simonyan, said in the special services."
+  ],
+  "topics": {
+    "Conflict": 0.8252162933349609,
+    "Politics": 0.5479434728622437,
+    "Crime": 0.5050950646400452,
+    "Culture": 0.486097514629364,
+    "Economy": 0.23541025817394257,
+    "Military": 0.21571208536624908,
+    "Health": 0.18056850135326385,
+    "Environment": 0.14199724793434143,
+    "Transport": 0.13603968918323517,
+    "Energy": 0.12921997904777527,
+    "Technology": 0.12241815030574799,
+    "Diplomacy": 0.11693736165761948,
+    "Elections": 0.07591377198696136,
+    "Education": 0.05973384529352188
+  },
+  "sentiment": {
+    "positive": 0.615,
+    "negative": 0.385,
+    "neutral": 0.0
+  }
+}

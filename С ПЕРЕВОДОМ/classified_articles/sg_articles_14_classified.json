@@ -1,0 +1,42 @@
+{
+  "title": "Russian military reports capture of new village in eastern Ukraine",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/russian-military-reports-capture-of-new-village-in-eastern-ukraine",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW - Russia’s defence ministry said on Jan 29 that its troops had taken control of the village of Novoielyzavetivka in Ukraine’s eastern Donetsk region, near the logistics centre of Pokrovsk, the latest target in their steady advance westward.",
+    "Reuters could not independently confirm the battlefield report.",
+    "The General Staff of Ukraine’s military made no mention of the village in a late evening report.",
+    "It reported “intensive” Russian activity in the Pokrovsk sector, with Ukrainian forces repelling 39 attacks by Moscow’s forces and nine clashes continuing.",
+    "The popular Ukrainian military blog DeepState, which records military positions on the basis of open source materials, showed Novoielyzavetivka to be under Russian occupation.",
+    "Pokrovsk hosts the only colliery in Ukraine producing coking coal for the steel industry – closed down as Russian troops approach the city – and is seen as a main target for Moscow.",
+    "Russian forces have focused on capturing all of Donbas, made up of Donetsk and Luhansk regions, after initially failing to move on the capital Kyiv in the early weeks of the February 2022 invasion of Ukraine.",
+    "Their progress in recent months has been the fastest since the launch of the invasion.",
+    "On Jan 27, Russia’s military reported the capture of the village of Dvorichna, near the city of Kupiansk in north-eastern Kharkiv, another area of intensified Russian activity.",
+    "But the governor of Kharkiv region, Mr Oleh Syniehubov, denied that Russian forces had seized the village and said fighting was continuing.",
+    "Moscow announced the capture of the town of Velyka Novosilka south of Pokrovsk last weekend.",
+    "Ukraine’s military has yet to acknowledge that the town is entirely under Russian control.",
+    "REUTERS Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.8916743397712708,
+    "Military": 0.826641857624054,
+    "Technology": 0.7353972792625427,
+    "Politics": 0.6814962029457092,
+    "Culture": 0.6200631260871887,
+    "Health": 0.5616305470466614,
+    "Energy": 0.5244274735450745,
+    "Economy": 0.5240391492843628,
+    "Transport": 0.5059822201728821,
+    "Crime": 0.4908553957939148,
+    "Environment": 0.4701727628707886,
+    "Education": 0.38489606976509094,
+    "Diplomacy": 0.2816048562526703,
+    "Elections": 0.27787306904792786
+  },
+  "sentiment": {
+    "positive": 0.231,
+    "negative": 0.769,
+    "neutral": 0.0
+  }
+}

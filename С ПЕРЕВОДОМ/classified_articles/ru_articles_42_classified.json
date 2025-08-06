@@ -1,0 +1,36 @@
+{
+  "title": "Росфинмониторинг внес фонд \"Свободная Россия\" в список террористов и экстремистов",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2024/07/29/rosfinmonitoring-vnes-fond-svobodnaya-rossiya-v-spisok-terroristov-i-ekstremistov/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The Federal Financial Monitoring Service (Rosfinmonitoring) was introduced by the Free Russia Foundation Foundation in the list of terrorists and extremists.",
+    "This follows from the document on the website of the department.",
+    "More than 50 nationalist and separatist movements were included in the list of terrorists and extremists.",
+    "Their activities are prohibited in Russia.",
+    "Earlier, the Ministry of Justice included the Free Russia Foundation, created in the United States, in the list of prohibited in Russia due to extremist activities.",
+    "It is known that Free Russia was created in 2014 by a group of Russian emigrants in Washington.",
+    "The fund is part of the structural unit of the \"anti -Russian separatist movement\" (recognized as extremist and is prohibited in Russia)."
+  ],
+  "topics": {
+    "Conflict": 0.742145836353302,
+    "Politics": 0.5302509665489197,
+    "Culture": 0.42883437871932983,
+    "Economy": 0.2980300486087799,
+    "Technology": 0.23692050576210022,
+    "Military": 0.20680959522724152,
+    "Crime": 0.1918899416923523,
+    "Health": 0.06722287088632584,
+    "Diplomacy": 0.05930420383810997,
+    "Energy": 0.05408613011240959,
+    "Environment": 0.05368534475564957,
+    "Transport": 0.05171380192041397,
+    "Elections": 0.044742945581674576,
+    "Education": 0.010516781359910965
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

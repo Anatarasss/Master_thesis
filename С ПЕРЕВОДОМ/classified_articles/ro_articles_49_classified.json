@@ -1,0 +1,44 @@
+{
+  "title": "SUA a sancționat televiziunile lui Putin: Pervîi Kanal, NTV și Russia-1",
+  "published_date": null,
+  "url": "https://www.dcnews.ro/sua-a-sanctionat-televiziunile-lui-putin-pervii-kanal-ntv-si-russia-1_869841.html",
+  "original_language": "ro",
+  "cleaned_sentences": [
+    "The US announces that it imposes sanctions against Russian state television.",
+    "The US administration announced on Sunday that it imposes sanctions on three Russian state television channels: Pervîi Kanal, NTV and Russia-1, writes Interfax.",
+    "\"The United States will impose sanctions on three of the most viewed television channels, directly or indirectly controlled by the state-First Channel Joint-Stock Company, Rossiya-1 TV Station and NTV Television Company Joint-Stock Company,\" the White House said in a statement following the G7 leaders' conference.",
+    "For his part, the representative of the American administration in Briefing explained that under sanctions, American advertising campaigns, broadcast technologies, video cameras, microphones, sound equipment will no longer be available to these three TV channels.",
+    "US authorities also impose approximately 2,600 visa restrictions \"in response to human rights (...) by Russian military and Belaruși officials.\"",
+    "In addition, the official mentioned, the US administration imposes sanctions on the management of the great Russian banks, in particular, Sberbank and Gazprombank.",
+    "Thus, according to the White House, 8 representatives of the Sberbank leadership and 27 representatives of Gazprombank fell under the US sanctions.",
+    "Also under the sanctions are the Moscow Industrial Bank and its 10 branches.",
+    "Also, US companies will be forbidden to provide a number of consulting services to customers in Russia and to export to the Russian federation equipment used in industry (bulldozers, industrial engines, boilers, ventilation equipment, etc.).",
+    "Russia's state's state, Viaceslav Volodin, claims to have counted all the sanctions imposed on the West Moscow from 2014 until now.",
+    "He says that Russia was imposed on a total of 10,128 sanctions, writes Interfax.",
+    "\"Before the beginning of the special military operation in Ukraine - 2,754 sanctions, after - 7,374,\" Volodin wrote on his Telegram account.",
+    "Viaceslav Volodin stressed that the total number of sanctions imposed on Russia is higher \"than against any other state in the whole history of their existence.\"",
+    "Be up to date with the latest news.",
+    "Follow DCNews and on Google News"
+  ],
+  "topics": {
+    "Conflict": 0.9054652452468872,
+    "Military": 0.8497332334518433,
+    "Politics": 0.7404407262802124,
+    "Diplomacy": 0.6692025661468506,
+    "Culture": 0.6167371869087219,
+    "Technology": 0.6042002439498901,
+    "Economy": 0.510122537612915,
+    "Health": 0.44480615854263306,
+    "Transport": 0.3879188299179077,
+    "Crime": 0.33450114727020264,
+    "Energy": 0.30311939120292664,
+    "Environment": 0.29031193256378174,
+    "Elections": 0.23893386125564575,
+    "Education": 0.20181114971637726
+  },
+  "sentiment": {
+    "positive": 0.133,
+    "negative": 0.867,
+    "neutral": 0.0
+  }
+}

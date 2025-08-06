@@ -1,0 +1,37 @@
+{
+  "title": "Умер просивший Путина о гражданстве бывший американский офицер Беннет",
+  "published_date": null,
+  "url": "https://www.mk.ru/social/2024/11/23/umer-prosivshiy-putina-o-grazhdanstve-byvshiy-amerikanskiy-oficer-bennet.html",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "Late in the evening of November 22, news came about the death of a former US Army officer, political scientist and author of documentary films Scott Bennett.",
+    "This was reported by the Russia Today (RT) channel, with which the American collaborated.",
+    "“Scott Bennett died, a former US Army officer, the author of the RT documentaries and a regular expert of the channel.",
+    "The death of the former military was reported in social networks to acquaintances, ”the report said.",
+    "Recently, Bennett has often criticized the administration of the current US President Joe Biden for the help of the Kyiv regime.",
+    "He repeatedly told about this in an interview with the Russian media, bringing powerful arguments exposing the provocative policy of the White House.",
+    "In particular, he listed the states where the Russian Federation could send weapons in response to the transfer of a long -range weapon of defeat to the West Kyiv.",
+    "In the spring of 2024, a former American officer appealed to President Vladimir Putin with a request to grant citizenship of the Russian Federation"
+  ],
+  "topics": {
+    "Politics": 0.84602290391922,
+    "Conflict": 0.8243997097015381,
+    "Culture": 0.4669960141181946,
+    "Military": 0.3913920521736145,
+    "Diplomacy": 0.13329102098941803,
+    "Technology": 0.13279838860034943,
+    "Transport": 0.1291021853685379,
+    "Economy": 0.11054201424121857,
+    "Health": 0.09813643246889114,
+    "Energy": 0.08936531841754913,
+    "Crime": 0.08029838651418686,
+    "Environment": 0.05218806490302086,
+    "Education": 0.03713558241724968,
+    "Elections": 0.03208452835679054
+  },
+  "sentiment": {
+    "positive": 0.375,
+    "negative": 0.625,
+    "neutral": 0.0
+  }
+}

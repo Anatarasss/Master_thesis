@@ -1,0 +1,39 @@
+{
+  "title": "Суд арестовал имущество бывших владельцев складов Raven Russia",
+  "published_date": null,
+  "url": "https://www.gazeta.ru/social/news/2025/04/08/25503314.shtml",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The Moscow Arbitration Court arrested the property of former owners of Russian assets of the development company Raven Russia Igor Bogorodov and Yaroslav Shuvalov.",
+    "It is reported by RIA Novosti with reference to the materials of the court.",
+    "Measures were taken as part of the new claim of the Prosecutor General’s Office, who received the court on March 31.",
+    "Among the defendants are Bogorodov, Shuvalov, eight Russian legal entities of the development group and the Emirate company Phoenix Property Group Limited.",
+    "The lawsuit concerns the recognition of transactions with assets invalid and the seizure of property.",
+    "The court arrested all the defendants movable and immovable property, including funds in the accounts, shares in the authorized capital of their companies, as well as assets of the companies of Pervomaiskaya Zarya LLC and Dorfin Holdings Limited.",
+    "In February, the Arbitration Court granted the claim of the Prosecutor General’s Office to Raven Russia.",
+    "Then 16 warehouse complexes of the company transferred to the management of the Federal Property Management Agency.",
+    "In Raven Russia, this decision was called illegal and promised to appeal it.",
+    "Earlier in Russia, the assets of the Ukrainian producer of vodka were confiscated in Russia."
+  ],
+  "topics": {
+    "Conflict": 0.863012433052063,
+    "Economy": 0.6244040727615356,
+    "Politics": 0.43020835518836975,
+    "Culture": 0.41044366359710693,
+    "Crime": 0.3597618043422699,
+    "Technology": 0.2985435724258423,
+    "Military": 0.1992296576499939,
+    "Diplomacy": 0.13515573740005493,
+    "Health": 0.12378327548503876,
+    "Energy": 0.10521698743104935,
+    "Transport": 0.10017044842243195,
+    "Environment": 0.09380896389484406,
+    "Elections": 0.037943556904792786,
+    "Education": 0.034570544958114624
+  },
+  "sentiment": {
+    "positive": 0.1,
+    "negative": 0.9,
+    "neutral": 0.0
+  }
+}

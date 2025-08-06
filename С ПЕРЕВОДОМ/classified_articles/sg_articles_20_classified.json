@@ -1,0 +1,50 @@
+{
+  "title": "Ukraine has captured two North Korean soldiers in Russia’s Kursk: Zelensky",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/europe/ukraine-captures-two-north-korean-soldiers-in-kursk-zelensky-says",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "KYIV - Ukraine has captured two North Korean soldiers in Russia’s Kursk region, President Volodymyr Zelensky said on Jan 11, the first time Ukraine has announced the capture of North Korean soldiers alive since their entry into the war last autumn.",
+    "North Korean regular troops entered the war on Russia’s side in October, according to Kyiv and its Western allies, who initially estimated their numbers at 10,000 or more.",
+    "In a post on X, Mr Zelensky said that the soldiers had been brought to Kyiv and were communicating with the Security Service of Ukraine (SBU), the country’s domestic intelligence agency.",
+    "“As with all prisoners of war, these two North Korean soldiers are receiving the necessary medical assistance,” Mr Zelensky said.",
+    "He said that journalists would be given access to speak to them.",
+    "Kyiv says that North Korean troops are fighting in the Kursk region, where Ukraine launched an incursion in August.",
+    "Kyiv says it still controls several hundred square kilometres of territory there.",
+    "Pyongyang has also been supplying Russia with vast quantities of artillery shells, according to Kyiv and its western allies.",
+    "Russia has neither confirmed nor denied the presence of North Korean troops in Kursk, and there was no immediate reaction from Moscow or Pyongyang to the latest report.",
+    "Ukraine had previously said it captured North Korean soldiers in combat, but that they had been badly wounded and died shortly afterwards.",
+    "Special forces operation Mr Zelensky said in a later video address that the troops had been captured by Ukraine’s special forces working alongside paratroopers.",
+    "The special forces posted a video filmed from a drone claiming to show part of the operation.",
+    "It showed five men in ghillie suits in a forested area, although other details were hard to make out.",
+    "A video posted by the SBU appeared to show the two captured men.",
+    "One had his jaw bandaged, due to an apparent wound, while the other was drinking through a straw.",
+    "A doctor interviewed for the SBU’s video, who was not named and had his face blurred, said one of the soldiers had a facial wound and would be treated by a dentist, while the other soldier had an open wound and a lower leg fracture.",
+    "The SBU said the North Koreans had been transferred to Kyiv for questioning, and that because they could not speak Ukrainian, Russian or English, their questioning was being done in Korean with the help of South Korea’s NIS intelligence agency.",
+    "The SBU said one of the soldiers had been captured with a Russian military document with the name of another person registered in Russia, while the other did not have any documents.",
+    "The agency said the soldiers had been born in 2005 and 1999, and had been serving in the North Korean armed forces since 2021 and 2016 respectively.",
+    "The SBU said the two prisoners were being held in conditions that were in accordance with international law, and that a criminal investigation was being conducted to see if the men broke Ukraine’s law against planning or conducting a war.",
+    "REUTERS Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.881230354309082,
+    "Health": 0.8211769461631775,
+    "Culture": 0.7733021378517151,
+    "Politics": 0.737902820110321,
+    "Technology": 0.679736852645874,
+    "Military": 0.6649028062820435,
+    "Transport": 0.5768424868583679,
+    "Economy": 0.5356218218803406,
+    "Energy": 0.5141796469688416,
+    "Crime": 0.513601541519165,
+    "Environment": 0.5055674314498901,
+    "Diplomacy": 0.4707380533218384,
+    "Education": 0.41649213433265686,
+    "Elections": 0.3377045691013336
+  },
+  "sentiment": {
+    "positive": 0.143,
+    "negative": 0.857,
+    "neutral": 0.0
+  }
+}

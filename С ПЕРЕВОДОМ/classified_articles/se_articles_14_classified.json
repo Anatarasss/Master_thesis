@@ -1,0 +1,40 @@
+{
+  "title": "Ekonomer om sanktioner mot Ryssland: ”Stoppar inte Putin på kort sikt”",
+  "published_date": null,
+  "url": "https://www.svd.se/sanktionerna-stoppar-inte-putin-pa-kort-sikt",
+  "original_language": "sv",
+  "cleaned_sentences": [
+    "They are not in Iran class, the sanctions against Russia.",
+    "Closing the gas cranes would be the hardest battle against Putin.",
+    "And blocking the central bank Bank of Russia bites more than excluding Russian banks from the Swift payment system.",
+    "This is what economists that SvD spoke to say that.",
+    "\"The sanctions do not stop Putin in the short term\" Birgitta Forsberg Published They have their luxury hunts in the Mediterranean in the summer.",
+    "They go to their floors in London to shop and do business.",
+    "And they have their children in international schools in the western world.",
+    "They are Putin's circle, Russian oligarchs that each is good for billions of dollars.",
+    "The United States and the EU direct sanctions on some of them.",
+    "- If you can freeze the assets for the oligarchs that belong to Putin's circle of friends, they lose many billions.",
+    "And if you give them a travel ban, they cannot go to their luxury hunts, greet their children in international schools and go to their apartments in London, says Klas Eklund, senior economist at Law Firm Mannheimer Swartling."
+  ],
+  "topics": {
+    "Conflict": 0.8701310157775879,
+    "Economy": 0.860702633857727,
+    "Politics": 0.6746657490730286,
+    "Culture": 0.5026872754096985,
+    "Crime": 0.30997389554977417,
+    "Transport": 0.16360318660736084,
+    "Technology": 0.1452159732580185,
+    "Environment": 0.14199194312095642,
+    "Military": 0.12166829407215118,
+    "Education": 0.11796297878026962,
+    "Energy": 0.10433364659547806,
+    "Diplomacy": 0.06405644118785858,
+    "Health": 0.05262305960059166,
+    "Elections": 0.023428693413734436
+  },
+  "sentiment": {
+    "positive": 0.455,
+    "negative": 0.545,
+    "neutral": 0.0
+  }
+}

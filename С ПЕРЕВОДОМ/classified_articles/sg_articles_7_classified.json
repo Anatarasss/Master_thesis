@@ -1,0 +1,34 @@
+{
+  "title": "After three years of war with Russia, Ukraine could be heading for an even more dangerous peace deal",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/three-years-on-after-russias-invasion-ukraine-faces-one-of-its-most-serious-challenges-to-date",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "LONDON – Ukraine marked the third anniversary of the Russian invasion on Feb 24 with a solemn ceremony in Kyiv, the capital, attended by 12 European heads of state and government, with many more joining by video link.",
+    "“Three years of resistance.",
+    "Three years of gratitude.",
+    "Three years of absolute heroism of Ukrainians,” President Volodymyr Zelensky told his guests before thanking “all those who defend and support” Ukraine.",
+    "Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Culture": 0.9659363627433777,
+    "Conflict": 0.9622185826301575,
+    "Politics": 0.8839687705039978,
+    "Technology": 0.8140318393707275,
+    "Military": 0.7763673067092896,
+    "Health": 0.70087730884552,
+    "Economy": 0.6728591918945312,
+    "Transport": 0.630500853061676,
+    "Energy": 0.6156641244888306,
+    "Diplomacy": 0.608364999294281,
+    "Education": 0.5128918290138245,
+    "Environment": 0.4918277859687805,
+    "Elections": 0.47797974944114685,
+    "Crime": 0.40376612544059753
+  },
+  "sentiment": {
+    "positive": 0.8,
+    "negative": 0.2,
+    "neutral": 0.0
+  }
+}

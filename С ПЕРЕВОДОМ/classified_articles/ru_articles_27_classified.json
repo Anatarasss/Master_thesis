@@ -1,0 +1,43 @@
+{
+  "title": "К сотруднице RT в США пришли с обыском 20 вооруженных представителей ФБР",
+  "published_date": null,
+  "url": "https://www.gazeta.ru/politics/news/2024/09/11/23902987.shtml",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The unnamed employee of Russia Today (RT), working in the United States, came with the searches of 20 armed employees of the FBI.",
+    "This was reported by the Russian -speaking version of the RT media group.",
+    "Representatives of the power department came to the woman at about five in the morning local time, when she slept.",
+    "According to RT, she was not allowed to dress, beaten and searched.",
+    "According to the woman, during the search \"everyone touched, let's say so.\"",
+    "After that, an interrogation began, lasting about five hours, the material was noted.",
+    "The questions concerned, including the head of the media group Margarita Simonyan, which the employee described as “crap”.",
+    "In addition, the security forces were interested in the first deputy RT Elizabeth Brodskaya, the deputy director of the information broadcasting directory in English Andrei Kiyashko, the text said.",
+    "According to RT, the woman did not bring official charges of the FBI.",
+    "For security reasons, she had to leave the United States.",
+    "On September 4, the US Department of Finance imposed sanctions against RT and the editor -in -chief of Margarita Simonyan.",
+    "The ministry said that the American authorities charged the Russian media in violation of the law on foreign agents.",
+    "In addition, the agency banned the transfer of data to the first channel, Russia 1 and NTV, Algorithm, New Eastern Review magazine and ANO Dialog without permission.",
+    "Earlier in the United States, the leading talk show “Big Game” Dmitry Sims was charged."
+  ],
+  "topics": {
+    "Conflict": 0.5719048976898193,
+    "Culture": 0.3831048011779785,
+    "Politics": 0.2916845679283142,
+    "Crime": 0.2631083130836487,
+    "Technology": 0.18103516101837158,
+    "Economy": 0.16933465003967285,
+    "Military": 0.1286751627922058,
+    "Health": 0.12493415176868439,
+    "Transport": 0.11573486030101776,
+    "Diplomacy": 0.10063905268907547,
+    "Energy": 0.08551929891109467,
+    "Education": 0.0767664760351181,
+    "Elections": 0.06073848158121109,
+    "Environment": 0.05475565791130066
+  },
+  "sentiment": {
+    "positive": 0.071,
+    "negative": 0.929,
+    "neutral": 0.0
+  }
+}

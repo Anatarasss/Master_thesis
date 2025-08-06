@@ -1,0 +1,38 @@
+{
+  "title": "Захарова рассказала об ответных мерах на санкции США против российских СМИ",
+  "published_date": null,
+  "url": "https://www.gazeta.ru/politics/news/2024/09/05/23853277.shtml",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "Russia is working on retaliatory measures after the united states of sanctions against a number of Russian media, including against Russia Today and Sputnik.",
+    "This was said by RIA Novosti by the official representative of the Foreign Ministry of the Russian Federation Maria Zakharova.",
+    "“Of course, it will all be developed, worked out,” she emphasized.",
+    "Speaking about the sanctions introduced against Russian media, the official representative of the Russian Foreign Ministry noted that they are a “hybrid scheme”, which is not fully understood even in the United States.",
+    "“That is, some part is voiced, and some part is still somewhere there, apparently, is either finalized, or somewhere else under the table lies,” she explained.",
+    "On September 4, it became known that the Ministry of Finance of the United States imposes sanctions against RT, the editor -in -chief of the TV channel Margarita Simonyan and its deputy Anton Anisimov and Elizabeth Brodskaya.",
+    "Andrei Kiyashko, head of the digital media projects, Konstantin Kalashnikov and an employee of the digital media projects Elena Afanasyeva, fell under the sanctions.",
+    "In addition, the Ministry of Finance of the United States banned data transfer to the first channel, Russia 1 and NTV, Algorithm, New Eastern Review magazine and ANO Dialog without permission.",
+    "Earlier, Scott Ritter announced the termination of work with Russia Today and Sputnik."
+  ],
+  "topics": {
+    "Conflict": 0.6993536949157715,
+    "Politics": 0.3761917054653168,
+    "Military": 0.2878532111644745,
+    "Culture": 0.284981906414032,
+    "Economy": 0.2266322374343872,
+    "Diplomacy": 0.22473867237567902,
+    "Crime": 0.1683831512928009,
+    "Technology": 0.15892943739891052,
+    "Health": 0.12183209508657455,
+    "Transport": 0.11081255227327347,
+    "Environment": 0.09079834818840027,
+    "Elections": 0.05579880252480507,
+    "Energy": 0.05137114226818085,
+    "Education": 0.0380268394947052
+  },
+  "sentiment": {
+    "positive": 0.222,
+    "negative": 0.778,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Бывшее руководство WorldSkills Russia обвинили в хищении более 130 миллионов рублей",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2024/12/15/byvshee-rukovodstvo-worldskills-russia-obvinili-v-hischenii-bolee-130-millionov-rubley/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The former leadership of the ANO “The Development Agency” (WorldSkills Russia ”was accused of theft of tens of millions of rubles of budget funds.",
+    "This was told by TASS by the head of the Main Directorate of Economic Security and Anti-Corruption (GUEBIPK) of the Russian Ministry of Internal Affairs, Lieutenant General of the Police Andrei Kurnosenko.",
+    "“In May of this year, the Ministry of [internal affairs], in cooperation with the FSB of Russia, documented theft of budget funds worth more than 130 million rubles,” the interlocutor of the information agency said.",
+    "It is noted that the stolen amount was allocated as part of the national project “Demography”.",
+    "Robert Urazov and administrative director Danir Mukhametzyanov, on suspicion of fraud, was reported in June, about the detention of the CEO of WorldSkills Russia.",
+    "WorldSkills - International professional skill competitions, Russia has been their participant since 2012.",
+    "In March 2022, WorldSkills International stopped membership of the Russian Federation, however, internal tournaments under the auspices of WorldSkills Russia or ANO “Professional Development Agency”, created in 2020, continued in the country."
+  ],
+  "topics": {
+    "Crime": 0.289806991815567,
+    "Conflict": 0.26973021030426025,
+    "Economy": 0.17062216997146606,
+    "Politics": 0.09145983308553696,
+    "Culture": 0.06787588447332382,
+    "Technology": 0.04684597998857498,
+    "Military": 0.0320223793387413,
+    "Diplomacy": 0.030605945736169815,
+    "Education": 0.02143530733883381,
+    "Transport": 0.014268554747104645,
+    "Energy": 0.00571546470746398,
+    "Elections": 0.005360077600926161,
+    "Health": 0.0036875270307064056,
+    "Environment": 0.0025100873317569494
+  },
+  "sentiment": {
+    "positive": 0.143,
+    "negative": 0.857,
+    "neutral": 0.0
+  }
+}

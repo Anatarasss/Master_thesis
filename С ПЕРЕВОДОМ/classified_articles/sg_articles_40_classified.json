@@ -1,0 +1,42 @@
+{
+  "title": "North Korea’s Kim urges improved military capabilities for war",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/asia/east-asia/north-koreas-kim-urges-improved-military-capabilities-for-war",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "SEOUL - North Korean leader Kim Jong Un in a speech last week urged the country’s military to improve capabilities for fighting a war, said state media KCNA on Nov 18, after Pyongyang dispatched thousands of troops to Russia.",
+    "Mr Kim delivered the speech to a conference of battalion commanders and political instructors held in Pyongyang on Nov 15, during which he called for building political and military strength and fighting efficiency to ensure that the armed forces can cope with a war.",
+    "Threats from the United States and its allies including South Korea and their military confrontation with North Korea have brought tension to “the worst phase in history”, he said, calling the Korean peninsula “the world’s biggest hot spot”.",
+    "“He ardently called upon all the participants to go all out for bringing about substantial and fundamental improvement in improving their capabilities for fighting an actual war,” KCNA said.",
+    "The report came amid international criticism over rapidly developing military cooperation between North Korea and Russia.",
+    "Washington, Seoul and Kyiv have said there are more than 10,000 North Korean soldiers in Russia to support its war against Ukraine, and some of them have engaged in combat in Kursk, near the Ukraine border.",
+    "KCNA said a workshop was given for military officers at the weekend as part of the conference, which was aimed at strengthening the battalions, bolstering their fighting efficiency, and “rounding off war preparations as required by the prevailing situation and modern warfare”.",
+    "In a separate dispatch, KCNA said a Russian delegation led by National Resources and Ecology Minister Alexander Kozlov arrived in Pyongyang on Nov 17 for trade and economy talks.",
+    "Last week, Mr Kim guided a test of suicide drones and ordered their mass production, citing an intensifying competition for adopting such weapons around the world.",
+    "US President Joe Biden, South Korean President Yoon Suk-yeol and Japanese Prime Minister Shigeru Ishiba condemned North Korea and Russia’s decision to “dangerously expand” the Ukraine war as they held a summit on the sidelines of the Asia-Pacific Economic Cooperation Summit in Peru.",
+    "Mr Biden’s administration has allowed Ukraine to use US-made weapons to strike deep into Russia, sources told Reuters, marking a significant policy reversal and a response to Russia’s deployment of North Korean ground troops.",
+    "Ukrainian President Volodymyr Zelensky has said that North Korean troops had suffered casualties in combat with his country’s forces, and the first battles between them “open a new page in instability”.",
+    "REUTERS Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Culture": 0.9531669020652771,
+    "Conflict": 0.9409804344177246,
+    "Politics": 0.9133154153823853,
+    "Military": 0.8933229446411133,
+    "Economy": 0.8897904753684998,
+    "Technology": 0.8789593577384949,
+    "Environment": 0.8704171180725098,
+    "Health": 0.86778324842453,
+    "Transport": 0.8520153164863586,
+    "Crime": 0.8241633176803589,
+    "Energy": 0.8051803112030029,
+    "Elections": 0.729391872882843,
+    "Education": 0.6831622123718262,
+    "Diplomacy": 0.43849050998687744
+  },
+  "sentiment": {
+    "positive": 0.308,
+    "negative": 0.692,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Kampanjen ”Ring Ryssland” siktar på 40 miljoner samtal",
+  "published_date": null,
+  "url": "https://www.dn.se/varlden/litauiska-kampanjen-ring-ryssland-siktar-pa-40-miljoner-samtal/",
+  "original_language": "sv",
+  "cleaned_sentences": [
+    "A campaign called in English is called \"Call Russia\", with access to 40 million telephone numbers in Russia, has been launched in Lithuania.",
+    "The purpose is to inform Russian residents as much as possible about the war in Ukraine.",
+    "The campaign wants to take help from Russian -speaking people in the outside world to break through the Russian propaganda and censorship.",
+    "Read free until September 1st.",
+    "Read DN for SEK 0 until September 1st.",
+    "Then for half the price for six months, only SEK 59/month.",
+    "You will have access to all articles on DN.se and in the DN app.",
+    "This is included in DN simple - All articles on DN.se and in the DN app Majer offer!",
+    "Read free until September 1st.",
+    "Your offer DN simple Read DN for SEK 0 until September 1st.",
+    "Then for half the price for six months, only SEK 59/month.",
+    "You will have access to all articles on DN.se and in the DN app.",
+    "- All articles on DN.se and in the DN app"
+  ],
+  "topics": {
+    "Military": 0.903393566608429,
+    "Conflict": 0.8946415781974792,
+    "Culture": 0.8888913989067078,
+    "Economy": 0.813532829284668,
+    "Technology": 0.7953184843063354,
+    "Diplomacy": 0.7153716683387756,
+    "Environment": 0.681574285030365,
+    "Crime": 0.6679826974868774,
+    "Transport": 0.6632903218269348,
+    "Energy": 0.6484689712524414,
+    "Health": 0.6370153427124023,
+    "Politics": 0.6156709790229797,
+    "Education": 0.604670524597168,
+    "Elections": 0.46229737997055054
+  },
+  "sentiment": {
+    "positive": 0.231,
+    "negative": 0.769,
+    "neutral": 0.0
+  }
+}

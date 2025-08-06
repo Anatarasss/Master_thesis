@@ -1,0 +1,41 @@
+{
+  "title": "В США объяснили посыл Трампа в общении с Зеленским",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2025/03/02/v-ssha-ob-yasnili-posyl-trampa-v-obschenii-s-zelenskim/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "US President Donald Trump during and after a skirmish with the Ukrainian leader Vladimir Zelensky is trying to convey that Kyiv was not acting from the standpoint and reality is completely different.",
+    "The message of the owner of the White House was explained by the former Pentagon employee Michael Maluf in an interview with the Russia Today (RT) television channel.",
+    "“He (Zelensky) stands on the verge of complete defeat.",
+    "And Trump reports to Zelensky - without putting it on the words - that if he does not come to a compromise now, his country will be completely swallowed, ”Maluf said.",
+    "The interlocutor of the TV channel noted that Zelensky’s behavior in the White House shows the ugliness of the Ukrainian leader to negotiations.",
+    "In turn, Trump in response made it clear to the guest that he should not wave to the United States, Maluf emphasized.",
+    "On February 28, Zelensky came to Washington to meet Trump.",
+    "The communication of politicians was tense.",
+    "Trump expressed a lot of complaints to Zelensky, and US Vice President Jay Di Wence stated the disrespect and ingratitude of the Ukrainian politician.",
+    "The signing ceremony was disrupted, and Zelensky left the White House.",
+    "Russian President Vladimir Putin stated that he was ready to negotiate a conflict in Ukraine with Vladimir Zelensky, but he believes that he does not have the right to sign documents due to his illegitimacy.",
+    "The Russian leader also indicated the need to cancel the Ukrainian decree on the ban on negotiations with the Russian Federation, noting that the chairman of the Verkhovna Rada could cancel this decree."
+  ],
+  "topics": {
+    "Politics": 0.9402815103530884,
+    "Conflict": 0.9299436807632446,
+    "Diplomacy": 0.8015168905258179,
+    "Culture": 0.6351550817489624,
+    "Military": 0.5858504176139832,
+    "Economy": 0.4485245645046234,
+    "Health": 0.4047715365886688,
+    "Technology": 0.40308815240859985,
+    "Energy": 0.3646423816680908,
+    "Environment": 0.24060297012329102,
+    "Transport": 0.22278830409049988,
+    "Education": 0.19297845661640167,
+    "Crime": 0.18994157016277313,
+    "Elections": 0.14368756115436554
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Президент Латвии призвал разрушить Россию",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2024/03/15/prezident-latvii-prizval-razrushit-rossiyu/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "President of Latvia Edgers Rinkevses expressed support to the French leader Emmanuel Macron and called for destroying Russia.",
+    "The corresponding entry appeared on his page on the social network X.",
+    "“I fully support Macron: we should not draw red lines for ourselves, we must draw red lines for Russia, and we should not be afraid to spend them,” the head of state wrote.",
+    "In his appeal, Rinkevs used the phrase Russia DELENDA EST by analogy with the winged Latin expression of the Carthago Delenda Est, which translates as \"Carthage must be destroyed.\"",
+    "Earlier, Macron said that France is ready to respond to possible escalation from Russia.",
+    "According to him, Paris is ready to make decisions that guarantee that Moscow will never win.",
+    "“Today the resistance time has come for us,” he emphasized."
+  ],
+  "topics": {
+    "Conflict": 0.870525062084198,
+    "Politics": 0.8599209785461426,
+    "Military": 0.647784948348999,
+    "Culture": 0.6258586049079895,
+    "Economy": 0.4786260426044464,
+    "Energy": 0.3981610834598541,
+    "Technology": 0.2642855644226074,
+    "Transport": 0.25757527351379395,
+    "Education": 0.19723062217235565,
+    "Health": 0.18775664269924164,
+    "Environment": 0.16526548564434052,
+    "Crime": 0.157375767827034,
+    "Diplomacy": 0.12243490666151047,
+    "Elections": 0.0427938848733902
+  },
+  "sentiment": {
+    "positive": 0.571,
+    "negative": 0.429,
+    "neutral": 0.0
+  }
+}

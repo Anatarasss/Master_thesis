@@ -1,0 +1,34 @@
+{
+  "title": "RT: в Подмосковье ввели план \"Перехват\" из-за вооружённого срочника",
+  "published_date": null,
+  "url": "https://www.mk.ru/incident/2024/09/26/rt-v-podmoskove-vveli-plan-perekhvat-izza-vooruzhyonnogo-srochnika.html",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The Russia Today channel announced its website that, according to the source in the Moscow Region, the Interception plan was introduced because of the emergency service of a military service who escaped from the multifunctional fire center.",
+    "“According to the source, the 19 -year -old Daniil F. with him is an automatic,” the TV channel clarifies.",
+    "In turn, the Baza telegram channel, citing its own information, reports that according to preliminary data, 19-year-old native of Ryazan Daniil F. disappeared from the multifunctional fire center in the Patriot Park with a machine gun and ammunition.",
+    "He could go towards the forest.",
+    "Now the serviceman is looking for police officers and the Russian Guard of the Moscow region."
+  ],
+  "topics": {
+    "Military": 0.9558602571487427,
+    "Conflict": 0.8545724749565125,
+    "Technology": 0.6062583327293396,
+    "Crime": 0.4712546467781067,
+    "Culture": 0.4093095660209656,
+    "Politics": 0.39079269766807556,
+    "Economy": 0.2664332985877991,
+    "Health": 0.25639835000038147,
+    "Energy": 0.24017974734306335,
+    "Transport": 0.21013526618480682,
+    "Environment": 0.19753007590770721,
+    "Diplomacy": 0.09325194358825684,
+    "Education": 0.04874177277088165,
+    "Elections": 0.031575269997119904
+  },
+  "sentiment": {
+    "positive": 0.2,
+    "negative": 0.8,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "США ввели санкции против Симоньян",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2024/09/04/ssha-vveli-sanktsii-protiv-simonyan/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The Ministry of Finance of the United States imposed sanctions against ten individuals and two Russian organizations that, according to Washington, tried to influence the outcome of the upcoming presidential elections in the United States.",
+    "Among them, as follows from the published statement, were the Russia Today (RT) channel and its editor -in -chief Margarita Simonyan.",
+    "“Russia has long been using artificial intelligence, dipfaces and misinformation to undermine confidence in election processes and institutions in the USA.",
+    "Since the beginning of 2024, RT leaders began an even more vile campaign for recruiting anything unsuspecting American influensers, ”the Ministry of Finance said.",
+    "In addition to Simonyan, the list included her deputy Elizaveta Brodskaya and Anton Anisimov, Deputy Director of the English -language edition of RT Andrei Kiyashko, head of the digital project department Konstantin Kalashnikov.",
+    "In addition, the United States imposed sanctions against Alexei Garashchenko, who was called the head of the Rahdit Hactivist group, as well as two Russians associated with it.",
+    "One of them, according to Washington, took part in the development of \"cyberinstrows used by the FSB.\"",
+    "Earlier it became known that the US Presidential Administration Joe Biden plans to accuse Russia of interference with the presidential election scheduled for November 5, 2024.",
+    "In particular, it was reported that the United States authorities consider the Media Group of Russia Today the “main source of disinformation” and want to conduct it."
+  ],
+  "topics": {
+    "Elections": 0.9846524596214294,
+    "Politics": 0.905139148235321,
+    "Conflict": 0.7928690910339355,
+    "Culture": 0.5486047267913818,
+    "Military": 0.45499855279922485,
+    "Technology": 0.4480772614479065,
+    "Economy": 0.39771750569343567,
+    "Crime": 0.35629430413246155,
+    "Diplomacy": 0.28940775990486145,
+    "Health": 0.23022639751434326,
+    "Transport": 0.18186643719673157,
+    "Environment": 0.14673027396202087,
+    "Energy": 0.14481379091739655,
+    "Education": 0.09097267687320709
+  },
+  "sentiment": {
+    "positive": 0.222,
+    "negative": 0.778,
+    "neutral": 0.0
+  }
+}

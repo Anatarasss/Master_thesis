@@ -1,0 +1,35 @@
+{
+  "title": "В детском доме в ЛНР нашли список насильно вакцинированных детей",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2025/03/02/v-detskom-dome-v-lnr-nashli-spisok-nasilno-vaktsinirovannyh-detey/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "In one of the orphanages of the Lisichansk of the Lugansk People’s Republic (LPR), they found a list of more than 20 forcibly vaccinated children.",
+    "It is reported by Russia Today.",
+    "The relevant documents were discovered by the FSB officers and the special forces of the Russian Guard.",
+    "It is clarified that the children were made injections of unknown vaccines, which were brought by foreign doctors.",
+    "Earlier, the Ambassador of the Ministry of Foreign Affairs (Foreign Ministry) of Russia, for special orders for the crimes of the Kyiv regime, Rodion Miroshnik said that in Ukraine they put medical experiments on civilians and wounded fighters of the country's armed forces.",
+    "According to him, when this or that methodology or drugs cannot be used in the civilized world, in the frontline zone of Ukraine “you can do everything”."
+  ],
+  "topics": {
+    "Conflict": 0.9384488463401794,
+    "Crime": 0.8810147047042847,
+    "Health": 0.638944149017334,
+    "Culture": 0.5863614082336426,
+    "Military": 0.5850633382797241,
+    "Politics": 0.416252076625824,
+    "Technology": 0.3760306239128113,
+    "Economy": 0.2882079482078552,
+    "Diplomacy": 0.2171362042427063,
+    "Energy": 0.17020373046398163,
+    "Environment": 0.161600723862648,
+    "Transport": 0.0954304113984108,
+    "Education": 0.052912548184394836,
+    "Elections": 0.022453367710113525
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

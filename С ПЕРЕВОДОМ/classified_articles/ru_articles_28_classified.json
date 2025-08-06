@@ -1,0 +1,42 @@
+{
+  "title": "Песков рассказал, как Россия отреагирует на санкции США против российских СМИ",
+  "published_date": null,
+  "url": "https://www.kommersant.ru/doc/6975124",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "Peskov told how Russia will respond to US sanctions against Russian media In preparing the response of the US sanction against the Russia Today television channel and its chief editor in Margarita Simonyan, Russia will take into account the policy of each particular American media, the presidential press secretary Dmitry Peskov said.",
+    "He noted that in the Western countries there are still publications that are trying to observe impartiality when submitting information, including on the situation in Ukraine.",
+    "The fact that Russia will respond to sanctions against RT, the authorities immediately after that, the American Ministry of Finance announced the introduction of restrictions.",
+    "Later, Dmitry Peskov noted that mirror measures are impossible, since there is no state news agency or channel in the USA.",
+    "Journalists asked Mr. Peskov to clarify what kind of reaction of the Russian side then we were talking about.",
+    "“Here it is hardly possible to talk about some single approach.",
+    "We carefully observe the editorial policy of various foreign media.",
+    "Some of them still retain some hints of attempts to withstand the balance in the presentation of information.",
+    "Some of them submit the information one -sidedly, do not disdain fakes, and so on, ”Dmitry Peskov answered.",
+    "It is these factors, according to the press secretary, that will be taken into account when responding to US sanctions.",
+    "The US Ministry of Finance believes that RT is involved in the information campaign to intervene in the American presidential election.",
+    "The department also accused two RT employees of laundering money in absentia and blocked 32 domains of the television channel.",
+    "Read more - in the material \"Kommersant\" \"bloggers attributed tactics.\""
+  ],
+  "topics": {
+    "Elections": 0.9565539360046387,
+    "Conflict": 0.9158299565315247,
+    "Politics": 0.8424568176269531,
+    "Culture": 0.7062917351722717,
+    "Diplomacy": 0.6934943199157715,
+    "Economy": 0.6917702555656433,
+    "Technology": 0.5914735794067383,
+    "Crime": 0.588763952255249,
+    "Health": 0.5606597661972046,
+    "Transport": 0.5221560001373291,
+    "Energy": 0.5203329920768738,
+    "Environment": 0.5071732401847839,
+    "Military": 0.46888428926467896,
+    "Education": 0.40336838364601135
+  },
+  "sentiment": {
+    "positive": 0.385,
+    "negative": 0.615,
+    "neutral": 0.0
+  }
+}

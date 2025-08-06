@@ -1,0 +1,45 @@
+{
+  "title": "Russia offers India its most advanced Su-57 stealth fighter jet",
+  "published_date": null,
+  "url": "https://sg.news.yahoo.com/russia-offers-india-most-advanced-155136599.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Russia offers India its most advanced Su-57 stealth fighter jet By Shivam Patel and Abhijith Ganapavaram BENGALURU, India (Reuters) - Russia has offered to make its fifth-generation stealth fighter jet Sukhoi Su-57 in India for the Indian Air Force, a Russian and an Indian official said on Tuesday, as Moscow looks to boost defence ties with New Delhi.",
+    "Russia has for decades been the main weapons supplier to India, the world's biggest arms importer, and its fighter jets are part of India's military fleet.",
+    "But Moscow's ability in recent years to export has been hobbled by the war in Ukraine, making New Delhi look westward.",
+    "A spokesperson for Russian state arms exporter Rosoboronexport told reporters the fighter jet could go into production as early as this year if the Indian government accepts its offer.",
+    "India's defence ministry did not immediately respond to a request for comment.",
+    "A Russian industry source and an Indian official said an informal offer had been made by Russia in talks with officials of the Indian government and state-owned planemaker Hindustan Aeronautics Ltd.",
+    "The move comes as the Indian Air Force is keen to shore up its fighter squadrons, which have fallen to 31 from a target of 42, at a time when rival China is expanding its own air force.",
+    "Making the aircraft in India, with a full transfer of technology, will ensure that production and maintenance will not be affected by Western sanctions on Russia, the Rosoboronexport spokesperson told reporters on the sidelines of the Aero India aerospace exhibition in the southern city of Bengaluru.",
+    "He declined to share his name.",
+    "He said the jet could be produced with enhancements to the Indian production line of the Sukhoi Su-30 aircraft, 260 of which are in the Indian Air Force's fleet.",
+    "Both the Su-57 and rival Lockheed Martin's F-35 Lightning II, a fifth generation stealth fighter jet of the U.S., were on display at the Aero India exhibition.",
+    "Prime Minister Narendra Modi's government has been stressing the need to make India a global manufacturing hub and boost domestic defence production in order to achieve self reliance.",
+    "Despite being touted as a Russian fifth-generation fighter aircraft to rival its U.S. equivalent, the Su-57 was plagued by development delays and a crash in 2019.",
+    "According to its manufacturer, serial production of the aircraft began in 2022.",
+    "Last year, Russia flew the SU-57, to Zhuhai in China for its first air show abroad, in an apparent message to the West about China-Russia cooperation.",
+    "(Reporting by Shivam Patel and Abhijith Ganapavaram in Bengaluru; Editing by Bernadette Baum)"
+  ],
+  "topics": {
+    "Culture": 0.8628597855567932,
+    "Military": 0.7465313076972961,
+    "Technology": 0.6733618378639221,
+    "Conflict": 0.6618730425834656,
+    "Economy": 0.6259161233901978,
+    "Health": 0.5635769963264465,
+    "Transport": 0.4859900176525116,
+    "Environment": 0.455841600894928,
+    "Energy": 0.415378600358963,
+    "Politics": 0.3309326767921448,
+    "Diplomacy": 0.2815406918525696,
+    "Elections": 0.16412480175495148,
+    "Education": 0.0746314600110054,
+    "Crime": 0.048506759107112885
+  },
+  "sentiment": {
+    "positive": 0.562,
+    "negative": 0.438,
+    "neutral": 0.0
+  }
+}

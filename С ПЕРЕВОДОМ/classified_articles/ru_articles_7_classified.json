@@ -1,0 +1,38 @@
+{
+  "title": "Минюст внес в перечень нежелательных НПО две западные организации",
+  "published_date": null,
+  "url": "https://news.rambler.ru/politics/54027681-minyust-vnes-v-perechen-nezhelatelnyh-npo-dve-zapadnye-organizatsii/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The Ministry of Justice included two Western organizations in the list of unwanted NGOs The Ministry of Justice included in the list of foreign and international NGOs, whose activities are recognized as undesirable in Russia, NPO Recorded Future (USA) and NGO Canadian Center for Development of Democracy in Russia (Canada).",
+    "This was reported on the website of the ministry.",
+    "1-r dated 09.01.2025 ...",
+    "Recorded Future (“Recorded Future”) (USA); 197.",
+    "3 -r dated 10.01.2025 ... Canadian Center for Development of democracy in Russia, ”the list said.",
+    "It is noted that the RF company provides data processing and analytics services, including in a closed Internet segment, collaborates with the CIA.",
+    "On December 27, it was reported that the media project “Country and peace.",
+    "SAKHAROV Review and the Transpenser Internet-Russia project in exile were included in the register of foreign agents.",
+    "According to the Ministry of Country and Mir, the Ministry of Country disseminated inaccurate information about the actions of the Russian authorities, as well as their policy."
+  ],
+  "topics": {
+    "Culture": 0.22514086961746216,
+    "Politics": 0.18082527816295624,
+    "Transport": 0.15996265411376953,
+    "Technology": 0.1317773014307022,
+    "Military": 0.09097020328044891,
+    "Conflict": 0.08163823932409286,
+    "Elections": 0.07302449643611908,
+    "Economy": 0.07184168696403503,
+    "Diplomacy": 0.070010244846344,
+    "Health": 0.03250217065215111,
+    "Education": 0.026646550744771957,
+    "Environment": 0.025387097150087357,
+    "Energy": 0.025248687714338303,
+    "Crime": 0.02158576063811779
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

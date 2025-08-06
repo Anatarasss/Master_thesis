@@ -1,0 +1,36 @@
+{
+  "title": "Покровительствующую беглым нацистам канадскую организацию признали в России нежелательной",
+  "published_date": null,
+  "url": "https://lenta.ru/news/2024/12/20/pokrovitelstvuyuschuyu-beglym-natsistam-kanadskuyu-organizatsiyu-priznali-v-rossii-nezhelatelnoy/",
+  "original_language": "ru",
+  "cleaned_sentences": [
+    "The Prosecutor General’s Office of Russia recognized the activities of the non -governmental Canadian organization Canadian Center for Development of democracy in Russia unwanted in the country.",
+    "This was reported to the Lente.ru in the department.",
+    "The organization was founded in 2015 in Montreal.",
+    "Its representatives closely interact with extremist organizations and patronize the fugitive Nazis.",
+    "During the prosecutor’s audit, it was found that employees of the Canadian Center are calling on to the overthrow of the constitutional system in Russia and lobby for tightening anti -Russian sanctions.",
+    "The organization’s leadership acts in support of the Kyiv regime and prevents the holding of the Marsers of the Immortal Regiment on the territory of Canada.",
+    "On December 18, it was reported that the Prosecutor General of Russia recognized the organization of Recorded Future (USA) unwanted."
+  ],
+  "topics": {
+    "Conflict": 0.42383429408073425,
+    "Culture": 0.31823891401290894,
+    "Politics": 0.2594072222709656,
+    "Crime": 0.20875246822834015,
+    "Economy": 0.13959255814552307,
+    "Environment": 0.09910222142934799,
+    "Military": 0.0771874487400055,
+    "Elections": 0.05896209552884102,
+    "Transport": 0.04704238101840019,
+    "Health": 0.04449174925684929,
+    "Diplomacy": 0.04079103097319603,
+    "Energy": 0.029139338061213493,
+    "Technology": 0.014491243287920952,
+    "Education": 0.009708255529403687
+  },
+  "sentiment": {
+    "positive": 0.429,
+    "negative": 0.571,
+    "neutral": 0.0
+  }
+}

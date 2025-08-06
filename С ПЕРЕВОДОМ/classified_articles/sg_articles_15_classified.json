@@ -1,0 +1,51 @@
+{
+  "title": "Trump threatens Russia and other countries with sanctions, tariffs if Ukraine deal not reached",
+  "published_date": null,
+  "url": "https://www.straitstimes.com/world/europe/trump-threatens-russia-other-countries-with-sanctions-tariffs-if-ukraine-deal-not-reached",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "WASHINGTON - US President Donald Trump said on Jan 22 that he would add new tariffs to his sanctions threat against Russia if the country does not make a deal to end its war in Ukraine, and added that these also could be applied to “other participating countries”.",
+    "In a post on Truth Social, Mr Trump modified comments he made on Jan 21 that he would likely impose sanctions against Russia if President Vladimir Putin refused to negotiate an end to the nearly three-year invasion.",
+    "“If we don’t make a ‘deal’, and soon, I have no other choice but to put high levels of taxes, tariffs and sanctions on anything being sold by Russia to the United States, and various other participating countries,” Mr Trump said.",
+    "His post did not identify the countries that he considered participants in the conflict, or how he defined participation.",
+    "Former US president Joe Biden’s administration heaped heavy sanctions on thousands of entities in Russia’s banking, defence, manufacturing, energy, technology and other sectors since Moscow’s February 2022 full-scale invasion of Ukraine, which has killed tens of thousands of people and reduced cities to rubble.",
+    "Russia’s deputy UN ambassador Dmitry Polyanskiy said Moscow will have to see what Mr Trump thinks a “deal” to end the war in Ukraine means.",
+    "“It’s not merely the question of ending the war,” Mr Polyanskiy told Reuters.",
+    "“It’s first and foremost the question of addressing root causes of the Ukrainian crisis.” In the run-up to his Nov 5 election victory, Mr Trump declared dozens of times that he would have a deal in place between Ukraine and Russia on his first day in office, if not before.",
+    "But his aides have conceded that a deal to end the war could take months or longer.",
+    "Earlier in January, the US Treasury hit Russia’s energy revenues with its hardest sanctions yet, targeting oil and gas producers Gazprom Neft and Surgutneftegas, as well as 183 vessels that are part of the so-called shadow fleet of tankers aimed at evading other Western trade curbs.",
+    "Mr Trump has sought to use the threat of tariffs to achieve non-trade goals, including threatening Mexico, Canada and China with duties to push them to stop illegal migration and the flow of the deadly opioid fentanyl into the US.",
+    "Those three countries are the US’ top trading partners, accounting for more than US$2.1 trillion (S$2.85 trillion) in annual two-way trade.",
+    "But Russia is far down the list, with US imports from Russia falling to just US$2.9 billion through the first 11 months of 2024, from US$29.6 billion in 2021.",
+    "The US imported US$13.5 billion worth of Russian petroleum products in 2014, but this has fallen to zero after Ukraine war-related sanctions.",
+    "Some other top import categories a decade ago, including semi-finished steel and pig iron, have also fallen to zero.",
+    "The US still imports significant amounts of Russian fertiliser used in agriculture – about US$1.4 billion worth in 2023 – as well as more than US$1 billion each worth of uranium for nuclear power use and palladium and rhodium used in automotive catalytic converters.",
+    "Mr Tim Brightbill, a trade attorney at law firm Wiley Rein in Washington, said: “One way to hit Russia hard would be to sanction and stop the use of Russian wood in finished wood products coming from China, Vietnam and other countries.” As for other participants, the Biden administration had imposed sanctions against entities in North Korea and Iran for weapons supplies to Russia, and against Chinese entities that supply components and other goods to Russia’s war effort.",
+    "Mr Trump said he was “going to do Russia, whose Economy is failing, and President Putin, a very big FAVOUR.",
+    "Settle now, and STOP this ridiculous War!”.",
+    "The negotiating positions of the two warring sides remain far apart, and some Ukrainians fear they could be forced to make massive concessions after three years of brutal combat.",
+    "The conflict has developed into a war of attrition, largely fought along front lines in eastern Ukraine, with huge numbers of casualties on both sides.",
+    "REUTERS Join ST's Telegram channel and get the latest breaking news delivered to you."
+  ],
+  "topics": {
+    "Conflict": 0.9906914234161377,
+    "Technology": 0.9883934259414673,
+    "Environment": 0.9878319501876831,
+    "Economy": 0.9875591397285461,
+    "Health": 0.984651505947113,
+    "Politics": 0.9831331968307495,
+    "Diplomacy": 0.9745157361030579,
+    "Education": 0.972741961479187,
+    "Elections": 0.9715131521224976,
+    "Culture": 0.9707705974578857,
+    "Crime": 0.9688530564308167,
+    "Transport": 0.9619275331497192,
+    "Energy": 0.9487570524215698,
+    "Military": 0.9065666198730469
+  },
+  "sentiment": {
+    "positive": 0.182,
+    "negative": 0.818,
+    "neutral": 0.0
+  }
+}
