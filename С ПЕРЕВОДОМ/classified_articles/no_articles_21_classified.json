@@ -1,0 +1,50 @@
+{
+  "title": "I Kremls ærend",
+  "published_date": null,
+  "url": "https://www.dagbladet.no/meninger/i-kremls-aerend/73788175",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "Russia In the Kremlin errand Some Norwegian researchers are volunteered in the propaganda channel Russia Today.",
+    "This helps to legitimize oppressive regime similar to a police state.",
+    "Developments in Russia are deeply disturbing.",
+    "After poisoning by opposition leader Aleksej Navalnyj, the Kremlin has tightened the grip further.",
+    "Russian authorities have recently decided to stamp Navalnyj's network as \"extremists\", similar to IS and al-Qaeda.",
+    "Russia cages in people fighting for free elections, the rule of law and basic human rights.",
+    "Just as the West in the 70s stood up for prisoners of conscience such as Aleksandr Solzjenitsyn and Andrej Sakharov, the vest with a straight back must stand up for Aleksej Navalnyj and other oppositionists.",
+    "Some Norwegian researchers are volunteered in the propaganda channel Russia Today.",
+    "This helps to legitimize oppressive regime similar to a police state.",
+    "Russia Today's so -called journalists have long worked systematically to reinforce disagreement and then divide in the West, among other things.",
+    "In connection with Brexit and the American election in 2016.",
+    "The channel's motto \"Question More\", the goal of manipulating the truth reflects the truth and the lie takes over.",
+    "Norwegian researchers are free to act in any medium, but it is allowed to demand the point by standing on Russia Today.",
+    "From the Norwegian side, it is a foreign policy goal to maintain a stable and good relationship with Russia.",
+    "Unfortunately, the development in Russia makes it demanding to maintain a trust -based relationship at the government level.",
+    "Russia's Foreign Minister Lavrov recently stated that the relationship with the West has \"reached the bottom\".",
+    "Russia can thank itself for it.",
+    "Russia has been in political war with the West over the last decade through the use of various degrading instruments.",
+    "Russia operates in the gray zone between war and peace in a cunning and destructive way.",
+    "The question is how far the authoritarian development in Russia will go before Norwegian researchers refuse to stand on Russia Today?",
+    "Persecution and imprisonment of oppositionists as well as a ban on free political opinion, should dampen the eagerness to act in the Kremlin propaganda manesje."
+  ],
+  "topics": {
+    "Politics": 0.7828429937362671,
+    "Conflict": 0.7819378972053528,
+    "Elections": 0.6991883516311646,
+    "Culture": 0.5375245809555054,
+    "Economy": 0.5101446509361267,
+    "Diplomacy": 0.4110397696495056,
+    "Health": 0.3806270956993103,
+    "Crime": 0.34948500990867615,
+    "Transport": 0.32645750045776367,
+    "Technology": 0.28662624955177307,
+    "Energy": 0.27560269832611084,
+    "Military": 0.23285025358200073,
+    "Environment": 0.21734844148159027,
+    "Education": 0.11839111894369125
+  },
+  "sentiment": {
+    "positive": 0.429,
+    "negative": 0.571,
+    "neutral": 0.0
+  }
+}

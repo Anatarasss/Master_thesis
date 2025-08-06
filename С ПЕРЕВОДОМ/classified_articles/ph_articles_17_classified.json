@@ -1,0 +1,50 @@
+{
+  "title": "Rupture grows as US sides with Russia",
+  "published_date": null,
+  "url": "https://manilastandard.net/news/314561786/rupture-grows-as-us-sides-with-russia.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "UNITED NATIONS, New York – The United States sided with Russia twice Monday (Tuesday in Manila) at the United Nations, as they sought to avoid any condemnation of Moscow’s invasion of its neighbor three years ago.",
+    "The two votes highlighted a seismic shift in the balance of power at the UN, where Washington had steadfastly voted for resolutions that favored Ukraine and condemned Russia, until the abrupt rupture with Kyiv.",
+    "As US President Donald Trump stakes out a new position on the Ukraine war, Washington and Russia aligned first at a morning vote at the General Assembly and again at an afternoon vote of the Security Council.",
+    "A European-backed text won 93 votes for at the General Assembly and 18 votes against, with 65 abstentions and Washington sided with Moscow and Russian allies Belarus, North Korea and Sudan to vote against the text.",
+    "The resolution — which won far less support compared to previous ones on the war — strongly criticizes Russia, and emphasizes Ukraine’s territorial integrity and inviolability of its borders.",
+    "Washington drafted a rival resolution amid an intensifying feud between Trump and Ukrainian President Volodymyr Zelenskyy.",
+    "But Ukraine’s European allies pushed to heavily reword the US text to say that the “full-scale invasion of Ukraine” had been carried out by Russia, meaning Washington ultimately did not vote in favor of its own text.",
+    "Undeterred, the United States brought the earlier, unchanged text to a vote at the Security Council in the afternoon, securing its passage with 10 votes for and none against — alongside five abstentions.",
+    "The abstentions were France, Britain, Denmark, Greece, and Slovenia.",
+    "France and Britain notably could have vetoed the resolution, which merely “implores a swift end to the conflict” without blaming Russia.",
+    "Several amendments, brought respectively by Russia and European nations, did not pass.",
+    "“We acknowledge the constructive changes in the United States position when it comes to the Ukrainian conflict,” said Russia’s UN envoy Vassily Nebenzya following the vote.",
+    "Relations between Washington and Kyiv have rapidly deteriorated following Trump’s return to the White House, with the US president claiming Zelenskyy is highly unpopular and a “dictator.” Trump’s growing rupture with Ukraine has caused panic on a continent that has relied on US security assurance for 80 years.",
+    "The International Crisis Group’s Richard Gowan said the EU won a “moral victory” in the General Assembly, but warned European diplomats will “worry that Russia and the US will route more resolutions on Ukraine through the Security Council — potentially including asking for an endorsement of whatever deal Trump and Putin cook up.” Ahead of the Security Council vote, there was speculation on whether France or Britain would be prepared to wield their first vetoes in more than 30 years.",
+    "Their respective leaders, Emmanuel Macron and Keir Starmer, are visiting the White House this week for key talks on Ukraine.",
+    "The inviolability of Ukrainian territorial integrity was a cornerstone of previous resolutions passed at the UN, with the United States under former president Joe Biden among its strongest supporters.",
+    "“Neither these amendments, nor the resolution offered by Ukraine will stop the killing.",
+    "The UN must stop the killing.",
+    "We urge all Member States to join us in returning the UN to its core mission of international peace and security,” said Washington’s envoy to the UN, Dorothy Shea, ahead of the votes.",
+    "She later hailed the Security Council’s passage of “an historic landmark agreement on Ukraine.” “We call on all other UN member states to join the United States in pushing for a durable peace that will bring stability to Europe and deter further aggression,” said Shea.",
+    "UN chief Antonio Guterres on Sunday called for a peace that “fully upholds Ukraine’s territorial integrity” and respects the UN Charter."
+  ],
+  "topics": {
+    "Politics": 0.8681952357292175,
+    "Conflict": 0.8494235873222351,
+    "Economy": 0.8230178952217102,
+    "Culture": 0.7613013386726379,
+    "Diplomacy": 0.7605869174003601,
+    "Military": 0.6459978818893433,
+    "Health": 0.6403083801269531,
+    "Technology": 0.6272611618041992,
+    "Environment": 0.5535880327224731,
+    "Energy": 0.48684611916542053,
+    "Transport": 0.45300689339637756,
+    "Elections": 0.44062548875808716,
+    "Education": 0.3742462992668152,
+    "Crime": 0.09657318145036697
+  },
+  "sentiment": {
+    "positive": 0.524,
+    "negative": 0.476,
+    "neutral": 0.0
+  }
+}

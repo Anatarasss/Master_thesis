@@ -1,0 +1,35 @@
+{
+  "title": "NATO lovede aldrig Rusland ikke at udvide mod øst",
+  "published_date": null,
+  "url": "https://www.document.no/2022/03/16/nato-lovede-aldrig-rusland-ikke-at-udvide-mod-ost/",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "Many have made the claim that the United States and its allies should have promised the Russians that the Udvide Nato mod east.",
+    "For lighting of this question, no better source ends the Soviet Union's Last Statschef, Mihail Gorbatjov, where during an interview, it was spared in Russia Beyond on October 16, 2014 - after the same year Rusland had annexed Crimea.",
+    "Log in to read on (subscribers).",
+    "Support independent news!",
+    "Subscriber articles are opened 48 hours after publishing.",
+    "Articles older than two years are reserved for subscribers."
+  ],
+  "topics": {
+    "Conflict": 0.9535710215568542,
+    "Politics": 0.8629850149154663,
+    "Crime": 0.8570573925971985,
+    "Military": 0.8472638726234436,
+    "Culture": 0.7802990078926086,
+    "Economy": 0.658477246761322,
+    "Technology": 0.6538422703742981,
+    "Transport": 0.6261829733848572,
+    "Diplomacy": 0.5117688775062561,
+    "Health": 0.4909975528717041,
+    "Environment": 0.47749584913253784,
+    "Energy": 0.38297250866889954,
+    "Education": 0.3474307656288147,
+    "Elections": 0.18965254724025726
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

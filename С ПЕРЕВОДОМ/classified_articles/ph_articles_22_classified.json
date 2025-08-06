@@ -1,0 +1,33 @@
+{
+  "title": "'NKorea troops not fighting in Kursk since mid-Jan'",
+  "published_date": null,
+  "url": "https://www.manilatimes.net/2025/02/05/world/asia-oceania/nkorea-troops-not-fighting-in-kursk-since-mid-jan/2049803",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "SEOUL — North Korean soldiers previously fighting alongside Russia's army on the Kursk front line appear not to have been engaged in combat since mid-January, South Korea's spy agency told Agence France-Presse (AFP) on Tuesday, after Ukraine claimed they had been withdrawn following heavy losses.",
+    "\"Since mid-January, it appears that the North Korean troops deployed to the Kursk region of Russia have not engaged in combat,\" South Korea's National Intelligence Service said in a statement.",
+    "Already have an active account?",
+    "Continue reading with one of these options: Continue reading with one of these options: Premium + Digital Edition Ad-free access P 80 per month (billed annually at P 960) - Unlimited ad-free access to website articles - Limited offer: Subscribe today and get digital edition access for free (accessible with up to 3 devices) TRY FREE FOR 14 DAYS See details See details If you have an active account, log in here ."
+  ],
+  "topics": {
+    "Conflict": 0.9587522149085999,
+    "Culture": 0.9186415076255798,
+    "Military": 0.8648492097854614,
+    "Crime": 0.8181748390197754,
+    "Environment": 0.788934588432312,
+    "Politics": 0.7888733744621277,
+    "Health": 0.7838727831840515,
+    "Economy": 0.7825833559036255,
+    "Technology": 0.7741951942443848,
+    "Transport": 0.7330328822135925,
+    "Energy": 0.7258472442626953,
+    "Elections": 0.57890385389328,
+    "Education": 0.5632268786430359,
+    "Diplomacy": 0.4252418875694275
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

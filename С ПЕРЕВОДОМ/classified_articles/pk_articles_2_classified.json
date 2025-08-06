@@ -1,0 +1,39 @@
+{
+  "title": "UNSC adopts US resolution taking neutral stance on Ukraine war",
+  "published_date": null,
+  "url": "https://www.bolnews.com/latest/2025/02/unsc-adopts-us-resolution-taking-neutral-stance-on-ukraine-war/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "UNITED NATIONS: The UN Security Council adopted a US resolution on the third anniversary of Russia’s military intervention in Ukraine that softens Washington’s stance on the conflict as President Donald Trump pushes for a peace deal.",
+    "Ten of the 15 Council members, including Pakistan, voted for the resolution, which omitted mention of Russian aggression, in a stunning shift from years of US policy.",
+    "There was no vote against the resolution, while five Western members — Denmark, France, Greece, Slovenia, United Kingdom — abstained.",
+    "Earlier, the UN General Assembly rejected the US-drafted resolution, which passed only after it was amended to state that the conflict was the result of a “full-scale invasion of Ukraine by the Russian Federation.” But at the Security Council, the Western members failed in their attempt to include any reference to Russia’s invasion as their motions to seeking to amend the resolution failed to garner enough votes — exposing a sharp split in transatlantic relations.",
+    "The short US resolution mourns the loss of life in the “Russia-Ukraine conflict”, reiterates the UN’s purpose is to maintain international peace and security and peacefully settle disputes, and calls for a swift end to the conflict and a lasting peace.",
+    "Among others who supported the resolution were China and Russia.",
+    "Explaining his vote in the Security Council, Ambassador Asim Iftikhar Ahmad, the alternate permanent representative of Pakistan to the UN, said that he had voted in favour of the US resolution as it was in line with Pakistan’s clear and consistent position on the conflict in Ukraine, and its repeated calls for immediate cessation of hostilities and a negotiated settlement of the conflict.",
+    "Noting that the “priority of peace has remained largely absent and elusive”, even as the security, humanitarian and economic crises have intensified, he said: “A different approach was perhaps required.” The Pakistani envoy therefore expressed hope that today’s resolution will “lend impetus to an inclusive peace process that yields a durable solution in accordance with international law”.",
+    "Pakistan, he said, remained deeply concerned by this tragic conflict, which has already left in its wake immense human suffering and massive damage to infrastructure, economy and the society, highlighting geo-political tensions and the economic consequences that have been particularly severe especially for developing countries.",
+    "Read More News On Catch all the Pakistan News, Breaking News Event and Latest News Updates on The BOL News Download The BOL News App to get the Daily News Update & Follow us on Google News."
+  ],
+  "topics": {
+    "Economy": 0.9790897965431213,
+    "Conflict": 0.9610194563865662,
+    "Technology": 0.9085003733634949,
+    "Politics": 0.8901344537734985,
+    "Health": 0.8892238736152649,
+    "Energy": 0.8832125067710876,
+    "Military": 0.876173734664917,
+    "Education": 0.8516454100608826,
+    "Transport": 0.8474680781364441,
+    "Culture": 0.8030126690864563,
+    "Diplomacy": 0.7973108291625977,
+    "Environment": 0.7348818778991699,
+    "Elections": 0.7324544191360474,
+    "Crime": 0.7121149301528931
+  },
+  "sentiment": {
+    "positive": 0.6,
+    "negative": 0.4,
+    "neutral": 0.0
+  }
+}

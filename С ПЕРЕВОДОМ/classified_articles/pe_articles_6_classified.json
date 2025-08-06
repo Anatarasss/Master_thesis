@@ -1,0 +1,47 @@
+{
+  "title": "¿Está Georgia al borde de un golpe de Estado al estilo del Maidán ucraniano?",
+  "published_date": null,
+  "url": "https://actualidad.rt.com/actualidad/460417-georgia-borde-golpe-estado-estilo-maidan",
+  "original_language": "es",
+  "cleaned_sentences": [
+    "Is Georgia to the edge of a coup d'etat in the style of the Ukrainian maidan?",
+    "The massive protests that Georgia have shaken this week show that the attempts of their government \"adopting a neutral posture in a situation of growing international instability\" could be undermined by the West, which ultimately does not lead to a coup d'etat, would force the postsoviet country to choose a side, Fiódor Fiódor Lukiánov, chief editor of the magazine Russia in Global Affairs in Global Affairs (Russia in global affairs), President of the Russian Council for Foreign and Defense Policy and Scientific Director of the International Club of Valdái Debates.",
+    "In an article for RT, the political scientist affirms that all the modern history of Georgia, since the end of the 1980s, is \"a chronicle of temperamental bandages towards change\", which consist of \"chaotic implementation attempts, followed by works to stabilize the situation and build a solid state structure.\"",
+    "At the same time, he points out that in each episode of social disturbance, such as the current one, there are previous objective socio -political conditions, in which both internal and external factors influence.",
+    "According to the expert, although the initial cause of the protests was the approval in the first parliamentary reading of a draft law of foreign agents, which, according to the opposition and the West is \"inspired by the Kremlin\" and would harm Tbilisi's euroatlant ambitions, the root of problems in the country is deeper.",
+    "\"The current government problem is that it has tried to adopt a distant and neutral position in a situation of growing international instability [...] its claim that it is protecting its own people from the costs of a growing political-military crisis is legitimate.",
+    "However, in essential, the crisis is acute and implies a growing number of actors that demand certainty,\" he says.",
+    "Internal pressure of a restless minority supported by external pressure The analyst believes that Georgia cannot afford \"the game of distancing\" as Türkiye, since this requires a strong internal and external position that the country does not have.",
+    "\"Georgia's political identity under all regimes has been built on the desire to join 'West', by almost any possible means.",
+    "And under any condition.",
+    "The legitimacy of all authorities has been based on promises of 'European integration',\" he says.",
+    "According to Lukiánov, any attempt to \"abandon the dictates of the EU is now perceived as a betrayal of the 'European ideals'\".",
+    "Therefore, \"the internal pressure of a restless minority is backed by the external pressure\" of Brussels and Washington, who ensure that the current government is in collusion with Moscow.",
+    "At the same time, in the opinion of the expert, it is unlikely that there will be a overthrow of the government similar to that of the Maidan, the coup in Ukraine in 2014, since in the opposition \"there are no true forces of radical position, such as those that have been seen in kyiv.\"",
+    "Lukiánov concludes that now everything will depend on the capacity or inability of the authorities to resist the growing pressure of the EU and the US to force the country to abandon neutrality.",
+    "Mass protests began on Tuesday in Tbilisi after the draft bill of foreign agents in first reading was approved by parliamentary majority.",
+    "After the attempts to assault the legislative building and several clashes between protesters and forces of the order, the Georgian authorities attended on Thursday the two main demands raised by the opposition: they withdrew from Parliament the bill and released most of the protesters detained.",
+    "However, this did not satisfy the protesters, who, waving Georgia flags, the EU, USA and Ukraine, as well as singing the Ukrainian anthem and shouting Ukrainian nationalist slogans, presented new demands, demanding the resignation of the government and the call for early parliamentary elections."
+  ],
+  "topics": {
+    "Politics": 0.9683204889297485,
+    "Conflict": 0.9409624338150024,
+    "Elections": 0.934317946434021,
+    "Culture": 0.8520132899284363,
+    "Economy": 0.7402676343917847,
+    "Diplomacy": 0.7388195395469666,
+    "Military": 0.6808287501335144,
+    "Technology": 0.6604772210121155,
+    "Environment": 0.6239196062088013,
+    "Energy": 0.5937454700469971,
+    "Transport": 0.5759222507476807,
+    "Health": 0.5752260684967041,
+    "Education": 0.5122349858283997,
+    "Crime": 0.5099295377731323
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

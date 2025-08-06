@@ -1,0 +1,45 @@
+{
+  "title": "Russland med krystallklar advarsel",
+  "published_date": null,
+  "url": "https://www.dagbladet.no/nyheter/russland-med-krystallklar-advarsel/75893202",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "The Ukraine War Russia with crystal clear warning In a TV interview with Russia-24 Wednesday, the Russian Foreign Ministry comes with a clear message.",
+    "A spokesman for the Russian Foreign Ministry, Maria Zakharova, comes on Wednesday with strong warnings to our neighboring countries Sweden and Finland.",
+    "Russia fears that the two countries will apply for NATO membership.",
+    "- We have given our warnings, both public and through bilateral channels.",
+    "They know this, so there is nothing to be surprised.",
+    "They were informed of everything, where it would lead, says Zakharova.",
+    "Record high support The startling statement should have emerged in a TV interview with the channel Russia-24, reproduced by the state-owned news agency Tass.",
+    "Exactly what consequences will come from a future NATO membership is not specified.",
+    "On the same day came the news of a record high NATO support in Sweden, where a new poll shows that 57 percent respond to membership.",
+    "- The upward trend continues.",
+    "Such a high number as 57 is startling, says Demoscop boss Karin Nelsson, according to NTB.",
+    "Is in progress debate In Finland, the debate is in full swing Wednesday.",
+    "A security policy report presented during the Easter week now forms the basis for whether the country will consider NATO membership.",
+    "Although the government did not come up with a direct recommendation, the report contains several points on how a potential membership will benefit the country.",
+    "After Russia invaded Ukraine, support must have changed in favor of membership, reports NTB.",
+    "It is expected that both countries will decide well in advance of the Madrid summit in late June."
+  ],
+  "topics": {
+    "Conflict": 0.954754650592804,
+    "Politics": 0.9452529549598694,
+    "Diplomacy": 0.7388372421264648,
+    "Culture": 0.6860765218734741,
+    "Economy": 0.6740986108779907,
+    "Military": 0.6675254106521606,
+    "Health": 0.46148014068603516,
+    "Energy": 0.4592978358268738,
+    "Technology": 0.45474520325660706,
+    "Crime": 0.41575098037719727,
+    "Transport": 0.39368197321891785,
+    "Environment": 0.30005547404289246,
+    "Elections": 0.26247960329055786,
+    "Education": 0.2605571150779724
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

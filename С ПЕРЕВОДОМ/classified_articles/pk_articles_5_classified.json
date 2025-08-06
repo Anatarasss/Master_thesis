@@ -1,0 +1,49 @@
+{
+  "title": "Brent oil prices tick down after gaining on Caspian pump station attack",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/brent-oil-prices-tick-down-020104801.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "By Shariq Khan (Reuters) -Oil prices settled higher on Tuesday as supply disruptions mounted in Russia and the U.S., while talks to end the war in Ukraine capped gains as this could boost supply from Moscow.",
+    "Brent crude futures rose 62 cents, or 0.8% to settle at $75.84 a barrel.",
+    "U.S. West Texas Intermediate crude futures rose $1.11, or 1.6%, to settle at $71.85 a barrel, catching up with the gains Brent registered on Monday, when the U.S. contract traded without settlement due to a holiday.",
+    "Brent rose 48 cents in the previous session after Ukrainian drones attacked a pumping station in Russia on the Caspian Pipeline Consortium pipeline, which moves crude from Kazakhstan to world markets.",
+    "Oil flows through the pipeline were reduced by 30-40% on Tuesday, Russian Deputy Prime Minister Alexander Novak said.",
+    "A 30% cut would equate to a 380,000 barrels per day reduction in oil supply, per Reuters calculations.",
+    "\"Brent already benefited yesterday from the CPC supply disruptions, but generally it will come down to how long and how big the disruption is,\" UBS analyst Giovanni Staunovo said.",
+    "Oil markets received another supply shock on Tuesday as Russia's Black Sea port of Novorossiisk suspended loadings due to a storm, two sources familiar with the matter said.",
+    "Exports from the port in February were revised up by 0.24 million metric tons from an initial plan to 2.25 million tons or some 590,000 barrels per day, sources said Monday.",
+    "A cold snap in the U.S. has hit oil supply.",
+    "The North Dakota Pipeline Authority estimated that production in the country's No.",
+    "3 producing state would be down by as much as 150,000 barrels per day.",
+    "Keeping prices in check, U.S. and Russian delegates held a 4-1/2-hour meeting in Saudi Arabia to discuss ways to halt the deadliest conflict in Europe since World War II.",
+    "Ukraine was not represented and Russia hardened its demands.",
+    "If a deal is reached, Washington and its allies could drop sanctions on Russian oil supplies.",
+    "\"Everyone is waiting on what is going to happen with Russia and Ukraine,\" Mizuho oil analyst Robert Yawger said.",
+    "\"That's not something that's going to happen in the next 15 minutes, so the market is going to stay cautious,\" he added.",
+    "In a potential boost for oil prices, U.S. inventories and trade data due on Thursday could show lower net-imports for crude oil last week, Staunovo said.",
+    "However, expectations of a heavy refinery maintenance season could weigh on demand in the weeks ahead.",
+    "\"There is plenty of crude out here on the offer with refinery turnarounds beginning in March seen as heavy,\" United ICAP Energy Specialist Scott Shelton told clients in a note on Tuesday."
+  ],
+  "topics": {
+    "Conflict": 0.8373619318008423,
+    "Energy": 0.8313579559326172,
+    "Diplomacy": 0.8232873678207397,
+    "Economy": 0.7874120473861694,
+    "Health": 0.7865977883338928,
+    "Politics": 0.7694788575172424,
+    "Culture": 0.7196941375732422,
+    "Environment": 0.7110595703125,
+    "Transport": 0.6765105724334717,
+    "Technology": 0.6710392832756042,
+    "Crime": 0.5632656812667847,
+    "Military": 0.53021639585495,
+    "Education": 0.36979129910469055,
+    "Elections": 0.33993420004844666
+  },
+  "sentiment": {
+    "positive": 0.05,
+    "negative": 0.95,
+    "neutral": 0.0
+  }
+}

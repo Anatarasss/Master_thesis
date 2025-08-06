@@ -1,0 +1,35 @@
+{
+  "title": "Sidney Powell til Judge Jeanine: Tidenes valgsvindel vil bli avslørt",
+  "published_date": null,
+  "url": "https://www.document.no/2020/11/15/sidney-powell-til-judge-jeanine-tidenes-valgsvindel-vil-bli-avslort/",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "Important interview with representative Jim Jordan, who says that the Democrats lasted four years with Russia Collusion, but they cannot withstand four weeks of election review.",
+    "The latter is also a well -deserved kick to Norwegian media.",
+    "Log in to read on (subscribers).",
+    "Support independent news!",
+    "Subscriber articles are opened 48 hours after publishing.",
+    "Articles older than two years are reserved for subscribers."
+  ],
+  "topics": {
+    "Elections": 0.9148527383804321,
+    "Conflict": 0.8735669851303101,
+    "Politics": 0.8730165958404541,
+    "Culture": 0.49744704365730286,
+    "Crime": 0.3813592791557312,
+    "Economy": 0.3682236671447754,
+    "Transport": 0.2715960144996643,
+    "Technology": 0.2638965845108032,
+    "Health": 0.20677374303340912,
+    "Military": 0.15090519189834595,
+    "Energy": 0.13506515324115753,
+    "Diplomacy": 0.12490015476942062,
+    "Environment": 0.12184713035821915,
+    "Education": 0.052447911351919174
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

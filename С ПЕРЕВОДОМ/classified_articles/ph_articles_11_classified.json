@@ -1,0 +1,33 @@
+{
+  "title": "Kyiv fires largest drone barrage at Moscow",
+  "published_date": null,
+  "url": "https://www.manilatimes.net/2025/03/12/world/americas-emea/kyiv-fires-largest-drone-barrage-at-moscow/2071257",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "SAPRONOVO, Russia — Ukrainian drones smashed into high-rise apartment blocks on the outskirts of Moscow in the early hours of Tuesday, with both sides saying it was the largest attack on the Russian capital of the three-year conflict.",
+    "The Kremlin condemned the attack, which came just hours before top United States and Ukrainian officials sat down for talks in Saudi Arabia and after three years of Russian aerial barrages on Ukrainian cities.",
+    "Already have an active account?",
+    "Continue reading with one of these options: Continue reading with one of these options: Premium + Digital Edition Ad-free access P 80 per month (billed annually at P 960) - Unlimited ad-free access to website articles - Limited offer: Subscribe today and get digital edition access for free (accessible with up to 3 devices) TRY FREE FOR 14 DAYS See details See details If you have an active account, log in here ."
+  ],
+  "topics": {
+    "Conflict": 0.9784929156303406,
+    "Culture": 0.9040048122406006,
+    "Crime": 0.8644691705703735,
+    "Politics": 0.8159862160682678,
+    "Military": 0.7767612338066101,
+    "Technology": 0.7749133706092834,
+    "Health": 0.7735215425491333,
+    "Environment": 0.7703341841697693,
+    "Economy": 0.751510500907898,
+    "Transport": 0.6998376250267029,
+    "Energy": 0.6568542718887329,
+    "Education": 0.5556413531303406,
+    "Elections": 0.5552281141281128,
+    "Diplomacy": 0.5304646492004395
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

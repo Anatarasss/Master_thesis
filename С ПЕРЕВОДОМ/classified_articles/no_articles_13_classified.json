@@ -1,0 +1,31 @@
+{
+  "title": "Forsvarsekspert på russisk TV:",
+  "published_date": null,
+  "url": "https://www.vg.no/nyheter/utenriks/i/EaPRKP/forsvarsekspert-paa-russisk-tv-hele-verden-er-imot-oss",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "\"It has put Russia at risk of complete international isolation,\" said defense expert Mikhail Khodaryonok, in the talk show \"60 minutes,\" which is broadcast twice daily on state TV in Russia, according to The Telegraph.",
+    "Defense expert on Russian TV: - The whole world is against us In front of millions of TV viewers on the Russian state channel Rossija-1, defense expert Mikhail Khodaryonok on Monday gave a critical analysis of Russia's invasion of Ukraine."
+  ],
+  "topics": {
+    "Conflict": 0.9325594902038574,
+    "Politics": 0.8042966723442078,
+    "Military": 0.7961443662643433,
+    "Technology": 0.5837289690971375,
+    "Culture": 0.4828100800514221,
+    "Crime": 0.3620205223560333,
+    "Transport": 0.25912898778915405,
+    "Environment": 0.2225286364555359,
+    "Diplomacy": 0.20861169695854187,
+    "Energy": 0.20831254124641418,
+    "Health": 0.20704221725463867,
+    "Economy": 0.19796085357666016,
+    "Education": 0.05945279076695442,
+    "Elections": 0.046611327677965164
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

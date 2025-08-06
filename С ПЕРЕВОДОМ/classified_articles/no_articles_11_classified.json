@@ -1,0 +1,33 @@
+{
+  "title": "Kraftig rentekutt fra Russlands sentralbank",
+  "published_date": null,
+  "url": "https://e24.no/internasjonal-oekonomi/i/5G9L5K/kraftig-rentekutt-fra-russlands-sentralbank",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "Powerful interest cut from Russia's central bank February 28, Bank of Russia raised interest rates by 10.5 percentage points.",
+    "Nearly five months later, the interest rate is well below the level from when Russia invaded Ukraine.",
+    "At lunchtime on Friday, Russia's central bank cuts interest rates by 1.50 percentage points to 8.0 per cent.",
+    "Read articles from the archive free E24 Vg Find"
+  ],
+  "topics": {
+    "Conflict": 0.8479096293449402,
+    "Economy": 0.7434831857681274,
+    "Culture": 0.7242953181266785,
+    "Technology": 0.39045456051826477,
+    "Crime": 0.34721699357032776,
+    "Energy": 0.3418549597263336,
+    "Politics": 0.33271124958992004,
+    "Transport": 0.30939820408821106,
+    "Environment": 0.2898133099079132,
+    "Health": 0.2840966582298279,
+    "Military": 0.2279091775417328,
+    "Education": 0.15163365006446838,
+    "Elections": 0.09901285916566849,
+    "Diplomacy": 0.0552636943757534
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Thanks to Biden Administration, Iran's Mullahs Winners of Russia Invasion of Ukraine",
+  "published_date": null,
+  "url": "https://www.document.no/2023/04/02/thanks-to-biden-administration-irans-mullahs-winners-of-russia-invasion-of-ukraine/",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "Since Russia Invaded Ukraine, The Biden Administration has been running out the Clock, Allowing the Ruling Islamist mullahs of Iran to prose from the war and emerge as the winners.",
+    "Log in to read on (subscribers).",
+    "Support independent news!",
+    "Subscriber articles are opened 48 hours after publishing.",
+    "Articles older than two years are reserved for subscribers."
+  ],
+  "topics": {
+    "Conflict": 0.986174464225769,
+    "Politics": 0.6794846057891846,
+    "Crime": 0.5125637054443359,
+    "Culture": 0.48586514592170715,
+    "Military": 0.39806967973709106,
+    "Transport": 0.33191967010498047,
+    "Economy": 0.2759130299091339,
+    "Health": 0.21443501114845276,
+    "Energy": 0.1473989635705948,
+    "Technology": 0.13780151307582855,
+    "Environment": 0.09160791337490082,
+    "Diplomacy": 0.08688593655824661,
+    "Education": 0.015182175673544407,
+    "Elections": 0.007284290157258511
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

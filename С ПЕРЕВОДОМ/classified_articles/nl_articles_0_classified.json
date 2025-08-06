@@ -1,0 +1,38 @@
+{
+  "title": "TPO Ontbijt: Twittermusk, concentratiekamp Shanghai, VS vs. Rusland",
+  "published_date": null,
+  "url": "https://tpo.nl/2022/04/25/tpo-ontbijt-twittermusk-concentratiekamp-shanghai-vs-vs-rusland/",
+  "original_language": "nl",
+  "cleaned_sentences": [
+    "The Twitter board threw a poison pill and Elon Musk first had to see how he could put the required suitcase on the table, so the idea that Musk Twitter would actually buy seemed like a vague idea.",
+    "Because Twitter and Elon Musk are suddenly in conversation for a takeover.",
+    "Sources report to the Wall Street Journal that they might come out this week.",
+    "Sources also report that there is no guarantee whatsoever that they will come out together.",
+    "For a while, the American government Biden behaved like the board of Twitter to Elon Musk and seemed to have little sense to chase the Russians in harness with regard to the help of Ukraine.",
+    "But during a visit to Ukraine, the American Minister of Defense Lloyd J. Austin III spoke the shocking words: \"I want to make sure that russia would not be able to do the child of things that it has done in the invasion or rebuild its capacity.\"",
+    "Especially the latter, \"rebuilt it’s capacity\", sounds like France and Great Britain against Germany after the First World War.",
+    "In China they still use a Zero COVID policy, which means that one positively tested Chinese is sufficient to lock a few million Chinese for a longer period of harsh conditions with too little food in a metropolis-bombed metropolis as Shanghai.",
+    "Literally: as animals locked behind gates."
+  ],
+  "topics": {
+    "Conflict": 0.8191776275634766,
+    "Military": 0.5857354402542114,
+    "Politics": 0.583685040473938,
+    "Technology": 0.5810515284538269,
+    "Culture": 0.4300249516963959,
+    "Economy": 0.34232038259506226,
+    "Diplomacy": 0.3101995587348938,
+    "Transport": 0.27288350462913513,
+    "Crime": 0.25933656096458435,
+    "Energy": 0.2137204110622406,
+    "Environment": 0.1967105269432068,
+    "Health": 0.1669829934835434,
+    "Education": 0.03467511385679245,
+    "Elections": 0.014095964841544628
+  },
+  "sentiment": {
+    "positive": 0.111,
+    "negative": 0.889,
+    "neutral": 0.0
+  }
+}

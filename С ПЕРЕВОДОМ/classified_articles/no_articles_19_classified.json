@@ -1,0 +1,36 @@
+{
+  "title": "Russia Today tilgjengelig i Ukraina, men skal forbys i EU",
+  "published_date": null,
+  "url": "https://www.document.no/2022/02/28/russia-today-tilgjengelig-i-ukraina-men-skal-forbys-i-eu/",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "The EU and Western Media's news coverage of the war in Ukraine are making the strangest impact.",
+    "On Sunday, the European Commission's president, Ursula von der Leyen, announced that the state-owned Russia Today would be denied access to the EU.",
+    "Monday is the site is still available in Norway, and in Ukraine!",
+    "Log in to read on (subscribers).",
+    "Support independent news!",
+    "Subscriber articles are opened 48 hours after publishing.",
+    "Articles older than two years are reserved for subscribers."
+  ],
+  "topics": {
+    "Conflict": 0.95303875207901,
+    "Culture": 0.6855972409248352,
+    "Politics": 0.6543797254562378,
+    "Military": 0.5827253460884094,
+    "Technology": 0.5724354386329651,
+    "Economy": 0.5479773283004761,
+    "Crime": 0.5405824780464172,
+    "Transport": 0.4804011285305023,
+    "Diplomacy": 0.43869641423225403,
+    "Environment": 0.41272395849227905,
+    "Health": 0.3505386710166931,
+    "Energy": 0.27238550782203674,
+    "Education": 0.12799201905727386,
+    "Elections": 0.06968937069177628
+  },
+  "sentiment": {
+    "positive": 0.429,
+    "negative": 0.571,
+    "neutral": 0.0
+  }
+}

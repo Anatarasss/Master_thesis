@@ -1,0 +1,39 @@
+{
+  "title": "Azerbaijan accuses Russia of trying to hide causes of plane crash",
+  "published_date": null,
+  "url": "https://manilastandard.net/news/world-news/314541202/azerbaijan-accuses-russia-of-trying-to-hide-causes-of-plane-crash.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Baku, Azerbaijan—Azerbaijan’s president Ilham Aliyev on Sunday said the Azerbaijan Airlines jet that crashed this week was shot at from Russia and called for Moscow to admit “guilt” in the disaster.",
+    "He said the jet which crashed this week, killing 38 of the 67 people onboard, was hit “by accident” by Russia.",
+    "On Saturday, Russian President Vladimir Putin apologized over the crash, but stopped short of accepting that it might have been hit by Russian fire.",
+    "“The facts are that the Azerbaijani civilian plane was damaged from the outside over Russian territory, near the city of Grozny, and almost lost control,” Aliyev said in televised comments, according to state news agency, Azertag.",
+    "“We also know that electronic warfare systems put our plane out of control,” he said, adding that “at the same time, as a result of fire from the ground, the tail of the plane was also severely damaged.” He said Baku regretted that Moscow “put forward theories” that “clearly showed the Russian side wanted to cover” up the issue.",
+    "“Of course, our plane was hit by accident.",
+    "Of course, there can be no talk of a deliberate act of terror here,” Aliyev said.",
+    "“Therefore, admitting the guilt, apologizing in a timely manner to Azerbaijan, which is considered a friendly country, and informing the public about this—all these were measures and steps that should have been taken,” he said.",
+    "Moscow had earlier said that Grozny, where the plane was due to land but instead crashed in western Kazakhstan, was attacked by Ukrainian drones that day.",
+    "Speculation has swirled for days that Russia accidentally shot down the plane, with the United States weighing in Friday saying it had “early indications” the plane was shot."
+  ],
+  "topics": {
+    "Conflict": 0.7980906963348389,
+    "Politics": 0.7410863637924194,
+    "Culture": 0.732067883014679,
+    "Military": 0.6387113928794861,
+    "Economy": 0.6253352761268616,
+    "Technology": 0.6218510866165161,
+    "Energy": 0.5150009393692017,
+    "Transport": 0.4959227740764618,
+    "Environment": 0.47627580165863037,
+    "Health": 0.4710167348384857,
+    "Diplomacy": 0.4114507734775543,
+    "Education": 0.28399255871772766,
+    "Crime": 0.2689472436904907,
+    "Elections": 0.18657347559928894
+  },
+  "sentiment": {
+    "positive": 0.1,
+    "negative": 0.9,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Italiana Enel vende su negocio en Rusia por US$ 144.5 millones",
+  "published_date": null,
+  "url": "https://gestion.pe/economia/empresas/italiana-enel-vende-su-negocio-en-rusia-por-us-1445-millones-noticia/",
+  "original_language": "es",
+  "cleaned_sentences": [
+    "The Italian Energy Company Enel, Matrix of Endesa, signed on Thursday an agreement for which it will sell all its participations in its PJSC subsidiary Enel Russia to the Russian oil company Lukoil and to the Gazprombank fund, for about 137 million euros (US $ 144.5 million).",
+    "The culmination of this operation is scheduled for the third quarter of this year and is subject to a series of conditions, such as the authorization of the competent Russian authorities in foreign investments and antimonopoly, reads a statement from Enel.",
+    "Specifically, the Italian company, Matrix of the Spanish Endesa and very present in Latin America, signed the agreements for the assignment of all its participation in Enel Russia, equivalent to 56.43% of its capital, with the oil company Lukoil and the Gazprombank-Frezia Investment Fund.",
+    "\"When the operation is completed, Enel will transfer all its electricity generation assets in Russia,\" said the Italian group.",
+    "On March 21, the CEO of this energy colossus, Francesco Starace, advanced that the departure of the Russian group was \"a matter of months\", within the framework of tensions by the Russian invasion of Ukraine and the sanctions imposed on Moscow.",
+    "The sale follows the strategic objective of Enel to “concentrate its activities mainly in countries” where it can grow and generate value, emphasizing the opportunities offered by the energy transition, reads in the note.",
+    "The energy group provides that this operation, including the loss of control of Enel Russia, will generate “a positive effect” in its net financial indebtedness consolidated by around 550 million euros.",
+    "But it will also foreseeably cause \"a negative impact\" on the net benefit of the group of about 1.3 billion euros.",
+    "Enel Russia PJSC was installed in 2004 in the country, where it achieved 119 million of the 1.7 billion euros of the gross benefit (Ebitda) reached in 2022.",
+    "Its current installed electrical capacity amounted to 5,739.9 MW and its thermal capacity is 2,032 Gcal/h.",
+    "Enel Russia had three thermoelectric plants: that of Konakovskaya, on the riverbank of Volga; The Sredneuralskaya, in the Sverdlovsk region, and the Nevinnomyssskaya, one of the largest thermal plants of the northern Caucasus.",
+    "To these is added the Azov wind park, in the Russian South and that generates around 320 GWh per year, avoiding the issuance of about 260,000 tons of carbon dioxide to the atmosphere."
+  ],
+  "topics": {
+    "Energy": 0.9192562103271484,
+    "Conflict": 0.651618242263794,
+    "Economy": 0.6008214354515076,
+    "Politics": 0.568398118019104,
+    "Environment": 0.5025957226753235,
+    "Technology": 0.5022804141044617,
+    "Culture": 0.43888846039772034,
+    "Health": 0.18758435547351837,
+    "Elections": 0.16829995810985565,
+    "Diplomacy": 0.1456759124994278,
+    "Transport": 0.1234891414642334,
+    "Military": 0.11706642806529999,
+    "Crime": 0.11208286136388779,
+    "Education": 0.0606820285320282
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Biden fortsetter Russia collusion for å gjendrive egen korrupsjon",
+  "published_date": null,
+  "url": "https://www.document.no/2021/03/17/biden-putin-er-en-morder-som-vil-matte-betale-for-forsok-pa-innblanding-i-usa-valget/",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "Joe Biden tries to pull the Russia card once again and gullible or corrupt journalists participate in the play.",
+    "In fact, the charges against Putin apply Trump and his voters.",
+    "Biden says Putin wanted Trump to win and planted conspiracy theories.",
+    "Log in to read on (subscribers).",
+    "Support independent news!",
+    "Subscriber articles are opened 48 hours after publishing.",
+    "Articles older than two years are reserved for subscribers."
+  ],
+  "topics": {
+    "Politics": 0.9769637584686279,
+    "Conflict": 0.9501950144767761,
+    "Culture": 0.8940386772155762,
+    "Elections": 0.8830355405807495,
+    "Transport": 0.6943421363830566,
+    "Crime": 0.6917678117752075,
+    "Health": 0.544246256351471,
+    "Economy": 0.5405033826828003,
+    "Technology": 0.3750535249710083,
+    "Military": 0.35335996747016907,
+    "Energy": 0.33346134424209595,
+    "Environment": 0.3189823031425476,
+    "Education": 0.1706787645816803,
+    "Diplomacy": 0.1005062609910965
+  },
+  "sentiment": {
+    "positive": 0.143,
+    "negative": 0.857,
+    "neutral": 0.0
+  }
+}

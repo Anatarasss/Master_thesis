@@ -1,0 +1,44 @@
+{
+  "title": "Serbia shores up oil reserves as seeks delay of U.S. sanctions on oil company NIS",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/serbia-shores-oil-reserves-seeks-080034264.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "By Aleksandar Vasovic BELGRADE (Reuters) - Russia's Gazprom Neft transferred stakes of around 5.15% in Serbia's NIS oil company to Gazprom, in an attempt to ward off U.S. sanctions that could result in crude supply cuts for the Balkan country.",
+    "The U.S. placed sanctions on Russia's oil sector on January 10, and gave Gazprom Neft 45 days to exit ownership of NIS.",
+    "The deadline expires at 0600 local time (0500 GMT) on Thursday.",
+    "According to notices made public by Belgrade stock exchange BELEX, Gazprom Neft reduced its stake in NIS to 44.85% from 50%.",
+    "At the same time, Gazprom increased its stake in the Serbian oil company to 11.3% from 6.15%.",
+    "The changes mean Gazprom Neft no longer has an absolute majority in NIS, which operates Serbia's sole crude oil refinery in Pancevo, just outside the capital Belgrade.",
+    "They follow a similar cosmetic change in 2022 when the company was trying to avoid EU sanctions.",
+    "It unclear whether they will satisfy U.S. authorities.",
+    "\"We are continuing talks with both the United States and Russia to reach a solution,\" Serbia's Energy Minister Dubravka Djedovic Handanovic said in a live TV broadcast on Wednesday.",
+    "The Serbian government holds a further 29.87% stake in NIS, with small shareholders accounting for the remainder.",
+    "Serbia, an historical ally of Russia, has submitted a formal request to the U.S. Treasury Department for a waiver of sanctions for 90 days to allow it to consider a \"sustainable solution that would lead to the lifting of sanctions\".",
+    "Following efforts to store fuel and find alternative supplies, Handanovic said the government has enough to supply the market for at least three months.",
+    "But in the absence of a waiver, Serbia could face a shortfall as NIS, which supplies about 80% of the domestic retail market with crude oil and gas derivatives, would be unable to import crude oil through Croatia's pipeline operator Janaf.",
+    "The Belgrade stock exchange suspended trading of NIS shares on January 14, citing the introduction of the U.S. sanctions.",
+    "(Reporting by Aleksandar Vasovic; Writing by Angeliki Koutantou; Editing by Louise Heavens, Edward McAllister and Barbara Lewis)"
+  ],
+  "topics": {
+    "Energy": 0.9734162092208862,
+    "Economy": 0.882443368434906,
+    "Conflict": 0.8355385065078735,
+    "Diplomacy": 0.7376991510391235,
+    "Politics": 0.6841531991958618,
+    "Environment": 0.6186699867248535,
+    "Culture": 0.6160452961921692,
+    "Health": 0.5687612295150757,
+    "Military": 0.5661165118217468,
+    "Technology": 0.4983222186565399,
+    "Transport": 0.3546191453933716,
+    "Crime": 0.2666361331939697,
+    "Elections": 0.23795682191848755,
+    "Education": 0.1748575121164322
+  },
+  "sentiment": {
+    "positive": 0.267,
+    "negative": 0.733,
+    "neutral": 0.0
+  }
+}

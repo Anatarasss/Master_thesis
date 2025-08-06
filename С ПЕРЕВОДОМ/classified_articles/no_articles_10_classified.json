@@ -1,0 +1,37 @@
+{
+  "title": "Den administrative staten står ikke til regnskap for noen",
+  "published_date": null,
+  "url": "https://www.document.no/2022/07/24/den-administrative-staten-star-ikke-til-regnskap-for-noen/",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "The people behind Russia Collusion were never held accountable.",
+    "Now the administrative state is more arrogant than ever.",
+    "They judge Steve Bannon for something he had nothing to do with, even refuse to answer questions in Congress.",
+    "Democracy becomes a farce.",
+    "Log in to read on (subscribers).",
+    "Support independent news!",
+    "Subscriber articles are opened 48 hours after publishing.",
+    "Articles older than two years are reserved for subscribers."
+  ],
+  "topics": {
+    "Politics": 0.9262512922286987,
+    "Conflict": 0.8793326020240784,
+    "Crime": 0.8731424808502197,
+    "Culture": 0.7410457134246826,
+    "Transport": 0.45059657096862793,
+    "Economy": 0.3217448592185974,
+    "Health": 0.17042343318462372,
+    "Energy": 0.16343575716018677,
+    "Environment": 0.11977940052747726,
+    "Technology": 0.11937068402767181,
+    "Military": 0.07751373201608658,
+    "Education": 0.03574657067656517,
+    "Diplomacy": 0.02923898957669735,
+    "Elections": 0.021195298060774803
+  },
+  "sentiment": {
+    "positive": 0.125,
+    "negative": 0.875,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Drone attacks halt traffic in Russia",
+  "published_date": null,
+  "url": "https://manilastandard.net/news/314586866/drone-attacks-halt-traffic-in-russia.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW – More than a dozen Russian airports had to restrict their traffic due to drone attacks overnight to Tuesday, Russian authorities reported, including in Moscow days before a planned military parade.",
+    "A total 19 drones were downed around the Russian capital, where several world leaders are expected to attend a parade and address by President Vladimir Putin on May 9 as part of World War II anniversary celebrations, authorities said.",
+    "Flight restrictions were introduced at four airports in Moscow, Russian news agencies reported, citing the Federal Air Transport Agency — though traffic at the city’s main Sheremetyevo airport remained largely unaffected.",
+    "Airports were also affected in other cities including Volgograd and Nizhny Novgorod.",
+    "In a post on Telegram, Moscow Mayor Sergei Sobyanin said debris had fallen on a major avenue in southern Moscow but there was “no damage or casualties” in the city.",
+    "Russian media broadcast images of a cracked supermarket window and a blackened residential building facade.",
+    "The governors of Voronezh and Penza reported that 18 and 10 Ukrainian drones had been intercepted in their regions respectively, without causing any casualties.",
+    "In the Kursk region, acting governor Alexander Khinshtein said an attack was carried out on an electrical substation in the city of Rylsk late Monday, injuring two teenagers.",
+    "“As a result of the attack on the city, two transformers were damaged, and the power was completely cut off,” he said on Telegram.",
+    "Russian authorities earlier on Monday said defense forces had repelled four drones heading towards Moscow, where the conflict in Ukraine often feels distant."
+  ],
+  "topics": {
+    "Conflict": 0.770879864692688,
+    "Technology": 0.6109717488288879,
+    "Military": 0.5753479599952698,
+    "Politics": 0.5358480215072632,
+    "Culture": 0.48758694529533386,
+    "Transport": 0.4508720338344574,
+    "Health": 0.4255155026912689,
+    "Economy": 0.40153494477272034,
+    "Environment": 0.34190529584884644,
+    "Energy": 0.31972184777259827,
+    "Diplomacy": 0.21303746104240417,
+    "Crime": 0.16403472423553467,
+    "Education": 0.14386671781539917,
+    "Elections": 0.10550478100776672
+  },
+  "sentiment": {
+    "positive": 0.1,
+    "negative": 0.9,
+    "neutral": 0.0
+  }
+}

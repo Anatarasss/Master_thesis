@@ -1,0 +1,38 @@
+{
+  "title": "Ekspert: Her vil Putin gjøre \"Russia great again\"",
+  "published_date": null,
+  "url": "https://www.tv2.no/nyheter/14701169/",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "Expert: Here Putin will do \"Russia Great Again\" It's not just China that still has a friendly tone to Putin.",
+    "This article is over one year old and may contain outdated information.",
+    "Large parts of the West have in the form of economic sanctions turned their backs on Putin and Russia - in an attempt to exclude the country from the world economy.",
+    "However, the world's nations have not thrown themselves on the sanction.",
+    "Several countries contribute to the Russian Treasury as normal.",
+    "President Putin often talks about \"friendly\" and \"unfriendly\" countries.",
+    "The countries that sanctions look Putin as his enemies - which he clearly has the most of.",
+    "But Putin has some faithful partners' Log in to read this article If you do not have a TV 2 account from before, you can make one, completely at no cost!",
+    "The article is updated"
+  ],
+  "topics": {
+    "Conflict": 0.8594788312911987,
+    "Economy": 0.7681941986083984,
+    "Politics": 0.6671046018600464,
+    "Culture": 0.5981543064117432,
+    "Technology": 0.5245537161827087,
+    "Diplomacy": 0.4607880115509033,
+    "Energy": 0.44333502650260925,
+    "Transport": 0.412980854511261,
+    "Health": 0.348344624042511,
+    "Military": 0.34149256348609924,
+    "Education": 0.3307453989982605,
+    "Environment": 0.27974826097488403,
+    "Crime": 0.24708780646324158,
+    "Elections": 0.22288984060287476
+  },
+  "sentiment": {
+    "positive": 0.778,
+    "negative": 0.222,
+    "neutral": 0.0
+  }
+}

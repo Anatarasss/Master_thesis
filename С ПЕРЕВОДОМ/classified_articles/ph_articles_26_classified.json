@@ -1,0 +1,52 @@
+{
+  "title": "Seoul says 300 North Korean soldiers killed fighting Ukraine",
+  "published_date": null,
+  "url": "https://manilastandard.net/news/314546378/seoul-says-300-north-korean-soldiers-killed-fighting-ukraine.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "SEOUL—Around 300 North Korean soldiers have been killed and 2,700 wounded while fighting in Russia’s war against Ukraine, a South Korean lawmaker said Monday, citing information from Seoul’s spy agency.",
+    "Seoul has previously claimed North Korean leader Kim Jong Un has sent more than 10,000 soldiers as “cannon fodder” to help Moscow fight Kyiv, in return for Russian technical assistance for Pyongyang’s heavily sanctioned weapons and satellite programs.",
+    "Over the weekend, Ukrainian President Volodymyr Zelenskyy said Kyiv had captured two North Korean soldiers, releasing video of the injured combatants being interrogated and raising the possibility of a prisoner swap for captured Ukrainian troops.",
+    "“The deployment of North Korean troops to Russia has reportedly expanded to include the Kursk region, with estimates suggesting that casualties among North Korean forces have surpassed 3,000,” lawmaker Lee Seong-kweun told reporters after a briefing from the spy agency.",
+    "This includes “approximately 300 deaths and 2,700 injuries,” Lee said, after a briefing from Seoul’s National Intelligence Service.",
+    "The soldiers, reportedly from North Korea’s elite Storm Corps, have been ordered to kill themselves rather than be taken prisoner, Lee said.",
+    "“Notably, memos found on deceased soldiers indicate that the North Korean authorities pressured them to commit suicide or self-detonate before capture,” he said.",
+    "He added that some of the soldiers had been granted “amnesty” or wanted to join North Korea’s ruling Workers’ Party, hoping to improve their lot by fighting.",
+    "One North Korean soldier who was about to be captured shouted “General Kim Jong Un” and attempted to detonate a grenade, Lee said, adding that he was shot and killed.",
+    "The NIS analysis also revealed that the North Korean soldiers have “a lack of understanding of modern warfare,” and are being used by Russia in a manner leading to “the high number of casualties,” the lawmaker said.",
+    "Lee — speaking for South Korea’s intelligence committee in parliament — said in the coming year US president-elect Donald Trump, who has previously tried to woo North Korean leader Kim Jong Un, “may push for dialogue… once again”.",
+    "He also said Kim may “weigh the possibility of a visit to Russia in the first half of this year” after meeting Russian President Vladimir Putin in late 2023.",
+    "In a post on social media platform X Sunday, Zelenskyy said: “Ukraine is ready to hand over Kim Jong Un’s soldiers to him if he can organize their exchange for our warriors who are being held captive in Russia.” There would “undoubtedly be more” North Korean soldiers captured by Kyiv, he added.",
+    "“For those North Korean soldiers who do not wish to return, there may be other options available,” said Zelenskyy.",
+    "Ukraine, the United States and South Korea have accused nuclear-armed North Korea of sending more than 10,000 soldiers to help bolster Russian forces.",
+    "Neither Moscow nor Pyongyang has acknowledged that North Koreans have been deployed to fight against Ukraine.",
+    "The two countries have boosted their military cooperation since Russia launched its 2022 invasion of Ukraine.",
+    "On a visit to Seoul this month, US Secretary of State Antony Blinken said Washington believed Russia was expanding space cooperation with North Korea in exchange for its troop contribution in fighting Ukraine.",
+    "Washington’s top diplomat said the United States also believed Russia “may be close” to formally accepting North Korea’s status as a nuclear power.",
+    "The video posted by Zelenskyy of the interrogation of the two North Korean prisoners of war shows one lying in a bunk bed and the other sitting up with a bandage around his jaw.",
+    "One man can be heard speaking to a Ukrainian official through an interpreter, saying that he did not know he was going to fight in a war with Ukraine and that his commanders “told him it was just training”.",
+    "In translated comments, one of the men says he wants to return to North Korea.",
+    "The other says he will do what he is told but, if given the chance, wants to live in Ukraine."
+  ],
+  "topics": {
+    "Technology": 0.9454694390296936,
+    "Conflict": 0.9405419826507568,
+    "Politics": 0.9400810599327087,
+    "Economy": 0.9323505759239197,
+    "Environment": 0.9269928932189941,
+    "Diplomacy": 0.9172927141189575,
+    "Culture": 0.8979148268699646,
+    "Elections": 0.8971696496009827,
+    "Energy": 0.8049599528312683,
+    "Military": 0.7989146709442139,
+    "Transport": 0.7968904972076416,
+    "Health": 0.7966464161872864,
+    "Education": 0.695331871509552,
+    "Crime": 0.6130931377410889
+  },
+  "sentiment": {
+    "positive": 0.217,
+    "negative": 0.783,
+    "neutral": 0.0
+  }
+}

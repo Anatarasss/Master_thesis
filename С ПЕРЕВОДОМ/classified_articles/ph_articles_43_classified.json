@@ -1,0 +1,45 @@
+{
+  "title": "Trump vows to speak to Zelenskyy, Putin",
+  "published_date": null,
+  "url": "https://manilastandard.net/news/314537162/trump-vows-to-speak-to-zelenskyy-putin.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "WASHINGTON, DC—Donald Trump said Monday that he would speak to Ukraine’s Volodymyr Zelenskyy and Russia’s Vladimir Putin to end the “carnage” of almost three years of war, as the Kremlin leader lauded Russian army successes on the ground.",
+    "Both sides have rushed to gain an advantage on the battlefield ahead of Trump entering the White House in January, and there has been some alarm in Ukraine that it will be forced to make territorial concessions in exchange for peace.",
+    "Trump has been highly critical of billions of dollars of aid that Joe Biden’s administration provided to Kyiv to battle Moscow’s invasion.",
+    "He spoke Monday at his Mar-a-Lago resort in Florida as Putin hailed his army’s accelerating advance in Ukraine in what he called a “landmark” year.",
+    "“We’ll be talking to President Putin, and we’ll be talking to the representatives, Zelenskyy and representatives from Ukraine,” Trump said.",
+    "“We gotta stop it, it’s carnage,” he added, referring to the war.",
+    "Trump has repeatedly claimed he could swiftly end the conflict but has not provided concrete details on how.",
+    "His comments Monday come after he called for an “immediate ceasefire” earlier this month and said “negotiations should begin.” Trump met Zelenskyy in a meeting hosted by French leader Emmanuel Macron in Paris this month, after which the Ukrainian leader said he had argued that Kyiv is seeking an “enduring” peace and “security guarantees.” Poland, Ukraine’s ally and neighbour, urged Monday that Kyiv should not be “forced” into peace talks, with its Foreign Minister Radoslaw Sikorski saying that it was “the aggressor and not the victim should be encouraged and forced” to do so.",
+    "AFP Ukraine is entering another winter of war as its energy grid is already badly damaged by Russian attacks and Trump spoke as Russian forces were almost at the gates of the key eastern city of Pokrovsk.",
+    "Addressing top military generals in an end-of-year meeting on Monday, Putin struck a defiant and optimistic tone, claiming his troops had the upper hand across the entire front line.",
+    "The comments come with Russia’s army advancing across eastern Ukraine at their fastest pace since the first weeks of the offensive.",
+    "“Russian troops are firmly holding the strategic initiative along the entire line of contact,” Putin said.",
+    "He said Russia’s army had seized 189 Ukrainian settlements this year and called 2024 a “landmark year in the achievement of the goals of the special military operation”, using Moscow’s official language for its campaign.",
+    "Speaking after Putin at the same meeting, Russian Defense Minister Andrei Belousov said Russia’s troops had seized a total of almost 4,500 square kilometers of Ukrainian territory in this year and were now gaining around 30 square kilometers a day.",
+    "Russia’s army said Monday that it had captured another small village in the Donetsk region as part of its latest advance.",
+    "AFP analysis of Institute for the Study of War data found that in November Russian troops advanced at their fastest pace since March 2022 — the first full month of the offensive."
+  ],
+  "topics": {
+    "Conflict": 0.9597315192222595,
+    "Energy": 0.9135741591453552,
+    "Politics": 0.881503164768219,
+    "Military": 0.8620996475219727,
+    "Technology": 0.7665018439292908,
+    "Culture": 0.7077572345733643,
+    "Crime": 0.6205982565879822,
+    "Health": 0.6016355156898499,
+    "Diplomacy": 0.583038330078125,
+    "Economy": 0.5778316855430603,
+    "Environment": 0.5442732572555542,
+    "Transport": 0.4806217849254608,
+    "Elections": 0.3375410735607147,
+    "Education": 0.30476006865501404
+  },
+  "sentiment": {
+    "positive": 0.625,
+    "negative": 0.375,
+    "neutral": 0.0
+  }
+}

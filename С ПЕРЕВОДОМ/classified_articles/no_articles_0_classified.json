@@ -1,0 +1,39 @@
+{
+  "title": "Provoserer med T-skjortestunt",
+  "published_date": null,
+  "url": "https://www.dagbladet.no/nyheter/provoserer-med-t-skjortestunt/82135877",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "Volodyymyr Zelenskyj Provokes with t-shirt stunt \"Make Russia Small Again\" became too much for the Russians.",
+    "Ukraine President Volodymyr Zelenskyj is wearing a new video on a t-shirt that does not go unnoticed in Russia.",
+    "\"Make Russia Small Again,\" or \"Do Russia Little Again,\" it says on the president's t-shirt in the video, which he has shared on Telegram.",
+    "The reference to Donald Trump's slogan \"Make America Great Again\" is not to be misunderstood.",
+    "Zelenskyj wants to shrink Russia by freeing the illegally annexed and occupied areas.",
+    "The president received the t-shirt by Ukrainian politician Hanna Hopko this week, writes The New Voice of Ukraine newspaper.",
+    "Russia responds by calling Zelenskyj an idiot, or \"Bloody Jerk\".",
+    "As the Kyiv Kingdom (Slavic State in the Middle Ages, journ.anm).",
+    "For that we need kyiv.",
+    "You said it yourself, your stupid idiot, writes Maria Zakharova, spokesperson for Russia's Foreign Ministry, at X."
+  ],
+  "topics": {
+    "Conflict": 0.9569741487503052,
+    "Politics": 0.9459953904151917,
+    "Culture": 0.7930176854133606,
+    "Crime": 0.6762320399284363,
+    "Military": 0.6369951367378235,
+    "Economy": 0.4626937806606293,
+    "Health": 0.4076783359050751,
+    "Technology": 0.25424623489379883,
+    "Transport": 0.2283134162425995,
+    "Energy": 0.22720025479793549,
+    "Diplomacy": 0.2254806011915207,
+    "Environment": 0.20243367552757263,
+    "Education": 0.09915810078382492,
+    "Elections": 0.07750169187784195
+  },
+  "sentiment": {
+    "positive": 0.3,
+    "negative": 0.7,
+    "neutral": 0.0
+  }
+}

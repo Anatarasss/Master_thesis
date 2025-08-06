@@ -1,0 +1,35 @@
+{
+  "title": "John Durham trekker seg, det blir ikke noe oppgjør med Russia collusion-folkene",
+  "published_date": null,
+  "url": "https://www.document.no/2021/02/26/john-durham-trekker-seg/",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "Attorney General of Connecticut and specialist researcher for the Russia Collusion Investigation, John Durham, resigns from the position of February 28, the Ministry of Justice reported on Friday.",
+    "Durham was appointed specialist researcher by William Barr in October.",
+    "Log in to read on (subscribers).",
+    "Support independent news!",
+    "Subscriber articles are opened 48 hours after publishing.",
+    "Articles older than two years are reserved for subscribers."
+  ],
+  "topics": {
+    "Conflict": 0.908085823059082,
+    "Culture": 0.7259733080863953,
+    "Crime": 0.7004342675209045,
+    "Politics": 0.6909300684928894,
+    "Economy": 0.534428060054779,
+    "Transport": 0.4372308552265167,
+    "Military": 0.4128337502479553,
+    "Technology": 0.3943767845630646,
+    "Environment": 0.25066542625427246,
+    "Energy": 0.18829502165317535,
+    "Elections": 0.1559603065252304,
+    "Health": 0.12419190257787704,
+    "Diplomacy": 0.10366379469633102,
+    "Education": 0.04337436705827713
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

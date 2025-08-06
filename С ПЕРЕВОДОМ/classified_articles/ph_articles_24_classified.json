@@ -1,0 +1,45 @@
+{
+  "title": "Ukraine claims drone attack, Russia says it captured town",
+  "published_date": null,
+  "url": "https://manilastandard.net/news/314551278/ukraine-claims-drone-attack-russia-says-it-captured-town.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "KYIV – Ukraine on Sunday claimed a night-time drone attack on a Russian oil refinery south of Moscow, in the second attack on the same site in less that two weeks.",
+    "Kyiv has been launching drones into Russia throughout Moscow’s almost three years invasion.",
+    "Ukraine’s army said “the Defence Intelligence of Ukraine had hit the facilities of the Ryazan Oil Refining Company again.” Kyiv said the refinery is one of the four largest in Russia and is used by Moscow’s air force.",
+    "“Explosions and a fire were recorded in the targeted area,” it said.",
+    "The regional governor in Ryazan — Pavel Malkov — said Russian air defence had “destroyed” drones over the regin and that authorities were assessing the damage.",
+    "Both sides in the war in Ukraine have rushed to seek an advantage on the battlefield with Donald Trump — who has vowed to hold talks on the conflict — now back in the White House.",
+    "Menwhile, Russia said its forces had captured the east Ukrainian town of Velyka Novosilka in the embattled Donetsk region, almost three years into their offensive.",
+    "Russia’s military has been making steady advances on the battlefield in eastern Ukraine for months.",
+    "Moscow’s defene ministry said Russian troops led “active offensive actions” and “liberated the settlement of Velyka Novosilka”, which lies in the west of the Donetsk region.",
+    "Moscow regularly claims the capture of small villages, but rarely announces claims to bigger towns.",
+    "According to Ukrainian data, Velyka Novosilka had a population of around 6,000 people before Moscow’s 2022 offensive — but only around 300 people remain.",
+    "Velyka Novosilka is close to the southern front line in Ukraine — which has remained largely static but where fears of a fresh Russian offensive have risen for weeks.",
+    "Russia’s defense ministry later released images of two soldiers waving Russian flags on top of a damaged building.",
+    "It also said that Defence Minister Andrei Belousov had congratulated units who took part in the advance on the town.",
+    "Kyiv has not yet commented on the claims.",
+    "Both sides have raced to gain an advantage in the almost three-year as Donald Trump — who has vowed to hold talks to end the conflict — returns to the White House."
+  ],
+  "topics": {
+    "Conflict": 0.9912242293357849,
+    "Politics": 0.9779345989227295,
+    "Military": 0.9364380836486816,
+    "Technology": 0.8173728585243225,
+    "Economy": 0.8030775785446167,
+    "Culture": 0.8025246262550354,
+    "Energy": 0.7750017046928406,
+    "Health": 0.7174412608146667,
+    "Environment": 0.6794856786727905,
+    "Crime": 0.6674246191978455,
+    "Transport": 0.6595170497894287,
+    "Elections": 0.599921703338623,
+    "Diplomacy": 0.5983681082725525,
+    "Education": 0.5358200669288635
+  },
+  "sentiment": {
+    "positive": 0.375,
+    "negative": 0.625,
+    "neutral": 0.0
+  }
+}

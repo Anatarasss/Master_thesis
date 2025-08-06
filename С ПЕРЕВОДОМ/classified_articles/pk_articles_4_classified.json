@@ -1,0 +1,40 @@
+{
+  "title": "Goldman Sachs says it does not see Ukraine ceasefire boosting Russia output",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/goldman-sachs-says-does-not-065441358.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "(Reuters) - A potential Ukraine ceasefire and the associated easing in sanctions on Russia are unlikely to substantially increase Russia's oil flows, Goldman Sachs said on Wednesday.",
+    "U.S. President Donald Trump's administration said on Tuesday it had agreed to hold more talks with Russia on ending the war in Ukraine.",
+    "\"We believe that Russia crude oil production is constrained by its OPEC+ 9.0 million barrels per day (mbpd) production target rather than current sanctions, which are affecting the destination but not the volume of oil exports,\" Goldman Sachs said.",
+    "OPEC+, a grouping of the Organization of the Petroleum Exporting Countries along with Russia and other allies, pumps about half the world's oil.",
+    "The bank assumes that OPEC+ is likely to postpone its planned gradual ramp-up in oil production to July this year from April, on increased compliance with OPEC+ targets by Russia and several other OPEC+ producers, as well as continued uncertainty surrounding U.S. policy.",
+    "OPEC+ pushed the plan to begin raising output to April, extending its latest layer of cuts through the first quarter of 2025 in December due to weak demand and rising supply outside the group.",
+    "On Monday, Russia's RIA state news agency reported Russian Deputy Prime Minister Alexander Novak saying that OPEC+ producers were not considering further delays in the monthly oil supply increases.",
+    "Russia, as one of the world's top oil suppliers, holds substantial sway over global oil markets and prices.",
+    "Goldman Sachs continues to expect potential recoveries in positioning and valuation to nudge Brent up to $79 per barrel later this month.",
+    "Brent crude prices were trading at about $76 a barrel as of 0537 GMT on Wednesday.",
+    "[O/R] (Reporting by Anushree Mukherjee and Swati Verma in Bengaluru; Editing by Janane Venkatraman)"
+  ],
+  "topics": {
+    "Conflict": 0.901247501373291,
+    "Culture": 0.8253854513168335,
+    "Energy": 0.790575385093689,
+    "Health": 0.7376031875610352,
+    "Politics": 0.7205505967140198,
+    "Economy": 0.6922219395637512,
+    "Transport": 0.544972836971283,
+    "Technology": 0.5321935415267944,
+    "Military": 0.5215696692466736,
+    "Diplomacy": 0.5052779912948608,
+    "Environment": 0.4386374354362488,
+    "Crime": 0.34642085433006287,
+    "Elections": 0.2794491946697235,
+    "Education": 0.21649479866027832
+  },
+  "sentiment": {
+    "positive": 0.364,
+    "negative": 0.636,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Russia says Ukraine fired US-made missiles at border",
+  "published_date": null,
+  "url": "https://manilastandard.net/news/world-news/314543534/russia-says-ukraine-fired-us-made-missiles-at-border.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW – Russia has vowed to retaliate after it accused Ukraine of firing US-supplied ATACMS missiles at the border region of Belgorod the previous day.",
+    "Outgoing US President Joe Biden authorized Kyiv to use the long-range weapons against Russia last year, in a move Moscow denounced as a grave escalation of the nearly three-year conflict.",
+    "“On Jan. 3, an attempt was made from Ukrainian territory to launch a missile strike against the Belgorod region using US-made ATACMS operational-tactical missiles,” the Russian defense ministry said.",
+    "“These actions by the Kyiv regime, which is supported by Western curators, will be met with retaliation,” it added, saying all the missiles were shot down.",
+    "Kyiv’s use of the missile systems has infuriated the Kremlin, which has threatened to hit central Kyiv with a hypersonic ballistic missile in response to the strikes.",
+    "ATACMS missiles have a maximum range of 300 kilometres (190 miles), according to publicly available data.",
+    "US President-elect Donald Trump said in an interview published last month he was “very vehemently” opposed to Ukraine using the arms, which he said were “escalating” the conflict.",
+    "In Ukraine’s eastern Donetsk region, a Ukrainian “kamikaze” drone killed a reporter from Russia’s Izvestia newspaper as he was travelling on a highway between two Russian-held cities, the paper said.",
+    "Alexander Martemyanov, who worked freelance for the paper, was returning from covering shelling in the Russian-held city of Gorlivka with colleagues when their car was hit, Russia’s state RIA news agency said.",
+    "A journalist from RIA and four other media workers were wounded in the attack, the agency added.",
+    "Both Kyiv and Moscow have accused each other of fatal attacks on civilians since the year began.",
+    "A Russian strike on a village in Ukraine’s northeast Kharkiv region earlier on Saturday killed a 74-year-old man, regional governor Oleg Synegubov said.",
+    "Moscow also struck a town in Ukraine’s northern Sumy region, destroying part of an apartment building and wounding seven including a two-year-old girl, according to Ukrainian President Volodymyr Zelenskyy.",
+    "In the Russian-occupied part of Ukraine’s southern Zaporizhzhia region, a 10-year-old boy was killed and his parents injured when a drone hit their car, the region’s Moscow-installed head Yevgeny Balitsky said.",
+    "Russia’s defence ministry meanwhile said on Saturday it had captured the Ukrainian village of Nadiia, one of the few settlements in the eastern Lugansk region still under Kyiv’s control.",
+    "Moscow advanced by almost 4,000 square kilometers in Ukraine in 2024, according to an AFP analysis, as Kyiv’s army struggled with chronic manpower shortages and exhaustion."
+  ],
+  "topics": {
+    "Conflict": 0.7004445195198059,
+    "Military": 0.4059073030948639,
+    "Politics": 0.37580278515815735,
+    "Culture": 0.31510666012763977,
+    "Technology": 0.24510978162288666,
+    "Health": 0.1865711212158203,
+    "Economy": 0.18533562123775482,
+    "Transport": 0.17150907218456268,
+    "Crime": 0.16315938532352448,
+    "Diplomacy": 0.1354309767484665,
+    "Energy": 0.10554974526166916,
+    "Environment": 0.09561091661453247,
+    "Education": 0.05178171396255493,
+    "Elections": 0.03435898199677467
+  },
+  "sentiment": {
+    "positive": 0.062,
+    "negative": 0.938,
+    "neutral": 0.0
+  }
+}

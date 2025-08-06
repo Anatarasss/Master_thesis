@@ -1,0 +1,40 @@
+{
+  "title": "Kreml-alliert: - Vi kan ødelegge USA på en time",
+  "published_date": null,
+  "url": "https://www.abcnyheter.no/nyheter/verden/2024/02/05/195980411/kreml-alliert-vi-kan-odelegge-usa-pa-en-time?nr=1",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "The Kremlin allied:-We can destroy the United States in one hour Editor of Russian broadcaster Russia Today does not hold back.",
+    "In a clip of a TV broadcast from the Russian state-sponsored broadcaster Russia Today (RT), comes the Kremlin-friendly editor Margarita Simonjan (43) with lavish boast of the home country's nuclear capacity.",
+    "\"We are the only country in the world that can destroy the United States in an hour,\" says Simonjan in the clip, who has been divided by X, writes Newsweek.",
+    "(The case continues during the video clip).",
+    "It is not clear when the clip was sent.",
+    "Common with propaganda on Russian TV Such statements are not uncommon on Russian TV after the relationship between the country and the West, especially the United States, has been freezing after the Russian invasion of Ukraine.",
+    "In May in 2022, a Russian politician also sat on Russian state TV and discussed how to destroy the United States from east to west.",
+    "But already in 2019, Russian state TV sent a list of US military facilities that they said Russia would aim in a nuclear attack.",
+    "Watch video: Here Ukraine takes out an important Russian goal Medvedev with strong statements The former president and current vice -chairman of the Russia Security Council, Dmitry Medvedev, has nevertheless stood for most of the rattener with the atomic papers.",
+    "Among other things, he suggested the day before the anniversary of the September 11 attack that the United States was going to be subjected to an attack in the style of terrorist attacks, but with nuclear weapons.",
+    "Recently, he also threatened Ukraine with nuclear weapons if they turn their most advanced long -distance weapons against specific Russian goals."
+  ],
+  "topics": {
+    "Politics": 0.8616063594818115,
+    "Conflict": 0.7661508917808533,
+    "Military": 0.5670457482337952,
+    "Culture": 0.48610809445381165,
+    "Technology": 0.4260600507259369,
+    "Economy": 0.2739059329032898,
+    "Energy": 0.23804639279842377,
+    "Diplomacy": 0.20524358749389648,
+    "Transport": 0.18688885867595673,
+    "Health": 0.17124173045158386,
+    "Crime": 0.0865737572312355,
+    "Environment": 0.06499040126800537,
+    "Elections": 0.055449873208999634,
+    "Education": 0.053566161543130875
+  },
+  "sentiment": {
+    "positive": 0.182,
+    "negative": 0.818,
+    "neutral": 0.0
+  }
+}

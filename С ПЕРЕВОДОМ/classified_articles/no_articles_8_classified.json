@@ -1,0 +1,32 @@
+{
+  "title": "Russisk TV-direktør suspendert etter uttalelser om at ukrainske barn burde druknes",
+  "published_date": null,
+  "url": "https://www.vg.no/nyheter/utenriks/i/3EE0wv/russisk-tv-direktoer-suspendert-etter-uttalelser-om-at-ukrainske-barn-burde-druknes",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "It is Anton Krasovskyjs, RTS Kringskasting Director, who makes the statements during a conversation with Science Fiction author Sergei Lukjanenko.",
+    "Russian TV director suspended after statements that Ukrainian children should be drowned One of the top executives of Russia Today (RT) said on Sunday on state TV that Ukrainian children should be drowned and burned alive.",
+    "Now he is suspended from work."
+  ],
+  "topics": {
+    "Conflict": 0.8726929426193237,
+    "Politics": 0.6578288674354553,
+    "Culture": 0.6014710068702698,
+    "Crime": 0.5740019679069519,
+    "Technology": 0.2019515037536621,
+    "Health": 0.13543395698070526,
+    "Military": 0.08063633739948273,
+    "Transport": 0.03867184743285179,
+    "Economy": 0.03485114872455597,
+    "Environment": 0.03464270010590553,
+    "Education": 0.02388995885848999,
+    "Energy": 0.015013806521892548,
+    "Elections": 0.014709643088281155,
+    "Diplomacy": 0.012511342763900757
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

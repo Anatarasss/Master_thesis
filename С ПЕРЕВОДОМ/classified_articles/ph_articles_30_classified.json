@@ -1,0 +1,45 @@
+{
+  "title": "US imposes sanctions on entities in Iran, Russia over election interference",
+  "published_date": null,
+  "url": "https://www.rappler.com/world/us-canada/us-sanctions-iran-russia-election-interference/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "SUMMARY This is AI generated summarization, which may have errors.",
+    "For context, always refer to the full article.",
+    "WASHINGTON, DC, USA – The United States on Tuesday, December 31, imposed sanctions on entities in Iran and Russia, accusing them of attempting to interfere in the 2024 US election.",
+    "The US Treasury Department in a statement said the entities — a subsidiary of Iran’s Revolutionary Guards Corps and an organization affiliated with Russia’s military intelligence agency — aimed to “stoke socio-political tensions and influence the US electorate during the 2024 US election.” “The Governments of Iran and Russia have targeted our election processes and institutions and sought to divide the American people through targeted disinformation campaigns,” Treasury’s Acting Under Secretary for Terrorism and Financial Intelligence, Bradley Smith said in the statement.",
+    "“The United States will remain vigilant against adversaries who would undermine our democracy.” Iran’s mission to the United Nations in New York and Russia’s embassy in Washington did not immediately respond to requests for comment.",
+    "Republican Donald Trump was elected president in November, beating Democratic candidate Kamala Harris and capping a remarkable comeback four years after he was voted out of the White House.",
+    "The Treasury said the Cognitive Design Production Center planned influence operations since at least 2023 designed to incite tensions among the electorate on behalf of the IRGC.",
+    "The Treasury accused the Moscow-based Center for Geopolitical Expertise (CGE) of circulating disinformation about candidates in the election as well as directing and subsidizing the creation of deepfakes.",
+    "The Treasury said CGE also manipulated a video to produce “baseless accusations concerning a 2024 vice presidential candidate.” It did not specify which candidate was targeted.",
+    "The Moscow-based center, at the direction of the GRU, used generative AI tools to quickly create disinformation distributed across a network of websites that were designed to look like legitimate news outlets, the Treasury said.",
+    "It accused the GRU of providing financial support to CGE and a network of US-based facilitators in order to build and maintain its AI-support server and maintain a network of at least 100 websites used in its disinformation operations.",
+    "CGE’s director was also hit with sanctions in Tuesday’s action.",
+    "An annual US threat assessment released in October 2024 said the United States sees a growing threat of Russia, Iran, and China attempting to influence the elections, including by using artificial intelligence to disseminate fake or divisive information.",
+    "– Rappler.com Add a comment There are no comments yet.",
+    "Add your comment to start the conversation.",
+    "How does this make you feel?"
+  ],
+  "topics": {
+    "Politics": 0.8113766312599182,
+    "Elections": 0.8004360795021057,
+    "Technology": 0.798409104347229,
+    "Conflict": 0.6838650703430176,
+    "Culture": 0.6219921708106995,
+    "Military": 0.5822184085845947,
+    "Economy": 0.5639088153839111,
+    "Environment": 0.4867461919784546,
+    "Transport": 0.46947216987609863,
+    "Health": 0.4558292329311371,
+    "Crime": 0.3688015937805176,
+    "Diplomacy": 0.3536483645439148,
+    "Education": 0.33070194721221924,
+    "Energy": 0.3226492702960968
+  },
+  "sentiment": {
+    "positive": 0.188,
+    "negative": 0.812,
+    "neutral": 0.0
+  }
+}

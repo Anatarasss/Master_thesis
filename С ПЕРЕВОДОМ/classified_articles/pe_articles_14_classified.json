@@ -1,0 +1,38 @@
+{
+  "title": "Google suspende la monetización de medios estatales rusos en sus plataformas",
+  "published_date": null,
+  "url": "https://larepublica.pe/economia/2022/02/27/guerra-entre-rusia-y-ucrania-google-suspende-la-monetizacion-de-medios-estatales-rusos-en-sus-plataformas/",
+  "original_language": "es",
+  "cleaned_sentences": [
+    "Google suspends the monetization of Russian state media on its platforms Media such as Russia Today are accused by Western authorities of contributing to misinformation.",
+    "- Peru's government established a new maximum age to work in the public sector: what is and since when it governs?",
+    "- How much does the passage from Peru cost to China?",
+    "Know the price to travel to the Asian country after compulsory visa elimination in 2025 The last of the greats of the technology that has joined the sanctions against the state digital media of Russia has been Google by announcing this Sunday, February 27 that will prevent them from moneticing contained in their platforms such as the web in response to the Russian invasion of Ukraine.",
+    "\"In response to the war in Ukraine, we pause the monetization of the media funded by the Russian state on our platforms,\" ​​said a Google spokesman in a statement.",
+    "\"We are actively monitoring the development of events and we will take more measures if necessary,\" said the world's most used search engine.",
+    "The notice adds to the already made by YouTube, a platform that integrates the Google Application Grid, which announced that the Russian media financed by the State would also not monetize by their videos, among those affected is Russia Today (RT) regularly accused by the authorities to contribute to misinformation.",
+    "\"In light of exceptional circumstances in Ukraine, we are taking a series of measures,\" said a company spokesman.",
+    "\"Our teams have begun to suspend the possibility that some chains generate income on YouTube, including RT channels worldwide,\" he added."
+  ],
+  "topics": {
+    "Technology": 0.9962810277938843,
+    "Conflict": 0.9175778031349182,
+    "Politics": 0.7070158123970032,
+    "Culture": 0.6711704730987549,
+    "Economy": 0.6416523456573486,
+    "Transport": 0.5166370272636414,
+    "Military": 0.44544553756713867,
+    "Diplomacy": 0.3964467942714691,
+    "Elections": 0.35734978318214417,
+    "Crime": 0.31959861516952515,
+    "Health": 0.3119034469127655,
+    "Energy": 0.2648649215698242,
+    "Environment": 0.2616814076900482,
+    "Education": 0.12454408407211304
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

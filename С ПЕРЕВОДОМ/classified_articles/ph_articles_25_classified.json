@@ -1,0 +1,33 @@
+{
+  "title": "'300 NKoreans killed in Ukraine war'",
+  "published_date": null,
+  "url": "https://www.manilatimes.net/2025/01/14/world/asia-oceania/300-nkoreans-killed-in-ukraine-war/2037654",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "SEOUL — Around 300 North Korean soldiers were killed and 2,700 were injured while fighting in Russia's war against Ukraine, a South Korean lawmaker said on Monday, citing information from Seoul's spy agency.",
+    "Seoul previously claimed that North Korean leader Kim Jong Un had sent more than 10,000 soldiers as \"cannon fodder\" to help Moscow fight Kyiv, in return for Russian technical assistance for Pyongyang's heavily sanctioned weapons and satellite programs.",
+    "Already have an active account?",
+    "Continue reading with one of these options: Continue reading with one of these options: Premium + Digital Edition Ad-free access P 80 per month (billed annually at P 960) - Unlimited ad-free access to website articles - Limited offer: Subscribe today and get digital edition access for free (accessible with up to 3 devices) TRY FREE FOR 14 DAYS See details See details If you have an active account, log in here ."
+  ],
+  "topics": {
+    "Conflict": 0.9408443570137024,
+    "Culture": 0.9295535087585449,
+    "Politics": 0.8298821449279785,
+    "Military": 0.8273208737373352,
+    "Technology": 0.7971803545951843,
+    "Health": 0.7935560941696167,
+    "Crime": 0.7850964665412903,
+    "Economy": 0.7403271198272705,
+    "Environment": 0.7212257981300354,
+    "Energy": 0.7163225412368774,
+    "Transport": 0.7007986903190613,
+    "Diplomacy": 0.6004363894462585,
+    "Elections": 0.5711955428123474,
+    "Education": 0.5109516978263855
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

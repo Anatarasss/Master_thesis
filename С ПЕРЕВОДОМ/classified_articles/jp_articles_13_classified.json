@@ -1,0 +1,43 @@
+{
+  "title": "【やさしい日本語】61年(ねん)の 間(あいだ) 続(つづ)いた 福岡市(ふくおかし)の ロシア料理(りょうり)の 店(みせ)が 閉(し)まる",
+  "published_date": null,
+  "url": "https://www.nishinippon.co.jp/item/n/727616/",
+  "original_language": "ja",
+  "cleaned_sentences": [
+    "There is a Russian restaurant called \"Tundra\" in Tenjin, Fukuoka City.",
+    "The owner of the store is 77-year-old Tokunaga.",
+    "Tokunaga's mother started the store 61 years ago.",
+    "Apparently he learned how to make it at a Russian restaurant in Tokyo.",
+    "There were few foreign restaurants serving food, so \"tundra\" quickly became popular.",
+    "The most popular dish is \"Borscht\".",
+    "Tokunaga said, \"It may have been a long time because it hasn't changed the taste.\"",
+    "However, the store has been getting tough recently.",
+    "My mother and the person who helped out with the store have passed away.",
+    "I can't find anyone to continue the store after Tokunaga.",
+    "The rent for the store is likely to be higher as well.",
+    "Tokunaga decided to close his store on May 7th.",
+    "Tokunaga said, \"I want to make dishes that both adults and children can say are \"delicious\" until the end.\"",
+    "The original article is here"
+  ],
+  "topics": {
+    "Culture": 0.8530759215354919,
+    "Economy": 0.5938013792037964,
+    "Conflict": 0.5764361619949341,
+    "Health": 0.34943658113479614,
+    "Environment": 0.2671913802623749,
+    "Technology": 0.19660797715187073,
+    "Transport": 0.17442668974399567,
+    "Military": 0.13353268802165985,
+    "Energy": 0.1205119788646698,
+    "Diplomacy": 0.11342895776033401,
+    "Crime": 0.08449002355337143,
+    "Education": 0.06293894350528717,
+    "Elections": 0.05429896339774132,
+    "Politics": 0.042049799114465714
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

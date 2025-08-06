@@ -1,0 +1,39 @@
+{
+  "title": "Seoul confirms Ukraine captured 2 North Korean soldiers",
+  "published_date": null,
+  "url": "https://manilastandard.net/news/314545822/seoul-confirms-ukraine-captured-2-north-korean-soldiers.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "South Korea’s National Intelligence Service said Sunday it confirmed Ukraine captured two wounded North Korean soldiers this week in Russia, after Ukrainian President Volodymyr Zelensky said they were being questioned.",
+    "“The NIS, through real-time cooperation with Ukraine’s intelligence agency (SBU) has identified battlefield situations, including the capture of North Korean soldiers, and confirmed that the Ukrainian military captured two North Korean soldiers on January 9 in the Kursk battlefield in Russia,” the National Intelligence Service (NIS) said in a statement.",
+    "Kyiv, the United States and South Korea have accused nuclear-armed North Korea of sending more than 10,000 soldiers to help Russia fight Ukraine.",
+    "Kyiv on Saturday did not present direct evidence that the captured men were North Korean and AFP was unable to independently verify their nationality.",
+    "But the South Korean confirmation adds weight to Kyiv’s account, while neither Russia nor North Korea has reacted.",
+    "The NIS said one of the captured soldiers revealed during his interrogation that he received military training from Russian forces after arriving there in November.",
+    "“He initially believed he was being sent for training, realising upon arrival in Russia that he had been deployed,” the NIS said.",
+    "The soldier said North Korean forces had experienced “significant losses during battle”.",
+    "The SBU also said the men had told interrogators they were experienced army soldiers, and one said he was sent to Russia for training, not to fight.",
+    "The NIS said it would continue to work with the SBU to share information on North Korean fighters in Ukraine."
+  ],
+  "topics": {
+    "Conflict": 0.8961852788925171,
+    "Culture": 0.8139482736587524,
+    "Military": 0.7978478670120239,
+    "Technology": 0.6971852779388428,
+    "Politics": 0.6867929697036743,
+    "Health": 0.6003814935684204,
+    "Diplomacy": 0.5882600545883179,
+    "Economy": 0.5824406743049622,
+    "Transport": 0.5712463855743408,
+    "Energy": 0.550404965877533,
+    "Environment": 0.48762819170951843,
+    "Crime": 0.4560336768627167,
+    "Education": 0.25274473428726196,
+    "Elections": 0.2205146998167038
+  },
+  "sentiment": {
+    "positive": 0.1,
+    "negative": 0.9,
+    "neutral": 0.0
+  }
+}

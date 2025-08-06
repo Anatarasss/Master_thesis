@@ -1,0 +1,36 @@
+{
+  "title": "Skogpod 4.juni: Document fikk rett",
+  "published_date": null,
+  "url": "https://www.document.no/2021/06/04/skogpod-4-juni-document-fikk-rett/",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "We cannot help but point out that Documents line has proven to vote twice in events of historical significance: Russia Collusion and Lab leakage.",
+    "In both of these cases, we have stood against consensus in the main current media.",
+    "They have chosen to tell lies and over time you think the lies you tell yourself.",
+    "The pandemic […] Log in to read on (subscribers).",
+    "Support independent news!",
+    "Subscriber articles are opened 48 hours after publishing.",
+    "Articles older than two years are reserved for subscribers."
+  ],
+  "topics": {
+    "Conflict": 0.8960898518562317,
+    "Politics": 0.776328980922699,
+    "Culture": 0.7409327030181885,
+    "Health": 0.6646591424942017,
+    "Economy": 0.5772387385368347,
+    "Transport": 0.5511124730110168,
+    "Technology": 0.4952535033226013,
+    "Crime": 0.488747239112854,
+    "Military": 0.4759023189544678,
+    "Environment": 0.4265327453613281,
+    "Energy": 0.3666509687900543,
+    "Education": 0.2442040890455246,
+    "Diplomacy": 0.21744152903556824,
+    "Elections": 0.20084711909294128
+  },
+  "sentiment": {
+    "positive": 0.143,
+    "negative": 0.857,
+    "neutral": 0.0
+  }
+}

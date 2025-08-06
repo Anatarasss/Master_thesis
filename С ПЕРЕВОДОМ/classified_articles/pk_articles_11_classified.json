@@ -1,0 +1,37 @@
+{
+  "title": "Kazakhstan's daily oil output at record high amid Chevron-led expansion",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/kazakhstans-daily-oil-output-record-114304809.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "In This Article: MOSCOW (Reuters) - Oil production in Kazakhstan reached a daily record high of 278,499 metric tons on Sunday just after it embarked on an expansion of its largest oilfield, Chevron-led Tengiz, according to official data.",
+    "Kazakhstan - which relies on Tengiz and two other major fields, Karachaganak and Kashagan, for most of its production - is subject to output targets as a member of OPEC+, an alliance of OPEC and other top producers led by Russia OPEC+ has named top 10 global oil producer Kazakhstan along with Iraq and Russia as countries that have repeatedly failed to comply with pledges to curb oil production.",
+    "Sunday's record high Kazakh output equates to around 2 million barrels per day (bpd) if a barrels per ton ratio of 7.5 is applied.",
+    "According to the Situational and Analytical Center for the Fuel and Energy Complex, this was 10.5% more than on the same day of 2024.",
+    "The expansion at Tengiz is expected to reach full capacity of 260,000 bpd by June, lifting overall production at the project to around 1 million barrels of oil equivalent per day.",
+    "Tengiz is one of the world's deepest and most complex fields due to high levels of sulphur and harsh weather conditions.",
+    "Kazakhstan plans to boost its oil and gas condensate production this year to 96.2 million tons from 87.56 million tons in 2024.",
+    "(Reporting by Reuters; Editing by Mark Potter)"
+  ],
+  "topics": {
+    "Energy": 0.8705248832702637,
+    "Culture": 0.7398672103881836,
+    "Economy": 0.7050026059150696,
+    "Technology": 0.5426634550094604,
+    "Environment": 0.48415353894233704,
+    "Politics": 0.45905816555023193,
+    "Conflict": 0.42149701714515686,
+    "Health": 0.4119705259799957,
+    "Transport": 0.36595073342323303,
+    "Military": 0.294628769159317,
+    "Diplomacy": 0.27013084292411804,
+    "Crime": 0.12346086651086807,
+    "Education": 0.1152234748005867,
+    "Elections": 0.08314738422632217
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "US announces new arms aid package for Ukraine worth $500 million",
+  "published_date": null,
+  "url": "https://www.rappler.com/world/us-canada/united-states-announces-new-arms-aid-package-ukraine/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "SUMMARY This is AI generated summarization, which may have errors.",
+    "For context, always refer to the full article.",
+    "WASHINGTON, USA – The administration of Democratic US President Joe Biden announced another package of weapons aid for Ukraine on Thursday, December 12, valued at $500 million, Secretary of State Antony Blinken said in a statement.",
+    "White House spokesperson John Kirby said earlier the US would continue to provide additional packages for Ukraine “right up to the end of this administration.” Washington said 10 days ago it would send Ukraine $725 million worth of missiles, ammunition, anti-personnel mines and other weapons.",
+    "Biden’s outgoing administration is seeking to bolster Ukraine in tackling Russia’s invasion, before Biden’s term ends in January when Republican President-elect Donald Trump would take office.",
+    "Thursday’s package worth about $500 million included ammunition for High Mobility Artillery Rocket Systems (HIMARS) and High-speed Anti-radiation missiles (HARMs), among other assistance, according to Blinken.",
+    "After Thursday, about $5.6 billion worth of Presidential Drawdown Authority (PDA) to rush weapons from US stocks to the front lines remains available to Biden without requiring congressional approval.",
+    "Moscow’s troops have been capturing village after village in Ukraine’s east, part of a drive to seize the industrial Donbas region, while Russian air strikes target a hobbled Ukrainian energy grid as winter sets in.",
+    "– Rappler.com Add a comment There are no comments yet.",
+    "Add your comment to start the conversation.",
+    "How does this make you feel?"
+  ],
+  "topics": {
+    "Conflict": 0.8778019547462463,
+    "Energy": 0.7104527354240417,
+    "Technology": 0.6837368607521057,
+    "Culture": 0.6061140298843384,
+    "Diplomacy": 0.5893983244895935,
+    "Military": 0.5743727087974548,
+    "Health": 0.5527611970901489,
+    "Transport": 0.5414944291114807,
+    "Economy": 0.5330803990364075,
+    "Politics": 0.4796377718448639,
+    "Environment": 0.4306161403656006,
+    "Crime": 0.3380870819091797,
+    "Education": 0.3193836808204651,
+    "Elections": 0.20035210251808167
+  },
+  "sentiment": {
+    "positive": 0.364,
+    "negative": 0.636,
+    "neutral": 0.0
+  }
+}

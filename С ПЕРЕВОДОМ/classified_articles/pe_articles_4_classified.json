@@ -1,0 +1,48 @@
+{
+  "title": "\"Senda del militarismo\": ¿Cuál sería el cálculo de la UE sobre Ucrania?",
+  "published_date": null,
+  "url": "https://actualidad.rt.com/actualidad/541302-rieles-militarismo-calculo-ue-ucrania",
+  "original_language": "es",
+  "cleaned_sentences": [
+    "\"Path of militarism\": What would be the EU calculation on Ukraine?",
+    "While Russia and the US are discussing a path that leads to peace in Ukraine, the head of the European Commission, Ursula von der Leyen, announced that Brussels will deliver to the kyiv regime 3.5 billion euros more in help.",
+    "\"No reconciliation points\" between the European Union and Moscow are glimpsed, said Russian political scientist and journalist Georgui Bovt in an article published on Wednesday at the BFM.ru portal.",
+    "In this regard, he affirmed that \"Washington and the European Union continue to diverge in their positions regarding the agreement on Ukraine.\"",
+    "Why does the community block intensify its warmongering rhetoric?",
+    "The Russian Foreign Ministry declared on Tuesday that it is impossible for Europe to participate in the negotiations for the resolution of the Ukrainian conflict in the context of the adoption of resolutions on Ukraine by the UN General Assembly and the UN Security Council.",
+    "The document proposed by kyiv and the EU condemned Russia, recalls Bovt.",
+    "\"The Europeans, who have firmly undertaken by the path of militarism and logically have lost the right to claim participation in negotiations on parameters for the solution of the Ukrainian crisis, are increasingly isolated,\" said the Russian Foreign Ministry.",
+    "Meanwhile, USA announced his own proposal for \"lasting peace.\"",
+    "\"The text, although imperfect, was a step in the right direction and reflected the desire of the new US administration to contribute to the agreement,\" the ministry observed.",
+    "According to Bovt, the calculation of the Europeans may be that the \"volatile\" US president, Donald Trump, change their minds and review their stage for a solution in Ukraine or that negotiations between Moscow and Washington \"reach a dead point.\"",
+    "\"For their part, European politicians are doing everything possible to make that exactly what happens,\" he says.",
+    "In turn, Fiódor Lukiánov, editor chief of the magazine Russia in Global Affairs and president of the Russian Council for Foreign Policy and Defense, believes that the EU will adopt a position similar to that of Washington.",
+    "\"Minimize reputation costs\" \"London and Paris, like all of Europe, are not prepared, cannot and most likely do not want to seriously oppose the United States,\" said Lukiánov.",
+    "\"Europe has no idea how a separate line can follow from that of Americans in Ukraine, in terms of European security; there is a desire, at least declarative, there are slogans and it seems to me that there is an understanding that they have no resources for this, neither materials nor materials or politicians, so the question is how soon and how they will decisively adapt to the US line, whatever it is,\" he said.",
+    "On the other hand, the deputy director of the Institute of Europe of the Academy of Sciences of Russia, Vladislav Belov, believes that Europeans will not reconsider their fundamental relations with the US for Ukraine.",
+    "\"At this time, Europeans are trying to minimize the reputation costs that would cause a possible agreement between the United States and Russia,\" he says.",
+    "\"Europeans are vulnerable and depend largely on the United States for their safety,\" said Philippe Ricard, a diplomacy correspondent for Le Monde.",
+    "\"The challenge is now to convince Washington to continue helping Ukraine, without antagonizing [Donald] Trump,\" he added."
+  ],
+  "topics": {
+    "Conflict": 0.968873143196106,
+    "Military": 0.9247269034385681,
+    "Diplomacy": 0.9230047464370728,
+    "Politics": 0.9189345240592957,
+    "Culture": 0.8726168274879456,
+    "Economy": 0.8425367474555969,
+    "Environment": 0.7367675304412842,
+    "Energy": 0.6984575390815735,
+    "Health": 0.6975125670433044,
+    "Technology": 0.6629998683929443,
+    "Crime": 0.6351469159126282,
+    "Elections": 0.6227877736091614,
+    "Transport": 0.6218979954719543,
+    "Education": 0.5780016779899597
+  },
+  "sentiment": {
+    "positive": 0.474,
+    "negative": 0.526,
+    "neutral": 0.0
+  }
+}

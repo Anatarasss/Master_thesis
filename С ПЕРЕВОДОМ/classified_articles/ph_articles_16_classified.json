@@ -1,0 +1,33 @@
+{
+  "title": "Minerals deal off as Trump, Zelenskyy talks end in shouting match",
+  "published_date": null,
+  "url": "https://www.manilatimes.net/2025/03/01/world/americas-emea/minerals-deal-off-as-trump-zelenskyy-talks-end-in-shouting-match/2065161",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "WASHINGTON, United States — US President Donald Trump erupted at Volodymyr Zelenskyy on Friday, angrily sending the Ukrainian leader out of the White House after an extraordinary Oval Office meltdown because he was \"not ready\" for peace with Russia.",
+    "The abrupt exit, cutting short what was meant to be a day of Ukraine-US diplomacy, meant Zelenskyy left without a deal for joint development of his country's mineral resources that was to be part of a post-war recovery in a potential US-brokered truce.",
+    "Already have an active account?",
+    "Continue reading with one of these options: Continue reading with one of these options: Premium + Digital Edition Ad-free access P 80 per month (billed annually at P 960) - Unlimited ad-free access to website articles - Limited offer: Subscribe today and get digital edition access for free (accessible with up to 3 devices) TRY FREE FOR 14 DAYS See details See details If you have an active account, log in here ."
+  ],
+  "topics": {
+    "Conflict": 0.9603267312049866,
+    "Diplomacy": 0.9167024493217468,
+    "Culture": 0.9099759459495544,
+    "Politics": 0.8898332118988037,
+    "Transport": 0.761498749256134,
+    "Health": 0.7564628720283508,
+    "Technology": 0.7495503425598145,
+    "Crime": 0.741783857345581,
+    "Environment": 0.7288013696670532,
+    "Economy": 0.712307333946228,
+    "Elections": 0.6914549469947815,
+    "Energy": 0.6727152466773987,
+    "Military": 0.6357340812683105,
+    "Education": 0.5280033349990845
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

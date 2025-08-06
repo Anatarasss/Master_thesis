@@ -1,0 +1,41 @@
+{
+  "title": "Serbian oil company NIS asks U.S. Treasury for a 90-day waiver of sanctions",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/serbian-oil-company-nis-asks-101938459.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "BELGRADE (Reuters) - Serbian oil company NIS, which is majority-owned by Russia's Gazprom Neft and Gazprom, has submitted a formal request to the U.S. Treasury Department for a waiver of sanctions for 90 days, Serbia's energy ministry said on Tuesday.",
+    "In a statement, the ministry said that the NIS request has the backing of the Serbian and Hungarian governments.",
+    "\"We urgently request that OFAC (Office of Foreign Assets Control) consider immediate assistance, in the form of a suspension of sanctions for a minimum of 90 days, while a sustainable solution that would lead to the lifting of sanctions is considered,\" the statement said.",
+    "It also said that NIS's request concerns obtaining licenses that would allow it to continue operating while a solution to the ownership structure and management is sought.",
+    "\"The (Serbian) government ... supports the request ... because sanctions would impair the company's ability to supply Serbian citizens with oil and oil derivatives,\" the ministry said.",
+    "Gazprom Neft and Gazprom have 50% and 6.15% stakes respectively in the company which operates the sole oil refinery in Serbia.",
+    "The Serbian government holds a further 29.87% with small shareholders accounting for the remainder.",
+    "On Jan. 10, Serbia's President Aleksandar Vucic said Russian companies were given 45 days to 45 days to exit their ownership in NIS and that any deal would have to be approved by OFAC.",
+    "On Jan. 14, Russian Foreign Minister Sergei Lavrov said that Moscow was in contact with Belgrade about NIS.",
+    "Serbia receives most of its crude oil through Croatia's pipeline operator Janaf, through which Hungary also imports some of its oil.",
+    "NIS, one of the biggest contributors to Serbia's state budget, had signed a contract with Janaf for the transport of 10 million tons of oil through Croatia from Jan. 1, 2024 until Dec. 31, 2026.",
+    "(Reporting by Aleksandar Vasovic; Writing by Angeliki Koutantou; Editing by Susan Fenton)"
+  ],
+  "topics": {
+    "Energy": 0.9233404994010925,
+    "Conflict": 0.7641698122024536,
+    "Economy": 0.7298161387443542,
+    "Culture": 0.7110980749130249,
+    "Politics": 0.6996558308601379,
+    "Transport": 0.5757675170898438,
+    "Diplomacy": 0.5107855796813965,
+    "Military": 0.4747427701950073,
+    "Technology": 0.4639129936695099,
+    "Health": 0.44020187854766846,
+    "Environment": 0.4141630232334137,
+    "Elections": 0.26224517822265625,
+    "Crime": 0.19904673099517822,
+    "Education": 0.13096269965171814
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "L3Harris forecasts upbeat annual sales on strong defense demand",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/l3harris-forecasts-upbeat-annual-sales-130819150.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "In This Article: (Reuters) - L3Harris Technologies forecast 2025 sales above estimates and posted higher-than-expected fourth-quarter results on Thursday, bolstered by strong demand for weapons due to higher defense spending amid global geopolitical tensions.",
+    "Demand for arms and military equipment has ballooned as a result of the Russia-Ukraine war and ongoing conflicts in the Middle East, benefiting defense contractors such as L3Harris.",
+    "The company also raised its cost-saving goal to $1.2 billion by the end of 2025, a year ahead of its previously disclosed timeline.",
+    "L3Harris said it had achieved $800 million in cost savings in 2024.",
+    "A slower recovery in supply chain issues has led to higher costs, denting margins and leading companies in the sector to look for other ways to cut expenses.",
+    "Last year, L3Harris cut 5% of its workforce, or about 2,500 employees, as part of a cost-saving measure.",
+    "L3Harris reported a per-share adjusted profit of $3.47 for the quarter, surpassing analysts' average estimate of $3.42, according to data compiled by LSEG.",
+    "Revenue rose 3% to $5.52 billion, while analysts had expected $5.50 billion.",
+    "The defense contractor, which makes solid rocket motors used in missiles on the battlefield in Ukraine, said it expects 2025 sales in the range of $21.8 billion to $22.2 billion, the midpoint of which is above expectations of $21.86 billion.",
+    "(Reporting by Utkarsh Shetti in Bengaluru)"
+  ],
+  "topics": {
+    "Conflict": 0.833352267742157,
+    "Military": 0.7785471081733704,
+    "Technology": 0.7301973104476929,
+    "Culture": 0.7264095544815063,
+    "Economy": 0.5107319951057434,
+    "Environment": 0.24501851201057434,
+    "Politics": 0.23331983387470245,
+    "Transport": 0.19165684282779694,
+    "Diplomacy": 0.1265857070684433,
+    "Crime": 0.12451132386922836,
+    "Energy": 0.09905534237623215,
+    "Health": 0.0895257517695427,
+    "Elections": 0.08721818029880524,
+    "Education": 0.02178066037595272
+  },
+  "sentiment": {
+    "positive": 0.5,
+    "negative": 0.5,
+    "neutral": 0.0
+  }
+}

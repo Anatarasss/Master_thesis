@@ -1,0 +1,42 @@
+{
+  "title": "Crypto exchange platform BestChange in the dark over Russia block",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/crypto-exchange-platform-bestchange-dark-092352634.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "(Reuters) - Cryptocurrency exchange platform BestChange has said it is unsure why its website was blocked by Russia's communications watchdog Roskomnadzor, but that it is in touch with the central bank to try to lift the ban.",
+    "Circulating and advertising digital currencies is banned in Russia, although using cryptocurrency for international payments is now legal, as is cryptocurrency mining.",
+    "\"bestchange.ru has been restricted in Russia by Roskomnadzor,\" the platform said late on Monday in response to a request for comment.",
+    "\"Unfortunately, we cannot account for the exact reason why this has happened.",
+    "\"We are communicating with the central bank to pinpoint the reason and interacting with the regulator to clarify the situation and lift the block.\"",
+    "Roskomnadzor's website lists bestchange.ru as blocked.",
+    "The RIA news agency cited Roskomnadzor as saying that the ban was due to legal violations \"in the financial sphere\".",
+    "Roskomnadzor did not immediately respond to a request for comment.",
+    "BestChange said new regulations around crypto could be behind the ban, or an issue with an entity using its service.",
+    "Last year, Russia legalised cryptocurrency mining and introduced taxes that could bring in up to 200 billion roubles ($2 billion) a year from miners.",
+    "Moscow has since restricted crypto mining in some Siberian regions to prevent power shortages.",
+    "As part of that legislation, Russia has allowed businesses to use cryptocurrencies in international trade as Moscow looks to circumvent Western sanctions causing payment delays, although a trial period is yet to get under way.",
+    "($1 = 96.2000 roubles) (Reporting by Alexander Marrow; Editing by Christina Fincher)"
+  ],
+  "topics": {
+    "Culture": 0.8932265043258667,
+    "Technology": 0.8392786383628845,
+    "Conflict": 0.7979758977890015,
+    "Economy": 0.7841931581497192,
+    "Health": 0.7707991003990173,
+    "Politics": 0.6696889400482178,
+    "Diplomacy": 0.6521419286727905,
+    "Environment": 0.6507203578948975,
+    "Crime": 0.6300414800643921,
+    "Energy": 0.603272020816803,
+    "Education": 0.5192754864692688,
+    "Elections": 0.5016714334487915,
+    "Transport": 0.500909149646759,
+    "Military": 0.48283645510673523
+  },
+  "sentiment": {
+    "positive": 0.154,
+    "negative": 0.846,
+    "neutral": 0.0
+  }
+}

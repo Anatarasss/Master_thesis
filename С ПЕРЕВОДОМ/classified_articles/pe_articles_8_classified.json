@@ -1,0 +1,38 @@
+{
+  "title": "Compañía de ascensores Otis abandona Rusia y venderá su negocio en el país",
+  "published_date": null,
+  "url": "https://gestion.pe/economia/empresas/compania-de-elevadores-otis-abandona-rusia-y-vendera-su-negocio-en-el-pais-noticia/",
+  "original_language": "es",
+  "cleaned_sentences": [
+    "The Otis company, world leader in the elevators sector, announced the decision to withdraw from the Russian market due to the Russian military campaign in Ukraine and advanced the next sale of its business in Russia.",
+    "\"We determine that the property of our business in Russia is no longer sustainable and we have signed an agreement with Ice Development to sell 100% of our participation in the Otis Russia business,\" the company announced in a statement.",
+    "According to the company, this decision was made \"after carefully considering the global impacts and the consequences of the crisis in progress and the humanitarian tragedy throughout Eastern Europe, including the interruptions of the supply chain and the growing regulations.\"",
+    "\"This follows our March decision to stop receiving new equipment orders and stop investing in our operations in Russia.",
+    "The sale of the business will provide a safer future for local colleagues, customers and shareholders of Otis,\" added the company, which described the closure of the business as \"imminent.\"",
+    "In last deck Otis announced that he stopped taking new orders for mechanical elevators and stairs in Russia and refrained from making new investments in this country, which represented 2% of the company's income in 2021.",
+    "Its counterpart will be the Russian company Ice Development, which will assume the total capabilities of the San Petersburg factory under a new commercial brand.",
+    "\"We continue to warn the hope that peace and stability will be restored in the region.",
+    "We will continue to contribute to the humanitarian and ongoing aid efforts in Ukraine,\" the company added."
+  ],
+  "topics": {
+    "Conflict": 0.8979196548461914,
+    "Politics": 0.6535628437995911,
+    "Culture": 0.5515491962432861,
+    "Technology": 0.5514851808547974,
+    "Economy": 0.5293424129486084,
+    "Military": 0.5018723011016846,
+    "Transport": 0.38325852155685425,
+    "Diplomacy": 0.34790781140327454,
+    "Environment": 0.27011093497276306,
+    "Health": 0.23961609601974487,
+    "Crime": 0.20623809099197388,
+    "Energy": 0.16304144263267517,
+    "Elections": 0.10941799730062485,
+    "Education": 0.10472820699214935
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

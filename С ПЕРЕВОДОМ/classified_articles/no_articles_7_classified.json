@@ -1,0 +1,36 @@
+{
+  "title": "NYTimes-reporter Adam Entous \"i seng\" med Hunter Biden",
+  "published_date": null,
+  "url": "https://www.document.no/2023/02/16/nytimes-reporter-adam-entous-i-seng-med-hunter-biden/",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "The New York Times journalist Adam Entous was one of the worst in terms of.",
+    "to push russia collusion.",
+    "Now it turns out that he used to a particularly close relationship with Hunter Biden.",
+    "Log in to read on (subscribers).",
+    "Support independent news!",
+    "Subscriber articles are opened 48 hours after publishing.",
+    "Articles older than two years are reserved for subscribers."
+  ],
+  "topics": {
+    "Conflict": 0.9221362471580505,
+    "Culture": 0.8158863186836243,
+    "Politics": 0.8083509206771851,
+    "Economy": 0.5972264409065247,
+    "Transport": 0.5005378127098083,
+    "Crime": 0.470243901014328,
+    "Health": 0.39437100291252136,
+    "Military": 0.31927648186683655,
+    "Technology": 0.3157225251197815,
+    "Diplomacy": 0.2771359086036682,
+    "Environment": 0.25431495904922485,
+    "Energy": 0.23920229077339172,
+    "Education": 0.14126022160053253,
+    "Elections": 0.11595138907432556
+  },
+  "sentiment": {
+    "positive": 0.286,
+    "negative": 0.714,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Ukraine losing ground to Russia’s armed forces",
+  "published_date": null,
+  "url": "https://www.sunstar.com.ph/network/ukraine-losing-ground-to-russias-armed-forces",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "POKROVSK REGION, Ukraine — A dire shortage of infantry troops and supply routes coming under Russian drone attacks are conspiring against Ukrainian forces in Pokrovsk, where decisive battles in the nearly three-year war are playing out — and time is running short.",
+    "Ukrainian troops are losing ground around the crucial supply hub, which lies at the confluence of multiple highways leading to key cities in the eastern Donetsk region as well as an important railway station.",
+    "Moscow is set on capturing as much territory as possible as the Trump administration is pushing for negotiations to end the war and recently froze foreign aid to Ukraine, a move that has shocked Ukrainian officials already apprehensive about the intentions of the new US president, their most important ally.",
+    "Military aid has not stopped, Ukrainian President Volodymyr Zelenskyy has said.",
+    "“The war is won by logistics.",
+    "If there is no logistics, there is no infantry, because there is no way to supply it,” said the deputy commander of the Da Vinci Wolves battalion, known by the call sign Afer.",
+    "“(Russians) have learned this and are doing it quite well.” / AP"
+  ],
+  "topics": {
+    "Conflict": 0.9431589245796204,
+    "Military": 0.8277991414070129,
+    "Politics": 0.5554038286209106,
+    "Culture": 0.5213968753814697,
+    "Transport": 0.4777260422706604,
+    "Technology": 0.4143300950527191,
+    "Economy": 0.35769927501678467,
+    "Environment": 0.2948119044303894,
+    "Crime": 0.2881919741630554,
+    "Health": 0.26518359780311584,
+    "Diplomacy": 0.1368071734905243,
+    "Energy": 0.11684997379779816,
+    "Elections": 0.11184382438659668,
+    "Education": 0.06817733496427536
+  },
+  "sentiment": {
+    "positive": 0.571,
+    "negative": 0.429,
+    "neutral": 0.0
+  }
+}

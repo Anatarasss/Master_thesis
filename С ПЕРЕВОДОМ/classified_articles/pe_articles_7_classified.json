@@ -1,0 +1,39 @@
+{
+  "title": "EE.UU. calcula que Rusia ha sufrido entre 70 mil y 80 mil bajas en Ucrania",
+  "published_date": null,
+  "url": "https://rpp.pe/mundo/actualidad/eeuu-calcula-que-rusia-ha-sufrido-entre-70-mil-y-80-mil-bajas-en-ucrania-noticia-1423233",
+  "original_language": "es",
+  "cleaned_sentences": [
+    "However, a count elaborated by the independent media mediazona and BBC News Russia, as of July 29, 5,185 Russians would have lost their lives during the conflict.",
+    "The Pentagon estimates that Russia has suffered between 70,000 and 80,000 casualties, which includes dead and injured, since the beginning of the invasion of Ukraine, on February 24.",
+    "The Undersecretary of Defense for the US policy, Colin Kahl, said Monday at a press conference that the number of casualties is \"remarkable\" since Russia has not achieved \"none\" of the objectives it had at the beginning of the invasion.",
+    "Kahl did not want to specify the number of victims who have suffered Ukrainian forces since the beginning of the conflict.",
+    "The director of the CIA, William Burns, said at the end of July that the agency he directs estimates that some 15,000 Russians have died and about 45,000 have been injured during the course of the contest in Ukraine.",
+    "Other figures According to a count prepared by the independent media mediazona and BBC News Russia, as of July 29, 5,185 Russians would have lost their lives during the conflict.",
+    "For his part, the president of Ukraine, Volodimir Zelenski, said in June that the number of Russian soldiers dead in his country was going to reach 40,000 that month.",
+    "Like Russia, Ukraine also does not report his dead military.",
+    "In April, Moscow said he had killed about 23,000 Ukrainian soldiers.",
+    "Regarding civilians, according to the figures offered by the UN High Commissioner Office for Human Rights as of August 1, at least 355 Ukrainians have lost their lives and 1,100 have been injured since the beginning of the war."
+  ],
+  "topics": {
+    "Conflict": 0.9559767842292786,
+    "Military": 0.7701360583305359,
+    "Politics": 0.5141680836677551,
+    "Culture": 0.46898016333580017,
+    "Health": 0.3962536156177521,
+    "Economy": 0.27943986654281616,
+    "Crime": 0.27311164140701294,
+    "Technology": 0.2291419953107834,
+    "Transport": 0.22268296778202057,
+    "Energy": 0.21951401233673096,
+    "Diplomacy": 0.17058119177818298,
+    "Environment": 0.0971723198890686,
+    "Elections": 0.08341508358716965,
+    "Education": 0.06488220393657684
+  },
+  "sentiment": {
+    "positive": 0.1,
+    "negative": 0.9,
+    "neutral": 0.0
+  }
+}

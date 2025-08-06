@@ -1,0 +1,44 @@
+{
+  "title": "UN aviation agency: Russia responsible for plane downing",
+  "published_date": null,
+  "url": "https://manilastandard.net/news/314589628/un-aviation-agency-russia-responsible-for-plane-downing.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MONTREAL—The United Nations aviation agency said Monday that Russia was responsible for the downing of a Malaysia Airlines jetliner over Ukraine in 2014, leading to the deaths of 298 people.",
+    "The International Civil Aviation Organization, based in Montreal, said claims brought by Australia and the Netherlands over the shooting down of Flight MH17 on July 17 of that year were “well founded in fact and in law.” “The Russian Federation failed to uphold its obligations under international air law in the 2014 downing of Malaysia Airlines Flight MH17,” the agency said in a statement issued Monday evening.",
+    "The ICAO said this was the first time in its history that its council has made a determination on the merits of a dispute between member states.",
+    "On July 17, 2014 the Malaysia Airlines Boeing 777 — en route from Amsterdam to Kuala Lumpur — crashed in eastern Ukraine’s Donetsk region where pro-Russian separatist rebels were battling Ukrainian forces.",
+    "The plane was hit by a Russian-made BUK surface-to-air missile.",
+    "Dutch nationals accounted for two-thirds of the dead, along with 38 Australians and about 30 Malaysians, with many victims having dual nationalities.",
+    "Then-Ukrainian President Petro Poroshenko called it a “terrorist act.” Pro-Russian rebels in the area claimed the airliner was shot down by a Ukrainian military jet.",
+    "Russian President Vladimir Putin says Ukraine “bears responsibility.” The following day, then US president Barack Obama said a missile fired from separatist-held territory was to blame and the rebels would not have been able to hit the airliner without Russian support.",
+    "In 2022 a Dutch court sentenced three men to life in prison over the downing, among them two Russians, but Russia refused to extradite them.",
+    "Russia has consistently denied any involvement in the tragedy.",
+    "The governments of Australia and the Netherlands welcomed the UN agency’s decision Monday night.",
+    "“This is a historic moment in the pursuit of truth, justice and accountability for the victims of the downing of Flight MH17, and their families and loved ones,” the Australian government said in a statement.",
+    "It called on the agency to “move swiftly to determine remedies” for Russia’s violation of international law.",
+    "“We call upon Russia to finally face up to its responsibility for this horrific act of violence and make reparations for its egregious conduct, as required under international law,” the statement added.",
+    "International investigators suspended their probe of the downing last year, saying there was not enough evidence to identify more suspects."
+  ],
+  "topics": {
+    "Conflict": 0.8556175827980042,
+    "Culture": 0.8314480185508728,
+    "Military": 0.6754843592643738,
+    "Technology": 0.6297795176506042,
+    "Transport": 0.5826593041419983,
+    "Economy": 0.544500470161438,
+    "Politics": 0.5342451333999634,
+    "Health": 0.4716344475746155,
+    "Crime": 0.46211954951286316,
+    "Diplomacy": 0.42583146691322327,
+    "Environment": 0.40288496017456055,
+    "Energy": 0.37371525168418884,
+    "Elections": 0.2642726004123688,
+    "Education": 0.1834784597158432
+  },
+  "sentiment": {
+    "positive": 0.267,
+    "negative": 0.733,
+    "neutral": 0.0
+  }
+}

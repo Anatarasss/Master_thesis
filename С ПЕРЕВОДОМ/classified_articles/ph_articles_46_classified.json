@@ -1,0 +1,52 @@
+{
+  "title": "Russia launches major missile attack on Ukrainian power facilities, Kyiv says",
+  "published_date": null,
+  "url": "https://www.rappler.com/world/europe/russia-launches-major-missile-attack-ukrainian-power-facilities/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "SUMMARY This is AI generated summarization, which may have errors.",
+    "For context, always refer to the full article.",
+    "KYIV, Ukraine – Russia launched a large-scale missile attack on Ukrainian energy facilities during the morning rush hour on Friday, December 13, Kyiv said, while explosions were heard in the Black Sea port of Odesa and other cities in western Ukraine.",
+    "Russian forces have been targeting Ukraine’s electricity system for most of the year and it renewed its strike campaign last month, causing lengthy power cuts for millions of civilians as the war with Russia nears the 34-month mark.",
+    "“Russia aims to deprive us of energy.",
+    "Instead, we must deprive it of the means of terror.",
+    "I reiterate my call for the urgent delivery of 20 NASAMS, HAWK, or IRIS-T air defense systems,” Foreign Minister Andrii Sybiha wrote in a post on X.",
+    "An industry source told Reuters that Friday’s attack had targeted Ukrainian power substations and that it had included more strikes on gas infrastructure than in past assaults.",
+    "As the attack unfolded, energy officials announced longer, emergency power cuts, but they did not make clear whether that was because of new damage or whether it was a precautionary measure.",
+    "There were no immediate reports of casualties.",
+    "Around a half of power company Yasno’s 3.5 million consumers were without power on Friday morning, their CEO said.",
+    "The extent of any damage was hard to assess.",
+    "After repeated Russian attacks on the power grid, officials reveal little detailed information about the outcome of strikes and the state of the network.",
+    "Lviv region targeted Authorities in the western region of Lviv confirmed there had been attacks on energy facilities there and that the schedule of power cuts would have to be changed, implying there had been damage.",
+    "Russia says it does not target civilian infrastructure, but that it sees the power system as a military target.",
+    "Ukraine’s energy system has already suffered 11 waves of attacks this year, which have caused widespread damage and lengthy power cuts all over the country.",
+    "The morning missile strike was preceded by an overnight attack involving dozens of drones.",
+    "Russian troops, meanwhile, are notching up their fastest battlefield gains in eastern Ukraine since 2022 in their drive to seize the entire industrial Donbas region.",
+    "“The enemy continues its terror.",
+    "Once again, the energy sector across Ukraine is under massive attack,” Galushchenko wrote in a post on Facebook.",
+    "– Rappler.com Add a comment There are no comments yet.",
+    "Add your comment to start the conversation.",
+    "How does this make you feel?"
+  ],
+  "topics": {
+    "Energy": 0.9528837203979492,
+    "Conflict": 0.9388149976730347,
+    "Technology": 0.9031370878219604,
+    "Military": 0.8336911797523499,
+    "Politics": 0.8287890553474426,
+    "Economy": 0.8192526698112488,
+    "Culture": 0.7953892946243286,
+    "Transport": 0.7837401628494263,
+    "Health": 0.7660181522369385,
+    "Environment": 0.6800321340560913,
+    "Diplomacy": 0.6264901161193848,
+    "Crime": 0.589828372001648,
+    "Elections": 0.5840862989425659,
+    "Education": 0.5764172673225403
+  },
+  "sentiment": {
+    "positive": 0.174,
+    "negative": 0.826,
+    "neutral": 0.0
+  }
+}

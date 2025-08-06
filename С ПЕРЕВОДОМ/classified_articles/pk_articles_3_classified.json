@@ -1,0 +1,42 @@
+{
+  "title": "Trump teases 'economic development' with Russia as he marks the third year of the war in Ukraine",
+  "published_date": null,
+  "url": "https://finance.yahoo.com/news/trump-teases-economic-development-with-russia-as-he-marks-the-third-year-of-the-war-in-ukraine-215643953.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "President Donald Trump added a new wrinkle to ongoing talks that he says may help end the war in Ukraine: new \"economic development\" with Russia that the president says could come in addition to ongoing discussions between the US and Ukraine.",
+    "\"I am in serious discussions with President Vladimir Putin of Russia concerning the ending of the War, and also major Economic Development transactions which will take place between the United States and Russia,\" Trump posted on Monday, adding, \"Talks are proceeding very well!\"",
+    "Details were unclear on exactly what goods President Trump has in mind, but he signaled later in the day during a back-and-forth with reporters that it could be similar to the ongoing talks with Ukraine over access to that country's rare earth minerals.",
+    "\"The first element of the overall transaction is ending the war,\" Trump said, adding, \"but, just as we're doing with Ukraine, if we could do some economic development in terms of Russia and getting things that we want.\"",
+    "Like Ukraine, Russia has valuable rare earth minerals that US businesses would love to access.",
+    "A recent US Geological Survey report on rare earth elements found that China has the largest reserves of the crucial ingredients in many modern electronics.",
+    "Previous US-led sanctions on Russia, from export controls on many manufactured goods to a price cap and embargo on Russian oil, could give Trump additional economic inducements to tempt Putin.",
+    "The varied commentary from Trump on Monday came on the third anniversary of Russia's invasion of Ukraine and during French President Emmanuel Macron's visit to the White House.",
+    "Another inducement for Russia from Trump Any effort to spur the Russian economy would mark yet another stark reversal of three years of Western policy that has tried to isolate and starve that country's economy with mixed success.",
+    "It was also just the latest friendly move by Trump toward Russia after years of Joe Biden trying to shun the Russian president.",
+    "At another point Monday, Trump was asked if he considered Putin a dictator after he called Ukrainian President Volodymyr Zelensky a \"dictator without elections\" last week.",
+    "Trump declined to clarify whether Putin merited the same designation, saying, \"I don't use those words lightly.\"",
+    "Trump didn't offer any additional detail about any economic developments when he appeared alongside Macron at a formal press conference late on Monday afternoon, but he did say he saw signs of a new openness from Russia."
+  ],
+  "topics": {
+    "Economy": 0.9941713213920593,
+    "Politics": 0.9624919295310974,
+    "Diplomacy": 0.9560707807540894,
+    "Technology": 0.9147561192512512,
+    "Conflict": 0.8995994329452515,
+    "Energy": 0.8959337472915649,
+    "Culture": 0.8130090236663818,
+    "Elections": 0.7164450287818909,
+    "Military": 0.7133922576904297,
+    "Environment": 0.6906588673591614,
+    "Health": 0.6742340922355652,
+    "Transport": 0.6671952605247498,
+    "Education": 0.625766396522522,
+    "Crime": 0.3886931240558624
+  },
+  "sentiment": {
+    "positive": 0.615,
+    "negative": 0.385,
+    "neutral": 0.0
+  }
+}

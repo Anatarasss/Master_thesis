@@ -1,0 +1,36 @@
+{
+  "title": "Iran confirms Sukhoi-35 jet deal as military cooperation with Russia expands",
+  "published_date": null,
+  "url": "https://www.bolnews.com/international/2025/01/iran-confirms-sukhoi-35-jet-deal-as-military-cooperation-with-russia-expands/",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "Iran has officially confirmed the purchase of Russian-made Sukhoi-35 fighter jets, as announced by a senior commander of the Revolutionary Guards on Monday.",
+    "According to sources, Ali Shadmani did not reveal how many jets were purchased or their delivery status.",
+    "He emphasized Iran’s commitment to strengthening its air, land, and naval forces, saying the production of military equipment has also been accelerated.",
+    "Shadmani issued a warning to Israel, stating that any hostile actions would result in severe retaliation, leaving no Israeli interests in the occupied territories safe.",
+    "In November 2023, Iran’s news agency reported that the deal for the Sukhoi-35 jets had been finalized.",
+    "This comes as part of a broader strategic partnership between Iran and Russia, which focuses on enhancing military and technical cooperation, though specific arms transfers were not mentioned.",
+    "Read More News On Catch all the International News, Breaking News Event and Latest News Updates on The BOL News Download The BOL News App to get the Daily News Update & Follow us on Google News."
+  ],
+  "topics": {
+    "Military": 0.8177198171615601,
+    "Conflict": 0.7699878215789795,
+    "Technology": 0.7170923352241516,
+    "Transport": 0.46703022718429565,
+    "Politics": 0.43524661660194397,
+    "Culture": 0.35209953784942627,
+    "Health": 0.35204485058784485,
+    "Economy": 0.3388233184814453,
+    "Energy": 0.25100621581077576,
+    "Environment": 0.22696556150913239,
+    "Elections": 0.16303099691867828,
+    "Diplomacy": 0.13595783710479736,
+    "Crime": 0.0902184247970581,
+    "Education": 0.05148357152938843
+  },
+  "sentiment": {
+    "positive": 0.571,
+    "negative": 0.429,
+    "neutral": 0.0
+  }
+}

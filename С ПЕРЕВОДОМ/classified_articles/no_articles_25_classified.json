@@ -1,0 +1,35 @@
+{
+  "title": "- Nordstrøm 2 et politisk våpen",
+  "published_date": null,
+  "url": "https://www.document.no/2020/12/05/nordstrom-2-et-politisk-vapen/",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "The Trump administration warns Europe that the Russian gas line Nordstrøm 2 is a political weapon that will increase the dependence on Russia.",
+    "The same media and authorities who have played the Russia Collusion card against Trump ignore that it is they themselves who play Putin right in their hands.",
+    "Log in to read on (subscribers).",
+    "Support independent news!",
+    "Subscriber articles are opened 48 hours after publishing.",
+    "Articles older than two years are reserved for subscribers."
+  ],
+  "topics": {
+    "Politics": 0.9736202359199524,
+    "Conflict": 0.9448402523994446,
+    "Energy": 0.8975662589073181,
+    "Culture": 0.8095287680625916,
+    "Technology": 0.7957888245582581,
+    "Environment": 0.7714978456497192,
+    "Economy": 0.7692753672599792,
+    "Transport": 0.7452918887138367,
+    "Military": 0.6632503271102905,
+    "Crime": 0.5959848165512085,
+    "Diplomacy": 0.5959246754646301,
+    "Health": 0.49848273396492004,
+    "Education": 0.28496384620666504,
+    "Elections": 0.10789863020181656
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

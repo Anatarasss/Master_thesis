@@ -1,0 +1,38 @@
+{
+  "title": "La rusa RT cierra su canal en EE.UU. y despide a empleados, según CNN",
+  "published_date": null,
+  "url": "https://elcomercio.pe/mundo/eeuu/guerra-rusia-ucrania-la-rusa-rt-cierra-su-canal-en-estados-unidos-y-despide-a-empleados-segun-cnn-vladimir-putin-otan-volodymyr-zelensky-noticia/",
+  "original_language": "es",
+  "cleaned_sentences": [
+    "The RT America channel, version for the United States of Russian television Russia Today, will cease its operations and fire most of its workforce, according to the CNN on Thursday.",
+    "The American media cites an internal communication in which Misha Solodovnikov, responsible for the producer that operates the channel (T&R Productions), communicated the dismissals and told employees that RT America will \"cease production\" in all its facilities \"as a result of unforeseen business interruptions.\"",
+    "Subscribe for free to newsletter return to the world - Russia Bombardea Ojtika, in the Northeast of Ukraine - US - This was the Russian bombing against the city of Chernigov | VIDEO \"Unfortunately, we foresee that these dismissals are permanent,\" said Solodovnikov in the message, which also reported the CNBC financial channel shortly after, but that it has not been officially confirmed.",
+    "According to a source of CNBC, the cessation of operations is immediate and more than a hundred workers were informed that their employment will end on May 3 after knowing yesterday that this Thursday there would no longer be live programming.",
+    "DirecTV, the largest US satellite television operator, announced this week that RT America was going to broadcast in response to the Russian Ukraine invasion.",
+    "This Wednesday, the European Union (EU) decreed on the other hand the veto to the emissions in its territory of Russia Today and the channels that operate in several languages ​​\"until the aggression is ended to Ukraine and until the Russian Federation and its associated means stop carrying out disinformation actions.\"",
+    "Brussels, which also prohibited the radio -radiusing activities to the Russian medium Sputnik, defended that they are not \"media\" but part of the \"Russian war machinery.\"",
+    "_________________________________ Recommended video You may be interested - Ukraine compares kyiv bombing with that of Nazi Germany in 1941 - Ukraine reports the death of 2,800 Russian soldiers on the second day of the invasion - Why Russia invaded Ukraine and what are Putin's arguments for war?",
+    "- A shocking audio reveals how Russian soldiers threaten and then kill 13 Ukrainian military on an island - These are the countries that support Russia and those with Ukraine - NATO activates its defense troops for the first time in history to deter Russia Suggested content GEC Content"
+  ],
+  "topics": {
+    "Conflict": 0.8827589750289917,
+    "Military": 0.6222791075706482,
+    "Economy": 0.4088609218597412,
+    "Crime": 0.40370887517929077,
+    "Technology": 0.34694233536720276,
+    "Diplomacy": 0.3111833333969116,
+    "Environment": 0.2776670753955841,
+    "Politics": 0.2740001976490021,
+    "Transport": 0.2739464044570923,
+    "Culture": 0.2730562090873718,
+    "Energy": 0.21799379587173462,
+    "Health": 0.1786791980266571,
+    "Elections": 0.16455204784870148,
+    "Education": 0.1169269010424614
+  },
+  "sentiment": {
+    "positive": 0.222,
+    "negative": 0.778,
+    "neutral": 0.0
+  }
+}

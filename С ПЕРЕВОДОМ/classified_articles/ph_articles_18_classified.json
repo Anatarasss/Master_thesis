@@ -1,0 +1,37 @@
+{
+  "title": "Three years of war: What Ukraine stands to lose - and the world stands to learn",
+  "published_date": null,
+  "url": "https://www.manilatimes.net/2025/02/21/opinion/columns/three-years-of-war-what-ukraine-stands-to-lose-and-the-world-stands-to-learn/2059674",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "ON Feb. 24, 2022, the world watched in disbelief as Russia unleashed the largest military invasion in Europe since World War II.",
+    "It was not a regional skirmish or a geopolitical misunderstanding; it was a brutal, unprovoked war of conquest.",
+    "Three years later, Ukraine stands, battered but unbowed, fighting for its survival and the very principles of sovereignty, democracy and international law.",
+    "But as this war drags on, what is truly at stake?",
+    "It is not just Ukraine's future, but the world's.",
+    "What happens to Ukraine will determine whether global politics is governed by rules or by force.",
+    "And, perhaps more tangibly, it will decide who controls some of the world's most valuable resources — resources that power economies, fuel industries and, if taken by force, fund future aggression.",
+    "Continue reading with one of these options: Ad-free access P 80 per month (billed annually at P 960) - Unlimited ad-free access to website articles - Limited offer: Subscribe today and get digital edition access for free (accessible with up to 3 devices)"
+  ],
+  "topics": {
+    "Conflict": 0.9599923491477966,
+    "Politics": 0.9400202035903931,
+    "Culture": 0.8340511322021484,
+    "Military": 0.8013640642166138,
+    "Economy": 0.7630366086959839,
+    "Crime": 0.6699434518814087,
+    "Energy": 0.5023355484008789,
+    "Health": 0.4714387357234955,
+    "Transport": 0.4652795195579529,
+    "Diplomacy": 0.39313822984695435,
+    "Environment": 0.386680006980896,
+    "Technology": 0.3339942991733551,
+    "Education": 0.16038598120212555,
+    "Elections": 0.09815236181020737
+  },
+  "sentiment": {
+    "positive": 0.375,
+    "negative": 0.625,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Rusia exige a Facebook, Twitter y Google que dejen de bloquear a medios rusos",
+  "published_date": null,
+  "url": "https://gestion.pe/mundo/rusia-exige-a-facebook-twitter-y-google-que-dejen-de-bloquear-a-medios-rusos-noticia/",
+  "original_language": "es",
+  "cleaned_sentences": [
+    "Russia has demanded that the Internet and social networks giants Facebook, Twitter and Google stop blocking access to Russian media and a film on YouTube about the terrorist attack in a school in the city of Beslán, in Northern Ossetia, in 2004 that cost the lives of more than 300 people.",
+    "The Russian media regulator, Roskomnadzor, reminded these US multinationals that 22 a court declared the restrictions imposed by Google on YouTube to the access of Russian citizens to a documentary about Beslán's tragedy as a “act of censorship,” said the Interfax agency.",
+    "He also noted that \"currently these Internet companies restrict access to materials from about 20 Russian media,\" including state agency Ria Nóvosti, state media for the outside of Kremlin Russia Today and Sputnik, as well as Rossía 1.",
+    "The Court's decision on the documentary \"Beslán\" is not yet firm and can be appealed, something that Google intends to do, according to Interfax.",
+    "The film about the terrorist attack on September 1, 2004 at a Beslán school was released on September 3 by the state channel Rossía 1.",
+    "The author of the film, Alexandr Rogatkin, said in the announcement of the documentary that he wanted to show \"unique evidence on the hostages and commands that saved the children.\"",
+    "In the attack almost two hundred children died.",
+    "Then, the Google video platform, YouTube, imposed restrictions on the access of the film with the argument that contained scenes of violence or cruelty.",
+    "16 years ago a Cheheno command attacked Beslán's No.",
+    "1 school during the opening ceremony of the school year; He entrenched himself there with about 1,200 hostages, and demanded the withdrawal of Russian troops in Chechnya.",
+    "According to the official investigation, on September 3, 52 hours after the kidnapping began and after the detonation of two bombs installed by the terrorists in the school gym, an impromptu rescue operation began, in which heavy armament, launched and flamethrower was used.",
+    "According to death certificates, all hostages died as a result of the explosion of these bombs, but the testimonies of the survivor refute that version.",
+    "The relatives of the victims, after exhausting all judicial instances in Russia, took the case to the European Court of Human Rights, which in April 2017 condemned Moscow for not having protected the right to life of the victims of kidnapping.",
+    "Russia was also condemned to pay three million euros in compensation."
+  ],
+  "topics": {
+    "Conflict": 0.8721286654472351,
+    "Culture": 0.7958143949508667,
+    "Economy": 0.7131704688072205,
+    "Crime": 0.6762698292732239,
+    "Politics": 0.6707668900489807,
+    "Technology": 0.6277945637702942,
+    "Military": 0.542488694190979,
+    "Education": 0.4204014837741852,
+    "Health": 0.39319467544555664,
+    "Elections": 0.3706727921962738,
+    "Transport": 0.33792731165885925,
+    "Energy": 0.3305748403072357,
+    "Diplomacy": 0.2456127554178238,
+    "Environment": 0.24122564494609833
+  },
+  "sentiment": {
+    "positive": 0.071,
+    "negative": 0.929,
+    "neutral": 0.0
+  }
+}

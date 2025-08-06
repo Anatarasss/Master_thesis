@@ -1,0 +1,38 @@
+{
+  "title": "30 Nokor soldiers killed, wounded in Kursk",
+  "published_date": null,
+  "url": "https://manilastandard.net/news/314536676/30-nokor-soldiers-killed-wounded-in-kursk.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "KYIV—Ukraine said Monday its troops killed or wounded at least 30 North Korean soldiers who had been deployed by Russia to its western Kursk region, where Ukraine has seized territory.",
+    "Thousands of troops from North Korea have come to reinforce Russian forces, including in the Kursk border region where Russia has been clawing back territory after a surprise offensive from Ukrainian forces this summer.",
+    "“On Dec 14 and 15, army units from the Democratic People’s Republic of Korea suffered significant losses near the villages of Plekhovo, Vorozhba, Martynovka in the Kursk region of Russia — at least 30 soldiers were killed and wounded,” Ukraine’s military intelligence said.",
+    "The units are “being replenished with fresh personnel” from North Korea, which Western officials estimate has sent at least 10,000 soldiers to help Moscow.",
+    "Russia and North Korea have boosted their military ties since Moscow’s invasion.",
+    "Russia has begun deploying “a noticeable number” of North Koreans in assaults to push Ukrainian troops out of the Kursk region, Volodymir Zelenskyy said on Saturday.",
+    "He said that according to his information, “the Russians include (North Koreans) in combined units and use them in operations in the Kursk region”, where Ukraine launched an incursion in August.",
+    "Zelenskyy said he has also heard the North Koreans “may be used in other parts of the front line”, and that “losses among this category are also already noticeable”.",
+    "Russia’s defense ministry said last week its troops recaptured some small settlements in the Kursk region."
+  ],
+  "topics": {
+    "Conflict": 0.9187669157981873,
+    "Military": 0.8119502663612366,
+    "Culture": 0.7096278071403503,
+    "Health": 0.4957566261291504,
+    "Technology": 0.4684683382511139,
+    "Politics": 0.43861904740333557,
+    "Economy": 0.4353726804256439,
+    "Transport": 0.391486257314682,
+    "Environment": 0.35754451155662537,
+    "Energy": 0.3189610540866852,
+    "Crime": 0.22131353616714478,
+    "Diplomacy": 0.21029722690582275,
+    "Education": 0.1455475389957428,
+    "Elections": 0.1182747334241867
+  },
+  "sentiment": {
+    "positive": 0.222,
+    "negative": 0.778,
+    "neutral": 0.0
+  }
+}

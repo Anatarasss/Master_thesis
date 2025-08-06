@@ -1,0 +1,35 @@
+{
+  "title": "FBI-agent: Mindre enn en dag på å fastslå at Russia collusion var tøv",
+  "published_date": null,
+  "url": "https://www.document.no/2022/05/18/fbi-agent-mindre-enn-en-dag-pa-a-fastsla-at-russia-collusion-var-tov/",
+  "original_language": "no",
+  "cleaned_sentences": [
+    "The FBI agent Scott Hellman explained to the court on Tuesday that it took him and a colleague less than one day to establish that the \"evidence\" that Clinton lawyer Michael Susman handed over to the FBI was a falsum.",
+    "Hellman said this on the first day of the trial against Susman.",
+    "Log in to read on (subscribers).",
+    "Support independent news!",
+    "Subscriber articles are opened 48 hours after publishing.",
+    "Articles older than two years are reserved for subscribers."
+  ],
+  "topics": {
+    "Conflict": 0.9448859691619873,
+    "Culture": 0.8655686974525452,
+    "Crime": 0.8455753326416016,
+    "Technology": 0.7756004333496094,
+    "Politics": 0.7560058236122131,
+    "Economy": 0.7418933510780334,
+    "Transport": 0.7310343980789185,
+    "Environment": 0.7275490760803223,
+    "Military": 0.6599892973899841,
+    "Health": 0.6112580299377441,
+    "Energy": 0.5085536241531372,
+    "Education": 0.5036612749099731,
+    "Diplomacy": 0.4831632375717163,
+    "Elections": 0.4425176978111267
+  },
+  "sentiment": {
+    "positive": 0.167,
+    "negative": 0.833,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Russia detains suspect in general’s slay, say probers",
+  "published_date": null,
+  "url": "https://manilastandard.net/news/314537599/russia-detains-suspect-in-generals-slay-say-probers.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "MOSCOW – Russia has detained a suspect in the killing of the head of the army’s chemical weapons division, investigators said Wednesday, a day after the general and his aide were killed by a blast in Moscow.",
+    "“A national of Uzbekistan, born in 1995, was arrested on suspicion of having committed the attack that cost the life of the commander of Russian radiological, chemical and biological defence forces, Igor Kirillov, and his assistant, Ilya Polikarpov”, the Investigative Committee said in a statement.",
+    "The man said he had been “recruited by Ukrainian special forces,” it added.",
+    "Kirillov and his assistant were killed on Tuesday as they walked out of a Moscow apartment building early in the morning, after an explosive device attached to a scooter went off.",
+    "The statement said that the suspect told interrogators that he had come to Moscow to carry out the attack and that a camera mounted on the dashboard of a rented car parked outside the building had filmed the attack and streamed it “live to the attack organizers, in the (Ukrainian) city of Dnipro”.",
+    "The man was promised $100,000 to carry out the attack, as well as the possibility to settle “in a European country”, the statement said.",
+    "Kirillov was the most senior military figure assassinated in Russia since Kremlin sent troops into Ukraine nearly three years ago.",
+    "The blast went off in a residential area in southeast Moscow a day after President Vladimir Putin hailed Russian troop successes in Ukraine.",
+    "Kirillov, 54, was the head of the Russian army’s chemical, biological and radiological weapons unit and was recently sanctioned by Britain over the alleged use of chemical weapons in Ukraine.",
+    "A source in Ukraine’s SBU security service told AFP on Tuesday that it was behind the early morning explosion in what it called a “special operation”, calling Kirillov a “war criminal”."
+  ],
+  "topics": {
+    "Conflict": 0.6750358939170837,
+    "Crime": 0.6429485082626343,
+    "Military": 0.634539783000946,
+    "Culture": 0.46995073556900024,
+    "Technology": 0.42703038454055786,
+    "Health": 0.37859904766082764,
+    "Politics": 0.2786206007003784,
+    "Economy": 0.21873968839645386,
+    "Environment": 0.21424932777881622,
+    "Transport": 0.18240147829055786,
+    "Energy": 0.1352044641971588,
+    "Diplomacy": 0.10645056515932083,
+    "Education": 0.09602019190788269,
+    "Elections": 0.07577364891767502
+  },
+  "sentiment": {
+    "positive": 0.0,
+    "negative": 1.0,
+    "neutral": 0.0
+  }
+}

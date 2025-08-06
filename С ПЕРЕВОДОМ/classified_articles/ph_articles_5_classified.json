@@ -1,0 +1,39 @@
+{
+  "title": "France, Britain: Russia still striking Ukraine",
+  "published_date": null,
+  "url": "https://manilastandard.net/news/314576205/france-britain-russia-still-striking-ukraine.html",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "BRUSSELS– The foreign ministers of France and Britain on Friday said Russia was still striking Ukraine’s energy infrastructure and accused President Vladimir Putin of dragging its heels over US peace efforts.",
+    "At the same time, Paris said the military chiefs from the two countries were visiting Kyiv to discuss a possible deployment of troops to secure any ceasefire.",
+    "“Over the past three weeks, Russia has been flip flopping, continuing its strikes on energy infrastructure, continuing its war crimes,” French foreign minister Jean-Noel Barrot alongside his British counterpart at a NATO meeting.",
+    "“There will at some point be a need for military capacity or reassurance, whenever peace is reached — and this is the reason why our army chiefs will be in Kyiv today in order to advance this work,” Barrot said.",
+    "Kyiv and Moscow have accused each other of breaking a supposed US-backed deal to stop firing on energy sites, though a formal agreement has not been put in place and what commitments each side has undertaken remain unclear.",
+    "“Our judgment is that Putin continues to obfuscate, continues to drag his feet.",
+    "He could accept a cease fire now, but he continues to bombard Ukraine, its civilian population, its energy supplies,” British foreign minister David Lammy said.",
+    "“We see, Vladimir Putin.",
+    "We know what you’re doing.” Both ministers insisted that now was the time to bolster support for Ukraine and step up pressure on Russia to try to force it to negotiate in good faith.",
+    "“We are pledged to continue to put Ukraine in the strongest possible position, militarily, economically,” Lammy said."
+  ],
+  "topics": {
+    "Energy": 0.9837071299552917,
+    "Conflict": 0.9375261068344116,
+    "Military": 0.9006543159484863,
+    "Culture": 0.7512621283531189,
+    "Economy": 0.7436582446098328,
+    "Politics": 0.7144802212715149,
+    "Diplomacy": 0.6251903176307678,
+    "Health": 0.5119706392288208,
+    "Transport": 0.5060069561004639,
+    "Technology": 0.4776483476161957,
+    "Crime": 0.4309861361980438,
+    "Environment": 0.41841527819633484,
+    "Elections": 0.2867433428764343,
+    "Education": 0.182408407330513
+  },
+  "sentiment": {
+    "positive": 0.4,
+    "negative": 0.6,
+    "neutral": 0.0
+  }
+}

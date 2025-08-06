@@ -1,0 +1,33 @@
+{
+  "title": "NKorean soldier in Ukraine war captured, later dies",
+  "published_date": null,
+  "url": "https://www.manilatimes.net/2024/12/28/world/asia-oceania/nkorean-soldier-in-ukraine-war-captured-later-dies/2027909",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "SEOUL — A North Korean soldier who was captured while fighting in Russia's war on Ukraine died of his wounds, South Korea's spy agency said on Friday.",
+    "Pyongyang has deployed thousands of troops to reinforce Russia's military, including in the Kursk border region, where Ukraine mounted a shock border incursion in August.",
+    "Already have an active account?",
+    "Continue reading with one of these options: Continue reading with one of these options: Premium + Digital Edition Ad-free access P 80 per month (billed annually at P 960) - Unlimited ad-free access to website articles - Limited offer: Subscribe today and get digital edition access for free (accessible with up to 3 devices) TRY FREE FOR 14 DAYS See details See details If you have an active account, log in here ."
+  ],
+  "topics": {
+    "Conflict": 0.9617559313774109,
+    "Culture": 0.9494524598121643,
+    "Military": 0.8503755331039429,
+    "Politics": 0.8413305282592773,
+    "Technology": 0.8408187627792358,
+    "Crime": 0.8407725095748901,
+    "Health": 0.8281174302101135,
+    "Environment": 0.8040118217468262,
+    "Economy": 0.7908883690834045,
+    "Energy": 0.7774791121482849,
+    "Transport": 0.7707695364952087,
+    "Diplomacy": 0.5830345153808594,
+    "Elections": 0.5602211356163025,
+    "Education": 0.5523756742477417
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "UE pide a Google y YouTube suspender a RT y Sputnik por ser parte de maquinaria de guerra rusa",
+  "published_date": null,
+  "url": "https://gestion.pe/mundo/ue-pide-a-google-y-youtube-suspender-a-rt-y-sputnik-por-ser-parte-de-maquinaria-de-guerra-rusa-noticia/",
+  "original_language": "es",
+  "cleaned_sentences": [
+    "The European Commission (CE) could go to Google and YouTube (dependent on the first) that suspend the accounts of Russia Today, Sputnik and other means related to the Kremlin to comply with the sanctions approved by the European Union (EU) before the invasion of Ukraine, including the veto to emit in community territory.",
+    "In this sense, the vice president of the Commission for Securities and Transparency, Vera Jourová, and the Internal Market Commissioner, Thierry Breton, met this Sunday with the CEOs of Google, Sobal Pichai, and YouTube, Susan Wojcicki.",
+    "\"They discussed the urgent need to take more energetic measures to counteract the misinformation sponsored by the Russian State and comply with the sanctions, including the latest measures,\" community sources said.",
+    "The meeting ended with an \"agreement to continue adapting and updating the policies of the platforms\" to combat misinformation, the sources added, although \"there was no specific result regarding what they are going to do,\" said the spokesman for the digital economy commission, Johannes Bahrke.",
+    "\"I hope youtube and Google intensify their efforts to address the Russian war propaganda.",
+    "Russia has turned information into a weapon, so platforms cannot be a space for their war lies,\" he asked on the eve Jouvá.",
+    "\"Freedom of expression does not cover war propaganda.",
+    "War propaganda should not have any place on online platforms,\" ​​Breton added.",
+    "The EU considers that RT and Sputnik \"are part of the war machinery, propaganda instruments for Russia and that is why they are available to sanctions,\" said the Chief Spokesman for the Community Executive, Eric Mameter \"They promote visions in this conflict that are absolutely controlled by the Russian State apparatus and therefore do not represent any means of media that try to provide balanced coverage,\" he added."
+  ],
+  "topics": {
+    "Conflict": 0.99195796251297,
+    "Technology": 0.8397060632705688,
+    "Economy": 0.7843372821807861,
+    "Politics": 0.745417058467865,
+    "Military": 0.6944819092750549,
+    "Culture": 0.6773051619529724,
+    "Energy": 0.41969984769821167,
+    "Crime": 0.3913800120353699,
+    "Transport": 0.3695676028728485,
+    "Health": 0.35106346011161804,
+    "Environment": 0.33639979362487793,
+    "Diplomacy": 0.24815209209918976,
+    "Elections": 0.22083069384098053,
+    "Education": 0.1685660183429718
+  },
+  "sentiment": {
+    "positive": 0.333,
+    "negative": 0.667,
+    "neutral": 0.0
+  }
+}

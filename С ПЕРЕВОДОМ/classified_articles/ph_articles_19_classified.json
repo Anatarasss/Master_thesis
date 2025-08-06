@@ -1,0 +1,33 @@
+{
+  "title": "EU envoys OK more sanctions vs Russia",
+  "published_date": null,
+  "url": "https://www.manilatimes.net/2025/02/20/world/americas-emea/eu-envoys-ok-more-sanctions-vs-russia/2058456",
+  "original_language": "en",
+  "cleaned_sentences": [
+    "BRUSSELS — European Union envoys have approved a new raft of sanctions against Russia, with the measures set to enter into force next week on the third anniversary of its full-scale invasion of Ukraine, a top EU official and diplomats confirmed on Wednesday.",
+    "The move comes with the Europeans sidelined from United States-led talks to end the war.",
+    "Already have an active account?",
+    "Continue reading with one of these options: Continue reading with one of these options: Premium + Digital Edition Ad-free access P 80 per month (billed annually at P 960) - Unlimited ad-free access to website articles - Limited offer: Subscribe today and get digital edition access for free (accessible with up to 3 devices) TRY FREE FOR 14 DAYS See details See details If you have an active account, log in here ."
+  ],
+  "topics": {
+    "Conflict": 0.9557010531425476,
+    "Politics": 0.9082373976707458,
+    "Culture": 0.8913176655769348,
+    "Environment": 0.8296422362327576,
+    "Transport": 0.797272264957428,
+    "Diplomacy": 0.7915307283401489,
+    "Economy": 0.7792474627494812,
+    "Technology": 0.765475869178772,
+    "Health": 0.7623031139373779,
+    "Crime": 0.7620598673820496,
+    "Energy": 0.7457318305969238,
+    "Military": 0.7209061980247498,
+    "Elections": 0.5770033001899719,
+    "Education": 0.5701201558113098
+  },
+  "sentiment": {
+    "positive": 0.25,
+    "negative": 0.75,
+    "neutral": 0.0
+  }
+}
